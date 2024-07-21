@@ -38,7 +38,7 @@ export default function BrawlerPortrait({ portrait }: { portrait: PortraitData }
       <div className="relative w-[160px] h-[100px]">
         <Image
           src={portrait.path}
-          alt={portrait.name}
+          alt={portrait.name + ' portrait'}
           fill={true}
           sizes="(max-width: 768px) 100vw, 50vw"
           style={{ objectFit: "contain", objectPosition: "left", backgroundColor: getBackgroundColor(portrait.rarity) }}
