@@ -1,113 +1,117 @@
-import Image from "next/image";
+import BrawlerPortrait from "@/components/BrawlerPortrait";
 
-export default function Home() {
+export type BrawlerPortrait = {
+  name: string,
+  path: string,
+  rarity: BrawlerRarity
+};
+
+export enum BrawlerRarity {
+  TrophyRoad,
+  Rare,
+  SuperRare,
+  Epic,
+  Mythic,
+  Legendary
+};
+
+const brawlerPortraits: BrawlerPortrait[] = [
+  { name: '8-BIT', path: '/images/portraits/8bit.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'AMBER', path: '/images/portraits/amber.png', rarity: BrawlerRarity.Legendary },
+  { name: 'ANGELO', path: '/images/portraits/angelo.png', rarity: BrawlerRarity.Epic },
+  { name: 'ASH', path: '/images/portraits/ash.png', rarity: BrawlerRarity.Epic },
+  { name: 'BARLEY', path: '/images/portraits/barley.png', rarity: BrawlerRarity.Rare },
+  { name: 'BEA', path: '/images/portraits/bea.png', rarity: BrawlerRarity.Epic },
+  { name: 'BELLE', path: '/images/portraits/belle.png', rarity: BrawlerRarity.Epic },
+  { name: 'BERRY', path: '/images/portraits/berry.png', rarity: BrawlerRarity.Epic },
+  { name: 'BIBI', path: '/images/portraits/bibi.png', rarity: BrawlerRarity.Epic },
+  { name: 'BO', path: '/images/portraits/bo.png', rarity: BrawlerRarity.Epic },
+  { name: 'BONNIE', path: '/images/portraits/bonnie.png', rarity: BrawlerRarity.Epic },
+  { name: 'BROCK', path: '/images/portraits/brock.png', rarity: BrawlerRarity.Rare },
+  { name: 'BULL', path: '/images/portraits/bull.png', rarity: BrawlerRarity.Rare },
+  { name: 'BUSTER', path: '/images/portraits/buster.png', rarity: BrawlerRarity.Mythic },
+  { name: 'BUZZ', path: '/images/portraits/buzz.png', rarity: BrawlerRarity.Mythic },
+  { name: 'BYRON', path: '/images/portraits/byron.png', rarity: BrawlerRarity.Mythic },
+  { name: 'CARL', path: '/images/portraits/carl.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'CHARLIE', path: '/images/portraits/charlie.png', rarity: BrawlerRarity.Mythic },
+  { name: 'CHESTER', path: '/images/portraits/chester.png', rarity: BrawlerRarity.Legendary },
+  { name: 'CHUCK', path: '/images/portraits/chuck.png', rarity: BrawlerRarity.Mythic },
+  { name: 'CLANCY', path: '/images/portraits/clancy.png', rarity: BrawlerRarity.Mythic },
+  { name: 'COLETTE', path: '/images/portraits/colette.png', rarity: BrawlerRarity.Epic },
+  { name: 'COLT', path: '/images/portraits/colt.png', rarity: BrawlerRarity.Rare },
+  { name: 'CORDELIUS', path: '/images/portraits/cordelius.png', rarity: BrawlerRarity.Legendary },
+  { name: 'CROW', path: '/images/portraits/crow.png', rarity: BrawlerRarity.Legendary },
+  { name: 'DARRYL', path: '/images/portraits/darryl.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'DOUG', path: '/images/portraits/doug.png', rarity: BrawlerRarity.Mythic },
+  { name: 'DRACO', path: '/images/portraits/draco.png', rarity: BrawlerRarity.Legendary },
+  { name: 'DYNAMIKE', path: '/images/portraits/dynamike.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'EDGAR', path: '/images/portraits/edgar.png', rarity: BrawlerRarity.Epic },
+  { name: 'EL PRIMO', path: '/images/portraits/elprimo.png', rarity: BrawlerRarity.Rare },
+  { name: 'EMZ', path: '/images/portraits/emz.png', rarity: BrawlerRarity.Epic },
+  { name: 'EVE', path: '/images/portraits/eve.png', rarity: BrawlerRarity.Mythic },
+  { name: 'FANG', path: '/images/portraits/fang.png', rarity: BrawlerRarity.Mythic },
+  { name: 'FRANK', path: '/images/portraits/frank.png', rarity: BrawlerRarity.Epic },
+  { name: 'GALE', path: '/images/portraits/gale.png', rarity: BrawlerRarity.Epic },
+  { name: 'GENE', path: '/images/portraits/gene.png', rarity: BrawlerRarity.Mythic },
+  { name: 'GRAY', path: '/images/portraits/gray.png', rarity: BrawlerRarity.Mythic },
+  { name: 'GRIFF', path: '/images/portraits/griff.png', rarity: BrawlerRarity.Epic },
+  { name: 'GROM', path: '/images/portraits/grom.png', rarity: BrawlerRarity.Epic },
+  { name: 'GUS', path: '/images/portraits/gus.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'HANK', path: '/images/portraits/hank.png', rarity: BrawlerRarity.Epic },
+  { name: 'JACKY', path: '/images/portraits/jacky.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'JANET', path: '/images/portraits/janet.png', rarity: BrawlerRarity.Mythic },
+  { name: 'JESSIE', path: '/images/portraits/jessie.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'KIT', path: '/images/portraits/kit.png', rarity: BrawlerRarity.Legendary },
+  { name: 'LARRY & LAWRIE', path: '/images/portraits/larry&lawrie.png', rarity: BrawlerRarity.Epic },
+  { name: 'LEON', path: '/images/portraits/leon.png', rarity: BrawlerRarity.Legendary },
+  { name: 'LILY', path: '/images/portraits/lily.png', rarity: BrawlerRarity.Mythic },
+  { name: 'LOLA', path: '/images/portraits/lola.png', rarity: BrawlerRarity.Epic },
+  { name: 'LOU', path: '/images/portraits/lou.png', rarity: BrawlerRarity.Mythic },
+  { name: 'MAISIE', path: '/images/portraits/maisie.png', rarity: BrawlerRarity.Epic },
+  { name: 'MANDY', path: '/images/portraits/mandy.png', rarity: BrawlerRarity.Epic },
+  { name: 'MAX', path: '/images/portraits/max.png', rarity: BrawlerRarity.Mythic },
+  { name: 'MEG', path: '/images/portraits/meg.png', rarity: BrawlerRarity.Legendary },
+  { name: 'MELODIE', path: '/images/portraits/melodie.png', rarity: BrawlerRarity.Mythic },
+  { name: 'MICO', path: '/images/portraits/mico.png', rarity: BrawlerRarity.Mythic },
+  { name: 'MORTIS', path: '/images/portraits/mortis.png', rarity: BrawlerRarity.Mythic },
+  { name: 'MR. P', path: '/images/portraits/mrp.png', rarity: BrawlerRarity.Mythic },
+  { name: 'NANI', path: '/images/portraits/nani.png', rarity: BrawlerRarity.Epic },
+  { name: 'NITA', path: '/images/portraits/nita.png', rarity: BrawlerRarity.Rare },
+  { name: 'OTIS', path: '/images/portraits/otis.png', rarity: BrawlerRarity.Mythic },
+  { name: 'PAM', path: '/images/portraits/pam.png', rarity: BrawlerRarity.Epic },
+  { name: 'PEARL', path: '/images/portraits/pearl.png', rarity: BrawlerRarity.Epic },
+  { name: 'PENNY', path: '/images/portraits/penny.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'PIPER', path: '/images/portraits/piper.png', rarity: BrawlerRarity.Epic },
+  { name: 'POCO', path: '/images/portraits/poco.png', rarity: BrawlerRarity.Rare },
+  { name: 'RICO', path: '/images/portraits/rico.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'ROSA', path: '/images/portraits/rosa.png', rarity: BrawlerRarity.Rare },
+  { name: 'R-T', path: '/images/portraits/rt.png', rarity: BrawlerRarity.Mythic },
+  { name: 'RUFFS', path: '/images/portraits/ruffs.png', rarity: BrawlerRarity.Mythic },
+  { name: 'SAM', path: '/images/portraits/sam.png', rarity: BrawlerRarity.Epic },
+  { name: 'SANDY', path: '/images/portraits/sandy.png', rarity: BrawlerRarity.Legendary },
+  { name: 'SHELLY', path: '/images/portraits/shelly.png', rarity: BrawlerRarity.TrophyRoad },
+  { name: 'SPIKE', path: '/images/portraits/spike.png', rarity: BrawlerRarity.Legendary },
+  { name: 'SPROUT', path: '/images/portraits/sprout.png', rarity: BrawlerRarity.Mythic },
+  { name: 'SQUEAK', path: '/images/portraits/squeak.png', rarity: BrawlerRarity.Mythic },
+  { name: 'STU', path: '/images/portraits/stu.png', rarity: BrawlerRarity.Epic },
+  { name: 'SURGE', path: '/images/portraits/surge.png', rarity: BrawlerRarity.Legendary },
+  { name: 'TARA', path: '/images/portraits/tara.png', rarity: BrawlerRarity.Mythic },
+  { name: 'TICK', path: '/images/portraits/tick.png', rarity: BrawlerRarity.SuperRare },
+  { name: 'WILLOW', path: '/images/portraits/willow.png', rarity: BrawlerRarity.Mythic }
+];
+brawlerPortraits.sort((a, b) => a.rarity - b.rarity);
+
+export default function AllBrawlersPage() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-        <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">src/app/page.tsx</code>
-        </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
+    <section className="flex flex-col items-center justify-center">
+      <h1 className="pb-8 w-full text-center text-3xl font-semibold">
+        ALL BRAWLERS ({brawlerPortraits.length})
+      </h1>
+      <div className="flex flex-wrap gap-8 justify-center items-center">
+        {brawlerPortraits.map((portrait, index) => (
+          <BrawlerPortrait key={index} portrait={portrait} />
+        ))}
       </div>
-
-      <div className="relative z-[-1] flex place-items-center before:absolute before:h-[300px] before:w-full before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]">
-        <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Docs{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Learn{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Templates{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Explore starter templates for Next.js.
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Deploy{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
+    </section>
   );
 }
