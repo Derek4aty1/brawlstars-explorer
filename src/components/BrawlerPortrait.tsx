@@ -1,7 +1,21 @@
 import Image from "next/image";
-import { BrawlerPortrait, BrawlerRarity } from "@/app/page";
 
-export default function Portrait({portrait}: {portrait: BrawlerPortrait}) {
+export type PortraitData = {
+    name: string,
+    path: string,
+    rarity: BrawlerRarity
+  };
+  
+  export enum BrawlerRarity {
+    TrophyRoad,
+    Rare,
+    SuperRare,
+    Epic,
+    Mythic,
+    Legendary
+  };
+
+export default function BrawlerPortrait({portrait}: {portrait: PortraitData}) {
     function getBackgroundColor(rarity: BrawlerRarity) {
         switch (rarity) {
             case BrawlerRarity.TrophyRoad:

@@ -1,21 +1,6 @@
-import BrawlerPortrait from "@/components/BrawlerPortrait";
+import BrawlerPortrait, { PortraitData, BrawlerRarity } from "@/components/BrawlerPortrait";
 
-export type BrawlerPortrait = {
-  name: string,
-  path: string,
-  rarity: BrawlerRarity
-};
-
-export enum BrawlerRarity {
-  TrophyRoad,
-  Rare,
-  SuperRare,
-  Epic,
-  Mythic,
-  Legendary
-};
-
-const brawlerPortraits: BrawlerPortrait[] = [
+const brawlerPortraits: PortraitData[] = [
   { name: '8-BIT', path: '/images/portraits/8bit.png', rarity: BrawlerRarity.SuperRare },
   { name: 'AMBER', path: '/images/portraits/amber.png', rarity: BrawlerRarity.Legendary },
   { name: 'ANGELO', path: '/images/portraits/angelo.png', rarity: BrawlerRarity.Epic },
