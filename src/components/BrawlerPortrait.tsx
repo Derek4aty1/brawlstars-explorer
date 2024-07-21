@@ -16,33 +16,25 @@ export enum BrawlerRarity {
 };
 
 export default function BrawlerPortrait({ portrait }: { portrait: PortraitData }) {
-  function getBackgroundColor(rarity: BrawlerRarity) {
-    switch (rarity) {
-      case BrawlerRarity.TrophyRoad:
-        return '#94d7f4';
-      case BrawlerRarity.Rare:
-        return '#2edd1b';
-      case BrawlerRarity.SuperRare:
-        return '#0087fa';
-      case BrawlerRarity.Epic:
-        return '#b116ec';
-      case BrawlerRarity.Mythic:
-        return '#ff0021';
-      case BrawlerRarity.Legendary:
-        return '#fff11e';
-    }
-  }
+  const colorVariants = {
+    [BrawlerRarity.TrophyRoad]: 'bg-trophy-road',
+    [BrawlerRarity.Rare]: 'bg-rare',
+    [BrawlerRarity.SuperRare]: 'bg-super-rare',
+    [BrawlerRarity.Epic]: 'bg-epic',
+    [BrawlerRarity.Mythic]: 'bg-mythic',
+    [BrawlerRarity.Legendary]: 'bg-legendary',
+  };
 
   return (
     <figure className="flex flex-col items-center gap-2">
       <div className="relative w-[160px] h-[100px]">
         <Image
           src={portrait.path}
-          alt={portrait.name + ' portrait'}
+          alt={`${portrait.name} portrait`}
           fill={true}
           sizes="(max-width: 768px) 100vw, 50vw"
-          style={{ objectFit: "contain", objectPosition: "left", backgroundColor: getBackgroundColor(portrait.rarity) }}
-          className="border-[3px] border-black shadow-2xl rounded"
+          style={{ objectFit: "contain", objectPosition: "left" }}
+          className={`border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}
         />
         <figcaption className="absolute px-[6px] bottom-0 right-0 text-center text-white text-sm text-shadow-outline leading-6">
           {portrait.name}

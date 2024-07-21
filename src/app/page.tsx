@@ -1,6 +1,6 @@
 import BrawlerPortrait, { PortraitData, BrawlerRarity } from "@/components/BrawlerPortrait";
 
-const brawlerPortraits: PortraitData[] = [
+const allBrawlers: PortraitData[] = [
   { name: '8-BIT', path: '/images/portraits/8bit.png', rarity: BrawlerRarity.SuperRare },
   { name: 'AMBER', path: '/images/portraits/amber.png', rarity: BrawlerRarity.Legendary },
   { name: 'ANGELO', path: '/images/portraits/angelo.png', rarity: BrawlerRarity.Epic },
@@ -84,19 +84,55 @@ const brawlerPortraits: PortraitData[] = [
   { name: 'TICK', path: '/images/portraits/tick.png', rarity: BrawlerRarity.SuperRare },
   { name: 'WILLOW', path: '/images/portraits/willow.png', rarity: BrawlerRarity.Mythic }
 ];
-brawlerPortraits.sort((a, b) => a.rarity - b.rarity);
+allBrawlers.sort((a, b) => a.rarity - b.rarity);
+
+const trophyRoadBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.TrophyRoad);
+const rareBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Rare);
+const superRareBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.SuperRare);
+const epicBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Epic);
+const mythicBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Mythic);
+const legendaryBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Legendary);
+
+function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitData[] }) {
+  function getColorClass(rarity: BrawlerRarity) {
+    const colorVariants = {
+      [BrawlerRarity.TrophyRoad]: 'text-trophy-road',
+      [BrawlerRarity.Rare]: 'text-rare',
+      [BrawlerRarity.SuperRare]: 'text-super-rare',
+      [BrawlerRarity.Epic]: 'text-epic',
+      [BrawlerRarity.Mythic]: 'text-mythic',
+      [BrawlerRarity.Legendary]: 'text-legendary',
+    };
+  
+    return colorVariants[rarity] || '';
+  }
+  
+  const rarityColorClass = getColorClass(brawlers[0].rarity);
+
+  return (
+    <div className="flex flex-col gap-2 py-4">
+      <h2 className={`text-center ${rarityColorClass}`}>{title}</h2>
+      <div className="flex flex-wrap gap-8 justify-center">
+        {brawlers.map(portrait => (
+          <BrawlerPortrait key={portrait.name} portrait={portrait} />
+        ))}
+      </div>
+    </div>
+  );
+}
 
 export default function AllBrawlersPage() {
   return (
-    <section className="flex flex-col items-center justify-center">
-      <h1 className="pb-8 w-full text-center text-3xl font-semibold">
-        ALL BRAWLERS ({brawlerPortraits.length})
+    <section className="px-12 flex flex-col justify-center">
+      <h1 className="w-full text-center text-3xl font-semibold">
+        ALL BRAWLERS ({allBrawlers.length})
       </h1>
-      <div className="flex flex-wrap gap-8 justify-center items-center">
-        {brawlerPortraits.map((portrait, index) => (
-          <BrawlerPortrait key={index} portrait={portrait} />
-        ))}
-      </div>
+      <RaritySection title={`Trophy Road (${trophyRoadBrawlers.length})`} brawlers={trophyRoadBrawlers} />
+      <RaritySection title={`Rare (${rareBrawlers.length})`} brawlers={rareBrawlers} />
+      <RaritySection title={`Super Rare (${superRareBrawlers.length})`} brawlers={superRareBrawlers} />
+      <RaritySection title={`Epic (${epicBrawlers.length})`} brawlers={epicBrawlers} />
+      <RaritySection title={`Mythic (${mythicBrawlers.length})`} brawlers={mythicBrawlers} />
+      <RaritySection title={`Legendary (${legendaryBrawlers.length})`} brawlers={legendaryBrawlers} />
     </section>
   );
 }
