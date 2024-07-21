@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @layer base {
-  html * { 
-    @apply font-lilita-one text-lg text-shadow-outline text-white; 
+  html * {
+    @apply font-lilita-one text-lg text-shadow-outline text-white;
   }
 
   body {
