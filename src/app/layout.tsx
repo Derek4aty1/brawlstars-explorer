@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
@@ -24,7 +23,7 @@ export default function RootLayout({
             <source src="/videos/brawl-lobby-animated.mp4" type="video/mp4" className="select-none" />
           </video>
         </div>
-        <main className="p-8">
+        <main className="flex-1 p-8">
           {children}
           <Analytics />
         </main>

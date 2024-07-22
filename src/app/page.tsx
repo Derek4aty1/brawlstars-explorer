@@ -110,9 +110,9 @@ function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitD
   const rarityColorClass = getColorClass(brawlers[0].rarity);
 
   return (
-    <div className="flex flex-col gap-2 py-4">
-      <h2 className={`text-center ${rarityColorClass}`}>{title}</h2>
-      <div className="flex flex-wrap gap-8 justify-center">
+    <div className="flex flex-col items-center gap-2 py-4">
+      <h2 className={`w-full text-center ${rarityColorClass}`}>{title}</h2>
+      <div className="w-fit grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
         {brawlers.map(portrait => (
           <BrawlerPortrait key={portrait.name} portrait={portrait} />
         ))}
