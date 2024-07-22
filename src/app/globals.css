@@ -3,12 +3,8 @@
 @tailwind utilities;
 
 @layer base {
-  html * {
-    @apply font-lilita-one text-lg text-shadow-outline text-white;
-  }
-
   body {
-    @apply m-0 p-0 w-full h-full bg-blue-700;
+    @apply m-0 p-0 w-full h-full bg-blue-700 font-lilita-one text-lg text-white text-shadow-outline text-balance;
   }
 
   @font-face {
@@ -16,11 +12,5 @@
     font-style: normal;
     font-weight: normal;
     src: url('/fonts/LilitaOne/lilita-one-regular.ttf') format('truetype');
-  }
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
   }
 }

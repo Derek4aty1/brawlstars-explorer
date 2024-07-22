@@ -5,8 +5,6 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { Analytics } from "@vercel/analytics/react"
 
-const inter = Inter({ subsets: ["latin"] });
-
 export const metadata: Metadata = {
   title: "Brawlstars Explorer",
   description: "Explore the Brawlstars universe!",
@@ -19,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body>
         <Header />
         <div className="fixed top-0 left-0 w-full h-full z-[-1]">
           <video autoPlay playsInline loop muted className="w-full h-full object-cover overflow-hidden">
