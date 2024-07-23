@@ -6,7 +6,7 @@ import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
   title: "Brawlstars Explorer",
-  description: "Explore the Brawlstars universe!",
+  description: "Explore the Brawlstars universe!"
 };
 
 export default function RootLayout({

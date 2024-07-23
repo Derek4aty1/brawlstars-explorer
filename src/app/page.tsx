@@ -1,4 +1,5 @@
-import BrawlerPortrait, { PortraitData, BrawlerRarity } from "@/components/BrawlerPortrait";
+import BrawlerPortrait from "@/components/BrawlerPortrait";
+import { BrawlerRarity, PortraitData } from "@/types/BrawlerTypes";
 
 const allBrawlers: PortraitData[] = [
   { name: '8-BIT', path: '/images/portraits/8bit.png', rarity: BrawlerRarity.SuperRare },
@@ -93,25 +94,19 @@ const epicBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerR
 const mythicBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Mythic);
 const legendaryBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Legendary);
 
-function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitData[] }) {
-  function getColorClass(rarity: BrawlerRarity) {
-    const colorVariants = {
-      [BrawlerRarity.TrophyRoad]: 'text-trophy-road',
-      [BrawlerRarity.Rare]: 'text-rare',
-      [BrawlerRarity.SuperRare]: 'text-super-rare',
-      [BrawlerRarity.Epic]: 'text-epic',
-      [BrawlerRarity.Mythic]: 'text-mythic',
-      [BrawlerRarity.Legendary]: 'text-legendary',
-    };
-  
-    return colorVariants[rarity] || '';
-  }
-  
-  const rarityColorClass = getColorClass(brawlers[0].rarity);
+const colorVariants = {
+  [BrawlerRarity.TrophyRoad]: 'text-trophy-road',
+  [BrawlerRarity.Rare]: 'text-rare',
+  [BrawlerRarity.SuperRare]: 'text-super-rare',
+  [BrawlerRarity.Epic]: 'text-epic',
+  [BrawlerRarity.Mythic]: 'text-mythic',
+  [BrawlerRarity.Legendary]: 'text-legendary',
+};
 
+function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitData[] }) {
   return (
     <div className="flex flex-col items-center gap-2 py-4">
-      <h2 className={`w-full text-xl ${rarityColorClass}`}>{title}</h2>
+      <h2 className={`w-full text-xl ${colorVariants[brawlers[0].rarity]}`}>{title}</h2>
       <div className="w-fit grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
         {brawlers.map(portrait => (
           <BrawlerPortrait key={portrait.name} portrait={portrait} />
