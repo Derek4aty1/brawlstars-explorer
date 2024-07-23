@@ -22,8 +22,9 @@ export default function BrawlerPortrait({ portrait }: { portrait: PortraitData }
   const objectFit = portrait.name === 'PEARL' ? 'cover' : 'contain';
 
   return (
-    <figure className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded transition-transform hover:scale-105 hover:border-white">
-      <div ref={ref} className={`relative w-[160px] h-[100px] border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}>
+    <figure className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded-md transition-transform 
+                       hover:scale-105 hover:border-white hover:bg-white">
+      <div ref={ref} className={`relative w-[160px] aspect-[16/10] border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}>
         <Image
           src={portrait.path}
           alt={`${portrait.name} portrait`}
