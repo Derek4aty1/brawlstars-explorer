@@ -111,7 +111,7 @@ function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitD
 
   return (
     <div className="flex flex-col items-center gap-2 py-4">
-      <h2 className={`w-full text-center ${rarityColorClass}`}>{title}</h2>
+      <h2 className={`w-full text-xl ${rarityColorClass}`}>{title}</h2>
       <div className="w-fit grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
         {brawlers.map(portrait => (
           <BrawlerPortrait key={portrait.name} portrait={portrait} />
@@ -124,7 +124,7 @@ function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitD
 export default function AllBrawlersPage() {
   return (
     <section className="px-12 flex flex-col justify-center">
-      <h1 className="w-full text-center text-3xl font-semibold">
+      <h1 className="w-full text-3xl font-semibold">
         ALL BRAWLERS ({allBrawlers.length})
       </h1>
       <RaritySection title={`Trophy Road (${trophyRoadBrawlers.length})`} brawlers={trophyRoadBrawlers} />

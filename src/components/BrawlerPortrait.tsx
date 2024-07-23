@@ -39,7 +39,7 @@ export default function BrawlerPortrait({ portrait }: { portrait: PortraitData }
           style={{ objectFit: objectFit, objectPosition: "left" }}
           className={`border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}
         />
-        <figcaption className="absolute px-[6px] bottom-0 right-0 text-center text-white text-sm text-shadow-outline leading-6">
+        <figcaption className="absolute px-[6px] bottom-0 right-0 text-sm leading-6">
           {portrait.name}
         </figcaption>
       </div>

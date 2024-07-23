@@ -21,7 +21,7 @@ export const theme = {
       'lilita-one': 'Lilita One'
     },
     textShadow: {
-      'outline': '1px 1px 2px black, -1px -1px 2px black, 1px -1px 2px black, -1px 1px 2px black',
+      'outline': '-1px -1px black, 0px -1px black, 1px -1px black, 1px 0px black, 1px 1px black, 0px 1px black, -1px 1px black, -1px 0px black, 0px 2.5px black',
     }
   }
 };
