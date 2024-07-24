@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full">
-      <body className="m-0 p-0 h-full flex flex-col bg-blue-700 font-lilita-one text-shadow-outline text-center text-white text-balance;">
+      <body className="m-0 p-0 min-h-full flex flex-col bg-blue-700 font-lilita-one text-shadow-outline text-center text-white text-balance">
         <Header />
         <div className="fixed top-0 left-0 w-full h-full z-[-1]">
           <video autoPlay playsInline loop muted className="w-full h-full object-cover overflow-hidden">
