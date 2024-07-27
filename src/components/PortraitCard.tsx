@@ -1,6 +1,7 @@
 'use client';
 import { BrawlerRarity, PortraitData } from "@/types/BrawlerTypes";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { useInView } from "react-intersection-observer";
 
 const colorVariants = {
@@ -12,8 +13,8 @@ const colorVariants = {
   [BrawlerRarity.Legendary]: 'bg-legendary',
 };
 
-export default function BrawlerPortrait({ portrait }: { portrait: PortraitData }) {
-
+export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
+  const router = useRouter()
   const { ref, inView } = useInView({
     triggerOnce: true
   });
@@ -22,7 +23,7 @@ export default function BrawlerPortrait({ portrait }: { portrait: PortraitData }
   const objectFit = portrait.name === 'PEARL' ? 'cover' : 'contain';
 
   return (
-    <figure className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded-md transition-transform 
+    <figure onClick={() => router.push(`/${portrait.name}`)} className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded-md transition-transform 
                        hover:scale-105 hover:border-white hover:bg-white">
       <div ref={ref} className={`relative w-[160px] aspect-[16/10] border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}>
         <Image

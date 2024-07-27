@@ -1,0 +1,3400 @@
+[
+    {
+        "name": "Shelly",
+        "rarity": "Trophy Road",
+        "portrait": "shelly.png",
+        "skins": [
+            {
+                "name": "Shelly",
+                "file": "shelly-default.webp"
+            },
+            {
+                "name": "America Shelly",
+                "file": "shelly-america.webp"
+            },
+            {
+                "name": "Bandita Shelly",
+                "file": "shelly-bandita.webp"
+            },
+            {
+                "name": "Boca Juniors Shelly",
+                "file": "shelly-boca-juniors.webp"
+            },
+            {
+                "name": "Classic Shelly",
+                "file": "shelly-classic.webp"
+            },
+            {
+                "name": "Hoot Hoot Shelly",
+                "file": "shelly-hoot-hoot.webp"
+            },
+            {
+                "name": "Princess Shelly",
+                "file": "shelly-princess.webp"
+            },
+            {
+                "name": "PSG Shelly",
+                "file": "shelly-psg.webp"
+            },
+            {
+                "name": "Shelly Dancer",
+                "file": "shelly-shelly-dancer.webp"
+            },
+            {
+                "name": "Shelly Dancer Dahlia",
+                "file": "shelly-shelly-dancer-dahlia.webp"
+            },
+            {
+                "name": "Shelly Dancer Iris",
+                "file": "shelly-shelly-dancer-iris.webp"
+            },
+            {
+                "name": "Sheriff Shelly",
+                "file": "shelly-sheriff.webp"
+            },
+            {
+                "name": "Squad Buster Shelly",
+                "file": "shelly-squad-buster.webp"
+            },
+            {
+                "name": "Star Shelly",
+                "file": "shelly-star.webp"
+            },
+            {
+                "name": "Stellar Shelly",
+                "file": "shelly-stellar.webp"
+            },
+            {
+                "name": "True Gold Shelly",
+                "file": "shelly-true-gold.webp"
+            },
+            {
+                "name": "True Silver Shelly",
+                "file": "shelly-true-silver.webp"
+            },
+            {
+                "name": "U De Chile Shelly",
+                "file": "shelly-u-de-chile.webp"
+            },
+            {
+                "name": "Witch Shelly",
+                "file": "shelly-witch.webp"
+            }
+        ]
+    },
+    {
+        "name": "Barley",
+        "rarity": "Rare",
+        "portrait": "barley.png",
+        "skins": [
+            {
+                "name": "Barley",
+                "file": "barley-default.webp"
+            },
+            {
+                "name": "Bakesale Barley",
+                "file": "barley-bakesale.webp"
+            },
+            {
+                "name": "Golden Barley",
+                "file": "barley-golden.webp"
+            },
+            {
+                "name": "Maple Barley",
+                "file": "barley-maple.webp"
+            },
+            {
+                "name": "Red Wizard Barley",
+                "file": "barley-red-wizard.webp"
+            },
+            {
+                "name": "Sway Master Barley",
+                "file": "barley-sway-master.webp"
+            },
+            {
+                "name": "True Gold Barley",
+                "file": "barley-true-gold.webp"
+            },
+            {
+                "name": "True Silver Barley",
+                "file": "barley-true-silver.webp"
+            },
+            {
+                "name": "Unicorn Knight Barley",
+                "file": "barley-unicorn-knight.webp"
+            },
+            {
+                "name": "Wizard Barley",
+                "file": "barley-wizard.webp"
+            }
+        ]
+    },
+    {
+        "name": "Brock",
+        "rarity": "Rare",
+        "portrait": "brock.png",
+        "skins": [
+            {
+                "name": "Brock",
+                "file": "brock-default.webp"
+            },
+            {
+                "name": "Beach Brock",
+                "file": "brock-beach.webp"
+            },
+            {
+                "name": "Boom Box Brock",
+                "file": "brock-boom-box.webp"
+            },
+            {
+                "name": "Deputy Brock",
+                "file": "brock-deputy.webp"
+            },
+            {
+                "name": "Gold Hacker Brock",
+                "file": "brock-gold-hacker.webp"
+            },
+            {
+                "name": "Hacker Brock",
+                "file": "brock-hacker.webp"
+            },
+            {
+                "name": "Hot Rod Brock",
+                "file": "brock-hot-rod.webp"
+            },
+            {
+                "name": "Lion Dance Brock",
+                "file": "brock-lion-dance.webp"
+            },
+            {
+                "name": "Old School Brock",
+                "file": "brock-old-school.webp"
+            },
+            {
+                "name": "Postal Brock",
+                "file": "brock-postal.webp"
+            },
+            {
+                "name": "RGB Hacker Brock",
+                "file": "brock-rgb-hacker.webp"
+            },
+            {
+                "name": "Rocket Brown Brock",
+                "file": "brock-rocket-brown.webp"
+            },
+            {
+                "name": "Super Ranger Brock",
+                "file": "brock-super-ranger.webp"
+            },
+            {
+                "name": "Super Ranger Brock Black",
+                "file": "brock-super-ranger-brock-black.webp"
+            },
+            {
+                "name": "Super Ranger Brock Blue",
+                "file": "brock-super-ranger-brock-blue.webp"
+            },
+            {
+                "name": "Super Ranger Brock Pink",
+                "file": "brock-super-ranger-brock-pink.webp"
+            },
+            {
+                "name": "Super Ranger Brock Red",
+                "file": "brock-super-ranger-brock-red.webp"
+            },
+            {
+                "name": "Super Ranger Brock Yellow",
+                "file": "brock-super-ranger-brock-yellow.webp"
+            },
+            {
+                "name": "True Gold Brock",
+                "file": "brock-true-gold.webp"
+            },
+            {
+                "name": "True Silver Brock",
+                "file": "brock-true-silver.webp"
+            },
+            {
+                "name": "Zeus Brock",
+                "file": "brock-zeus.webp"
+            },
+            {
+                "name": "ZomBrock",
+                "file": "brock-zombrock.webp"
+            }
+        ]
+    },
+    {
+        "name": "Bull",
+        "rarity": "Rare",
+        "portrait": "bull.png",
+        "skins": [
+            {
+                "name": "Bull",
+                "file": "bull-default.webp"
+            },
+            {
+                "name": "Alleycat Bull",
+                "file": "bull-alleycat.webp"
+            },
+            {
+                "name": "B-800 Bull",
+                "file": "bull-b-800.webp"
+            },
+            {
+                "name": "Barbarian King Bull",
+                "file": "bull-barbarian-king.webp"
+            },
+            {
+                "name": "Bull Mang",
+                "file": "bull-bull-mang.webp"
+            },
+            {
+                "name": "Linebacker Bull",
+                "file": "bull-linebacker.webp"
+            },
+            {
+                "name": "Lion Bull",
+                "file": "bull-lion.webp"
+            },
+            {
+                "name": "Minotaur Bull",
+                "file": "bull-minotaur.webp"
+            },
+            {
+                "name": "Norse Raider Bull",
+                "file": "bull-norse-raider.webp"
+            },
+            {
+                "name": "Space Ox Bull",
+                "file": "bull-space-ox.webp"
+            },
+            {
+                "name": "Touchdown Bull",
+                "file": "bull-touchdown.webp"
+            },
+            {
+                "name": "True Gold Bull",
+                "file": "bull-true-gold.webp"
+            },
+            {
+                "name": "True Silver Bull",
+                "file": "bull-true-silver.webp"
+            },
+            {
+                "name": "Viking Bull",
+                "file": "bull-viking.webp"
+            }
+        ]
+    },
+    {
+        "name": "Colt",
+        "rarity": "Rare",
+        "portrait": "colt.png",
+        "skins": [
+            {
+                "name": "Colt",
+                "file": "colt-default.webp"
+            },
+            {
+                "name": "Atl. Nacional Colt",
+                "file": "colt-atl.-nacional.webp"
+            },
+            {
+                "name": "Bananas Colt",
+                "file": "colt-bananas.webp"
+            },
+            {
+                "name": "Cerro Porteño Colt",
+                "file": "colt-cerro-porteño.webp"
+            },
+            {
+                "name": "Challenger Colt",
+                "file": "colt-challenger.webp"
+            },
+            {
+                "name": "Club America Colt",
+                "file": "colt-club-america.webp"
+            },
+            {
+                "name": "Corsair Colt",
+                "file": "colt-corsair.webp"
+            },
+            {
+                "name": "Dark Angel Colt",
+                "file": "colt-dark-angel.webp"
+            },
+            {
+                "name": "Gunslinger Colt",
+                "file": "colt-gunslinger.webp"
+            },
+            {
+                "name": "Handsome Colt",
+                "file": "colt-handsome.webp"
+            },
+            {
+                "name": "Mecha Colt",
+                "file": "colt-mecha.webp"
+            },
+            {
+                "name": "Outlaw Colt",
+                "file": "colt-outlaw.webp"
+            },
+            {
+                "name": "Paragon Mecha Colt",
+                "file": "colt-paragon-mecha.webp"
+            },
+            {
+                "name": "Renegade Mecha Colt",
+                "file": "colt-renegade-mecha.webp"
+            },
+            {
+                "name": "River Plate Colt",
+                "file": "colt-river-plate.webp"
+            },
+            {
+                "name": "Rockstar Colt",
+                "file": "colt-rockstar.webp"
+            },
+            {
+                "name": "Royal Agent Colt",
+                "file": "colt-royal-agent.webp"
+            },
+            {
+                "name": "Sharktooth Colt",
+                "file": "colt-sharktooth.webp"
+            },
+            {
+                "name": "True Gold Colt",
+                "file": "colt-true-gold.webp"
+            },
+            {
+                "name": "True Silver Colt",
+                "file": "colt-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "El Primo",
+        "rarity": "Rare",
+        "portrait": "el-primo.png",
+        "skins": [
+            {
+                "name": "El Primo",
+                "file": "el-primo-default.webp"
+            },
+            {
+                "name": "El Atómico",
+                "file": "el-primo-el-atómico.webp"
+            },
+            {
+                "name": "El Baby Shark",
+                "file": "el-primo-el-baby-shark.webp"
+            },
+            {
+                "name": "El Brown",
+                "file": "el-primo-el-brown.webp"
+            },
+            {
+                "name": "El Corazón",
+                "file": "el-primo-el-corazón.webp"
+            },
+            {
+                "name": "El Dragón Rosado",
+                "file": "el-primo-el-dragón-rosado.webp"
+            },
+            {
+                "name": "El Dragón Verdoso",
+                "file": "el-primo-el-dragón-verdoso.webp"
+            },
+            {
+                "name": "El Mayordomo",
+                "file": "el-primo-el-mayordomo.webp"
+            },
+            {
+                "name": "El Primo Club Nacional",
+                "file": "el-primo-el-primo-club-nacional.webp"
+            },
+            {
+                "name": "El Primo Corinthians",
+                "file": "el-primo-el-primo-corinthians.webp"
+            },
+            {
+                "name": "El Primo Universitario",
+                "file": "el-primo-el-primo-universitario.webp"
+            },
+            {
+                "name": "El Quarterback",
+                "file": "el-primo-el-quarterback.webp"
+            },
+            {
+                "name": "El Rey Primo",
+                "file": "el-primo-el-rey-primo.webp"
+            },
+            {
+                "name": "El Rudo Primo",
+                "file": "el-primo-el-rudo-primo.webp"
+            },
+            {
+                "name": "El Tigro",
+                "file": "el-primo-el-tigro.webp"
+            },
+            {
+                "name": "True Gold El Primo",
+                "file": "el-primo-true-gold.webp"
+            },
+            {
+                "name": "True Silver El Primo",
+                "file": "el-primo-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Nita",
+        "rarity": "Rare",
+        "portrait": "nita.png",
+        "skins": [
+            {
+                "name": "Nita",
+                "file": "nita-default.webp"
+            },
+            {
+                "name": "Gummy Bear Nita",
+                "file": "nita-gummybear.webp"
+            },
+            {
+                "name": "Koala Nita",
+                "file": "nita-koala.webp"
+            },
+            {
+                "name": "Mechagodzilla Nita",
+                "file": "nita-mechagodzilla.webp"
+            },
+            {
+                "name": "Nian Nita",
+                "file": "nita-nian.webp"
+            },
+            {
+                "name": "Panda Nita",
+                "file": "nita-panda.webp"
+            },
+            {
+                "name": "Red Nose Nita",
+                "file": "nita-red-nose.webp"
+            },
+            {
+                "name": "Rui Shou Nita",
+                "file": "nita-rui-shou.webp"
+            },
+            {
+                "name": "Shiba Nita",
+                "file": "nita-shiba.webp"
+            },
+            {
+                "name": "True Gold Nita",
+                "file": "nita-true-gold.webp"
+            },
+            {
+                "name": "True Silver Nita",
+                "file": "nita-true-silver.webp"
+            },
+            {
+                "name": "Tusked Nita",
+                "file": "nita-tusked.webp"
+            },
+            {
+                "name": "Whale Watch Nita",
+                "file": "nita-whale-watch.webp"
+            }
+        ]
+    },
+    {
+        "name": "Poco",
+        "rarity": "Rare",
+        "portrait": "poco.png",
+        "skins": [
+            {
+                "name": "Poco",
+                "file": "poco-default.webp"
+            },
+            {
+                "name": "CCTV Poco",
+                "file": "poco-cctv.webp"
+            },
+            {
+                "name": "Desperado Poco",
+                "file": "poco-desperado.webp"
+            },
+            {
+                "name": "Pirate Poco",
+                "file": "poco-pirate.webp"
+            },
+            {
+                "name": "Poco Starr",
+                "file": "poco-poco-starr.webp"
+            },
+            {
+                "name": "Serenade Poco",
+                "file": "poco-serenade.webp"
+            },
+            {
+                "name": "Trash Poco",
+                "file": "poco-trash.webp"
+            },
+            {
+                "name": "True Gold Poco",
+                "file": "poco-true-gold.webp"
+            },
+            {
+                "name": "True Silver Poco",
+                "file": "poco-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Rosa",
+        "rarity": "Rare",
+        "portrait": "rosa.png",
+        "skins": [
+            {
+                "name": "Rosa",
+                "file": "rosa-default.webp"
+            },
+            {
+                "name": "Brawl-o-ween Rosa",
+                "file": "rosa-brawl-o-ween.webp"
+            },
+            {
+                "name": "Cheerleader Rosa",
+                "file": "rosa-cheerleader.webp"
+            },
+            {
+                "name": "Coco Rosa",
+                "file": "rosa-coco.webp"
+            },
+            {
+                "name": "Major Rosa",
+                "file": "rosa-major.webp"
+            },
+            {
+                "name": "Mantis Rosa",
+                "file": "rosa-mantis.webp"
+            },
+            {
+                "name": "True Gold Rosa",
+                "file": "rosa-true-gold.webp"
+            },
+            {
+                "name": "True Silver Rosa",
+                "file": "rosa-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "8-Bit",
+        "rarity": "Super Rare",
+        "portrait": "8-bit.png",
+        "skins": [
+            {
+                "name": "8-Bit",
+                "file": "8-bit-default.webp"
+            },
+            {
+                "name": "8-Bit Classic",
+                "file": "8-bit-classic.webp"
+            },
+            {
+                "name": "Antivirus 8-Bit",
+                "file": "8-bit-antivirus.webp"
+            },
+            {
+                "name": "Haunted House 8-Bit",
+                "file": "8-bit-haunted-house.webp"
+            },
+            {
+                "name": "Piano 8-Bit",
+                "file": "8-bit-piano.webp"
+            },
+            {
+                "name": "Saloon 8-Bit",
+                "file": "8-bit-saloon.webp"
+            },
+            {
+                "name": "True Gold 8-Bit",
+                "file": "8-bit-true-gold.webp"
+            },
+            {
+                "name": "True Silver 8-Bit",
+                "file": "8-bit-true-silver.webp"
+            },
+            {
+                "name": "V8-Bit",
+                "file": "8-bit-v8-bit.webp"
+            },
+            {
+                "name": "Virus 8-Bit",
+                "file": "8-bit-virus.webp"
+            }
+        ]
+    },
+    {
+        "name": "Carl",
+        "rarity": "Super Rare",
+        "portrait": "carl.png",
+        "skins": [
+            {
+                "name": "Carl",
+                "file": "carl-default.webp"
+            },
+            {
+                "name": "Biker Carl",
+                "file": "carl-biker.webp"
+            },
+            {
+                "name": "Captain Carl",
+                "file": "carl-captain.webp"
+            },
+            {
+                "name": "Dark Tide Carl",
+                "file": "carl-dark-tide.webp"
+            },
+            {
+                "name": "Goblin Carl",
+                "file": "carl-goblin.webp"
+            },
+            {
+                "name": "Hog Rider Carl",
+                "file": "carl-hog-rider.webp"
+            },
+            {
+                "name": "Leonard Carl",
+                "file": "carl-leonard.webp"
+            },
+            {
+                "name": "Road Rage Carl",
+                "file": "carl-road-rage.webp"
+            },
+            {
+                "name": "Sultan Carl",
+                "file": "carl-sultan.webp"
+            },
+            {
+                "name": "Surfer Carl",
+                "file": "carl-surfer.webp"
+            },
+            {
+                "name": "True Gold Carl",
+                "file": "carl-true-gold.webp"
+            },
+            {
+                "name": "True Silver Carl",
+                "file": "carl-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Darryl",
+        "rarity": "Super Rare",
+        "portrait": "darryl.png",
+        "skins": [
+            {
+                "name": "Darryl",
+                "file": "darryl-default.webp"
+            },
+            {
+                "name": "Crash Test Darryl",
+                "file": "darryl-crash-test.webp"
+            },
+            {
+                "name": "Cupcake Darryl",
+                "file": "darryl-cupcake.webp"
+            },
+            {
+                "name": "D4R-RY1",
+                "file": "darryl-d4r-ry1.webp"
+            },
+            {
+                "name": "Dumpling Darryl",
+                "file": "darryl-dumpling.webp"
+            },
+            {
+                "name": "Mascot Darryl",
+                "file": "darryl-mascot.webp"
+            },
+            {
+                "name": "Mega Box Darryl",
+                "file": "darryl-mega-box.webp"
+            },
+            {
+                "name": "Omega Box Darryl",
+                "file": "darryl-omega-box.webp"
+            },
+            {
+                "name": "True Gold Darryl",
+                "file": "darryl-true-gold.webp"
+            },
+            {
+                "name": "True Silver Darryl",
+                "file": "darryl-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Dynamike",
+        "rarity": "Super Rare",
+        "portrait": "dynamike.png",
+        "skins": [
+            {
+                "name": "Dynamike",
+                "file": "dynamike-default.webp"
+            },
+            {
+                "name": "Bellhop Mike",
+                "file": "dynamike-bellhop-mike.webp"
+            },
+            {
+                "name": "Boomer Dynamike",
+                "file": "dynamike-boomer.webp"
+            },
+            {
+                "name": "Chivas Mike",
+                "file": "dynamike-chivas-mike.webp"
+            },
+            {
+                "name": "Classic Dynamike",
+                "file": "dynamike-classic.webp"
+            },
+            {
+                "name": "Coach Mike",
+                "file": "dynamike-coach-mike.webp"
+            },
+            {
+                "name": "Dynasty Mike",
+                "file": "dynamike-dynasty-mike.webp"
+            },
+            {
+                "name": "Flamengo Mike",
+                "file": "dynamike-flamengo-mike.webp"
+            },
+            {
+                "name": "LDU Quito Mike",
+                "file": "dynamike-ldu-quito-mike.webp"
+            },
+            {
+                "name": "Moldy Mike",
+                "file": "dynamike-moldy-mike.webp"
+            },
+            {
+                "name": "PSG Mike",
+                "file": "dynamike-psg-mike.webp"
+            },
+            {
+                "name": "Robo Mike",
+                "file": "dynamike-robo-mike.webp"
+            },
+            {
+                "name": "Santa Mike",
+                "file": "dynamike-santa-mike.webp"
+            },
+            {
+                "name": "Spicy Mike",
+                "file": "dynamike-spicy-mike.webp"
+            },
+            {
+                "name": "Tengu Mike",
+                "file": "dynamike-tengu-mike.webp"
+            },
+            {
+                "name": "True Gold Dynamike",
+                "file": "dynamike-true-gold.webp"
+            },
+            {
+                "name": "True Silver Dynamike",
+                "file": "dynamike-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Gus",
+        "rarity": "Super Rare",
+        "portrait": "gus.png",
+        "skins": [
+            {
+                "name": "Gus",
+                "file": "gus-default.webp"
+            },
+            {
+                "name": "Balloon Sally Gus",
+                "file": "gus-balloon-sally.webp"
+            },
+            {
+                "name": "Boy Scout Gus",
+                "file": "gus-boy-scout.webp"
+            },
+            {
+                "name": "True Gold Gus",
+                "file": "gus-true-gold.webp"
+            },
+            {
+                "name": "True Silver Gus",
+                "file": "gus-true-silver.webp"
+            },
+            {
+                "name": "World Champion Gus",
+                "file": "gus-world-champion.webp"
+            }
+        ]
+    },
+    {
+        "name": "Jacky",
+        "rarity": "Super Rare",
+        "portrait": "jacky.png",
+        "skins": [
+            {
+                "name": "Jacky",
+                "file": "jacky-default.webp"
+            },
+            {
+                "name": "Constructor Jacky",
+                "file": "jacky-constructor.webp"
+            },
+            {
+                "name": "Gift Express Jacky",
+                "file": "jacky-gift-express.webp"
+            },
+            {
+                "name": "Jacky Cooky",
+                "file": "jacky-jacky-cooky.webp"
+            },
+            {
+                "name": "Jet Ski Jacky",
+                "file": "jacky-jet-ski.webp"
+            },
+            {
+                "name": "True Gold Jacky",
+                "file": "jacky-true-gold.webp"
+            },
+            {
+                "name": "True Silver Jacky",
+                "file": "jacky-true-silver.webp"
+            },
+            {
+                "name": "Ultra Driller Jacky",
+                "file": "jacky-ultra-driller.webp"
+            },
+            {
+                "name": "Wave Hopper Jacky",
+                "file": "jacky-wave-hopper.webp"
+            }
+        ]
+    },
+    {
+        "name": "Jessie",
+        "rarity": "Super Rare",
+        "portrait": "jessie.png",
+        "skins": [
+            {
+                "name": "Jessie",
+                "file": "jessie-default.webp"
+            },
+            {
+                "name": "Cat Burglar Jessie",
+                "file": "jessie-cat-burglar.webp"
+            },
+            {
+                "name": "Doll Jessie",
+                "file": "jessie-doll.webp"
+            },
+            {
+                "name": "Dragon Knight Jessie",
+                "file": "jessie-dragon-knight.webp"
+            },
+            {
+                "name": "Red Dragon Jessie",
+                "file": "jessie-red-dragon.webp"
+            },
+            {
+                "name": "Shadow Knight Jessie",
+                "file": "jessie-shadow-knight.webp"
+            },
+            {
+                "name": "Skadi Jessie",
+                "file": "jessie-skadi.webp"
+            },
+            {
+                "name": "Summer Jessie",
+                "file": "jessie-summer.webp"
+            },
+            {
+                "name": "Tanuki Jessie",
+                "file": "jessie-tanuki.webp"
+            },
+            {
+                "name": "True Gold Jessie",
+                "file": "jessie-true-gold.webp"
+            },
+            {
+                "name": "True Silver Jessie",
+                "file": "jessie-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Penny",
+        "rarity": "Super Rare",
+        "portrait": "penny.png",
+        "skins": [
+            {
+                "name": "Penny",
+                "file": "penny-default.webp"
+            },
+            {
+                "name": "Bunny Penny",
+                "file": "penny-bunny.webp"
+            },
+            {
+                "name": "Dark Bunny Penny",
+                "file": "penny-dark-bunny.webp"
+            },
+            {
+                "name": "Lil Helper Penny",
+                "file": "penny-lil-helper.webp"
+            },
+            {
+                "name": "Moon-curser Penny",
+                "file": "penny-moon-curser.webp"
+            },
+            {
+                "name": "Smuggler Penny",
+                "file": "penny-smuggler.webp"
+            },
+            {
+                "name": "Trash Panda Penny",
+                "file": "penny-trash-panda.webp"
+            },
+            {
+                "name": "True Gold Penny",
+                "file": "penny-true-gold.webp"
+            },
+            {
+                "name": "True Silver Penny",
+                "file": "penny-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Rico",
+        "rarity": "Super Rare",
+        "portrait": "rico.png",
+        "skins": [
+            {
+                "name": "Rico",
+                "file": "rico-default.webp"
+            },
+            {
+                "name": "Chicken Rico",
+                "file": "rico-chicken.webp"
+            },
+            {
+                "name": "Final Boss Rico",
+                "file": "rico-final-boss.webp"
+            },
+            {
+                "name": "Firefly Rico",
+                "file": "rico-firefly.webp"
+            },
+            {
+                "name": "Guard Rico",
+                "file": "rico-guard.webp"
+            },
+            {
+                "name": "Loaded Rico",
+                "file": "rico-loaded.webp"
+            },
+            {
+                "name": "Popcorn Rico",
+                "file": "rico-popcorn.webp"
+            },
+            {
+                "name": "Reloaded Ricochet",
+                "file": "rico-reloaded-ricochet.webp"
+            },
+            {
+                "name": "Ricochet",
+                "file": "rico-ricochet.webp"
+            },
+            {
+                "name": "Sovereign Bling Rico",
+                "file": "rico-sovereign-bling.webp"
+            },
+            {
+                "name": "Sovereign Gem Rico",
+                "file": "rico-sovereign-gem.webp"
+            },
+            {
+                "name": "Sovereign Rico",
+                "file": "rico-sovereign.webp"
+            },
+            {
+                "name": "True Gold Rico",
+                "file": "rico-true-gold.webp"
+            },
+            {
+                "name": "True Silver Rico",
+                "file": "rico-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Tick",
+        "rarity": "Super Rare",
+        "portrait": "tick.png",
+        "skins": [
+            {
+                "name": "Tick",
+                "file": "tick-default.webp"
+            },
+            {
+                "name": "Cerberus Tick",
+                "file": "tick-cerberus.webp"
+            },
+            {
+                "name": "King Crab Tick",
+                "file": "tick-king-crab.webp"
+            },
+            {
+                "name": "Mecha Tick Ghidorah",
+                "file": "tick-mecha-tick-ghidorah.webp"
+            },
+            {
+                "name": "Mecha Tick Ghidorah Dark",
+                "file": "tick-mecha-tick-ghidorah-dark.webp"
+            },
+            {
+                "name": "Mecha Tick Ghidorah Light",
+                "file": "tick-mecha-tick-ghidorah-light.webp"
+            },
+            {
+                "name": "Snowman Tick",
+                "file": "tick-snowman.webp"
+            },
+            {
+                "name": "Tick Shooky",
+                "file": "tick-tick-shooky.webp"
+            },
+            {
+                "name": "True Gold Tick",
+                "file": "tick-true-gold.webp"
+            },
+            {
+                "name": "True Silver Tick",
+                "file": "tick-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Angelo",
+        "rarity": "Epic",
+        "portrait": "angelo.png",
+        "skins": [
+            {
+                "name": "Angelo",
+                "file": "angelo-default.webp"
+            },
+            {
+                "name": "Dionysus Angelo",
+                "file": "angelo-dionysus.webp"
+            },
+            {
+                "name": "Elf Angelo",
+                "file": "angelo-elf.webp"
+            },
+            {
+                "name": "True Gold Angelo",
+                "file": "angelo-true-gold.webp"
+            },
+            {
+                "name": "True Silver Angelo",
+                "file": "angelo-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Ash",
+        "rarity": "Epic",
+        "portrait": "ash.png",
+        "skins": [
+            {
+                "name": "Ash",
+                "file": "ash-default.webp"
+            },
+            {
+                "name": "Krampus Ash",
+                "file": "ash-krampus.webp"
+            },
+            {
+                "name": "Ninja Ash",
+                "file": "ash-ninja.webp"
+            },
+            {
+                "name": "Piñata Ash",
+                "file": "ash-piñata.webp"
+            },
+            {
+                "name": "Pizza Oven Ash",
+                "file": "ash-pizza-oven.webp"
+            },
+            {
+                "name": "True Gold Ash",
+                "file": "ash-true-gold.webp"
+            },
+            {
+                "name": "True Silver Ash",
+                "file": "ash-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Bea",
+        "rarity": "Epic",
+        "portrait": "bea.png",
+        "skins": [
+            {
+                "name": "Bea",
+                "file": "bea-default.webp"
+            },
+            {
+                "name": "Archvillain Bea",
+                "file": "bea-archvillain.webp"
+            },
+            {
+                "name": "Bea Byte",
+                "file": "bea-bea-byte.webp"
+            },
+            {
+                "name": "Gold Neko Bea",
+                "file": "bea-gold-neko.webp"
+            },
+            {
+                "name": "Ladybug Bea",
+                "file": "bea-ladybug.webp"
+            },
+            {
+                "name": "Mega Beetle Bea",
+                "file": "bea-mega-beetle.webp"
+            },
+            {
+                "name": "Neko Bea",
+                "file": "bea-neko.webp"
+            },
+            {
+                "name": "True Gold Bea",
+                "file": "bea-true-gold.webp"
+            },
+            {
+                "name": "True Silver Bea",
+                "file": "bea-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Belle",
+        "rarity": "Epic",
+        "portrait": "belle.png",
+        "skins": [
+            {
+                "name": "Belle",
+                "file": "belle-default.webp"
+            },
+            {
+                "name": "Belle Goldhand",
+                "file": "belle-belle-goldhand.webp"
+            },
+            {
+                "name": "Coral Belle",
+                "file": "belle-coral.webp"
+            },
+            {
+                "name": "Ivy Belle",
+                "file": "belle-ivy.webp"
+            },
+            {
+                "name": "True Gold Belle",
+                "file": "belle-true-gold.webp"
+            },
+            {
+                "name": "True Silver Belle",
+                "file": "belle-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Berry",
+        "rarity": "Epic",
+        "portrait": "berry.png",
+        "skins": [
+            {
+                "name": "Berry",
+                "file": "berry-default.webp"
+            },
+            {
+                "name": "Dark Horse Berry",
+                "file": "berry-dark-horse.webp"
+            }
+        ]
+    },
+    {
+        "name": "Bibi",
+        "rarity": "Epic",
+        "portrait": "bibi.png",
+        "skins": [
+            {
+                "name": "Bibi",
+                "file": "bibi-default.webp"
+            },
+            {
+                "name": "Bibi Gamer",
+                "file": "bibi-gamer.webp"
+            },
+            {
+                "name": "Bibi RJ",
+                "file": "bibi-bibi-rj.webp"
+            },
+            {
+                "name": "Bibi Vicious",
+                "file": "bibi-vicious.webp"
+            },
+            {
+                "name": "Bibilante",
+                "file": "bibi-bibilante.webp"
+            },
+            {
+                "name": "Bubblegum Bibi",
+                "file": "bibi-bubblegum.webp"
+            },
+            {
+                "name": "Cursed Pirate Bibi",
+                "file": "bibi-cursed-pirate.webp"
+            },
+            {
+                "name": "Heroine Bibi",
+                "file": "bibi-heroine.webp"
+            },
+            {
+                "name": "Thor Bibi",
+                "file": "bibi-thor.webp"
+            },
+            {
+                "name": "True Gold Bibi",
+                "file": "bibi-true-gold.webp"
+            },
+            {
+                "name": "True Silver Bibi",
+                "file": "bibi-true-silver.webp"
+            },
+            {
+                "name": "ZomBibi",
+                "file": "bibi-zombibi.webp"
+            }
+        ]
+    },
+    {
+        "name": "Bo",
+        "rarity": "Epic",
+        "portrait": "bo.png",
+        "skins": [
+            {
+                "name": "Bo",
+                "file": "bo-default.webp"
+            },
+            {
+                "name": "Brother Bo",
+                "file": "bo-brother.webp"
+            },
+            {
+                "name": "Gold Mecha Bo",
+                "file": "bo-gold-mecha.webp"
+            },
+            {
+                "name": "Ho Ho Ho Bo",
+                "file": "bo-ho-ho-ho.webp"
+            },
+            {
+                "name": "Horus Bo",
+                "file": "bo-horus.webp"
+            },
+            {
+                "name": "Light Mecha Bo",
+                "file": "bo-light-mecha.webp"
+            },
+            {
+                "name": "Mecha Bo",
+                "file": "bo-mecha.webp"
+            },
+            {
+                "name": "Supreme Bo",
+                "file": "bo-supreme.webp"
+            },
+            {
+                "name": "True Gold Bo",
+                "file": "bo-true-gold.webp"
+            },
+            {
+                "name": "True Silver Bo",
+                "file": "bo-true-silver.webp"
+            },
+            {
+                "name": "Underworld Bo",
+                "file": "bo-underworld.webp"
+            },
+            {
+                "name": "Warrior Bo",
+                "file": "bo-warrior.webp"
+            },
+            {
+                "name": "Wasp Bo",
+                "file": "bo-wasp.webp"
+            }
+        ]
+    },
+    {
+        "name": "Bonnie",
+        "rarity": "Epic",
+        "portrait": "bonnie.png",
+        "skins": [
+            {
+                "name": "Bonnie",
+                "file": "bonnie-default.webp"
+            },
+            {
+                "name": "Empress Bonnie",
+                "file": "bonnie-empress.webp"
+            },
+            {
+                "name": "FootBonnie",
+                "file": "bonnie-footbonnie.webp"
+            },
+            {
+                "name": "Tentacle Bonnie",
+                "file": "bonnie-tentacle.webp"
+            },
+            {
+                "name": "True Gold Bonnie",
+                "file": "bonnie-true-gold.webp"
+            },
+            {
+                "name": "True Silver Bonnie",
+                "file": "bonnie-true-silver.webp"
+            },
+            {
+                "name": "Unicorn Bonnie",
+                "file": "bonnie-unicorn.webp"
+            }
+        ]
+    },
+    {
+        "name": "Colette",
+        "rarity": "Epic",
+        "portrait": "colette.png",
+        "skins": [
+            {
+                "name": "Colette",
+                "file": "colette-default.webp"
+            },
+            {
+                "name": "Fangirl Cony",
+                "file": "colette-fangirl-cony.webp"
+            },
+            {
+                "name": "Gladiator Colette",
+                "file": "colette-gladiator.webp"
+            },
+            {
+                "name": "Inspector Colette",
+                "file": "colette-inspector.webp"
+            },
+            {
+                "name": "Kiiro Pawlette",
+                "file": "colette-kiiro-pawlette.webp"
+            },
+            {
+                "name": "Midori Pawlette",
+                "file": "colette-midori-pawlette.webp"
+            },
+            {
+                "name": "Navigator Colette",
+                "file": "colette-navigator.webp"
+            },
+            {
+                "name": "Pinku Pawlette",
+                "file": "colette-pinku-pawlette.webp"
+            },
+            {
+                "name": "Trixie Colette",
+                "file": "colette-trixie.webp"
+            },
+            {
+                "name": "True Gold Colette",
+                "file": "colette-true-gold.webp"
+            },
+            {
+                "name": "True Silver Colette",
+                "file": "colette-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Edgar",
+        "rarity": "Epic",
+        "portrait": "edgar.png",
+        "skins": [
+            {
+                "name": "Edgar",
+                "file": "edgar-default.webp"
+            },
+            {
+                "name": "Blackbird Edgar",
+                "file": "edgar-blackbird.webp"
+            },
+            {
+                "name": "Doctor Edgar",
+                "file": "edgar-doctor.webp"
+            },
+            {
+                "name": "Edgar Tata",
+                "file": "edgar-edgar-tata.webp"
+            },
+            {
+                "name": "Mecha Edgar",
+                "file": "edgar-mecha.webp"
+            },
+            {
+                "name": "Mecha Edgar Unit-00",
+                "file": "edgar-mecha-unit-00.webp"
+            },
+            {
+                "name": "Mecha Edgar Unit-01",
+                "file": "edgar-mecha-unit-01.webp"
+            },
+            {
+                "name": "Orochi Edgar",
+                "file": "edgar-orochi.webp"
+            },
+            {
+                "name": "Quickdraw Edgar",
+                "file": "edgar-quickdraw.webp"
+            },
+            {
+                "name": "Thief Edgar",
+                "file": "edgar-thief.webp"
+            },
+            {
+                "name": "True Gold Edgar",
+                "file": "edgar-true-gold.webp"
+            },
+            {
+                "name": "True Silver Edgar",
+                "file": "edgar-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Emz",
+        "rarity": "Epic",
+        "portrait": "emz.png",
+        "skins": [
+            {
+                "name": "Emz",
+                "file": "emz-default.webp"
+            },
+            {
+                "name": "DJ 3.M.Z",
+                "file": "emz-dj-3mz.webp"
+            },
+            {
+                "name": "Harajuku",
+                "file": "emz-harajuku.webp"
+            },
+            {
+                "name": "Mean Girl",
+                "file": "emz-mean-girl.webp"
+            },
+            {
+                "name": "Medusa",
+                "file": "emz-medusa.webp"
+            },
+            {
+                "name": "Ruby Medusa",
+                "file": "emz-ruby-medusa.webp"
+            },
+            {
+                "name": "Sapphire Medusa",
+                "file": "emz-sapphire-medusa.webp"
+            },
+            {
+                "name": "Super Fan",
+                "file": "emz-super-fan.webp"
+            },
+            {
+                "name": "True Gold Emz",
+                "file": "emz-true-gold.webp"
+            },
+            {
+                "name": "True Silver Emz",
+                "file": "emz-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Frank",
+        "rarity": "Epic",
+        "portrait": "frank.png",
+        "skins": [
+            {
+                "name": "Frank",
+                "file": "frank-default.webp"
+            },
+            {
+                "name": "Caveman Frank",
+                "file": "frank-caveman.webp"
+            },
+            {
+                "name": "DJ Frank",
+                "file": "frank-dj.webp"
+            },
+            {
+                "name": "Holiday Party Frank",
+                "file": "frank-holiday-party.webp"
+            },
+            {
+                "name": "Parasol Frank",
+                "file": "frank-parasol.webp"
+            },
+            {
+                "name": "Prehistoric Frank",
+                "file": "frank-prehistoric.webp"
+            },
+            {
+                "name": "Spirit Knight Frank",
+                "file": "frank-spirit-knight.webp"
+            },
+            {
+                "name": "True Gold Frank",
+                "file": "frank-true-gold.webp"
+            },
+            {
+                "name": "True Silver Frank",
+                "file": "frank-true-silver.webp"
+            },
+            {
+                "name": "Vanara Frank",
+                "file": "frank-vanara.webp"
+            }
+        ]
+    },
+    {
+        "name": "Gale",
+        "rarity": "Epic",
+        "portrait": "gale.png",
+        "skins": [
+            {
+                "name": "Gale",
+                "file": "gale-default.webp"
+            },
+            {
+                "name": "Merchant Gale",
+                "file": "gale-merchant.webp"
+            },
+            {
+                "name": "Nutcracker Gale",
+                "file": "gale-nutcracker.webp"
+            },
+            {
+                "name": "Squeakbuster Gale",
+                "file": "gale-squeakbuster.webp"
+            },
+            {
+                "name": "True Gold Gale",
+                "file": "gale-true-gold.webp"
+            },
+            {
+                "name": "True Silver Gale",
+                "file": "gale-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Griff",
+        "rarity": "Epic",
+        "portrait": "griff.png",
+        "skins": [
+            {
+                "name": "Griff",
+                "file": "griff-default.webp"
+            },
+            {
+                "name": "High Score Griff",
+                "file": "griff-high-score.webp"
+            },
+            {
+                "name": "Sleigher Griff",
+                "file": "griff-sleigher.webp"
+            },
+            {
+                "name": "Sunken Chest Griff",
+                "file": "griff-sunken-chest.webp"
+            },
+            {
+                "name": "True Gold Griff",
+                "file": "griff-true-gold.webp"
+            },
+            {
+                "name": "True Silver Griff",
+                "file": "griff-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Grom",
+        "rarity": "Epic",
+        "portrait": "grom.png",
+        "skins": [
+            {
+                "name": "Grom",
+                "file": "grom-default.webp"
+            },
+            {
+                "name": "Bunny Grom",
+                "file": "grom-bunny.webp"
+            },
+            {
+                "name": "Dasis Grom",
+                "file": "grom-dasis.webp"
+            },
+            {
+                "name": "FrankenGrom",
+                "file": "grom-frankengrom.webp"
+            },
+            {
+                "name": "True Gold Grom",
+                "file": "grom-true-gold.webp"
+            },
+            {
+                "name": "True Silver Grom",
+                "file": "grom-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Hank",
+        "rarity": "Epic",
+        "portrait": "hank.png",
+        "skins": [
+            {
+                "name": "Hank",
+                "file": "hank-default.webp"
+            },
+            {
+                "name": "Rodeo Hank",
+                "file": "hank-rodeo.webp"
+            },
+            {
+                "name": "Shark Tank Hank",
+                "file": "hank-shark-tank.webp"
+            }
+        ]
+    },
+    {
+        "name": "Larry & Lawrie",
+        "rarity": "Epic",
+        "portrait": "larry-&-lawrie.png",
+        "skins": [
+            {
+                "name": "Larry & Lawrie",
+                "file": "larry-&-lawrie-default.webp"
+            },
+            {
+                "name": "Larry & Lawrie Controllers",
+                "file": "larry-&-lawrie-controllers.webp"
+            },
+            {
+                "name": "Glitch Larry & Lawrie",
+                "file": "larry-&-lawrie-glitch.webp"
+            },
+            {
+                "name": "True Gold Larry & Lawrie",
+                "file": "larry-&-lawrie-true-gold.webp"
+            },
+            {
+                "name": "True Silver Larry & Lawrie",
+                "file": "larry-&-lawrie-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Lola",
+        "rarity": "Epic",
+        "portrait": "lola.png",
+        "skins": [
+            {
+                "name": "Lola",
+                "file": "lola-default.webp"
+            },
+            {
+                "name": "Cobra Lola",
+                "file": "lola-cobra.webp"
+            },
+            {
+                "name": "Galaxy Storm Lola",
+                "file": "lola-galaxy-storm.webp"
+            },
+            {
+                "name": "Kitsune Lola",
+                "file": "lola-kitsune.webp"
+            },
+            {
+                "name": "Lavish Lola",
+                "file": "lola-lavish.webp"
+            },
+            {
+                "name": "Lawless Lola",
+                "file": "lola-lawless.webp"
+            },
+            {
+                "name": "Rebel Lola",
+                "file": "lola-rebel.webp"
+            },
+            {
+                "name": "True Gold Lola",
+                "file": "lola-true-gold.webp"
+            },
+            {
+                "name": "True Silver Lola",
+                "file": "lola-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Maisie",
+        "rarity": "Epic",
+        "portrait": "maisie.png",
+        "skins": [
+            {
+                "name": "Maisie",
+                "file": "maisie-default.webp"
+            },
+            {
+                "name": "Jungle Queen Maisie",
+                "file": "maisie-jungle-queen.webp"
+            },
+            {
+                "name": "Marauder Maisie",
+                "file": "maisie-marauder.webp"
+            },
+            {
+                "name": "Tech Maisie",
+                "file": "maisie-tech.webp"
+            },
+            {
+                "name": "True Gold Maisie",
+                "file": "maisie-true-gold.webp"
+            },
+            {
+                "name": "True Silver Maisie",
+                "file": "maisie-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Mandy",
+        "rarity": "Epic",
+        "portrait": "mandy.png",
+        "skins": [
+            {
+                "name": "Mandy",
+                "file": "mandy-default.webp"
+            },
+            {
+                "name": "Hanbok Mandy",
+                "file": "mandy-hanbok.webp"
+            },
+            {
+                "name": "Magma Mandy",
+                "file": "mandy-magma.webp"
+            },
+            {
+                "name": "Mandy McMandy",
+                "file": "mandy-mc.webp"
+            },
+            {
+                "name": "True Gold Mandy",
+                "file": "mandy-true-gold.webp"
+            },
+            {
+                "name": "True Silver Mandy",
+                "file": "mandy-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Nani",
+        "rarity": "Epic",
+        "portrait": "nani.png",
+        "skins": [
+            {
+                "name": "Nani",
+                "file": "nani-default.webp"
+            },
+            {
+                "name": "Ares Nani",
+                "file": "nani-ares.webp"
+            },
+            {
+                "name": "Bell Nani",
+                "file": "nani-bell.webp"
+            },
+            {
+                "name": "Retro Nani",
+                "file": "nani-retro.webp"
+            },
+            {
+                "name": "Sally Nani",
+                "file": "nani-sally.webp"
+            },
+            {
+                "name": "True Gold Nani",
+                "file": "nani-true-gold.webp"
+            },
+            {
+                "name": "True Silver Nani",
+                "file": "nani-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pam",
+        "rarity": "Epic",
+        "portrait": "pam.png",
+        "skins": [
+            {
+                "name": "Pam",
+                "file": "pam-default.webp"
+            },
+            {
+                "name": "Evil Queen Pam",
+                "file": "pam-evil-queen.webp"
+            },
+            {
+                "name": "Holiday Pam",
+                "file": "pam-holiday.webp"
+            },
+            {
+                "name": "Stonks Pam",
+                "file": "pam-stonks.webp"
+            },
+            {
+                "name": "True Gold Pam",
+                "file": "pam-true-gold.webp"
+            },
+            {
+                "name": "True Silver Pam",
+                "file": "pam-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Pearl",
+        "rarity": "Epic",
+        "portrait": "pearl.png",
+        "skins": [
+            {
+                "name": "Pearl",
+                "file": "pearl-default.webp"
+            },
+            {
+                "name": "Periscope Pearl",
+                "file": "pearl-periscope.webp"
+            },
+            {
+                "name": "True Gold Pearl",
+                "file": "pearl-true-gold.webp"
+            },
+            {
+                "name": "True Silver Pearl",
+                "file": "pearl-true-silver.webp"
+            },
+            {
+                "name": "Vintage Pearl",
+                "file": "pearl-vintage.webp"
+            }
+        ]
+    },
+    {
+        "name": "Piper",
+        "rarity": "Epic",
+        "portrait": "piper.png",
+        "skins": [
+            {
+                "name": "Piper",
+                "file": "piper-default.webp"
+            },
+            {
+                "name": "Athena Piper",
+                "file": "piper-athena.webp"
+            },
+            {
+                "name": "Calavera Piper",
+                "file": "piper-calavera.webp"
+            },
+            {
+                "name": "Choco Piper",
+                "file": "piper-choco.webp"
+            },
+            {
+                "name": "Cupid Piper",
+                "file": "piper-cupid.webp"
+            },
+            {
+                "name": "Flag Bearer Piper",
+                "file": "piper-flag-bearer.webp"
+            },
+            {
+                "name": "Lunar Piper",
+                "file": "piper-lunar.webp"
+            },
+            {
+                "name": "Mariposa Piper",
+                "file": "piper-mariposa.webp"
+            },
+            {
+                "name": "Pink Piper",
+                "file": "piper-pink.webp"
+            },
+            {
+                "name": "True Gold Piper",
+                "file": "piper-true-gold.webp"
+            },
+            {
+                "name": "True Silver Piper",
+                "file": "piper-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Sam",
+        "rarity": "Epic",
+        "portrait": "sam.png",
+        "skins": [
+            {
+                "name": "Sam",
+                "file": "sam-default.webp"
+            },
+            {
+                "name": "Caesar Sam",
+                "file": "sam-caesar.webp"
+            },
+            {
+                "name": "Dark Clown Sam",
+                "file": "sam-dark-clown.webp"
+            },
+            {
+                "name": "Sam the Teddy",
+                "file": "sam-sam-the-teddy.webp"
+            },
+            {
+                "name": "True Gold Sam",
+                "file": "sam-true-gold.webp"
+            },
+            {
+                "name": "True Silver Sam",
+                "file": "sam-true-silver.webp"
+            },
+            {
+                "name": "Yeti Sam",
+                "file": "sam-yeti.webp"
+            }
+        ]
+    },
+    {
+        "name": "Stu",
+        "rarity": "Epic",
+        "portrait": "stu.png",
+        "skins": [
+            {
+                "name": "Stu",
+                "file": "stu-default.webp"
+            },
+            {
+                "name": "Headless Rider Stu",
+                "file": "stu-headless-rider.webp"
+            },
+            {
+                "name": "Jock Stu",
+                "file": "stu-jock.webp"
+            },
+            {
+                "name": "Santa Stu",
+                "file": "stu-santa.webp"
+            },
+            {
+                "name": "Superstar Stu",
+                "file": "stu-superstar.webp"
+            },
+            {
+                "name": "True Gold Stu",
+                "file": "stu-true-gold.webp"
+            },
+            {
+                "name": "True Silver Stu",
+                "file": "stu-true-silver.webp"
+            },
+            {
+                "name": "Wicked Stu",
+                "file": "stu-wicked.webp"
+            }
+        ]
+    },
+    {
+        "name": "Buster",
+        "rarity": "Mythic",
+        "portrait": "buster.png",
+        "skins": [
+            {
+                "name": "Buster",
+                "file": "buster-default.webp"
+            },
+            {
+                "name": "Chainsaw Buster",
+                "file": "buster-chainsaw.webp"
+            },
+            {
+                "name": "Crocodile Buster",
+                "file": "buster-crocodile.webp"
+            },
+            {
+                "name": "True Gold Buster",
+                "file": "buster-true-gold.webp"
+            },
+            {
+                "name": "True Silver Buster",
+                "file": "buster-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Buzz",
+        "rarity": "Mythic",
+        "portrait": "buzz.png",
+        "skins": [
+            {
+                "name": "Buzz",
+                "file": "buzz-default.webp"
+            },
+            {
+                "name": "Black Godzilla Buzz",
+                "file": "buzz-black-godzilla.webp"
+            },
+            {
+                "name": "Born Bad Buzz",
+                "file": "buzz-born-bad.webp"
+            },
+            {
+                "name": "Buzzette",
+                "file": "buzz-buzzette.webp"
+            },
+            {
+                "name": "Director Buzz",
+                "file": "buzz-director.webp"
+            },
+            {
+                "name": "Eldr Fenrir Buzz",
+                "file": "buzz-eldr-fenrir.webp"
+            },
+            {
+                "name": "Fenrir Buzz",
+                "file": "buzz-fenrir.webp"
+            },
+            {
+                "name": "Filmmaker Buzz",
+                "file": "buzz-filmmaker.webp"
+            },
+            {
+                "name": "Godzilla Buzz",
+                "file": "buzz-godzilla.webp"
+            },
+            {
+                "name": "Kaiju Buzz",
+                "file": "buzz-kaiju.webp"
+            },
+            {
+                "name": "Mørk Fenrir Buzz",
+                "file": "buzz-mørk-fenrir.webp"
+            },
+            {
+                "name": "Red Godzilla Buzz",
+                "file": "buzz-red-godzilla.webp"
+            },
+            {
+                "name": "True Gold Buzz",
+                "file": "buzz-true-gold.webp"
+            },
+            {
+                "name": "True Silver Buzz",
+                "file": "buzz-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Byron",
+        "rarity": "Mythic",
+        "portrait": "byron.png",
+        "skins": [
+            {
+                "name": "Byron",
+                "file": "byron-default.webp"
+            },
+            {
+                "name": "Beach Byron",
+                "file": "byron-beach.webp"
+            },
+            {
+                "name": "Byron the White",
+                "file": "byron-byron-the-white.webp"
+            },
+            {
+                "name": "Overlord Byron",
+                "file": "byron-overlord.webp"
+            },
+            {
+                "name": "Ringmaster Byron",
+                "file": "byron-ringmaster.webp"
+            },
+            {
+                "name": "True Gold Byron",
+                "file": "byron-true-gold.webp"
+            },
+            {
+                "name": "True Silver Byron",
+                "file": "byron-true-silver.webp"
+            },
+            {
+                "name": "Wizard Byron",
+                "file": "byron-wizard.webp"
+            }
+        ]
+    },
+    {
+        "name": "Charlie",
+        "rarity": "Mythic",
+        "portrait": "charlie.png",
+        "skins": [
+            {
+                "name": "Charlie",
+                "file": "charlie-default.webp"
+            },
+            {
+                "name": "Amazing Charlie",
+                "file": "charlie-amazing.webp"
+            },
+            {
+                "name": "Rosie Charlie",
+                "file": "charlie-rosie.webp"
+            },
+            {
+                "name": "True Gold Charlie",
+                "file": "charlie-true-gold.webp"
+            },
+            {
+                "name": "True Silver Charlie",
+                "file": "charlie-true-silver.webp"
+            },
+            {
+                "name": "Virus Charlie",
+                "file": "charlie-virus.webp"
+            }
+        ]
+    },
+    {
+        "name": "Chuck",
+        "rarity": "Mythic",
+        "portrait": "chuck.png",
+        "skins": [
+            {
+                "name": "Chuck",
+                "file": "chuck-default.webp"
+            },
+            {
+                "name": "Desert Scorpion Chuck",
+                "file": "chuck-desert-scorpion.webp"
+            },
+            {
+                "name": "Inferno Chuck",
+                "file": "chuck-inferno.webp"
+            },
+            {
+                "name": "True Gold Chuck",
+                "file": "chuck-true-gold.webp"
+            },
+            {
+                "name": "True Silver Chuck",
+                "file": "chuck-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Clancy",
+        "rarity": "Mythic",
+        "portrait": "clancy.png",
+        "skins": [
+            {
+                "name": "Clancy",
+                "file": "clancy-default.webp"
+            }
+        ]
+    },
+    {
+        "name": "Doug",
+        "rarity": "Mythic",
+        "portrait": "doug.png",
+        "skins": [
+            {
+                "name": "Doug",
+                "file": "doug-default.webp"
+            },
+            {
+                "name": "Draco Doug",
+                "file": "doug-draco.webp"
+            },
+            {
+                "name": "True Gold Doug",
+                "file": "doug-true-gold.webp"
+            },
+            {
+                "name": "True Silver Doug",
+                "file": "doug-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Eve",
+        "rarity": "Mythic",
+        "portrait": "eve.png",
+        "skins": [
+            {
+                "name": "Eve",
+                "file": "eve-default.webp"
+            },
+            {
+                "name": "Baiku Eve",
+                "file": "eve-baiku.webp"
+            },
+            {
+                "name": "Mothra Eve",
+                "file": "eve-mothra.webp"
+            },
+            {
+                "name": "Spiky Eve",
+                "file": "eve-spiky.webp"
+            },
+            {
+                "name": "True Gold Eve",
+                "file": "eve-true-gold.webp"
+            },
+            {
+                "name": "True Silver Eve",
+                "file": "eve-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Fang",
+        "rarity": "Mythic",
+        "portrait": "fang.png",
+        "skins": [
+            {
+                "name": "Fang",
+                "file": "fang-default.webp"
+            },
+            {
+                "name": "Blue Pitcher Fang",
+                "file": "fang-blue-pitcher.webp"
+            },
+            {
+                "name": "Fanguard",
+                "file": "fang-fanguard.webp"
+            },
+            {
+                "name": "Ferocious Fang",
+                "file": "fang-ferocious.webp"
+            },
+            {
+                "name": "Furious Fang",
+                "file": "fang-furious.webp"
+            },
+            {
+                "name": "Kabocha Fang",
+                "file": "fang-kabocha.webp"
+            },
+            {
+                "name": "Octo Fang",
+                "file": "fang-octo.webp"
+            },
+            {
+                "name": "Red Pitcher Fang",
+                "file": "fang-red-pitcher.webp"
+            },
+            {
+                "name": "True Gold Fang",
+                "file": "fang-true-gold.webp"
+            },
+            {
+                "name": "True Silver Fang",
+                "file": "fang-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Gene",
+        "rarity": "Mythic",
+        "portrait": "gene.png",
+        "skins": [
+            {
+                "name": "Gene",
+                "file": "gene-default.webp"
+            },
+            {
+                "name": "Dark Samurai Gene",
+                "file": "gene-dark-samurai.webp"
+            },
+            {
+                "name": "Evil Gene",
+                "file": "gene-evil.webp"
+            },
+            {
+                "name": "Pirate Gene",
+                "file": "gene-pirate.webp"
+            },
+            {
+                "name": "Swamp Gene",
+                "file": "gene-swamp.webp"
+            },
+            {
+                "name": "True Gold Gene",
+                "file": "gene-true-gold.webp"
+            },
+            {
+                "name": "True Silver Gene",
+                "file": "gene-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Gray",
+        "rarity": "Mythic",
+        "portrait": "gray.png",
+        "skins": [
+            {
+                "name": "Gray",
+                "file": "gray-default.webp"
+            },
+            {
+                "name": "Detective Gray",
+                "file": "gray-detective.webp"
+            },
+            {
+                "name": "Detective Gray Noir Edition",
+                "file": "gray-detective-noir.webp"
+            },
+            {
+                "name": "Runaway Gray",
+                "file": "gray-runaway.webp"
+            },
+            {
+                "name": "True Gold Gray",
+                "file": "gray-true-gold.webp"
+            },
+            {
+                "name": "True Silver Gray",
+                "file": "gray-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Janet",
+        "rarity": "Mythic",
+        "portrait": "janet.png",
+        "skins": [
+            {
+                "name": "Janet",
+                "file": "janet-default.webp"
+            },
+            {
+                "name": "Dark Fairy Janet",
+                "file": "janet-dark-fairy.webp"
+            },
+            {
+                "name": "G-Force Janet",
+                "file": "janet-g-force.webp"
+            },
+            {
+                "name": "Lunar Janet",
+                "file": "janet-lunar.webp"
+            },
+            {
+                "name": "Popstar Janet",
+                "file": "janet-popstar.webp"
+            },
+            {
+                "name": "True Gold Janet",
+                "file": "janet-true-gold.webp"
+            },
+            {
+                "name": "True Silver Janet",
+                "file": "janet-true-silver.webp"
+            },
+            {
+                "name": "Valkyrie Janet",
+                "file": "janet-valkyrie.webp"
+            }
+        ]
+    },
+    {
+        "name": "Lily",
+        "rarity": "Mythic",
+        "portrait": "lily.png",
+        "skins": [
+            {
+                "name": "Lily",
+                "file": "lily-default.webp"
+            },
+            {
+                "name": "Strawberry Lily",
+                "file": "lily-strawberry.webp"
+            },
+            {
+                "name": "True Gold Lily",
+                "file": "lily-true-gold.webp"
+            },
+            {
+                "name": "True Silver Lily",
+                "file": "lily-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Lou",
+        "rarity": "Mythic",
+        "portrait": "lou.png",
+        "skins": [
+            {
+                "name": "Lou",
+                "file": "lou-default.webp"
+            },
+            {
+                "name": "Burger Lou",
+                "file": "lou-burger.webp"
+            },
+            {
+                "name": "King Lou",
+                "file": "lou-king.webp"
+            },
+            {
+                "name": "Smooth Lou",
+                "file": "lou-smooth.webp"
+            },
+            {
+                "name": "Stone Troll Lou",
+                "file": "lou-stone-troll.webp"
+            },
+            {
+                "name": "True Gold Lou",
+                "file": "lou-true-gold.webp"
+            },
+            {
+                "name": "True Silver Lou",
+                "file": "lou-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Max",
+        "rarity": "Mythic",
+        "portrait": "max.png",
+        "skins": [
+            {
+                "name": "Max",
+                "file": "max-default.webp"
+            },
+            {
+                "name": "Cony Max",
+                "file": "max-cony.webp"
+            },
+            {
+                "name": "GT Max",
+                "file": "max-gt.webp"
+            },
+            {
+                "name": "Hermes Max",
+                "file": "max-hermes.webp"
+            },
+            {
+                "name": "Leopard Max",
+                "file": "max-leopard.webp"
+            },
+            {
+                "name": "Panther Max",
+                "file": "max-panther.webp"
+            },
+            {
+                "name": "Streetwear Max",
+                "file": "max-streetwear.webp"
+            },
+            {
+                "name": "True Gold Max",
+                "file": "max-true-gold.webp"
+            },
+            {
+                "name": "True Silver Max",
+                "file": "max-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Melodie",
+        "rarity": "Mythic",
+        "portrait": "melodie.png",
+        "skins": [
+            {
+                "name": "Melodie",
+                "file": "melodie-default.webp"
+            },
+            {
+                "name": "Harpy Melodie",
+                "file": "melodie-harpy.webp"
+            },
+            {
+                "name": "Sif Melodie",
+                "file": "melodie-sif.webp"
+            },
+            {
+                "name": "True Gold Melodie",
+                "file": "melodie-true-gold.webp"
+            },
+            {
+                "name": "True Silver Melodie",
+                "file": "melodie-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Mico",
+        "rarity": "Mythic",
+        "portrait": "mico.png",
+        "skins": [
+            {
+                "name": "Mico",
+                "file": "mico-default.webp"
+            },
+            {
+                "name": "Grouch Mico",
+                "file": "mico-grouch.webp"
+            },
+            {
+                "name": "Macaron Mico",
+                "file": "mico-macaron.webp"
+            },
+            {
+                "name": "True Gold Mico",
+                "file": "mico-true-gold.webp"
+            },
+            {
+                "name": "True Silver Mico",
+                "file": "mico-true-silver.webp"
+            },
+            {
+                "name": "Wukong Mico",
+                "file": "mico-wukong.webp"
+            }
+        ]
+    },
+    {
+        "name": "Mortis",
+        "rarity": "Mythic",
+        "portrait": "mortis.png",
+        "skins": [
+            {
+                "name": "Mortis",
+                "file": "mortis-default.webp"
+            },
+            {
+                "name": "Beach Time Mortis",
+                "file": "mortis-beach-time.webp"
+            },
+            {
+                "name": "Dark Mecha Mortis",
+                "file": "mortis-dark-mecha.webp"
+            },
+            {
+                "name": "Gala Mortis",
+                "file": "mortis-gala.webp"
+            },
+            {
+                "name": "Hockey Mortis",
+                "file": "mortis-hockey.webp"
+            },
+            {
+                "name": "Light Mecha Mortis",
+                "file": "mortis-light-mecha.webp"
+            },
+            {
+                "name": "Mecha Mortis",
+                "file": "mortis-mecha.webp"
+            },
+            {
+                "name": "Night Witch Mortis",
+                "file": "mortis-night-witch.webp"
+            },
+            {
+                "name": "Rockabilly Mortis",
+                "file": "mortis-rockabilly.webp"
+            },
+            {
+                "name": "Rogue Mortis",
+                "file": "mortis-rogue.webp"
+            },
+            {
+                "name": "Top Hat Mortis",
+                "file": "mortis-top-hat.webp"
+            },
+            {
+                "name": "True Gold Mortis",
+                "file": "mortis-true-gold.webp"
+            },
+            {
+                "name": "True Gold Mortis",
+                "file": "mortis-true-gold-hat.webp"
+            },
+            {
+                "name": "True Silver Mortis",
+                "file": "mortis-true-silver.webp"
+            },
+            {
+                "name": "True Silver Mortis",
+                "file": "mortis-true-silver-hat.webp"
+            }
+        ]
+    },
+    {
+        "name": "Mr. P",
+        "rarity": "Mythic",
+        "portrait": "mr.-p.png",
+        "skins": [
+            {
+                "name": "Mr. P",
+                "file": "mr.-p-default.webp"
+            },
+            {
+                "name": "Agent P",
+                "file": "mr.-p-agent.webp"
+            },
+            {
+                "name": "Count Pengula",
+                "file": "mr.-p-count-pengula.webp"
+            },
+            {
+                "name": "Daruma Mr. P",
+                "file": "mr.-p-daruma.webp"
+            },
+            {
+                "name": "Mr. Fly",
+                "file": "mr.-p-mr.-fly.webp"
+            },
+            {
+                "name": "Mr Dragonfruit",
+                "file": "mr.-p-mr-dragonfruit.webp"
+            },
+            {
+                "name": "True Gold Mr. P",
+                "file": "mr.-p-true-gold.webp"
+            },
+            {
+                "name": "True Silver Mr. P",
+                "file": "mr.-p-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Otis",
+        "rarity": "Mythic",
+        "portrait": "otis.png",
+        "skins": [
+            {
+                "name": "Otis",
+                "file": "otis-default.webp"
+            },
+            {
+                "name": "Oni Otis",
+                "file": "otis-oni.webp"
+            },
+            {
+                "name": "Pharaotis",
+                "file": "otis-pharaotis.webp"
+            },
+            {
+                "name": "True Gold Otis",
+                "file": "otis-true-gold.webp"
+            },
+            {
+                "name": "True Silver Otis",
+                "file": "otis-true-silver.webp"
+            },
+            {
+                "name": "W Otis",
+                "file": "otis-w.webp"
+            }
+        ]
+    },
+    {
+        "name": "R-T",
+        "rariry": "Mythic",
+        "portrait": "r-t.png",
+        "skins": [
+            {
+                "name": "R-T",
+                "file": "r-t-default.webp"
+            },
+            {
+                "name": "Crimson R-T",
+                "file": "r-t-crimson.webp"
+            },
+            {
+                "name": "Patrol R-T",
+                "file": "r-t-patrol.webp"
+            },
+            {
+                "name": "Poseidon R-T",
+                "file": "r-t-poseidon.webp"
+            },
+            {
+                "name": "True Gold R-T",
+                "file": "r-t-true-gold.webp"
+            },
+            {
+                "name": "True Silver R-T",
+                "file": "r-t-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Ruffs",
+        "rarity": "Mythic",
+        "portrait": "ruffs.png",
+        "skins": [
+            {
+                "name": "Ruffs",
+                "file": "ruffs-default.webp"
+            },
+            {
+                "name": "Marshal Ruffs",
+                "file": "ruffs-marshal.webp"
+            },
+            {
+                "name": "Ronin Ruffs",
+                "file": "ruffs-ronin.webp"
+            },
+            {
+                "name": "Ruffs Chimmy",
+                "file": "ruffs-ruffs-chimmy.webp"
+            },
+            {
+                "name": "True Gold Ruffs",
+                "file": "ruffs-true-gold.webp"
+            },
+            {
+                "name": "True Silver Ruffs",
+                "file": "ruffs-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Sprout",
+        "rarity": "Mythic",
+        "portrait": "sprout.png",
+        "skins": [
+            {
+                "name": "Sprout",
+                "file": "sprout-default.webp"
+            },
+            {
+                "name": "Corrupted Sprout",
+                "file": "sprout-corrupted.webp"
+            },
+            {
+                "name": "Emerald Prince Sprout",
+                "file": "sprout-emerald-prince.webp"
+            },
+            {
+                "name": "Lunar Sprout",
+                "file": "sprout-lunar.webp"
+            },
+            {
+                "name": "Ruby Prince Sprout",
+                "file": "sprout-ruby-prince.webp"
+            },
+            {
+                "name": "Tropical Sprout",
+                "file": "sprout-tropical.webp"
+            },
+            {
+                "name": "True Gold Sprout",
+                "file": "sprout-true-gold.webp"
+            },
+            {
+                "name": "True Silver Sprout",
+                "file": "sprout-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Squeak",
+        "rarity": "Mythic",
+        "portrait": "squeak.png",
+        "skins": [
+            {
+                "name": "Squeak",
+                "file": "squeak-default.webp"
+            },
+            {
+                "name": "First Blob Squeak",
+                "file": "squeak-first-blob.webp"
+            },
+            {
+                "name": "Ghost Squeak",
+                "file": "squeak-ghost.webp"
+            },
+            {
+                "name": "Moon Bunny Squeak",
+                "file": "squeak-moon-bunny.webp"
+            },
+            {
+                "name": "Nerd Squeak",
+                "file": "squeak-nerd.webp"
+            },
+            {
+                "name": "Potato Squeak",
+                "file": "squeak-potato.webp"
+            },
+            {
+                "name": "Squeaky Note",
+                "file": "squeak-squeaky-note.webp"
+            },
+            {
+                "name": "True Gold Squeak",
+                "file": "squeak-true-gold.webp"
+            },
+            {
+                "name": "True Silver Squeak",
+                "file": "squeak-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Tara",
+        "rarity": "Mythic",
+        "portrait": "tara.png",
+        "skins": [
+            {
+                "name": "Tara",
+                "file": "tara-default.webp"
+            },
+            {
+                "name": "Misfortune Tara",
+                "file": "tara-misfortune.webp"
+            },
+            {
+                "name": "Ragequit Tara",
+                "file": "tara-ragequit.webp"
+            },
+            {
+                "name": "Stara",
+                "file": "tara-stara.webp"
+            },
+            {
+                "name": "Street Ninja Tara",
+                "file": "tara-street-ninja.webp"
+            },
+            {
+                "name": "Tempest Tara",
+                "file": "tara-tempest.webp"
+            },
+            {
+                "name": "True Gold Tara",
+                "file": "tara-true-gold.webp"
+            },
+            {
+                "name": "True Silver Tara",
+                "file": "tara-true-silver.webp"
+            },
+            {
+                "name": "Urban Ninja Tara",
+                "file": "tara-urban-ninja.webp"
+            }
+        ]
+    },
+    {
+        "name": "Willow",
+        "rarity": "Mythic",
+        "portrait": "willow.png",
+        "skins": [
+            {
+                "name": "Willow",
+                "file": "willow-default.webp"
+            },
+            {
+                "name": "Axl Willow",
+                "file": "willow-axl.webp"
+            },
+            {
+                "name": "Scorpion Willow",
+                "file": "willow-scorpion.webp"
+            },
+            {
+                "name": "True Gold Willow",
+                "file": "willow-true-gold.webp"
+            },
+            {
+                "name": "True Silver Willow",
+                "file": "willow-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Amber",
+        "rariry": "Legendary",
+        "portrait": "amber.png",
+        "skins": [
+            {
+                "name": "Amber",
+                "file": "amber-default.webp"
+            },
+            {
+                "name": "Amber De La Vega",
+                "file": "amber-amber-de-la-vega.webp"
+            },
+            {
+                "name": "Bubble Trouble Amber",
+                "file": "amber-bubble-trouble.webp"
+            },
+            {
+                "name": "Frost Queen Amber",
+                "file": "amber-frost-queen.webp"
+            },
+            {
+                "name": "True Gold Amber",
+                "file": "amber-true-gold.webp"
+            },
+            {
+                "name": "True Silver Amber",
+                "file": "amber-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Chester",
+        "rariry": "Legendary",
+        "portrait": "chester.png",
+        "skins": [
+            {
+                "name": "Chester",
+                "file": "chester-default.webp"
+            },
+            {
+                "name": "Dark Chester",
+                "file": "chester-dark.webp"
+            },
+            {
+                "name": "Loki Chester",
+                "file": "chester-loki.webp"
+            },
+            {
+                "name": "True Gold Chester",
+                "file": "chester-true-gold.webp"
+            },
+            {
+                "name": "True Silver Chester",
+                "file": "chester-true-silver.webp"
+            },
+            {
+                "name": "Wood Spirit Chester",
+                "file": "chester-wood-spirit.webp"
+            }
+        ]
+    },
+    {
+        "name": "Cordelius",
+        "rariry": "Legendary",
+        "portrait": "cordelius.png",
+        "skins": [
+            {
+                "name": "Cordelius",
+                "file": "cordelius-default.webp"
+            },
+            {
+                "name": "Odin Cordelius",
+                "file": "cordelius-odin.webp"
+            },
+            {
+                "name": "Poison Cap Cordelius",
+                "file": "cordelius-poison-cap.webp"
+            },
+            {
+                "name": "Raider Cordelius",
+                "file": "cordelius-raider.webp"
+            },
+            {
+                "name": "Sporemind Cordelius",
+                "file": "cordelius-sporemind.webp"
+            },
+            {
+                "name": "True Gold Cordelius",
+                "file": "cordelius-true-gold.webp"
+            },
+            {
+                "name": "True Silver Cordelius",
+                "file": "cordelius-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Crow",
+        "rariry": "Legendary",
+        "portrait": "crow.png",
+        "skins": [
+            {
+                "name": "Crow",
+                "file": "crow-default.webp"
+            },
+            {
+                "name": "Captain Crow",
+                "file": "crow-captain.webp"
+            },
+            {
+                "name": "Crowbone",
+                "file": "crow-crowbone.webp"
+            },
+            {
+                "name": "Gold Mecha Crow",
+                "file": "crow-gold-mecha.webp"
+            },
+            {
+                "name": "Mecha Crow",
+                "file": "crow-mecha.webp"
+            },
+            {
+                "name": "Night Mecha Crow",
+                "file": "crow-night-mecha.webp"
+            },
+            {
+                "name": "Phoenix Crow",
+                "file": "crow-phoenix.webp"
+            },
+            {
+                "name": "True Gold Crow",
+                "file": "crow-true-gold.webp"
+            },
+            {
+                "name": "True Silver Crow",
+                "file": "crow-true-silver.webp"
+            },
+            {
+                "name": "White Crow",
+                "file": "crow-white.webp"
+            }
+        ]
+    },
+    {
+        "name": "Draco",
+        "rariry": "Legendary",
+        "portrait": "draco.png",
+        "skins": [
+            {
+                "name": "Draco",
+                "file": "draco-default.webp"
+            },
+            {
+                "name": "Dark Knight Draco",
+                "file": "draco-dark-knight.webp"
+            },
+            {
+                "name": "True Gold Draco",
+                "file": "draco-true-gold.webp"
+            },
+            {
+                "name": "True Silver Draco",
+                "file": "draco-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Kit",
+        "rariry": "Legendary",
+        "portrait": "kit.png",
+        "skins": [
+            {
+                "name": "Kit",
+                "file": "kit-default.webp"
+            },
+            {
+                "name": "Billy the Kit",
+                "file": "kit-billy-the.webp"
+            },
+            {
+                "name": "KitBoxer",
+                "file": "kit-kitboxer.webp"
+            },
+            {
+                "name": "KitBoxer Darkpaw",
+                "file": "kit-kitboxer-darkpaw.webp"
+            },
+            {
+                "name": "KitBoxer Goldpaw",
+                "file": "kit-kitboxer-goldpaw.webp"
+            },
+            {
+                "name": "True Gold Kit",
+                "file": "kit-true-gold.webp"
+            },
+            {
+                "name": "True Silver Kit",
+                "file": "kit-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Leon",
+        "rariry": "Legendary",
+        "portrait": "leon.png",
+        "skins": [
+            {
+                "name": "Leon",
+                "file": "leon-default.webp"
+            },
+            {
+                "name": "Dino Leon",
+                "file": "leon-dino.webp"
+            },
+            {
+                "name": "Leon the Stray",
+                "file": "leon-leon-the-stray.webp"
+            },
+            {
+                "name": "Mecha Leon",
+                "file": "leon-mecha.webp"
+            },
+            {
+                "name": "Radiant Mecha Leon",
+                "file": "leon-radiant-mecha.webp"
+            },
+            {
+                "name": "Sally Leon",
+                "file": "leon-sally.webp"
+            },
+            {
+                "name": "Shadow Mecha Leon",
+                "file": "leon-shadow-mecha.webp"
+            },
+            {
+                "name": "Shark Leon",
+                "file": "leon-shark.webp"
+            },
+            {
+                "name": "Trick or Treat Leon",
+                "file": "leon-trick-or-treat.webp"
+            },
+            {
+                "name": "True Gold Leon",
+                "file": "leon-true-gold.webp"
+            },
+            {
+                "name": "True Silver Leon",
+                "file": "leon-true-silver.webp"
+            },
+            {
+                "name": "Werewolf Leon",
+                "file": "leon-werewolf.webp"
+            },
+            {
+                "name": "White Wolf Leon",
+                "file": "leon-white-wolf.webp"
+            }
+        ]
+    },
+    {
+        "name": "Meg",
+        "rariry": "Legendary",
+        "portrait": "meg.png",
+        "skins": [
+            {
+                "name": "Meg",
+                "file": "meg-default.webp"
+            },
+            {
+                "name": "Beetle Meg",
+                "file": "meg-beetle.webp"
+            },
+            {
+                "name": "Jaguar Spirit Meg",
+                "file": "meg-jaguar-spirit.webp"
+            },
+            {
+                "name": "Megalodon Meg",
+                "file": "meg-megalodon.webp"
+            },
+            {
+                "name": "Monster Truck Meg",
+                "file": "meg-monster-truck.webp"
+            },
+            {
+                "name": "True Gold Meg",
+                "file": "meg-true-gold.webp"
+            },
+            {
+                "name": "True Silver Meg",
+                "file": "meg-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Sandy",
+        "rariry": "Legendary",
+        "portrait": "sandy.png",
+        "skins": [
+            {
+                "name": "Sandy",
+                "file": "sandy-default.webp"
+            },
+            {
+                "name": "Lantern Sandy",
+                "file": "sandy-lantern.webp"
+            },
+            {
+                "name": "Nightmare Sandy",
+                "file": "sandy-nightmare.webp"
+            },
+            {
+                "name": "Sandy Koya",
+                "file": "sandy-sandy-koya.webp"
+            },
+            {
+                "name": "Sleepy Sandy",
+                "file": "sandy-sleepy.webp"
+            },
+            {
+                "name": "Sugar Rush Sandy",
+                "file": "sandy-sugar-rush.webp"
+            },
+            {
+                "name": "True Gold Sandy",
+                "file": "sandy-true-gold.webp"
+            },
+            {
+                "name": "True Silver Sandy",
+                "file": "sandy-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Spike",
+        "rariry": "Legendary",
+        "portrait": "spike.png",
+        "skins": [
+            {
+                "name": "Spike",
+                "file": "spike-default.webp"
+            },
+            {
+                "name": "Dark Lord Spike",
+                "file": "spike-dark-lord.webp"
+            },
+            {
+                "name": "Logmas Spike",
+                "file": "spike-logmas.webp"
+            },
+            {
+                "name": "Mask Spike",
+                "file": "spike-mask.webp"
+            },
+            {
+                "name": "Poop Spike",
+                "file": "spike-poop.webp"
+            },
+            {
+                "name": "Pyro Spike",
+                "file": "spike-pyro.webp"
+            },
+            {
+                "name": "Robo Spike",
+                "file": "spike-robo.webp"
+            },
+            {
+                "name": "Sakura Spike",
+                "file": "spike-sakura.webp"
+            },
+            {
+                "name": "Toon Spike",
+                "file": "spike-toon.webp"
+            },
+            {
+                "name": "True Gold Spike",
+                "file": "spike-true-gold.webp"
+            },
+            {
+                "name": "True Silver Spike",
+                "file": "spike-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Surge",
+        "rariry": "Legendary",
+        "portrait": "surge.png",
+        "skins": [
+            {
+                "name": "Surge",
+                "file": "surge-default.webp"
+            },
+            {
+                "name": "DIY Surge",
+                "file": "surge-diy.webp"
+            },
+            {
+                "name": "Kraken Surge",
+                "file": "surge-kraken.webp"
+            },
+            {
+                "name": "Mecha Paladin Surge",
+                "file": "surge-mecha-paladin.webp"
+            },
+            {
+                "name": "Scarlet Paladin Surge",
+                "file": "surge-scarlet-paladin.webp"
+            },
+            {
+                "name": "Surge Kong",
+                "file": "surge-surge-kong.webp"
+            },
+            {
+                "name": "Surgenie",
+                "file": "surge-surgenie.webp"
+            },
+            {
+                "name": "True Gold Surge",
+                "file": "surge-true-gold.webp"
+            },
+            {
+                "name": "True Silver Surge",
+                "file": "surge-true-silver.webp"
+            }
+        ]
+    }
+]

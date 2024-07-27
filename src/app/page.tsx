@@ -1,8 +1,8 @@
-import BrawlerPortrait from "@/components/BrawlerPortrait";
+import PortraitCard from "@/components/PortraitCard";
 import { BrawlerRarity, PortraitData } from "@/types/BrawlerTypes";
 
 const allBrawlers: PortraitData[] = [
-  { name: '8-BIT', path: '/images/portraits/8bit.png', rarity: BrawlerRarity.SuperRare },
+  { name: '8-BIT', path: '/images/portraits/8-bit.png', rarity: BrawlerRarity.SuperRare },
   { name: 'AMBER', path: '/images/portraits/amber.png', rarity: BrawlerRarity.Legendary },
   { name: 'ANGELO', path: '/images/portraits/angelo.png', rarity: BrawlerRarity.Epic },
   { name: 'ASH', path: '/images/portraits/ash.png', rarity: BrawlerRarity.Epic },
@@ -32,7 +32,7 @@ const allBrawlers: PortraitData[] = [
   { name: 'DRACO', path: '/images/portraits/draco.png', rarity: BrawlerRarity.Legendary },
   { name: 'DYNAMIKE', path: '/images/portraits/dynamike.png', rarity: BrawlerRarity.SuperRare },
   { name: 'EDGAR', path: '/images/portraits/edgar.png', rarity: BrawlerRarity.Epic },
-  { name: 'EL PRIMO', path: '/images/portraits/elprimo.png', rarity: BrawlerRarity.Rare },
+  { name: 'EL PRIMO', path: '/images/portraits/el-primo.png', rarity: BrawlerRarity.Rare },
   { name: 'EMZ', path: '/images/portraits/emz.png', rarity: BrawlerRarity.Epic },
   { name: 'EVE', path: '/images/portraits/eve.png', rarity: BrawlerRarity.Mythic },
   { name: 'FANG', path: '/images/portraits/fang.png', rarity: BrawlerRarity.Mythic },
@@ -48,7 +48,7 @@ const allBrawlers: PortraitData[] = [
   { name: 'JANET', path: '/images/portraits/janet.png', rarity: BrawlerRarity.Mythic },
   { name: 'JESSIE', path: '/images/portraits/jessie.png', rarity: BrawlerRarity.SuperRare },
   { name: 'KIT', path: '/images/portraits/kit.png', rarity: BrawlerRarity.Legendary },
-  { name: 'LARRY & LAWRIE', path: '/images/portraits/larry&lawrie.png', rarity: BrawlerRarity.Epic },
+  { name: 'LARRY & LAWRIE', path: '/images/portraits/larry-&-lawrie.png', rarity: BrawlerRarity.Epic },
   { name: 'LEON', path: '/images/portraits/leon.png', rarity: BrawlerRarity.Legendary },
   { name: 'LILY', path: '/images/portraits/lily.png', rarity: BrawlerRarity.Mythic },
   { name: 'LOLA', path: '/images/portraits/lola.png', rarity: BrawlerRarity.Epic },
@@ -60,7 +60,7 @@ const allBrawlers: PortraitData[] = [
   { name: 'MELODIE', path: '/images/portraits/melodie.png', rarity: BrawlerRarity.Mythic },
   { name: 'MICO', path: '/images/portraits/mico.png', rarity: BrawlerRarity.Mythic },
   { name: 'MORTIS', path: '/images/portraits/mortis.png', rarity: BrawlerRarity.Mythic },
-  { name: 'MR. P', path: '/images/portraits/mrp.png', rarity: BrawlerRarity.Mythic },
+  { name: 'MR. P', path: '/images/portraits/mr.-p.png', rarity: BrawlerRarity.Mythic },
   { name: 'NANI', path: '/images/portraits/nani.png', rarity: BrawlerRarity.Epic },
   { name: 'NITA', path: '/images/portraits/nita.png', rarity: BrawlerRarity.Rare },
   { name: 'OTIS', path: '/images/portraits/otis.png', rarity: BrawlerRarity.Mythic },
@@ -71,7 +71,7 @@ const allBrawlers: PortraitData[] = [
   { name: 'POCO', path: '/images/portraits/poco.png', rarity: BrawlerRarity.Rare },
   { name: 'RICO', path: '/images/portraits/rico.png', rarity: BrawlerRarity.SuperRare },
   { name: 'ROSA', path: '/images/portraits/rosa.png', rarity: BrawlerRarity.Rare },
-  { name: 'R-T', path: '/images/portraits/rt.png', rarity: BrawlerRarity.Mythic },
+  { name: 'R-T', path: '/images/portraits/r-t.png', rarity: BrawlerRarity.Mythic },
   { name: 'RUFFS', path: '/images/portraits/ruffs.png', rarity: BrawlerRarity.Mythic },
   { name: 'SAM', path: '/images/portraits/sam.png', rarity: BrawlerRarity.Epic },
   { name: 'SANDY', path: '/images/portraits/sandy.png', rarity: BrawlerRarity.Legendary },
@@ -105,11 +105,11 @@ const colorVariants = {
 
 function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitData[] }) {
   return (
-    <div className="flex flex-col items-center gap-2 py-4">
+    <div className="py-4 flex flex-col items-center gap-2">
       <h2 className={`w-full text-xl ${colorVariants[brawlers[0].rarity]}`}>{title}</h2>
       <div className="w-fit grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
         {brawlers.map(portrait => (
-          <BrawlerPortrait key={portrait.name} portrait={portrait} />
+          <PortraitCard key={portrait.name} portrait={portrait} />
         ))}
       </div>
     </div>

@@ -9,7 +9,7 @@
 <h3 align="center">Brawlstars Explorer</h3>
 
   <p align="center">
-    A project showcasing official assets from Brawlstars.
+    A project showcasing assets from Brawlstars.
     <br />
     <br />
     <a href="https://brawlstars-explorer.vercel.app">View Demo</a>
@@ -41,7 +41,7 @@
 
 ## About The Project
 
-This is a personal Next.js project showcasing [official asset art from Brawlstars](https://fankit.supercell.com/d/YvtsWV4pUQVm/).
+This is a personal Next.js project showcasing asset art from Brawlstars.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -51,8 +51,6 @@ This is a personal Next.js project showcasing [official asset art from Brawlstar
 [![React][React-badge]][React-url]
 [![TypeScript][TypeScript-badge]][TypeScript-url]
 [![Tailwind_CSS][Tailwind-badge]][Tailwind-url]
-[![ESLint][ESLint-badge]][ESLint-url]
-[![Prettier][Prettier-badge]][Prettier-url]
 [![Vercel][Vercel-badge]][Vercel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
