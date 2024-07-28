@@ -1,5 +1,14 @@
 import SkinCard from "@/components/SkinCard";
 import { getBrawlerData } from "@/utils/assetFetcher";
+import { Metadata } from "next";
+
+export async function generateMetadata({ params: { brawlerName } }: { params: { brawlerName: string } }): Promise<Metadata> {
+  const decodedBrawlerName = decodeURIComponent(brawlerName);
+
+  return {
+    title: `Brawlstars Explorer | ${decodedBrawlerName}`
+  }
+}
 
 export default function BrawlerPage({ params: { brawlerName } }: { params: { brawlerName: string } }) {
   const decodedBrawlerName = decodeURIComponent(brawlerName);

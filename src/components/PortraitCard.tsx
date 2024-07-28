@@ -18,12 +18,13 @@ export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
     triggerOnce: true
   });
 
+  const upperCaseName = portrait.name.toUpperCase();
   // Pearl's portrait is narrower than the others...not sure if this will get fixed in the future
-  const objectFit = portrait.name === 'PEARL' ? 'cover' : 'contain';
+  const objectFit = upperCaseName === 'PEARL' ? 'cover' : 'contain';
 
   return (
-    <Link href={`/${portrait.name}`} prefetch={false}>
-      <figure className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded-md transition-transform 
+    <Link href={`/${portrait.name}`} prefetch={false} draggable={false}>
+      <figure draggable={false} className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded-md transition-transform 
                        hover:scale-105 hover:border-white hover:bg-white">
         <div ref={ref} className={`relative w-[160px] aspect-[16/10] border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}>
           <Image
@@ -36,7 +37,7 @@ export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
             className={`select-none transition-opacity ease-linear ${inView ? 'opacity-100' : 'opacity-0'}`}
           />
           <figcaption className="absolute px-1 bottom-0 right-0 text-sm leading-5">
-            {portrait.name}
+            {upperCaseName}
           </figcaption>
         </div>
       </figure>
