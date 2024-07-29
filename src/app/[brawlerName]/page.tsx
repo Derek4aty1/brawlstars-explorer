@@ -14,7 +14,7 @@ export default function BrawlerPage({ params: { brawlerName } }: { params: { bra
   const decodedBrawlerName = decodeURIComponent(brawlerName);
   const brawlerData = getBrawlerData(decodedBrawlerName);
 
-  // Data file should be sorted already, but if not then sort alphabetically after default skin
+  // Data file should be sorted already, but if not then sort alphabetically after default skin, which is the same name as the brawler
   const skins = brawlerData.skins.sort((a, b) => {
     const aNameLower = a.name.toLowerCase();
     const bNameLower = b.name.toLowerCase();
