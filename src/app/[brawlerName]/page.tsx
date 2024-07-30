@@ -1,6 +1,7 @@
 import SkinCard from "@/components/SkinCard";
-import { getBrawlerData } from "@/utils/assetFetcher";
+import { getBrawlerData, getAllBrawlerNames } from "@/utils/assetFetcher";
 import { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 export async function generateMetadata({ params: { brawlerName } }: { params: { brawlerName: string } }): Promise<Metadata> {
   const decodedBrawlerName = decodeURIComponent(brawlerName);
@@ -10,11 +11,22 @@ export async function generateMetadata({ params: { brawlerName } }: { params: { 
   }
 }
 
-export default function BrawlerPage({ params: { brawlerName } }: { params: { brawlerName: string } }) {
-  const decodedBrawlerName = decodeURIComponent(brawlerName);
-  const brawlerData = getBrawlerData(decodedBrawlerName);
+export function generateStaticParams() {
+  const brawlerNames = getAllBrawlerNames();
+  return brawlerNames.map(name => ({
+    brawlerName: name
+  }));
+}
 
-  // Data file should be sorted already, but if not then sort alphabetically after default skin, which is the same name as the brawler
+export default async function BrawlerPage({ params: { brawlerName } }: { params: { brawlerName: string } }) {
+  const decodedBrawlerName = decodeURIComponent(brawlerName);
+  const brawlerData = await getBrawlerData(decodedBrawlerName);
+
+  if (!brawlerData) {
+    return notFound();
+  }
+
+  // Data file should be sorted already...but if not then sort alphabetically after default skin, which is the same name as the brawler
   const skins = brawlerData.skins.sort((a, b) => {
     const aNameLower = a.name.toLowerCase();
     const bNameLower = b.name.toLowerCase();

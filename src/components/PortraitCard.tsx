@@ -23,7 +23,7 @@ export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
   const objectFit = upperCaseName === 'PEARL' ? 'cover' : 'contain';
 
   return (
-    <Link href={`/${portrait.name}`} prefetch={false} draggable={false}>
+    <Link href={`/${portrait.name}`} prefetch={false} draggable={false} className="active:scale-95">
       <figure draggable={false} className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded-md transition-transform 
                        hover:scale-105 hover:border-white hover:bg-white">
         <div ref={ref} className={`relative w-[160px] aspect-[16/10] border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}>

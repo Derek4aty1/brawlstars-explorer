@@ -23,7 +23,7 @@ export default function RootLayout({
             <source src="/videos/brawl-lobby-animated.mp4" type="video/mp4" className="select-none" />
           </video>
         </div>
-        <main className="flex-1 p-8">
+        <main className="flex flex-1 p-8 justify-center items-start">
           {children}
           <Analytics />
         </main>

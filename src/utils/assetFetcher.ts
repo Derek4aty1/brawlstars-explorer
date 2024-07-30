@@ -1,21 +1,31 @@
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import { cache } from 'react';
 
-export function getBrawlerData(brawlerName: string): BrawlerData {
+export const getCachedAllBrawlerData = cache(async () => {
   const filePath = join(process.cwd(), 'public', 'data', 'brawlerData.json');
   const fileContents = readFileSync(filePath, 'utf8');
   const allBrawlerData: BrawlerData[] = JSON.parse(fileContents);
-  const brawlerData = allBrawlerData.find(data => data.name.toLowerCase() === brawlerName.toLowerCase());
-
-  if (!brawlerData) {
-    throw new Error(`Brawler data not found for brawler "${brawlerName}".`);
-  }
-
-  brawlerData.skins.forEach(skin => {
-    skin.file = `/images/skins/${skin.file}`;
+  allBrawlerData.forEach(brawler => {
+    brawler.skins.forEach(skin => {
+      skin.file = `/images/skins/${skin.file}`;
+    });
   });
+  return allBrawlerData;
+});
 
+export async function getBrawlerData(brawlerName: string): Promise<BrawlerData | undefined> {
+  const allBrawlerData = await getCachedAllBrawlerData();
+  const brawlerData = allBrawlerData.find(data => data.name.toLowerCase() === brawlerName.toLowerCase());
   return brawlerData;
+}
+
+export function getAllBrawlerNames(): string[] {
+  const filePath = join(process.cwd(), 'public', 'data', 'brawlerData.json');
+  const fileContents = readFileSync(filePath, 'utf8');
+  const allBrawlerData: BrawlerData[] = JSON.parse(fileContents);
+  const allBrawlerNames = allBrawlerData.map(brawler => brawler.name);
+  return allBrawlerNames;
 }
 
 type BrawlerData = {
