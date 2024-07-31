@@ -2,6 +2,7 @@
 import { BrawlerRarity, PortraitData } from "@/types/BrawlerTypes";
 import Image from "next/image";
 import Link from "next/link";
+import { useState } from "react";
 import { useInView } from "react-intersection-observer";
 
 const colorVariants = {
@@ -14,6 +15,7 @@ const colorVariants = {
 };
 
 export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
+  const [isLoaded, setIsLoaded] = useState(false);
   const { ref, inView } = useInView({
     triggerOnce: true
   });
@@ -33,8 +35,9 @@ export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
             fill={true}
             draggable={false}
             sizes="(max-width: 768px) 100vw, 50vw"
+            onLoad={() => setIsLoaded(true)}
             style={{ objectFit: objectFit, objectPosition: "left" }}
-            className={`select-none transition-opacity ease-linear ${inView ? 'opacity-100' : 'opacity-0'}`}
+            className={`select-none transition-opacity ease-linear ${isLoaded && inView ? 'opacity-100' : 'opacity-0'}`}
           />
           <figcaption className="absolute px-1 bottom-0 right-0 text-sm leading-5">
             {upperCaseName}

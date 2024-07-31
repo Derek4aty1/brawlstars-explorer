@@ -1,7 +1,7 @@
 import SkinCard from "@/components/SkinCard";
 import { getBrawlerData, getAllBrawlerNames } from "@/utils/assetFetcher";
 import { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 
 export async function generateMetadata({ params: { brawlerName } }: { params: { brawlerName: string } }): Promise<Metadata> {
   const decodedBrawlerName = decodeURIComponent(brawlerName);
@@ -24,6 +24,11 @@ export default async function BrawlerPage({ params: { brawlerName } }: { params:
 
   if (!brawlerData) {
     return notFound();
+  }
+
+  // Redirect for casing differences
+  if (decodedBrawlerName !== brawlerData.name) {
+    return redirect(`/${brawlerData.name}`);
   }
 
   // Data file should be sorted already...but if not then sort alphabetically after default skin, which is the same name as the brawler
