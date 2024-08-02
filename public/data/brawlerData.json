@@ -2249,6 +2249,10 @@
             {
                 "name": "Clancy",
                 "file": "clancy-default.webp"
+            },
+            {
+                "name": "High Stakes Clancy",
+                "file": "clancy-high-stakes.webp"
             }
         ]
     },
