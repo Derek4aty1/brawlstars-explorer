@@ -3274,8 +3274,20 @@
                 "file": "sandy-default.webp"
             },
             {
+                "name": "Glowing Jellyfish Sandy",
+                "file": "sandy-glowing-jellyfish.webp"
+            },
+            {
+                "name": "Jellyfish Sandy",
+                "file": "sandy-jellyfish.webp"
+            },
+            {
                 "name": "Lantern Sandy",
                 "file": "sandy-lantern.webp"
+            },
+            {
+                "name": "Neon Jellyfish Sandy",
+                "file": "sandy-neon-jellyfish.webp"
             },
             {
                 "name": "Nightmare Sandy",

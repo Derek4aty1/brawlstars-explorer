@@ -32,10 +32,10 @@ export default async function BrawlerPage({ params: { brawlerName } }: { params:
   }
 
   // Data file should be sorted already...but if not then sort alphabetically after default skin, which is the same name as the brawler
+  const decodedLower = decodedBrawlerName.toLowerCase();
   const skins = brawlerData.skins.sort((a, b) => {
     const aNameLower = a.name.toLowerCase();
     const bNameLower = b.name.toLowerCase();
-    const decodedLower = decodedBrawlerName.toLowerCase();
 
     if (aNameLower === decodedLower && bNameLower === decodedLower) {
       return 0;
