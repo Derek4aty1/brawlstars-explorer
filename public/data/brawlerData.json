@@ -1610,6 +1610,10 @@
                 "file": "gale-nutcracker.webp"
             },
             {
+                "name": "Shell Blaster Gale",
+                "file": "gale-shell-blaster.webp"
+            },
+            {
                 "name": "Squeakbuster Gale",
                 "file": "gale-squeakbuster.webp"
             },
@@ -2828,6 +2832,10 @@
             {
                 "name": "Sprout",
                 "file": "sprout-default.webp"
+            },
+            {
+                "name": "Aquamarine Sprout",
+                "file": "sprout-aquamarine.webp"
             },
             {
                 "name": "Corrupted Sprout",
