@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { useInView } from "react-intersection-observer";
 
-const colorVariants = {
+const rarityBackgroundColors = {
   [BrawlerRarity.TrophyRoad]: 'bg-trophy-road',
   [BrawlerRarity.Rare]: 'bg-rare',
   [BrawlerRarity.SuperRare]: 'bg-super-rare',
@@ -25,12 +25,12 @@ export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
   const objectFit = upperCaseName === 'PEARL' ? 'cover' : 'contain';
 
   return (
-    <Link href={`/${portrait.name}`} prefetch={false} draggable={false} className="active:scale-95">
+    <Link href={`/${portrait.name}`} prefetch={false} draggable={false} className="transition-transform active:scale-95">
       <figure draggable={false} className="flex flex-col items-center gap-2 border-[3px] border-transparent rounded-md transition-transform 
                        hover:scale-105 hover:border-white hover:bg-white">
-        <div ref={ref} className={`relative w-[160px] aspect-[16/10] border-[3px] border-black shadow-2xl rounded ${colorVariants[portrait.rarity]}`}>
+        <div ref={ref} className={`relative w-[160px] aspect-[16/10] border-[3px] border-black shadow-2xl rounded ${rarityBackgroundColors[portrait.rarity]}`}>
           <Image
-            src={portrait.path}
+            src={portrait.imageSrc}
             alt={`${portrait.name} portrait`}
             fill={true}
             draggable={false}

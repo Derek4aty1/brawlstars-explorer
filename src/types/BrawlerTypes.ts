@@ -1,6 +1,17 @@
+export type BrawlerData = {
+    name: string;
+    rarity: BrawlerRarity;
+    portrait: string;
+    description: string;
+    skins: {
+        name: string;
+        imageSrc: string;
+    }[];
+};
+
 export type PortraitData = {
     name: string,
-    path: string,
+    imageSrc: string,
     rarity: BrawlerRarity
 };
 

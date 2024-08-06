@@ -10,7 +10,7 @@ export default function SkinCard({ name, file }: { name: string, file: string })
   });
 
   return (
-    <figure key={name} className="flex flex-col w-full justify-center items-center">
+    <figure className="flex flex-col w-full justify-center items-center">
       <div ref={ref} className="relative h-[256px] w-[256px]">
         <Image
           src={file}

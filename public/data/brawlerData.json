@@ -1,3427 +1,3509 @@
 [
     {
         "name": "Shelly",
-        "rarity": "Trophy Road",
+        "rarity": 0,
         "portrait": "shelly.png",
+        "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
         "skins": [
             {
                 "name": "Shelly",
-                "file": "shelly-default.webp"
+                "imageSrc": "shelly-default.webp"
             },
             {
                 "name": "America Shelly",
-                "file": "shelly-america.webp"
+                "imageSrc": "shelly-america.webp"
             },
             {
                 "name": "Bandita Shelly",
-                "file": "shelly-bandita.webp"
+                "imageSrc": "shelly-bandita.webp"
             },
             {
                 "name": "Boca Juniors Shelly",
-                "file": "shelly-boca-juniors.webp"
+                "imageSrc": "shelly-boca-juniors.webp"
             },
             {
                 "name": "Classic Shelly",
-                "file": "shelly-classic.webp"
+                "imageSrc": "shelly-classic.webp"
             },
             {
                 "name": "Hoot Hoot Shelly",
-                "file": "shelly-hoot-hoot.webp"
+                "imageSrc": "shelly-hoot-hoot.webp"
             },
             {
                 "name": "Princess Shelly",
-                "file": "shelly-princess.webp"
+                "imageSrc": "shelly-princess.webp"
             },
             {
                 "name": "PSG Shelly",
-                "file": "shelly-psg.webp"
+                "imageSrc": "shelly-psg.webp"
             },
             {
                 "name": "Shelly Dancer",
-                "file": "shelly-shelly-dancer.webp"
+                "imageSrc": "shelly-shelly-dancer.webp"
             },
             {
                 "name": "Shelly Dancer Dahlia",
-                "file": "shelly-shelly-dancer-dahlia.webp"
+                "imageSrc": "shelly-shelly-dancer-dahlia.webp"
             },
             {
                 "name": "Shelly Dancer Iris",
-                "file": "shelly-shelly-dancer-iris.webp"
+                "imageSrc": "shelly-shelly-dancer-iris.webp"
             },
             {
                 "name": "Sheriff Shelly",
-                "file": "shelly-sheriff.webp"
+                "imageSrc": "shelly-sheriff.webp"
             },
             {
                 "name": "Squad Buster Shelly",
-                "file": "shelly-squad-buster.webp"
+                "imageSrc": "shelly-squad-buster.webp"
             },
             {
                 "name": "Star Shelly",
-                "file": "shelly-star.webp"
+                "imageSrc": "shelly-star.webp"
             },
             {
                 "name": "Stellar Shelly",
-                "file": "shelly-stellar.webp"
+                "imageSrc": "shelly-stellar.webp"
             },
             {
                 "name": "True Gold Shelly",
-                "file": "shelly-true-gold.webp"
+                "imageSrc": "shelly-true-gold.webp"
             },
             {
                 "name": "True Silver Shelly",
-                "file": "shelly-true-silver.webp"
+                "imageSrc": "shelly-true-silver.webp"
             },
             {
                 "name": "U De Chile Shelly",
-                "file": "shelly-u-de-chile.webp"
+                "imageSrc": "shelly-u-de-chile.webp"
             },
             {
                 "name": "Witch Shelly",
-                "file": "shelly-witch.webp"
+                "imageSrc": "shelly-witch.webp"
             }
         ]
     },
     {
         "name": "Barley",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "barley.png",
+        "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
         "skins": [
             {
                 "name": "Barley",
-                "file": "barley-default.webp"
+                "imageSrc": "barley-default.webp"
             },
             {
                 "name": "Bakesale Barley",
-                "file": "barley-bakesale.webp"
+                "imageSrc": "barley-bakesale.webp"
             },
             {
                 "name": "Golden Barley",
-                "file": "barley-golden.webp"
+                "imageSrc": "barley-golden.webp"
             },
             {
                 "name": "Maple Barley",
-                "file": "barley-maple.webp"
+                "imageSrc": "barley-maple.webp"
             },
             {
                 "name": "Red Wizard Barley",
-                "file": "barley-red-wizard.webp"
+                "imageSrc": "barley-red-wizard.webp"
             },
             {
                 "name": "Sway Master Barley",
-                "file": "barley-sway-master.webp"
+                "imageSrc": "barley-sway-master.webp"
             },
             {
                 "name": "True Gold Barley",
-                "file": "barley-true-gold.webp"
+                "imageSrc": "barley-true-gold.webp"
             },
             {
                 "name": "True Silver Barley",
-                "file": "barley-true-silver.webp"
+                "imageSrc": "barley-true-silver.webp"
             },
             {
                 "name": "Unicorn Knight Barley",
-                "file": "barley-unicorn-knight.webp"
+                "imageSrc": "barley-unicorn-knight.webp"
             },
             {
                 "name": "Wizard Barley",
-                "file": "barley-wizard.webp"
+                "imageSrc": "barley-wizard.webp"
             }
         ]
     },
     {
         "name": "Brock",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "brock.png",
+        "description": "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!",
         "skins": [
             {
                 "name": "Brock",
-                "file": "brock-default.webp"
+                "imageSrc": "brock-default.webp"
             },
             {
                 "name": "Beach Brock",
-                "file": "brock-beach.webp"
+                "imageSrc": "brock-beach.webp"
             },
             {
                 "name": "Boom Box Brock",
-                "file": "brock-boom-box.webp"
+                "imageSrc": "brock-boom-box.webp"
             },
             {
                 "name": "Deputy Brock",
-                "file": "brock-deputy.webp"
+                "imageSrc": "brock-deputy.webp"
             },
             {
                 "name": "Gold Hacker Brock",
-                "file": "brock-gold-hacker.webp"
+                "imageSrc": "brock-gold-hacker.webp"
             },
             {
                 "name": "Hacker Brock",
-                "file": "brock-hacker.webp"
+                "imageSrc": "brock-hacker.webp"
             },
             {
                 "name": "Hot Rod Brock",
-                "file": "brock-hot-rod.webp"
+                "imageSrc": "brock-hot-rod.webp"
             },
             {
                 "name": "Lion Dance Brock",
-                "file": "brock-lion-dance.webp"
+                "imageSrc": "brock-lion-dance.webp"
             },
             {
                 "name": "Old School Brock",
-                "file": "brock-old-school.webp"
+                "imageSrc": "brock-old-school.webp"
             },
             {
                 "name": "Postal Brock",
-                "file": "brock-postal.webp"
+                "imageSrc": "brock-postal.webp"
             },
             {
                 "name": "RGB Hacker Brock",
-                "file": "brock-rgb-hacker.webp"
+                "imageSrc": "brock-rgb-hacker.webp"
             },
             {
                 "name": "Rocket Brown Brock",
-                "file": "brock-rocket-brown.webp"
+                "imageSrc": "brock-rocket-brown.webp"
             },
             {
                 "name": "Super Ranger Brock",
-                "file": "brock-super-ranger.webp"
+                "imageSrc": "brock-super-ranger.webp"
             },
             {
                 "name": "Super Ranger Brock Black",
-                "file": "brock-super-ranger-brock-black.webp"
+                "imageSrc": "brock-super-ranger-brock-black.webp"
             },
             {
                 "name": "Super Ranger Brock Blue",
-                "file": "brock-super-ranger-brock-blue.webp"
+                "imageSrc": "brock-super-ranger-brock-blue.webp"
             },
             {
                 "name": "Super Ranger Brock Pink",
-                "file": "brock-super-ranger-brock-pink.webp"
+                "imageSrc": "brock-super-ranger-brock-pink.webp"
             },
             {
                 "name": "Super Ranger Brock Red",
-                "file": "brock-super-ranger-brock-red.webp"
+                "imageSrc": "brock-super-ranger-brock-red.webp"
             },
             {
                 "name": "Super Ranger Brock Yellow",
-                "file": "brock-super-ranger-brock-yellow.webp"
+                "imageSrc": "brock-super-ranger-brock-yellow.webp"
             },
             {
                 "name": "True Gold Brock",
-                "file": "brock-true-gold.webp"
+                "imageSrc": "brock-true-gold.webp"
             },
             {
                 "name": "True Silver Brock",
-                "file": "brock-true-silver.webp"
+                "imageSrc": "brock-true-silver.webp"
             },
             {
                 "name": "Zeus Brock",
-                "file": "brock-zeus.webp"
+                "imageSrc": "brock-zeus.webp"
             },
             {
                 "name": "ZomBrock",
-                "file": "brock-zombrock.webp"
+                "imageSrc": "brock-zombrock.webp"
             }
         ]
     },
     {
         "name": "Bull",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "bull.png",
+        "description": "Bull isn't as carefree as he was in his youth, but just because his rowdy days are behind him doesn't mean he won't still crush someone who's asking for it.",
         "skins": [
             {
                 "name": "Bull",
-                "file": "bull-default.webp"
+                "imageSrc": "bull-default.webp"
             },
             {
                 "name": "Alleycat Bull",
-                "file": "bull-alleycat.webp"
+                "imageSrc": "bull-alleycat.webp"
             },
             {
                 "name": "B-800 Bull",
-                "file": "bull-b-800.webp"
+                "imageSrc": "bull-b-800.webp"
             },
             {
                 "name": "Barbarian King Bull",
-                "file": "bull-barbarian-king.webp"
+                "imageSrc": "bull-barbarian-king.webp"
             },
             {
                 "name": "Bull Mang",
-                "file": "bull-bull-mang.webp"
+                "imageSrc": "bull-bull-mang.webp"
             },
             {
                 "name": "Linebacker Bull",
-                "file": "bull-linebacker.webp"
+                "imageSrc": "bull-linebacker.webp"
             },
             {
                 "name": "Lion Bull",
-                "file": "bull-lion.webp"
+                "imageSrc": "bull-lion.webp"
             },
             {
                 "name": "Minotaur Bull",
-                "file": "bull-minotaur.webp"
+                "imageSrc": "bull-minotaur.webp"
             },
             {
                 "name": "Norse Raider Bull",
-                "file": "bull-norse-raider.webp"
+                "imageSrc": "bull-norse-raider.webp"
             },
             {
                 "name": "Space Ox Bull",
-                "file": "bull-space-ox.webp"
+                "imageSrc": "bull-space-ox.webp"
             },
             {
                 "name": "Touchdown Bull",
-                "file": "bull-touchdown.webp"
+                "imageSrc": "bull-touchdown.webp"
             },
             {
                 "name": "True Gold Bull",
-                "file": "bull-true-gold.webp"
+                "imageSrc": "bull-true-gold.webp"
             },
             {
                 "name": "True Silver Bull",
-                "file": "bull-true-silver.webp"
+                "imageSrc": "bull-true-silver.webp"
             },
             {
                 "name": "Viking Bull",
-                "file": "bull-viking.webp"
+                "imageSrc": "bull-viking.webp"
             }
         ]
     },
     {
         "name": "Colt",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "colt.png",
+        "description": "Colt is the star attraction at Starr Park! His good looks, charisma and gun twirling tricks win over any audience, except maybe Shelly.",
         "skins": [
             {
                 "name": "Colt",
-                "file": "colt-default.webp"
+                "imageSrc": "colt-default.webp"
             },
             {
                 "name": "Atl. Nacional Colt",
-                "file": "colt-atl.-nacional.webp"
+                "imageSrc": "colt-atl.-nacional.webp"
             },
             {
                 "name": "Bananas Colt",
-                "file": "colt-bananas.webp"
+                "imageSrc": "colt-bananas.webp"
             },
             {
                 "name": "Cerro Porteño Colt",
-                "file": "colt-cerro-porteño.webp"
+                "imageSrc": "colt-cerro-porteño.webp"
             },
             {
                 "name": "Challenger Colt",
-                "file": "colt-challenger.webp"
+                "imageSrc": "colt-challenger.webp"
             },
             {
                 "name": "Club America Colt",
-                "file": "colt-club-america.webp"
+                "imageSrc": "colt-club-america.webp"
             },
             {
                 "name": "Corsair Colt",
-                "file": "colt-corsair.webp"
+                "imageSrc": "colt-corsair.webp"
             },
             {
                 "name": "Dark Angel Colt",
-                "file": "colt-dark-angel.webp"
+                "imageSrc": "colt-dark-angel.webp"
             },
             {
                 "name": "Gunslinger Colt",
-                "file": "colt-gunslinger.webp"
+                "imageSrc": "colt-gunslinger.webp"
             },
             {
                 "name": "Handsome Colt",
-                "file": "colt-handsome.webp"
+                "imageSrc": "colt-handsome.webp"
             },
             {
                 "name": "Mecha Colt",
-                "file": "colt-mecha.webp"
+                "imageSrc": "colt-mecha.webp"
             },
             {
                 "name": "Outlaw Colt",
-                "file": "colt-outlaw.webp"
+                "imageSrc": "colt-outlaw.webp"
             },
             {
                 "name": "Paragon Mecha Colt",
-                "file": "colt-paragon-mecha.webp"
+                "imageSrc": "colt-paragon-mecha.webp"
             },
             {
                 "name": "Renegade Mecha Colt",
-                "file": "colt-renegade-mecha.webp"
+                "imageSrc": "colt-renegade-mecha.webp"
             },
             {
                 "name": "River Plate Colt",
-                "file": "colt-river-plate.webp"
+                "imageSrc": "colt-river-plate.webp"
             },
             {
                 "name": "Rockstar Colt",
-                "file": "colt-rockstar.webp"
+                "imageSrc": "colt-rockstar.webp"
             },
             {
                 "name": "Royal Agent Colt",
-                "file": "colt-royal-agent.webp"
+                "imageSrc": "colt-royal-agent.webp"
             },
             {
                 "name": "Sharktooth Colt",
-                "file": "colt-sharktooth.webp"
+                "imageSrc": "colt-sharktooth.webp"
             },
             {
                 "name": "True Gold Colt",
-                "file": "colt-true-gold.webp"
+                "imageSrc": "colt-true-gold.webp"
             },
             {
                 "name": "True Silver Colt",
-                "file": "colt-true-silver.webp"
+                "imageSrc": "colt-true-silver.webp"
             }
         ]
     },
     {
         "name": "El Primo",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "el-primo.png",
+        "description": "El Primo is always in the spotlight and that's right where he wants to be! There's no audience he can't win over, except maybe his fellow performers...",
         "skins": [
             {
                 "name": "El Primo",
-                "file": "el-primo-default.webp"
+                "imageSrc": "el-primo-default.webp"
             },
             {
                 "name": "El Atómico",
-                "file": "el-primo-el-atómico.webp"
+                "imageSrc": "el-primo-el-atómico.webp"
             },
             {
                 "name": "El Baby Shark",
-                "file": "el-primo-el-baby-shark.webp"
+                "imageSrc": "el-primo-el-baby-shark.webp"
             },
             {
                 "name": "El Brown",
-                "file": "el-primo-el-brown.webp"
+                "imageSrc": "el-primo-el-brown.webp"
             },
             {
                 "name": "El Corazón",
-                "file": "el-primo-el-corazón.webp"
+                "imageSrc": "el-primo-el-corazón.webp"
             },
             {
                 "name": "El Dragón Rosado",
-                "file": "el-primo-el-dragón-rosado.webp"
+                "imageSrc": "el-primo-el-dragón-rosado.webp"
             },
             {
                 "name": "El Dragón Verdoso",
-                "file": "el-primo-el-dragón-verdoso.webp"
+                "imageSrc": "el-primo-el-dragón-verdoso.webp"
             },
             {
                 "name": "El Mayordomo",
-                "file": "el-primo-el-mayordomo.webp"
+                "imageSrc": "el-primo-el-mayordomo.webp"
             },
             {
                 "name": "El Primo Club Nacional",
-                "file": "el-primo-el-primo-club-nacional.webp"
+                "imageSrc": "el-primo-el-primo-club-nacional.webp"
             },
             {
                 "name": "El Primo Corinthians",
-                "file": "el-primo-el-primo-corinthians.webp"
+                "imageSrc": "el-primo-el-primo-corinthians.webp"
             },
             {
                 "name": "El Primo Universitario",
-                "file": "el-primo-el-primo-universitario.webp"
+                "imageSrc": "el-primo-el-primo-universitario.webp"
             },
             {
                 "name": "El Quarterback",
-                "file": "el-primo-el-quarterback.webp"
+                "imageSrc": "el-primo-el-quarterback.webp"
             },
             {
                 "name": "El Rey Primo",
-                "file": "el-primo-el-rey-primo.webp"
+                "imageSrc": "el-primo-el-rey-primo.webp"
             },
             {
                 "name": "El Rudo Primo",
-                "file": "el-primo-el-rudo-primo.webp"
+                "imageSrc": "el-primo-el-rudo-primo.webp"
             },
             {
                 "name": "El Tigro",
-                "file": "el-primo-el-tigro.webp"
+                "imageSrc": "el-primo-el-tigro.webp"
             },
             {
                 "name": "True Gold El Primo",
-                "file": "el-primo-true-gold.webp"
+                "imageSrc": "el-primo-true-gold.webp"
             },
             {
                 "name": "True Silver El Primo",
-                "file": "el-primo-true-silver.webp"
+                "imageSrc": "el-primo-true-silver.webp"
             }
         ]
     },
     {
         "name": "Nita",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "nita.png",
+        "description": "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.",
         "skins": [
             {
                 "name": "Nita",
-                "file": "nita-default.webp"
+                "imageSrc": "nita-default.webp"
             },
             {
                 "name": "Gummy Bear Nita",
-                "file": "nita-gummybear.webp"
+                "imageSrc": "nita-gummybear.webp"
             },
             {
                 "name": "Koala Nita",
-                "file": "nita-koala.webp"
+                "imageSrc": "nita-koala.webp"
             },
             {
                 "name": "Mechagodzilla Nita",
-                "file": "nita-mechagodzilla.webp"
+                "imageSrc": "nita-mechagodzilla.webp"
             },
             {
                 "name": "Nian Nita",
-                "file": "nita-nian.webp"
+                "imageSrc": "nita-nian.webp"
             },
             {
                 "name": "Panda Nita",
-                "file": "nita-panda.webp"
+                "imageSrc": "nita-panda.webp"
             },
             {
                 "name": "Red Nose Nita",
-                "file": "nita-red-nose.webp"
+                "imageSrc": "nita-red-nose.webp"
             },
             {
                 "name": "Rui Shou Nita",
-                "file": "nita-rui-shou.webp"
+                "imageSrc": "nita-rui-shou.webp"
             },
             {
                 "name": "Shiba Nita",
-                "file": "nita-shiba.webp"
+                "imageSrc": "nita-shiba.webp"
             },
             {
                 "name": "True Gold Nita",
-                "file": "nita-true-gold.webp"
+                "imageSrc": "nita-true-gold.webp"
             },
             {
                 "name": "True Silver Nita",
-                "file": "nita-true-silver.webp"
+                "imageSrc": "nita-true-silver.webp"
             },
             {
                 "name": "Tusked Nita",
-                "file": "nita-tusked.webp"
+                "imageSrc": "nita-tusked.webp"
             },
             {
                 "name": "Whale Watch Nita",
-                "file": "nita-whale-watch.webp"
+                "imageSrc": "nita-whale-watch.webp"
             }
         ]
     },
     {
         "name": "Poco",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "poco.png",
+        "description": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
         "skins": [
             {
                 "name": "Poco",
-                "file": "poco-default.webp"
+                "imageSrc": "poco-default.webp"
             },
             {
                 "name": "CCTV Poco",
-                "file": "poco-cctv.webp"
+                "imageSrc": "poco-cctv.webp"
             },
             {
                 "name": "Desperado Poco",
-                "file": "poco-desperado.webp"
+                "imageSrc": "poco-desperado.webp"
             },
             {
                 "name": "Pirate Poco",
-                "file": "poco-pirate.webp"
+                "imageSrc": "poco-pirate.webp"
             },
             {
                 "name": "Poco Starr",
-                "file": "poco-poco-starr.webp"
+                "imageSrc": "poco-poco-starr.webp"
             },
             {
                 "name": "Serenade Poco",
-                "file": "poco-serenade.webp"
+                "imageSrc": "poco-serenade.webp"
             },
             {
                 "name": "Trash Poco",
-                "file": "poco-trash.webp"
+                "imageSrc": "poco-trash.webp"
             },
             {
                 "name": "True Gold Poco",
-                "file": "poco-true-gold.webp"
+                "imageSrc": "poco-true-gold.webp"
             },
             {
                 "name": "True Silver Poco",
-                "file": "poco-true-silver.webp"
+                "imageSrc": "poco-true-silver.webp"
             }
         ]
     },
     {
         "name": "Rosa",
-        "rarity": "Rare",
+        "rarity": 1,
         "portrait": "rosa.png",
+        "description": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
         "skins": [
             {
                 "name": "Rosa",
-                "file": "rosa-default.webp"
+                "imageSrc": "rosa-default.webp"
             },
             {
                 "name": "Brawl-o-ween Rosa",
-                "file": "rosa-brawl-o-ween.webp"
+                "imageSrc": "rosa-brawl-o-ween.webp"
             },
             {
                 "name": "Cheerleader Rosa",
-                "file": "rosa-cheerleader.webp"
+                "imageSrc": "rosa-cheerleader.webp"
             },
             {
                 "name": "Coco Rosa",
-                "file": "rosa-coco.webp"
+                "imageSrc": "rosa-coco.webp"
             },
             {
                 "name": "Major Rosa",
-                "file": "rosa-major.webp"
+                "imageSrc": "rosa-major.webp"
             },
             {
                 "name": "Mantis Rosa",
-                "file": "rosa-mantis.webp"
+                "imageSrc": "rosa-mantis.webp"
             },
             {
                 "name": "True Gold Rosa",
-                "file": "rosa-true-gold.webp"
+                "imageSrc": "rosa-true-gold.webp"
             },
             {
                 "name": "True Silver Rosa",
-                "file": "rosa-true-silver.webp"
+                "imageSrc": "rosa-true-silver.webp"
             }
         ]
     },
     {
         "name": "8-Bit",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "8-bit.png",
+        "description": "An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before.",
         "skins": [
             {
                 "name": "8-Bit",
-                "file": "8-bit-default.webp"
+                "imageSrc": "8-bit-default.webp"
             },
             {
                 "name": "8-Bit Classic",
-                "file": "8-bit-classic.webp"
+                "imageSrc": "8-bit-classic.webp"
             },
             {
                 "name": "Antivirus 8-Bit",
-                "file": "8-bit-antivirus.webp"
+                "imageSrc": "8-bit-antivirus.webp"
             },
             {
                 "name": "Haunted House 8-Bit",
-                "file": "8-bit-haunted-house.webp"
+                "imageSrc": "8-bit-haunted-house.webp"
             },
             {
                 "name": "Piano 8-Bit",
-                "file": "8-bit-piano.webp"
+                "imageSrc": "8-bit-piano.webp"
             },
             {
                 "name": "Saloon 8-Bit",
-                "file": "8-bit-saloon.webp"
+                "imageSrc": "8-bit-saloon.webp"
             },
             {
                 "name": "True Gold 8-Bit",
-                "file": "8-bit-true-gold.webp"
+                "imageSrc": "8-bit-true-gold.webp"
             },
             {
                 "name": "True Silver 8-Bit",
-                "file": "8-bit-true-silver.webp"
+                "imageSrc": "8-bit-true-silver.webp"
             },
             {
                 "name": "V8-Bit",
-                "file": "8-bit-v8-bit.webp"
+                "imageSrc": "8-bit-v8-bit.webp"
             },
             {
                 "name": "Virus 8-Bit",
-                "file": "8-bit-virus.webp"
+                "imageSrc": "8-bit-virus.webp"
             }
         ]
     },
     {
         "name": "Carl",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "carl.png",
+        "description": "Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!",
         "skins": [
             {
                 "name": "Carl",
-                "file": "carl-default.webp"
+                "imageSrc": "carl-default.webp"
             },
             {
                 "name": "Biker Carl",
-                "file": "carl-biker.webp"
+                "imageSrc": "carl-biker.webp"
             },
             {
                 "name": "Captain Carl",
-                "file": "carl-captain.webp"
+                "imageSrc": "carl-captain.webp"
             },
             {
                 "name": "Dark Tide Carl",
-                "file": "carl-dark-tide.webp"
+                "imageSrc": "carl-dark-tide.webp"
             },
             {
                 "name": "Goblin Carl",
-                "file": "carl-goblin.webp"
+                "imageSrc": "carl-goblin.webp"
             },
             {
                 "name": "Hog Rider Carl",
-                "file": "carl-hog-rider.webp"
+                "imageSrc": "carl-hog-rider.webp"
             },
             {
                 "name": "Leonard Carl",
-                "file": "carl-leonard.webp"
+                "imageSrc": "carl-leonard.webp"
             },
             {
                 "name": "Road Rage Carl",
-                "file": "carl-road-rage.webp"
+                "imageSrc": "carl-road-rage.webp"
             },
             {
                 "name": "Sultan Carl",
-                "file": "carl-sultan.webp"
+                "imageSrc": "carl-sultan.webp"
             },
             {
                 "name": "Surfer Carl",
-                "file": "carl-surfer.webp"
+                "imageSrc": "carl-surfer.webp"
             },
             {
                 "name": "True Gold Carl",
-                "file": "carl-true-gold.webp"
+                "imageSrc": "carl-true-gold.webp"
             },
             {
                 "name": "True Silver Carl",
-                "file": "carl-true-silver.webp"
+                "imageSrc": "carl-true-silver.webp"
             }
         ]
     },
     {
         "name": "Darryl",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "darryl.png",
+        "description": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
         "skins": [
             {
                 "name": "Darryl",
-                "file": "darryl-default.webp"
+                "imageSrc": "darryl-default.webp"
             },
             {
                 "name": "Crash Test Darryl",
-                "file": "darryl-crash-test.webp"
+                "imageSrc": "darryl-crash-test.webp"
             },
             {
                 "name": "Cupcake Darryl",
-                "file": "darryl-cupcake.webp"
+                "imageSrc": "darryl-cupcake.webp"
             },
             {
                 "name": "D4R-RY1",
-                "file": "darryl-d4r-ry1.webp"
+                "imageSrc": "darryl-d4r-ry1.webp"
             },
             {
                 "name": "Dumpling Darryl",
-                "file": "darryl-dumpling.webp"
+                "imageSrc": "darryl-dumpling.webp"
             },
             {
                 "name": "Mascot Darryl",
-                "file": "darryl-mascot.webp"
+                "imageSrc": "darryl-mascot.webp"
             },
             {
                 "name": "Mega Box Darryl",
-                "file": "darryl-mega-box.webp"
+                "imageSrc": "darryl-mega-box.webp"
             },
             {
                 "name": "Omega Box Darryl",
-                "file": "darryl-omega-box.webp"
+                "imageSrc": "darryl-omega-box.webp"
             },
             {
                 "name": "True Gold Darryl",
-                "file": "darryl-true-gold.webp"
+                "imageSrc": "darryl-true-gold.webp"
             },
             {
                 "name": "True Silver Darryl",
-                "file": "darryl-true-silver.webp"
+                "imageSrc": "darryl-true-silver.webp"
             }
         ]
     },
     {
         "name": "Dynamike",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "dynamike.png",
+        "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
         "skins": [
             {
                 "name": "Dynamike",
-                "file": "dynamike-default.webp"
+                "imageSrc": "dynamike-default.webp"
             },
             {
                 "name": "Bellhop Mike",
-                "file": "dynamike-bellhop-mike.webp"
+                "imageSrc": "dynamike-bellhop-mike.webp"
             },
             {
                 "name": "Boomer Dynamike",
-                "file": "dynamike-boomer.webp"
+                "imageSrc": "dynamike-boomer.webp"
             },
             {
                 "name": "Chivas Mike",
-                "file": "dynamike-chivas-mike.webp"
+                "imageSrc": "dynamike-chivas-mike.webp"
             },
             {
                 "name": "Classic Dynamike",
-                "file": "dynamike-classic.webp"
+                "imageSrc": "dynamike-classic.webp"
             },
             {
                 "name": "Coach Mike",
-                "file": "dynamike-coach-mike.webp"
+                "imageSrc": "dynamike-coach-mike.webp"
             },
             {
                 "name": "Dynasty Mike",
-                "file": "dynamike-dynasty-mike.webp"
+                "imageSrc": "dynamike-dynasty-mike.webp"
             },
             {
                 "name": "Flamengo Mike",
-                "file": "dynamike-flamengo-mike.webp"
+                "imageSrc": "dynamike-flamengo-mike.webp"
             },
             {
                 "name": "LDU Quito Mike",
-                "file": "dynamike-ldu-quito-mike.webp"
+                "imageSrc": "dynamike-ldu-quito-mike.webp"
             },
             {
                 "name": "Moldy Mike",
-                "file": "dynamike-moldy-mike.webp"
+                "imageSrc": "dynamike-moldy-mike.webp"
             },
             {
                 "name": "PSG Mike",
-                "file": "dynamike-psg-mike.webp"
+                "imageSrc": "dynamike-psg-mike.webp"
             },
             {
                 "name": "Robo Mike",
-                "file": "dynamike-robo-mike.webp"
+                "imageSrc": "dynamike-robo-mike.webp"
             },
             {
                 "name": "Santa Mike",
-                "file": "dynamike-santa-mike.webp"
+                "imageSrc": "dynamike-santa-mike.webp"
             },
             {
                 "name": "Spicy Mike",
-                "file": "dynamike-spicy-mike.webp"
+                "imageSrc": "dynamike-spicy-mike.webp"
             },
             {
                 "name": "Tengu Mike",
-                "file": "dynamike-tengu-mike.webp"
+                "imageSrc": "dynamike-tengu-mike.webp"
             },
             {
                 "name": "True Gold Dynamike",
-                "file": "dynamike-true-gold.webp"
+                "imageSrc": "dynamike-true-gold.webp"
             },
             {
                 "name": "True Silver Dynamike",
-                "file": "dynamike-true-silver.webp"
+                "imageSrc": "dynamike-true-silver.webp"
             }
         ]
     },
     {
         "name": "Gus",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "gus.png",
+        "description": "Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared.",
         "skins": [
             {
                 "name": "Gus",
-                "file": "gus-default.webp"
+                "imageSrc": "gus-default.webp"
             },
             {
                 "name": "Balloon Sally Gus",
-                "file": "gus-balloon-sally.webp"
+                "imageSrc": "gus-balloon-sally.webp"
             },
             {
                 "name": "Boy Scout Gus",
-                "file": "gus-boy-scout.webp"
+                "imageSrc": "gus-boy-scout.webp"
             },
             {
                 "name": "True Gold Gus",
-                "file": "gus-true-gold.webp"
+                "imageSrc": "gus-true-gold.webp"
             },
             {
                 "name": "True Silver Gus",
-                "file": "gus-true-silver.webp"
+                "imageSrc": "gus-true-silver.webp"
             },
             {
                 "name": "World Champion Gus",
-                "file": "gus-world-champion.webp"
+                "imageSrc": "gus-world-champion.webp"
             }
         ]
     },
     {
         "name": "Jacky",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "jacky.png",
+        "description": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer.",
         "skins": [
             {
                 "name": "Jacky",
-                "file": "jacky-default.webp"
+                "imageSrc": "jacky-default.webp"
             },
             {
                 "name": "Constructor Jacky",
-                "file": "jacky-constructor.webp"
+                "imageSrc": "jacky-constructor.webp"
             },
             {
                 "name": "Cuttlefish Jacky",
-                "file": "jacky-cuttlefish.webp"
+                "imageSrc": "jacky-cuttlefish.webp"
             },
             {
                 "name": "Gift Express Jacky",
-                "file": "jacky-gift-express.webp"
+                "imageSrc": "jacky-gift-express.webp"
             },
             {
                 "name": "Jacky Cooky",
-                "file": "jacky-jacky-cooky.webp"
+                "imageSrc": "jacky-jacky-cooky.webp"
             },
             {
                 "name": "Jet Ski Jacky",
-                "file": "jacky-jet-ski.webp"
+                "imageSrc": "jacky-jet-ski.webp"
             },
             {
                 "name": "True Gold Jacky",
-                "file": "jacky-true-gold.webp"
+                "imageSrc": "jacky-true-gold.webp"
             },
             {
                 "name": "True Silver Jacky",
-                "file": "jacky-true-silver.webp"
+                "imageSrc": "jacky-true-silver.webp"
             },
             {
                 "name": "Ultra Driller Jacky",
-                "file": "jacky-ultra-driller.webp"
+                "imageSrc": "jacky-ultra-driller.webp"
             },
             {
                 "name": "Wave Hopper Jacky",
-                "file": "jacky-wave-hopper.webp"
+                "imageSrc": "jacky-wave-hopper.webp"
             }
         ]
     },
     {
         "name": "Jessie",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "jessie.png",
+        "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
         "skins": [
             {
                 "name": "Jessie",
-                "file": "jessie-default.webp"
+                "imageSrc": "jessie-default.webp"
             },
             {
                 "name": "Cat Burglar Jessie",
-                "file": "jessie-cat-burglar.webp"
+                "imageSrc": "jessie-cat-burglar.webp"
             },
             {
                 "name": "Doll Jessie",
-                "file": "jessie-doll.webp"
+                "imageSrc": "jessie-doll.webp"
             },
             {
                 "name": "Dragon Knight Jessie",
-                "file": "jessie-dragon-knight.webp"
+                "imageSrc": "jessie-dragon-knight.webp"
             },
             {
                 "name": "Red Dragon Jessie",
-                "file": "jessie-red-dragon.webp"
+                "imageSrc": "jessie-red-dragon.webp"
             },
             {
                 "name": "Shadow Knight Jessie",
-                "file": "jessie-shadow-knight.webp"
+                "imageSrc": "jessie-shadow-knight.webp"
             },
             {
                 "name": "Skadi Jessie",
-                "file": "jessie-skadi.webp"
+                "imageSrc": "jessie-skadi.webp"
             },
             {
                 "name": "Summer Jessie",
-                "file": "jessie-summer.webp"
+                "imageSrc": "jessie-summer.webp"
             },
             {
                 "name": "Tanuki Jessie",
-                "file": "jessie-tanuki.webp"
+                "imageSrc": "jessie-tanuki.webp"
             },
             {
                 "name": "True Gold Jessie",
-                "file": "jessie-true-gold.webp"
+                "imageSrc": "jessie-true-gold.webp"
             },
             {
                 "name": "True Silver Jessie",
-                "file": "jessie-true-silver.webp"
+                "imageSrc": "jessie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Penny",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "penny.png",
+        "description": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
         "skins": [
             {
                 "name": "Penny",
-                "file": "penny-default.webp"
+                "imageSrc": "penny-default.webp"
             },
             {
                 "name": "Bunny Penny",
-                "file": "penny-bunny.webp"
+                "imageSrc": "penny-bunny.webp"
             },
             {
                 "name": "Dark Bunny Penny",
-                "file": "penny-dark-bunny.webp"
+                "imageSrc": "penny-dark-bunny.webp"
             },
             {
                 "name": "Lil Helper Penny",
-                "file": "penny-lil-helper.webp"
+                "imageSrc": "penny-lil-helper.webp"
             },
             {
                 "name": "Moon-curser Penny",
-                "file": "penny-moon-curser.webp"
+                "imageSrc": "penny-moon-curser.webp"
             },
             {
                 "name": "Smuggler Penny",
-                "file": "penny-smuggler.webp"
+                "imageSrc": "penny-smuggler.webp"
             },
             {
                 "name": "Trash Panda Penny",
-                "file": "penny-trash-panda.webp"
+                "imageSrc": "penny-trash-panda.webp"
             },
             {
                 "name": "True Gold Penny",
-                "file": "penny-true-gold.webp"
+                "imageSrc": "penny-true-gold.webp"
             },
             {
                 "name": "True Silver Penny",
-                "file": "penny-true-silver.webp"
+                "imageSrc": "penny-true-silver.webp"
             }
         ]
     },
     {
         "name": "Rico",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "rico.png",
+        "description": "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.",
         "skins": [
             {
                 "name": "Rico",
-                "file": "rico-default.webp"
+                "imageSrc": "rico-default.webp"
             },
             {
                 "name": "Chicken Rico",
-                "file": "rico-chicken.webp"
+                "imageSrc": "rico-chicken.webp"
             },
             {
                 "name": "Final Boss Rico",
-                "file": "rico-final-boss.webp"
+                "imageSrc": "rico-final-boss.webp"
             },
             {
                 "name": "Firefly Rico",
-                "file": "rico-firefly.webp"
+                "imageSrc": "rico-firefly.webp"
             },
             {
                 "name": "Guard Rico",
-                "file": "rico-guard.webp"
+                "imageSrc": "rico-guard.webp"
             },
             {
                 "name": "Loaded Rico",
-                "file": "rico-loaded.webp"
+                "imageSrc": "rico-loaded.webp"
             },
             {
                 "name": "Popcorn Rico",
-                "file": "rico-popcorn.webp"
+                "imageSrc": "rico-popcorn.webp"
             },
             {
                 "name": "Reloaded Ricochet",
-                "file": "rico-reloaded-ricochet.webp"
+                "imageSrc": "rico-reloaded-ricochet.webp"
             },
             {
                 "name": "Ricochet",
-                "file": "rico-ricochet.webp"
+                "imageSrc": "rico-ricochet.webp"
             },
             {
                 "name": "Sovereign Bling Rico",
-                "file": "rico-sovereign-bling.webp"
+                "imageSrc": "rico-sovereign-bling.webp"
             },
             {
                 "name": "Sovereign Gem Rico",
-                "file": "rico-sovereign-gem.webp"
+                "imageSrc": "rico-sovereign-gem.webp"
             },
             {
                 "name": "Sovereign Rico",
-                "file": "rico-sovereign.webp"
+                "imageSrc": "rico-sovereign.webp"
             },
             {
                 "name": "True Gold Rico",
-                "file": "rico-true-gold.webp"
+                "imageSrc": "rico-true-gold.webp"
             },
             {
                 "name": "True Silver Rico",
-                "file": "rico-true-silver.webp"
+                "imageSrc": "rico-true-silver.webp"
             }
         ]
     },
     {
         "name": "Tick",
-        "rarity": "Super Rare",
+        "rarity": 2,
         "portrait": "tick.png",
+        "description": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
         "skins": [
             {
                 "name": "Tick",
-                "file": "tick-default.webp"
+                "imageSrc": "tick-default.webp"
             },
             {
                 "name": "Cerberus Tick",
-                "file": "tick-cerberus.webp"
+                "imageSrc": "tick-cerberus.webp"
             },
             {
                 "name": "King Crab Tick",
-                "file": "tick-king-crab.webp"
+                "imageSrc": "tick-king-crab.webp"
             },
             {
                 "name": "Mecha Tick Ghidorah",
-                "file": "tick-mecha-tick-ghidorah.webp"
+                "imageSrc": "tick-mecha-tick-ghidorah.webp"
             },
             {
                 "name": "Mecha Tick Ghidorah Dark",
-                "file": "tick-mecha-tick-ghidorah-dark.webp"
+                "imageSrc": "tick-mecha-tick-ghidorah-dark.webp"
             },
             {
                 "name": "Mecha Tick Ghidorah Light",
-                "file": "tick-mecha-tick-ghidorah-light.webp"
+                "imageSrc": "tick-mecha-tick-ghidorah-light.webp"
             },
             {
                 "name": "Snowman Tick",
-                "file": "tick-snowman.webp"
+                "imageSrc": "tick-snowman.webp"
             },
             {
                 "name": "Tick Shooky",
-                "file": "tick-tick-shooky.webp"
+                "imageSrc": "tick-tick-shooky.webp"
             },
             {
                 "name": "True Gold Tick",
-                "file": "tick-true-gold.webp"
+                "imageSrc": "tick-true-gold.webp"
             },
             {
                 "name": "True Silver Tick",
-                "file": "tick-true-silver.webp"
+                "imageSrc": "tick-true-silver.webp"
             }
         ]
     },
     {
         "name": "Angelo",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "angelo.png",
+        "description": "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.",
         "skins": [
             {
                 "name": "Angelo",
-                "file": "angelo-default.webp"
+                "imageSrc": "angelo-default.webp"
             },
             {
                 "name": "Dionysus Angelo",
-                "file": "angelo-dionysus.webp"
+                "imageSrc": "angelo-dionysus.webp"
             },
             {
                 "name": "Elf Angelo",
-                "file": "angelo-elf.webp"
+                "imageSrc": "angelo-elf.webp"
             },
             {
                 "name": "True Gold Angelo",
-                "file": "angelo-true-gold.webp"
+                "imageSrc": "angelo-true-gold.webp"
             },
             {
                 "name": "True Silver Angelo",
-                "file": "angelo-true-silver.webp"
+                "imageSrc": "angelo-true-silver.webp"
             }
         ]
     },
     {
         "name": "Ash",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "ash.png",
+        "description": "Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!",
         "skins": [
             {
                 "name": "Ash",
-                "file": "ash-default.webp"
+                "imageSrc": "ash-default.webp"
             },
             {
                 "name": "Krampus Ash",
-                "file": "ash-krampus.webp"
+                "imageSrc": "ash-krampus.webp"
             },
             {
                 "name": "Ninja Ash",
-                "file": "ash-ninja.webp"
+                "imageSrc": "ash-ninja.webp"
             },
             {
                 "name": "Piñata Ash",
-                "file": "ash-piñata.webp"
+                "imageSrc": "ash-piñata.webp"
             },
             {
                 "name": "Pizza Oven Ash",
-                "file": "ash-pizza-oven.webp"
+                "imageSrc": "ash-pizza-oven.webp"
             },
             {
                 "name": "True Gold Ash",
-                "file": "ash-true-gold.webp"
+                "imageSrc": "ash-true-gold.webp"
             },
             {
                 "name": "True Silver Ash",
-                "file": "ash-true-silver.webp"
+                "imageSrc": "ash-true-silver.webp"
             }
         ]
     },
     {
         "name": "Bea",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "bea.png",
+        "description": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them...or even what it's like to be one.",
         "skins": [
             {
                 "name": "Bea",
-                "file": "bea-default.webp"
+                "imageSrc": "bea-default.webp"
             },
             {
                 "name": "Archvillain Bea",
-                "file": "bea-archvillain.webp"
+                "imageSrc": "bea-archvillain.webp"
             },
             {
                 "name": "Bea Byte",
-                "file": "bea-bea-byte.webp"
+                "imageSrc": "bea-bea-byte.webp"
             },
             {
                 "name": "Gold Neko Bea",
-                "file": "bea-gold-neko.webp"
+                "imageSrc": "bea-gold-neko.webp"
             },
             {
                 "name": "Ladybug Bea",
-                "file": "bea-ladybug.webp"
+                "imageSrc": "bea-ladybug.webp"
             },
             {
                 "name": "Mega Beetle Bea",
-                "file": "bea-mega-beetle.webp"
+                "imageSrc": "bea-mega-beetle.webp"
             },
             {
                 "name": "Neko Bea",
-                "file": "bea-neko.webp"
+                "imageSrc": "bea-neko.webp"
             },
             {
                 "name": "True Gold Bea",
-                "file": "bea-true-gold.webp"
+                "imageSrc": "bea-true-gold.webp"
             },
             {
                 "name": "True Silver Bea",
-                "file": "bea-true-silver.webp"
+                "imageSrc": "bea-true-silver.webp"
             }
         ]
     },
     {
         "name": "Belle",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "belle.png",
+        "description": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
         "skins": [
             {
                 "name": "Belle",
-                "file": "belle-default.webp"
+                "imageSrc": "belle-default.webp"
             },
             {
                 "name": "Belle Goldhand",
-                "file": "belle-belle-goldhand.webp"
+                "imageSrc": "belle-belle-goldhand.webp"
             },
             {
                 "name": "Coral Belle",
-                "file": "belle-coral.webp"
+                "imageSrc": "belle-coral.webp"
             },
             {
                 "name": "Ivy Belle",
-                "file": "belle-ivy.webp"
+                "imageSrc": "belle-ivy.webp"
             },
             {
                 "name": "True Gold Belle",
-                "file": "belle-true-gold.webp"
+                "imageSrc": "belle-true-gold.webp"
             },
             {
                 "name": "True Silver Belle",
-                "file": "belle-true-silver.webp"
+                "imageSrc": "belle-true-silver.webp"
             }
         ]
     },
     {
         "name": "Berry",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "berry.png",
+        "description": "Working at Mandy's Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.",
         "skins": [
             {
                 "name": "Berry",
-                "file": "berry-default.webp"
+                "imageSrc": "berry-default.webp"
             },
             {
                 "name": "Dark Horse Berry",
-                "file": "berry-dark-horse.webp"
+                "imageSrc": "berry-dark-horse.webp"
             }
         ]
     },
     {
         "name": "Bibi",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "bibi.png",
+        "description": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
         "skins": [
             {
                 "name": "Bibi",
-                "file": "bibi-default.webp"
+                "imageSrc": "bibi-default.webp"
             },
             {
                 "name": "Bibi Gamer",
-                "file": "bibi-gamer.webp"
+                "imageSrc": "bibi-gamer.webp"
             },
             {
                 "name": "Bibi RJ",
-                "file": "bibi-bibi-rj.webp"
+                "imageSrc": "bibi-bibi-rj.webp"
             },
             {
                 "name": "Bibi Vicious",
-                "file": "bibi-vicious.webp"
+                "imageSrc": "bibi-vicious.webp"
             },
             {
                 "name": "Bibilante",
-                "file": "bibi-bibilante.webp"
+                "imageSrc": "bibi-bibilante.webp"
             },
             {
                 "name": "Bubblegum Bibi",
-                "file": "bibi-bubblegum.webp"
+                "imageSrc": "bibi-bubblegum.webp"
             },
             {
                 "name": "Cursed Pirate Bibi",
-                "file": "bibi-cursed-pirate.webp"
+                "imageSrc": "bibi-cursed-pirate.webp"
             },
             {
                 "name": "Heroine Bibi",
-                "file": "bibi-heroine.webp"
+                "imageSrc": "bibi-heroine.webp"
             },
             {
                 "name": "Thor Bibi",
-                "file": "bibi-thor.webp"
+                "imageSrc": "bibi-thor.webp"
             },
             {
                 "name": "True Gold Bibi",
-                "file": "bibi-true-gold.webp"
+                "imageSrc": "bibi-true-gold.webp"
             },
             {
                 "name": "True Silver Bibi",
-                "file": "bibi-true-silver.webp"
+                "imageSrc": "bibi-true-silver.webp"
             },
             {
                 "name": "ZomBibi",
-                "file": "bibi-zombibi.webp"
+                "imageSrc": "bibi-zombibi.webp"
             }
         ]
     },
     {
         "name": "Bo",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "bo.png",
+        "description": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
         "skins": [
             {
                 "name": "Bo",
-                "file": "bo-default.webp"
+                "imageSrc": "bo-default.webp"
             },
             {
                 "name": "Brother Bo",
-                "file": "bo-brother.webp"
+                "imageSrc": "bo-brother.webp"
             },
             {
                 "name": "Gold Mecha Bo",
-                "file": "bo-gold-mecha.webp"
+                "imageSrc": "bo-gold-mecha.webp"
             },
             {
                 "name": "Ho Ho Ho Bo",
-                "file": "bo-ho-ho-ho.webp"
+                "imageSrc": "bo-ho-ho-ho.webp"
             },
             {
                 "name": "Horus Bo",
-                "file": "bo-horus.webp"
+                "imageSrc": "bo-horus.webp"
             },
             {
                 "name": "Light Mecha Bo",
-                "file": "bo-light-mecha.webp"
+                "imageSrc": "bo-light-mecha.webp"
             },
             {
                 "name": "Mecha Bo",
-                "file": "bo-mecha.webp"
+                "imageSrc": "bo-mecha.webp"
             },
             {
                 "name": "Supreme Bo",
-                "file": "bo-supreme.webp"
+                "imageSrc": "bo-supreme.webp"
             },
             {
                 "name": "True Gold Bo",
-                "file": "bo-true-gold.webp"
+                "imageSrc": "bo-true-gold.webp"
             },
             {
                 "name": "True Silver Bo",
-                "file": "bo-true-silver.webp"
+                "imageSrc": "bo-true-silver.webp"
             },
             {
                 "name": "Underworld Bo",
-                "file": "bo-underworld.webp"
+                "imageSrc": "bo-underworld.webp"
             },
             {
                 "name": "Warrior Bo",
-                "file": "bo-warrior.webp"
+                "imageSrc": "bo-warrior.webp"
             },
             {
                 "name": "Wasp Bo",
-                "file": "bo-wasp.webp"
+                "imageSrc": "bo-wasp.webp"
             }
         ]
     },
     {
         "name": "Bonnie",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "bonnie.png",
+        "description": "Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!",
         "skins": [
             {
                 "name": "Bonnie",
-                "file": "bonnie-default.webp"
+                "imageSrc": "bonnie-default.webp"
             },
             {
                 "name": "Empress Bonnie",
-                "file": "bonnie-empress.webp"
+                "imageSrc": "bonnie-empress.webp"
             },
             {
                 "name": "FootBonnie",
-                "file": "bonnie-footbonnie.webp"
+                "imageSrc": "bonnie-footbonnie.webp"
             },
             {
                 "name": "Tentacle Bonnie",
-                "file": "bonnie-tentacle.webp"
+                "imageSrc": "bonnie-tentacle.webp"
             },
             {
                 "name": "True Gold Bonnie",
-                "file": "bonnie-true-gold.webp"
+                "imageSrc": "bonnie-true-gold.webp"
             },
             {
                 "name": "True Silver Bonnie",
-                "file": "bonnie-true-silver.webp"
+                "imageSrc": "bonnie-true-silver.webp"
             },
             {
                 "name": "Unicorn Bonnie",
-                "file": "bonnie-unicorn.webp"
+                "imageSrc": "bonnie-unicorn.webp"
             }
         ]
     },
     {
         "name": "Colette",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "colette.png",
+        "description": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
         "skins": [
             {
                 "name": "Colette",
-                "file": "colette-default.webp"
+                "imageSrc": "colette-default.webp"
             },
             {
                 "name": "Fangirl Cony",
-                "file": "colette-fangirl-cony.webp"
+                "imageSrc": "colette-fangirl-cony.webp"
             },
             {
                 "name": "Gladiator Colette",
-                "file": "colette-gladiator.webp"
+                "imageSrc": "colette-gladiator.webp"
             },
             {
                 "name": "Inspector Colette",
-                "file": "colette-inspector.webp"
+                "imageSrc": "colette-inspector.webp"
             },
             {
                 "name": "Kiiro Pawlette",
-                "file": "colette-kiiro-pawlette.webp"
+                "imageSrc": "colette-kiiro-pawlette.webp"
             },
             {
                 "name": "Midori Pawlette",
-                "file": "colette-midori-pawlette.webp"
+                "imageSrc": "colette-midori-pawlette.webp"
             },
             {
                 "name": "Navigator Colette",
-                "file": "colette-navigator.webp"
+                "imageSrc": "colette-navigator.webp"
             },
             {
                 "name": "Pinku Pawlette",
-                "file": "colette-pinku-pawlette.webp"
+                "imageSrc": "colette-pinku-pawlette.webp"
             },
             {
                 "name": "Trixie Colette",
-                "file": "colette-trixie.webp"
+                "imageSrc": "colette-trixie.webp"
             },
             {
                 "name": "True Gold Colette",
-                "file": "colette-true-gold.webp"
+                "imageSrc": "colette-true-gold.webp"
             },
             {
                 "name": "True Silver Colette",
-                "file": "colette-true-silver.webp"
+                "imageSrc": "colette-true-silver.webp"
             }
         ]
     },
     {
         "name": "Edgar",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "edgar.png",
+        "description": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
         "skins": [
             {
                 "name": "Edgar",
-                "file": "edgar-default.webp"
+                "imageSrc": "edgar-default.webp"
             },
             {
                 "name": "Blackbird Edgar",
-                "file": "edgar-blackbird.webp"
+                "imageSrc": "edgar-blackbird.webp"
             },
             {
                 "name": "Doctor Edgar",
-                "file": "edgar-doctor.webp"
+                "imageSrc": "edgar-doctor.webp"
             },
             {
                 "name": "Edgar Tata",
-                "file": "edgar-edgar-tata.webp"
+                "imageSrc": "edgar-edgar-tata.webp"
             },
             {
                 "name": "Mecha Edgar",
-                "file": "edgar-mecha.webp"
+                "imageSrc": "edgar-mecha.webp"
             },
             {
                 "name": "Mecha Edgar Unit-00",
-                "file": "edgar-mecha-unit-00.webp"
+                "imageSrc": "edgar-mecha-unit-00.webp"
             },
             {
                 "name": "Mecha Edgar Unit-01",
-                "file": "edgar-mecha-unit-01.webp"
+                "imageSrc": "edgar-mecha-unit-01.webp"
             },
             {
                 "name": "Orochi Edgar",
-                "file": "edgar-orochi.webp"
+                "imageSrc": "edgar-orochi.webp"
             },
             {
                 "name": "Quickdraw Edgar",
-                "file": "edgar-quickdraw.webp"
+                "imageSrc": "edgar-quickdraw.webp"
             },
             {
                 "name": "Thief Edgar",
-                "file": "edgar-thief.webp"
+                "imageSrc": "edgar-thief.webp"
             },
             {
                 "name": "True Gold Edgar",
-                "file": "edgar-true-gold.webp"
+                "imageSrc": "edgar-true-gold.webp"
             },
             {
                 "name": "True Silver Edgar",
-                "file": "edgar-true-silver.webp"
+                "imageSrc": "edgar-true-silver.webp"
             }
         ]
     },
     {
         "name": "Emz",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "emz.png",
+        "description": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
         "skins": [
             {
                 "name": "Emz",
-                "file": "emz-default.webp"
+                "imageSrc": "emz-default.webp"
             },
             {
                 "name": "DJ 3.M.Z",
-                "file": "emz-dj-3mz.webp"
+                "imageSrc": "emz-dj-3mz.webp"
             },
             {
                 "name": "Harajuku",
-                "file": "emz-harajuku.webp"
+                "imageSrc": "emz-harajuku.webp"
             },
             {
                 "name": "Mean Girl",
-                "file": "emz-mean-girl.webp"
+                "imageSrc": "emz-mean-girl.webp"
             },
             {
                 "name": "Medusa",
-                "file": "emz-medusa.webp"
+                "imageSrc": "emz-medusa.webp"
             },
             {
                 "name": "Ruby Medusa",
-                "file": "emz-ruby-medusa.webp"
+                "imageSrc": "emz-ruby-medusa.webp"
             },
             {
                 "name": "Sapphire Medusa",
-                "file": "emz-sapphire-medusa.webp"
+                "imageSrc": "emz-sapphire-medusa.webp"
             },
             {
                 "name": "Super Fan",
-                "file": "emz-super-fan.webp"
+                "imageSrc": "emz-super-fan.webp"
             },
             {
                 "name": "True Gold Emz",
-                "file": "emz-true-gold.webp"
+                "imageSrc": "emz-true-gold.webp"
             },
             {
                 "name": "True Silver Emz",
-                "file": "emz-true-silver.webp"
+                "imageSrc": "emz-true-silver.webp"
             }
         ]
     },
     {
         "name": "Frank",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "frank.png",
+        "description": "Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows.",
         "skins": [
             {
                 "name": "Frank",
-                "file": "frank-default.webp"
+                "imageSrc": "frank-default.webp"
             },
             {
                 "name": "Caveman Frank",
-                "file": "frank-caveman.webp"
+                "imageSrc": "frank-caveman.webp"
             },
             {
                 "name": "DJ Frank",
-                "file": "frank-dj.webp"
+                "imageSrc": "frank-dj.webp"
             },
             {
                 "name": "Holiday Party Frank",
-                "file": "frank-holiday-party.webp"
+                "imageSrc": "frank-holiday-party.webp"
             },
             {
                 "name": "Parasol Frank",
-                "file": "frank-parasol.webp"
+                "imageSrc": "frank-parasol.webp"
             },
             {
                 "name": "Prehistoric Frank",
-                "file": "frank-prehistoric.webp"
+                "imageSrc": "frank-prehistoric.webp"
             },
             {
                 "name": "Spirit Knight Frank",
-                "file": "frank-spirit-knight.webp"
+                "imageSrc": "frank-spirit-knight.webp"
             },
             {
                 "name": "True Gold Frank",
-                "file": "frank-true-gold.webp"
+                "imageSrc": "frank-true-gold.webp"
             },
             {
                 "name": "True Silver Frank",
-                "file": "frank-true-silver.webp"
+                "imageSrc": "frank-true-silver.webp"
             },
             {
                 "name": "Vanara Frank",
-                "file": "frank-vanara.webp"
+                "imageSrc": "frank-vanara.webp"
             }
         ]
     },
     {
         "name": "Gale",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "gale.png",
+        "description": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
         "skins": [
             {
                 "name": "Gale",
-                "file": "gale-default.webp"
+                "imageSrc": "gale-default.webp"
             },
             {
                 "name": "Merchant Gale",
-                "file": "gale-merchant.webp"
+                "imageSrc": "gale-merchant.webp"
             },
             {
                 "name": "Nutcracker Gale",
-                "file": "gale-nutcracker.webp"
+                "imageSrc": "gale-nutcracker.webp"
             },
             {
                 "name": "Shell Blaster Gale",
-                "file": "gale-shell-blaster.webp"
+                "imageSrc": "gale-shell-blaster.webp"
             },
             {
                 "name": "Squeakbuster Gale",
-                "file": "gale-squeakbuster.webp"
+                "imageSrc": "gale-squeakbuster.webp"
             },
             {
                 "name": "True Gold Gale",
-                "file": "gale-true-gold.webp"
+                "imageSrc": "gale-true-gold.webp"
             },
             {
                 "name": "True Silver Gale",
-                "file": "gale-true-silver.webp"
+                "imageSrc": "gale-true-silver.webp"
             }
         ]
     },
     {
         "name": "Griff",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "griff.png",
+        "description": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
         "skins": [
             {
                 "name": "Griff",
-                "file": "griff-default.webp"
+                "imageSrc": "griff-default.webp"
             },
             {
                 "name": "High Score Griff",
-                "file": "griff-high-score.webp"
+                "imageSrc": "griff-high-score.webp"
             },
             {
                 "name": "Sleigher Griff",
-                "file": "griff-sleigher.webp"
+                "imageSrc": "griff-sleigher.webp"
             },
             {
                 "name": "Sunken Chest Griff",
-                "file": "griff-sunken-chest.webp"
+                "imageSrc": "griff-sunken-chest.webp"
             },
             {
                 "name": "True Gold Griff",
-                "file": "griff-true-gold.webp"
+                "imageSrc": "griff-true-gold.webp"
             },
             {
                 "name": "True Silver Griff",
-                "file": "griff-true-silver.webp"
+                "imageSrc": "griff-true-silver.webp"
             }
         ]
     },
     {
         "name": "Grom",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "grom.png",
+        "description": "Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids were merciless.",
         "skins": [
             {
                 "name": "Grom",
-                "file": "grom-default.webp"
+                "imageSrc": "grom-default.webp"
             },
             {
                 "name": "Bunny Grom",
-                "file": "grom-bunny.webp"
+                "imageSrc": "grom-bunny.webp"
             },
             {
                 "name": "Dasis Grom",
-                "file": "grom-dasis.webp"
+                "imageSrc": "grom-dasis.webp"
             },
             {
                 "name": "FrankenGrom",
-                "file": "grom-frankengrom.webp"
+                "imageSrc": "grom-frankengrom.webp"
             },
             {
                 "name": "True Gold Grom",
-                "file": "grom-true-gold.webp"
+                "imageSrc": "grom-true-gold.webp"
             },
             {
                 "name": "True Silver Grom",
-                "file": "grom-true-silver.webp"
+                "imageSrc": "grom-true-silver.webp"
             }
         ]
     },
     {
         "name": "Hank",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "hank.png",
+        "description": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
         "skins": [
             {
                 "name": "Hank",
-                "file": "hank-default.webp"
+                "imageSrc": "hank-default.webp"
             },
             {
                 "name": "Rodeo Hank",
-                "file": "hank-rodeo.webp"
+                "imageSrc": "hank-rodeo.webp"
             },
             {
                 "name": "Shark Tank Hank",
-                "file": "hank-shark-tank.webp"
+                "imageSrc": "hank-shark-tank.webp"
             }
         ]
     },
     {
         "name": "Larry & Lawrie",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "larry-&-lawrie.png",
+        "description": "Larry sells tickets to Starr Park visitors under the watchful eye of his twin, Lawrie. Larry loves rules, they make life easier! Lawrie doesn't love rules so much as enforcing them. They make a good team.",
         "skins": [
             {
                 "name": "Larry & Lawrie",
-                "file": "larry-&-lawrie-default.webp"
+                "imageSrc": "larry-&-lawrie-default.webp"
             },
             {
                 "name": "Larry & Lawrie Controllers",
-                "file": "larry-&-lawrie-controllers.webp"
+                "imageSrc": "larry-&-lawrie-controllers.webp"
             },
             {
                 "name": "Glitch Larry & Lawrie",
-                "file": "larry-&-lawrie-glitch.webp"
+                "imageSrc": "larry-&-lawrie-glitch.webp"
             },
             {
                 "name": "True Gold Larry & Lawrie",
-                "file": "larry-&-lawrie-true-gold.webp"
+                "imageSrc": "larry-&-lawrie-true-gold.webp"
             },
             {
                 "name": "True Silver Larry & Lawrie",
-                "file": "larry-&-lawrie-true-silver.webp"
+                "imageSrc": "larry-&-lawrie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Lola",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "lola.png",
+        "description": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
         "skins": [
             {
                 "name": "Lola",
-                "file": "lola-default.webp"
+                "imageSrc": "lola-default.webp"
             },
             {
                 "name": "Cobra Lola",
-                "file": "lola-cobra.webp"
+                "imageSrc": "lola-cobra.webp"
             },
             {
                 "name": "Galaxy Storm Lola",
-                "file": "lola-galaxy-storm.webp"
+                "imageSrc": "lola-galaxy-storm.webp"
             },
             {
                 "name": "Kitsune Lola",
-                "file": "lola-kitsune.webp"
+                "imageSrc": "lola-kitsune.webp"
             },
             {
                 "name": "Lavish Lola",
-                "file": "lola-lavish.webp"
+                "imageSrc": "lola-lavish.webp"
             },
             {
                 "name": "Lawless Lola",
-                "file": "lola-lawless.webp"
+                "imageSrc": "lola-lawless.webp"
             },
             {
                 "name": "Rebel Lola",
-                "file": "lola-rebel.webp"
+                "imageSrc": "lola-rebel.webp"
             },
             {
                 "name": "True Gold Lola",
-                "file": "lola-true-gold.webp"
+                "imageSrc": "lola-true-gold.webp"
             },
             {
                 "name": "True Silver Lola",
-                "file": "lola-true-silver.webp"
+                "imageSrc": "lola-true-silver.webp"
             }
         ]
     },
     {
         "name": "Maisie",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "maisie.png",
+        "description": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
         "skins": [
             {
                 "name": "Maisie",
-                "file": "maisie-default.webp"
+                "imageSrc": "maisie-default.webp"
             },
             {
                 "name": "Jungle Queen Maisie",
-                "file": "maisie-jungle-queen.webp"
+                "imageSrc": "maisie-jungle-queen.webp"
             },
             {
                 "name": "Marauder Maisie",
-                "file": "maisie-marauder.webp"
+                "imageSrc": "maisie-marauder.webp"
             },
             {
                 "name": "Tech Maisie",
-                "file": "maisie-tech.webp"
+                "imageSrc": "maisie-tech.webp"
             },
             {
                 "name": "True Gold Maisie",
-                "file": "maisie-true-gold.webp"
+                "imageSrc": "maisie-true-gold.webp"
             },
             {
                 "name": "True Silver Maisie",
-                "file": "maisie-true-silver.webp"
+                "imageSrc": "maisie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Mandy",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "mandy.png",
+        "description": "Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist.",
         "skins": [
             {
                 "name": "Mandy",
-                "file": "mandy-default.webp"
+                "imageSrc": "mandy-default.webp"
             },
             {
                 "name": "Hanbok Mandy",
-                "file": "mandy-hanbok.webp"
+                "imageSrc": "mandy-hanbok.webp"
             },
             {
                 "name": "Magma Mandy",
-                "file": "mandy-magma.webp"
+                "imageSrc": "mandy-magma.webp"
             },
             {
                 "name": "Mandy McMandy",
-                "file": "mandy-mc.webp"
+                "imageSrc": "mandy-mc.webp"
             },
             {
                 "name": "True Gold Mandy",
-                "file": "mandy-true-gold.webp"
+                "imageSrc": "mandy-true-gold.webp"
             },
             {
                 "name": "True Silver Mandy",
-                "file": "mandy-true-silver.webp"
+                "imageSrc": "mandy-true-silver.webp"
             }
         ]
     },
     {
         "name": "Nani",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "nani.png",
+        "description": "Originally a security camera, Nani was modified to keep an eye on Jessie. Unfortunately, she can hardly keep up with the precocious girl!",
         "skins": [
             {
                 "name": "Nani",
-                "file": "nani-default.webp"
+                "imageSrc": "nani-default.webp"
             },
             {
                 "name": "Ares Nani",
-                "file": "nani-ares.webp"
+                "imageSrc": "nani-ares.webp"
             },
             {
                 "name": "Bell Nani",
-                "file": "nani-bell.webp"
+                "imageSrc": "nani-bell.webp"
             },
             {
                 "name": "Retro Nani",
-                "file": "nani-retro.webp"
+                "imageSrc": "nani-retro.webp"
             },
             {
                 "name": "Sally Nani",
-                "file": "nani-sally.webp"
+                "imageSrc": "nani-sally.webp"
             },
             {
                 "name": "True Gold Nani",
-                "file": "nani-true-gold.webp"
+                "imageSrc": "nani-true-gold.webp"
             },
             {
                 "name": "True Silver Nani",
-                "file": "nani-true-silver.webp"
+                "imageSrc": "nani-true-silver.webp"
             }
         ]
     },
     {
         "name": "Pam",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "pam.png",
+        "description": "Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, Jessie...",
         "skins": [
             {
                 "name": "Pam",
-                "file": "pam-default.webp"
+                "imageSrc": "pam-default.webp"
             },
             {
                 "name": "Evil Queen Pam",
-                "file": "pam-evil-queen.webp"
+                "imageSrc": "pam-evil-queen.webp"
             },
             {
                 "name": "Holiday Pam",
-                "file": "pam-holiday.webp"
+                "imageSrc": "pam-holiday.webp"
             },
             {
                 "name": "Stonks Pam",
-                "file": "pam-stonks.webp"
+                "imageSrc": "pam-stonks.webp"
             },
             {
                 "name": "True Gold Pam",
-                "file": "pam-true-gold.webp"
+                "imageSrc": "pam-true-gold.webp"
             },
             {
                 "name": "True Silver Pam",
-                "file": "pam-true-silver.webp"
+                "imageSrc": "pam-true-silver.webp"
             }
         ]
     },
     {
         "name": "Pearl",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "pearl.png",
+        "description": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
         "skins": [
             {
                 "name": "Pearl",
-                "file": "pearl-default.webp"
+                "imageSrc": "pearl-default.webp"
             },
             {
                 "name": "Periscope Pearl",
-                "file": "pearl-periscope.webp"
+                "imageSrc": "pearl-periscope.webp"
             },
             {
                 "name": "True Gold Pearl",
-                "file": "pearl-true-gold.webp"
+                "imageSrc": "pearl-true-gold.webp"
             },
             {
                 "name": "True Silver Pearl",
-                "file": "pearl-true-silver.webp"
+                "imageSrc": "pearl-true-silver.webp"
             },
             {
                 "name": "Vintage Pearl",
-                "file": "pearl-vintage.webp"
+                "imageSrc": "pearl-vintage.webp"
             }
         ]
     },
     {
         "name": "Piper",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "piper.png",
+        "description": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
         "skins": [
             {
                 "name": "Piper",
-                "file": "piper-default.webp"
+                "imageSrc": "piper-default.webp"
             },
             {
                 "name": "Athena Piper",
-                "file": "piper-athena.webp"
+                "imageSrc": "piper-athena.webp"
             },
             {
                 "name": "Calavera Piper",
-                "file": "piper-calavera.webp"
+                "imageSrc": "piper-calavera.webp"
             },
             {
                 "name": "Choco Piper",
-                "file": "piper-choco.webp"
+                "imageSrc": "piper-choco.webp"
             },
             {
                 "name": "Cupid Piper",
-                "file": "piper-cupid.webp"
+                "imageSrc": "piper-cupid.webp"
             },
             {
                 "name": "Flag Bearer Piper",
-                "file": "piper-flag-bearer.webp"
+                "imageSrc": "piper-flag-bearer.webp"
             },
             {
                 "name": "Lunar Piper",
-                "file": "piper-lunar.webp"
+                "imageSrc": "piper-lunar.webp"
             },
             {
                 "name": "Mariposa Piper",
-                "file": "piper-mariposa.webp"
+                "imageSrc": "piper-mariposa.webp"
             },
             {
                 "name": "Pink Piper",
-                "file": "piper-pink.webp"
+                "imageSrc": "piper-pink.webp"
             },
             {
                 "name": "True Gold Piper",
-                "file": "piper-true-gold.webp"
+                "imageSrc": "piper-true-gold.webp"
             },
             {
                 "name": "True Silver Piper",
-                "file": "piper-true-silver.webp"
+                "imageSrc": "piper-true-silver.webp"
             }
         ]
     },
     {
         "name": "Sam",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "sam.png",
+        "description": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
         "skins": [
             {
                 "name": "Sam",
-                "file": "sam-default.webp"
+                "imageSrc": "sam-default.webp"
             },
             {
                 "name": "Caesar Sam",
-                "file": "sam-caesar.webp"
+                "imageSrc": "sam-caesar.webp"
             },
             {
                 "name": "Dark Clown Sam",
-                "file": "sam-dark-clown.webp"
+                "imageSrc": "sam-dark-clown.webp"
             },
             {
                 "name": "Sam the Teddy",
-                "file": "sam-sam-the-teddy.webp"
+                "imageSrc": "sam-sam-the-teddy.webp"
             },
             {
                 "name": "True Gold Sam",
-                "file": "sam-true-gold.webp"
+                "imageSrc": "sam-true-gold.webp"
             },
             {
                 "name": "True Silver Sam",
-                "file": "sam-true-silver.webp"
+                "imageSrc": "sam-true-silver.webp"
             },
             {
                 "name": "Yeti Sam",
-                "file": "sam-yeti.webp"
+                "imageSrc": "sam-yeti.webp"
             }
         ]
     },
     {
         "name": "Stu",
-        "rarity": "Epic",
+        "rarity": 3,
         "portrait": "stu.png",
+        "description": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
         "skins": [
             {
                 "name": "Stu",
-                "file": "stu-default.webp"
+                "imageSrc": "stu-default.webp"
             },
             {
                 "name": "Headless Rider Stu",
-                "file": "stu-headless-rider.webp"
+                "imageSrc": "stu-headless-rider.webp"
             },
             {
                 "name": "Jock Stu",
-                "file": "stu-jock.webp"
+                "imageSrc": "stu-jock.webp"
             },
             {
                 "name": "Santa Stu",
-                "file": "stu-santa.webp"
+                "imageSrc": "stu-santa.webp"
             },
             {
                 "name": "Superstar Stu",
-                "file": "stu-superstar.webp"
+                "imageSrc": "stu-superstar.webp"
             },
             {
                 "name": "True Gold Stu",
-                "file": "stu-true-gold.webp"
+                "imageSrc": "stu-true-gold.webp"
             },
             {
                 "name": "True Silver Stu",
-                "file": "stu-true-silver.webp"
+                "imageSrc": "stu-true-silver.webp"
             },
             {
                 "name": "Wicked Stu",
-                "file": "stu-wicked.webp"
+                "imageSrc": "stu-wicked.webp"
             }
         ]
     },
     {
         "name": "Buster",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "buster.png",
+        "description": "Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!",
         "skins": [
             {
                 "name": "Buster",
-                "file": "buster-default.webp"
+                "imageSrc": "buster-default.webp"
             },
             {
                 "name": "Chainsaw Buster",
-                "file": "buster-chainsaw.webp"
+                "imageSrc": "buster-chainsaw.webp"
             },
             {
                 "name": "Crocodile Buster",
-                "file": "buster-crocodile.webp"
+                "imageSrc": "buster-crocodile.webp"
             },
             {
                 "name": "True Gold Buster",
-                "file": "buster-true-gold.webp"
+                "imageSrc": "buster-true-gold.webp"
             },
             {
                 "name": "True Silver Buster",
-                "file": "buster-true-silver.webp"
+                "imageSrc": "buster-true-silver.webp"
             }
         ]
     },
     {
         "name": "Buzz",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "buzz.png",
+        "description": "Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible.",
         "skins": [
             {
                 "name": "Buzz",
-                "file": "buzz-default.webp"
+                "imageSrc": "buzz-default.webp"
             },
             {
                 "name": "Black Godzilla Buzz",
-                "file": "buzz-black-godzilla.webp"
+                "imageSrc": "buzz-black-godzilla.webp"
             },
             {
                 "name": "Born Bad Buzz",
-                "file": "buzz-born-bad.webp"
+                "imageSrc": "buzz-born-bad.webp"
             },
             {
                 "name": "Buzzette",
-                "file": "buzz-buzzette.webp"
+                "imageSrc": "buzz-buzzette.webp"
             },
             {
                 "name": "Director Buzz",
-                "file": "buzz-director.webp"
+                "imageSrc": "buzz-director.webp"
             },
             {
                 "name": "Eldr Fenrir Buzz",
-                "file": "buzz-eldr-fenrir.webp"
+                "imageSrc": "buzz-eldr-fenrir.webp"
             },
             {
                 "name": "Fenrir Buzz",
-                "file": "buzz-fenrir.webp"
+                "imageSrc": "buzz-fenrir.webp"
             },
             {
                 "name": "Filmmaker Buzz",
-                "file": "buzz-filmmaker.webp"
+                "imageSrc": "buzz-filmmaker.webp"
             },
             {
                 "name": "Godzilla Buzz",
-                "file": "buzz-godzilla.webp"
+                "imageSrc": "buzz-godzilla.webp"
             },
             {
                 "name": "Kaiju Buzz",
-                "file": "buzz-kaiju.webp"
+                "imageSrc": "buzz-kaiju.webp"
             },
             {
                 "name": "Mørk Fenrir Buzz",
-                "file": "buzz-mørk-fenrir.webp"
+                "imageSrc": "buzz-mørk-fenrir.webp"
             },
             {
                 "name": "Red Godzilla Buzz",
-                "file": "buzz-red-godzilla.webp"
+                "imageSrc": "buzz-red-godzilla.webp"
             },
             {
                 "name": "True Gold Buzz",
-                "file": "buzz-true-gold.webp"
+                "imageSrc": "buzz-true-gold.webp"
             },
             {
                 "name": "True Silver Buzz",
-                "file": "buzz-true-silver.webp"
+                "imageSrc": "buzz-true-silver.webp"
             }
         ]
     },
     {
         "name": "Byron",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "byron.png",
+        "description": "Byron has invented many concoctions and tinctures that heal or harm in various ways...but most of them fall into the harming category.",
         "skins": [
             {
                 "name": "Byron",
-                "file": "byron-default.webp"
+                "imageSrc": "byron-default.webp"
             },
             {
                 "name": "Beach Byron",
-                "file": "byron-beach.webp"
+                "imageSrc": "byron-beach.webp"
             },
             {
                 "name": "Byron the White",
-                "file": "byron-byron-the-white.webp"
+                "imageSrc": "byron-byron-the-white.webp"
             },
             {
                 "name": "Overlord Byron",
-                "file": "byron-overlord.webp"
+                "imageSrc": "byron-overlord.webp"
             },
             {
                 "name": "Ringmaster Byron",
-                "file": "byron-ringmaster.webp"
+                "imageSrc": "byron-ringmaster.webp"
             },
             {
                 "name": "True Gold Byron",
-                "file": "byron-true-gold.webp"
+                "imageSrc": "byron-true-gold.webp"
             },
             {
                 "name": "True Silver Byron",
-                "file": "byron-true-silver.webp"
+                "imageSrc": "byron-true-silver.webp"
             },
             {
                 "name": "Wizard Byron",
-                "file": "byron-wizard.webp"
+                "imageSrc": "byron-wizard.webp"
             }
         ]
     },
     {
         "name": "Charlie",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "charlie.png",
+        "description": "Itsy bitsy Charlie\nPut on a crazy show\nShe let down her hair\nAnd made off with all your dough\nIn came the crowd\nIt filled up the circus tent\nSo Charlie weaved away while\nTaking every cent!",
         "skins": [
             {
                 "name": "Charlie",
-                "file": "charlie-default.webp"
+                "imageSrc": "charlie-default.webp"
             },
             {
                 "name": "Amazing Charlie",
-                "file": "charlie-amazing.webp"
+                "imageSrc": "charlie-amazing.webp"
             },
             {
                 "name": "Rosie Charlie",
-                "file": "charlie-rosie.webp"
+                "imageSrc": "charlie-rosie.webp"
             },
             {
                 "name": "True Gold Charlie",
-                "file": "charlie-true-gold.webp"
+                "imageSrc": "charlie-true-gold.webp"
             },
             {
                 "name": "True Silver Charlie",
-                "file": "charlie-true-silver.webp"
+                "imageSrc": "charlie-true-silver.webp"
             },
             {
                 "name": "Virus Charlie",
-                "file": "charlie-virus.webp"
+                "imageSrc": "charlie-virus.webp"
             }
         ]
     },
     {
         "name": "Chuck",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "chuck.png",
+        "description": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!",
         "skins": [
             {
                 "name": "Chuck",
-                "file": "chuck-default.webp"
+                "imageSrc": "chuck-default.webp"
             },
             {
                 "name": "Desert Scorpion Chuck",
-                "file": "chuck-desert-scorpion.webp"
+                "imageSrc": "chuck-desert-scorpion.webp"
             },
             {
                 "name": "Inferno Chuck",
-                "file": "chuck-inferno.webp"
+                "imageSrc": "chuck-inferno.webp"
             },
             {
                 "name": "True Gold Chuck",
-                "file": "chuck-true-gold.webp"
+                "imageSrc": "chuck-true-gold.webp"
             },
             {
                 "name": "True Silver Chuck",
-                "file": "chuck-true-silver.webp"
+                "imageSrc": "chuck-true-silver.webp"
             }
         ]
     },
     {
         "name": "Clancy",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "clancy.png",
+        "description": "There's no turning back with Clancy (unless Hank orders him to). He's fully embraced his fake crustacean life and will do anything for his comrades.",
         "skins": [
             {
                 "name": "Clancy",
-                "file": "clancy-default.webp"
+                "imageSrc": "clancy-default.webp"
             },
             {
                 "name": "High Stakes Clancy",
-                "file": "clancy-high-stakes.webp"
+                "imageSrc": "clancy-high-stakes.webp"
             }
         ]
     },
     {
         "name": "Doug",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "doug.png",
+        "description": "Doug's hot dogs will extend your friends' shelf life.",
         "skins": [
             {
                 "name": "Doug",
-                "file": "doug-default.webp"
+                "imageSrc": "doug-default.webp"
             },
             {
                 "name": "Draco Doug",
-                "file": "doug-draco.webp"
+                "imageSrc": "doug-draco.webp"
             },
             {
                 "name": "True Gold Doug",
-                "file": "doug-true-gold.webp"
+                "imageSrc": "doug-true-gold.webp"
             },
             {
                 "name": "True Silver Doug",
-                "file": "doug-true-silver.webp"
+                "imageSrc": "doug-true-silver.webp"
             }
         ]
     },
     {
         "name": "Eve",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "eve.png",
+        "description": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home...preferably in Ruffs' fur.",
         "skins": [
             {
                 "name": "Eve",
-                "file": "eve-default.webp"
+                "imageSrc": "eve-default.webp"
             },
             {
                 "name": "Baiku Eve",
-                "file": "eve-baiku.webp"
+                "imageSrc": "eve-baiku.webp"
             },
             {
                 "name": "Mothra Eve",
-                "file": "eve-mothra.webp"
+                "imageSrc": "eve-mothra.webp"
             },
             {
                 "name": "Spiky Eve",
-                "file": "eve-spiky.webp"
+                "imageSrc": "eve-spiky.webp"
             },
             {
                 "name": "True Gold Eve",
-                "file": "eve-true-gold.webp"
+                "imageSrc": "eve-true-gold.webp"
             },
             {
                 "name": "True Silver Eve",
-                "file": "eve-true-silver.webp"
+                "imageSrc": "eve-true-silver.webp"
             }
         ]
     },
     {
         "name": "Fang",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "fang.png",
+        "description": "Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!",
         "skins": [
             {
                 "name": "Fang",
-                "file": "fang-default.webp"
+                "imageSrc": "fang-default.webp"
             },
             {
                 "name": "Blue Pitcher Fang",
-                "file": "fang-blue-pitcher.webp"
+                "imageSrc": "fang-blue-pitcher.webp"
             },
             {
                 "name": "Fanguard",
-                "file": "fang-fanguard.webp"
+                "imageSrc": "fang-fanguard.webp"
             },
             {
                 "name": "Ferocious Fang",
-                "file": "fang-ferocious.webp"
+                "imageSrc": "fang-ferocious.webp"
             },
             {
                 "name": "Furious Fang",
-                "file": "fang-furious.webp"
+                "imageSrc": "fang-furious.webp"
             },
             {
                 "name": "Kabocha Fang",
-                "file": "fang-kabocha.webp"
+                "imageSrc": "fang-kabocha.webp"
             },
             {
                 "name": "Octo Fang",
-                "file": "fang-octo.webp"
+                "imageSrc": "fang-octo.webp"
             },
             {
                 "name": "Red Pitcher Fang",
-                "file": "fang-red-pitcher.webp"
+                "imageSrc": "fang-red-pitcher.webp"
             },
             {
                 "name": "True Gold Fang",
-                "file": "fang-true-gold.webp"
+                "imageSrc": "fang-true-gold.webp"
             },
             {
                 "name": "True Silver Fang",
-                "file": "fang-true-silver.webp"
+                "imageSrc": "fang-true-silver.webp"
             }
         ]
     },
     {
         "name": "Gene",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "gene.png",
+        "description": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
         "skins": [
             {
                 "name": "Gene",
-                "file": "gene-default.webp"
+                "imageSrc": "gene-default.webp"
             },
             {
                 "name": "Dark Samurai Gene",
-                "file": "gene-dark-samurai.webp"
+                "imageSrc": "gene-dark-samurai.webp"
             },
             {
                 "name": "Evil Gene",
-                "file": "gene-evil.webp"
+                "imageSrc": "gene-evil.webp"
             },
             {
                 "name": "Pirate Gene",
-                "file": "gene-pirate.webp"
+                "imageSrc": "gene-pirate.webp"
             },
             {
                 "name": "Swamp Gene",
-                "file": "gene-swamp.webp"
+                "imageSrc": "gene-swamp.webp"
             },
             {
                 "name": "True Gold Gene",
-                "file": "gene-true-gold.webp"
+                "imageSrc": "gene-true-gold.webp"
             },
             {
                 "name": "True Silver Gene",
-                "file": "gene-true-silver.webp"
+                "imageSrc": "gene-true-silver.webp"
             }
         ]
     },
     {
         "name": "Gray",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "gray.png",
+        "description": "Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets.",
         "skins": [
             {
                 "name": "Gray",
-                "file": "gray-default.webp"
+                "imageSrc": "gray-default.webp"
             },
             {
                 "name": "Detective Gray",
-                "file": "gray-detective.webp"
+                "imageSrc": "gray-detective.webp"
             },
             {
                 "name": "Detective Gray Noir Edition",
-                "file": "gray-detective-noir.webp"
+                "imageSrc": "gray-detective-noir.webp"
             },
             {
                 "name": "Runaway Gray",
-                "file": "gray-runaway.webp"
+                "imageSrc": "gray-runaway.webp"
             },
             {
                 "name": "True Gold Gray",
-                "file": "gray-true-gold.webp"
+                "imageSrc": "gray-true-gold.webp"
             },
             {
                 "name": "True Silver Gray",
-                "file": "gray-true-silver.webp"
+                "imageSrc": "gray-true-silver.webp"
             }
         ]
     },
     {
         "name": "Janet",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "janet.png",
+        "description": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
         "skins": [
             {
                 "name": "Janet",
-                "file": "janet-default.webp"
+                "imageSrc": "janet-default.webp"
             },
             {
                 "name": "Dark Fairy Janet",
-                "file": "janet-dark-fairy.webp"
+                "imageSrc": "janet-dark-fairy.webp"
             },
             {
                 "name": "G-Force Janet",
-                "file": "janet-g-force.webp"
+                "imageSrc": "janet-g-force.webp"
             },
             {
                 "name": "Lunar Janet",
-                "file": "janet-lunar.webp"
+                "imageSrc": "janet-lunar.webp"
             },
             {
                 "name": "Popstar Janet",
-                "file": "janet-popstar.webp"
+                "imageSrc": "janet-popstar.webp"
             },
             {
                 "name": "True Gold Janet",
-                "file": "janet-true-gold.webp"
+                "imageSrc": "janet-true-gold.webp"
             },
             {
                 "name": "True Silver Janet",
-                "file": "janet-true-silver.webp"
+                "imageSrc": "janet-true-silver.webp"
             },
             {
                 "name": "Valkyrie Janet",
-                "file": "janet-valkyrie.webp"
+                "imageSrc": "janet-valkyrie.webp"
             }
         ]
     },
     {
         "name": "Lily",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "lily.png",
+        "description": "A nerd at heart and a total witchcraft buff, Lily's thirst for knowledge once led her into the Enchanted Woods, where an incident involving a firefly and a carnivorous plant would change her life forever...",
         "skins": [
             {
                 "name": "Lily",
-                "file": "lily-default.webp"
+                "imageSrc": "lily-default.webp"
             },
             {
                 "name": "Strawberry Lily",
-                "file": "lily-strawberry.webp"
+                "imageSrc": "lily-strawberry.webp"
             },
             {
                 "name": "True Gold Lily",
-                "file": "lily-true-gold.webp"
+                "imageSrc": "lily-true-gold.webp"
             },
             {
                 "name": "True Silver Lily",
-                "file": "lily-true-silver.webp"
+                "imageSrc": "lily-true-silver.webp"
             }
         ]
     },
     {
         "name": "Lou",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "lou.png",
+        "description": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
         "skins": [
             {
                 "name": "Lou",
-                "file": "lou-default.webp"
+                "imageSrc": "lou-default.webp"
             },
             {
                 "name": "Burger Lou",
-                "file": "lou-burger.webp"
+                "imageSrc": "lou-burger.webp"
             },
             {
                 "name": "King Lou",
-                "file": "lou-king.webp"
+                "imageSrc": "lou-king.webp"
             },
             {
                 "name": "Smooth Lou",
-                "file": "lou-smooth.webp"
+                "imageSrc": "lou-smooth.webp"
             },
             {
                 "name": "Stone Troll Lou",
-                "file": "lou-stone-troll.webp"
+                "imageSrc": "lou-stone-troll.webp"
             },
             {
                 "name": "True Gold Lou",
-                "file": "lou-true-gold.webp"
+                "imageSrc": "lou-true-gold.webp"
             },
             {
                 "name": "True Silver Lou",
-                "file": "lou-true-silver.webp"
+                "imageSrc": "lou-true-silver.webp"
             }
         ]
     },
     {
         "name": "Max",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "max.png",
+        "description": "Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much...but she sure is fast!",
         "skins": [
             {
                 "name": "Max",
-                "file": "max-default.webp"
+                "imageSrc": "max-default.webp"
             },
             {
                 "name": "Cony Max",
-                "file": "max-cony.webp"
+                "imageSrc": "max-cony.webp"
             },
             {
                 "name": "GT Max",
-                "file": "max-gt.webp"
+                "imageSrc": "max-gt.webp"
             },
             {
                 "name": "Hermes Max",
-                "file": "max-hermes.webp"
+                "imageSrc": "max-hermes.webp"
             },
             {
                 "name": "Leopard Max",
-                "file": "max-leopard.webp"
+                "imageSrc": "max-leopard.webp"
             },
             {
                 "name": "Panther Max",
-                "file": "max-panther.webp"
+                "imageSrc": "max-panther.webp"
             },
             {
                 "name": "Streetwear Max",
-                "file": "max-streetwear.webp"
+                "imageSrc": "max-streetwear.webp"
             },
             {
                 "name": "True Gold Max",
-                "file": "max-true-gold.webp"
+                "imageSrc": "max-true-gold.webp"
             },
             {
                 "name": "True Silver Max",
-                "file": "max-true-silver.webp"
+                "imageSrc": "max-true-silver.webp"
             }
         ]
     },
     {
         "name": "Melodie",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "melodie.png",
+        "description": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
         "skins": [
             {
                 "name": "Melodie",
-                "file": "melodie-default.webp"
+                "imageSrc": "melodie-default.webp"
             },
             {
                 "name": "Harpy Melodie",
-                "file": "melodie-harpy.webp"
+                "imageSrc": "melodie-harpy.webp"
             },
             {
                 "name": "Sif Melodie",
-                "file": "melodie-sif.webp"
+                "imageSrc": "melodie-sif.webp"
             },
             {
                 "name": "True Gold Melodie",
-                "file": "melodie-true-gold.webp"
+                "imageSrc": "melodie-true-gold.webp"
             },
             {
                 "name": "True Silver Melodie",
-                "file": "melodie-true-silver.webp"
+                "imageSrc": "melodie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Mico",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "mico.png",
+        "description": "Mico is the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
         "skins": [
             {
                 "name": "Mico",
-                "file": "mico-default.webp"
+                "imageSrc": "mico-default.webp"
             },
             {
                 "name": "Grouch Mico",
-                "file": "mico-grouch.webp"
+                "imageSrc": "mico-grouch.webp"
             },
             {
                 "name": "Macaron Mico",
-                "file": "mico-macaron.webp"
+                "imageSrc": "mico-macaron.webp"
             },
             {
                 "name": "True Gold Mico",
-                "file": "mico-true-gold.webp"
+                "imageSrc": "mico-true-gold.webp"
             },
             {
                 "name": "True Silver Mico",
-                "file": "mico-true-silver.webp"
+                "imageSrc": "mico-true-silver.webp"
             },
             {
                 "name": "Wukong Mico",
-                "file": "mico-wukong.webp"
+                "imageSrc": "mico-wukong.webp"
             }
         ]
     },
     {
         "name": "Mortis",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "mortis.png",
+        "description": "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.",
         "skins": [
             {
                 "name": "Mortis",
-                "file": "mortis-default.webp"
+                "imageSrc": "mortis-default.webp"
             },
             {
                 "name": "Beach Time Mortis",
-                "file": "mortis-beach-time.webp"
+                "imageSrc": "mortis-beach-time.webp"
             },
             {
                 "name": "Dark Mecha Mortis",
-                "file": "mortis-dark-mecha.webp"
+                "imageSrc": "mortis-dark-mecha.webp"
             },
             {
                 "name": "Gala Mortis",
-                "file": "mortis-gala.webp"
+                "imageSrc": "mortis-gala.webp"
             },
             {
                 "name": "Hockey Mortis",
-                "file": "mortis-hockey.webp"
+                "imageSrc": "mortis-hockey.webp"
             },
             {
                 "name": "Light Mecha Mortis",
-                "file": "mortis-light-mecha.webp"
+                "imageSrc": "mortis-light-mecha.webp"
             },
             {
                 "name": "Mecha Mortis",
-                "file": "mortis-mecha.webp"
+                "imageSrc": "mortis-mecha.webp"
             },
             {
                 "name": "Night Witch Mortis",
-                "file": "mortis-night-witch.webp"
+                "imageSrc": "mortis-night-witch.webp"
             },
             {
                 "name": "Rockabilly Mortis",
-                "file": "mortis-rockabilly.webp"
+                "imageSrc": "mortis-rockabilly.webp"
             },
             {
                 "name": "Rogue Mortis",
-                "file": "mortis-rogue.webp"
+                "imageSrc": "mortis-rogue.webp"
             },
             {
                 "name": "Top Hat Mortis",
-                "file": "mortis-top-hat.webp"
+                "imageSrc": "mortis-top-hat.webp"
             },
             {
                 "name": "True Gold Mortis",
-                "file": "mortis-true-gold.webp"
+                "imageSrc": "mortis-true-gold.webp"
             },
             {
                 "name": "True Gold Mortis",
-                "file": "mortis-true-gold-hat.webp"
+                "imageSrc": "mortis-true-gold-hat.webp"
             },
             {
                 "name": "True Silver Mortis",
-                "file": "mortis-true-silver.webp"
+                "imageSrc": "mortis-true-silver.webp"
             },
             {
                 "name": "True Silver Mortis",
-                "file": "mortis-true-silver-hat.webp"
+                "imageSrc": "mortis-true-silver-hat.webp"
             }
         ]
     },
     {
         "name": "Mr. P",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "mr.-p.png",
+        "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
         "skins": [
             {
                 "name": "Mr. P",
-                "file": "mr.-p-default.webp"
+                "imageSrc": "mr.-p-default.webp"
             },
             {
                 "name": "Agent P",
-                "file": "mr.-p-agent.webp"
+                "imageSrc": "mr.-p-agent.webp"
             },
             {
                 "name": "Count Pengula",
-                "file": "mr.-p-count-pengula.webp"
+                "imageSrc": "mr.-p-count-pengula.webp"
             },
             {
                 "name": "Daruma Mr. P",
-                "file": "mr.-p-daruma.webp"
+                "imageSrc": "mr.-p-daruma.webp"
             },
             {
                 "name": "Mr. Fly",
-                "file": "mr.-p-mr.-fly.webp"
+                "imageSrc": "mr.-p-mr.-fly.webp"
             },
             {
                 "name": "Mr Dragonfruit",
-                "file": "mr.-p-mr-dragonfruit.webp"
+                "imageSrc": "mr.-p-mr-dragonfruit.webp"
             },
             {
                 "name": "True Gold Mr. P",
-                "file": "mr.-p-true-gold.webp"
+                "imageSrc": "mr.-p-true-gold.webp"
             },
             {
                 "name": "True Silver Mr. P",
-                "file": "mr.-p-true-silver.webp"
+                "imageSrc": "mr.-p-true-silver.webp"
             }
         ]
     },
     {
         "name": "Otis",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "otis.png",
+        "description": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
         "skins": [
             {
                 "name": "Otis",
-                "file": "otis-default.webp"
+                "imageSrc": "otis-default.webp"
             },
             {
                 "name": "Oni Otis",
-                "file": "otis-oni.webp"
+                "imageSrc": "otis-oni.webp"
             },
             {
                 "name": "Pharaotis",
-                "file": "otis-pharaotis.webp"
+                "imageSrc": "otis-pharaotis.webp"
             },
             {
                 "name": "True Gold Otis",
-                "file": "otis-true-gold.webp"
+                "imageSrc": "otis-true-gold.webp"
             },
             {
                 "name": "True Silver Otis",
-                "file": "otis-true-silver.webp"
+                "imageSrc": "otis-true-silver.webp"
             },
             {
                 "name": "W Otis",
-                "file": "otis-w.webp"
+                "imageSrc": "otis-w.webp"
             }
         ]
     },
     {
         "name": "R-T",
-        "rariry": "Mythic",
+        "rarity": 4,
         "portrait": "r-t.png",
+        "description": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
         "skins": [
             {
                 "name": "R-T",
-                "file": "r-t-default.webp"
+                "imageSrc": "r-t-default.webp"
             },
             {
                 "name": "Crimson R-T",
-                "file": "r-t-crimson.webp"
+                "imageSrc": "r-t-crimson.webp"
             },
             {
                 "name": "Patrol R-T",
-                "file": "r-t-patrol.webp"
+                "imageSrc": "r-t-patrol.webp"
             },
             {
                 "name": "Poseidon R-T",
-                "file": "r-t-poseidon.webp"
+                "imageSrc": "r-t-poseidon.webp"
             },
             {
                 "name": "True Gold R-T",
-                "file": "r-t-true-gold.webp"
+                "imageSrc": "r-t-true-gold.webp"
             },
             {
                 "name": "True Silver R-T",
-                "file": "r-t-true-silver.webp"
+                "imageSrc": "r-t-true-silver.webp"
             }
         ]
     },
     {
         "name": "Ruffs",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "ruffs.png",
+        "description": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
         "skins": [
             {
                 "name": "Ruffs",
-                "file": "ruffs-default.webp"
+                "imageSrc": "ruffs-default.webp"
             },
             {
                 "name": "Marshal Ruffs",
-                "file": "ruffs-marshal.webp"
+                "imageSrc": "ruffs-marshal.webp"
             },
             {
                 "name": "Ronin Ruffs",
-                "file": "ruffs-ronin.webp"
+                "imageSrc": "ruffs-ronin.webp"
             },
             {
                 "name": "Ruffs Chimmy",
-                "file": "ruffs-ruffs-chimmy.webp"
+                "imageSrc": "ruffs-ruffs-chimmy.webp"
             },
             {
                 "name": "True Gold Ruffs",
-                "file": "ruffs-true-gold.webp"
+                "imageSrc": "ruffs-true-gold.webp"
             },
             {
                 "name": "True Silver Ruffs",
-                "file": "ruffs-true-silver.webp"
+                "imageSrc": "ruffs-true-silver.webp"
             }
         ]
     },
     {
         "name": "Sprout",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "sprout.png",
+        "description": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
         "skins": [
             {
                 "name": "Sprout",
-                "file": "sprout-default.webp"
+                "imageSrc": "sprout-default.webp"
             },
             {
                 "name": "Aquamarine Sprout",
-                "file": "sprout-aquamarine.webp"
+                "imageSrc": "sprout-aquamarine.webp"
             },
             {
                 "name": "Corrupted Sprout",
-                "file": "sprout-corrupted.webp"
+                "imageSrc": "sprout-corrupted.webp"
             },
             {
                 "name": "Emerald Prince Sprout",
-                "file": "sprout-emerald-prince.webp"
+                "imageSrc": "sprout-emerald-prince.webp"
             },
             {
                 "name": "Lunar Sprout",
-                "file": "sprout-lunar.webp"
+                "imageSrc": "sprout-lunar.webp"
             },
             {
                 "name": "Ruby Prince Sprout",
-                "file": "sprout-ruby-prince.webp"
+                "imageSrc": "sprout-ruby-prince.webp"
             },
             {
                 "name": "Tropical Sprout",
-                "file": "sprout-tropical.webp"
+                "imageSrc": "sprout-tropical.webp"
             },
             {
                 "name": "True Gold Sprout",
-                "file": "sprout-true-gold.webp"
+                "imageSrc": "sprout-true-gold.webp"
             },
             {
                 "name": "True Silver Sprout",
-                "file": "sprout-true-silver.webp"
+                "imageSrc": "sprout-true-silver.webp"
             }
         ]
     },
     {
         "name": "Squeak",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "squeak.png",
+        "description": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber.",
         "skins": [
             {
                 "name": "Squeak",
-                "file": "squeak-default.webp"
+                "imageSrc": "squeak-default.webp"
             },
             {
                 "name": "First Blob Squeak",
-                "file": "squeak-first-blob.webp"
+                "imageSrc": "squeak-first-blob.webp"
             },
             {
                 "name": "Ghost Squeak",
-                "file": "squeak-ghost.webp"
+                "imageSrc": "squeak-ghost.webp"
             },
             {
                 "name": "Moon Bunny Squeak",
-                "file": "squeak-moon-bunny.webp"
+                "imageSrc": "squeak-moon-bunny.webp"
             },
             {
                 "name": "Nerd Squeak",
-                "file": "squeak-nerd.webp"
+                "imageSrc": "squeak-nerd.webp"
             },
             {
                 "name": "Potato Squeak",
-                "file": "squeak-potato.webp"
+                "imageSrc": "squeak-potato.webp"
             },
             {
                 "name": "Squeaky Note",
-                "file": "squeak-squeaky-note.webp"
+                "imageSrc": "squeak-squeaky-note.webp"
             },
             {
                 "name": "True Gold Squeak",
-                "file": "squeak-true-gold.webp"
+                "imageSrc": "squeak-true-gold.webp"
             },
             {
                 "name": "True Silver Squeak",
-                "file": "squeak-true-silver.webp"
+                "imageSrc": "squeak-true-silver.webp"
             }
         ]
     },
     {
         "name": "Tara",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "tara.png",
+        "description": "Tara has seen in the cards that great difficulties lie ahead! But don't despair...she has a terrific selection of magical trinkets for sale to help with that.",
         "skins": [
             {
                 "name": "Tara",
-                "file": "tara-default.webp"
+                "imageSrc": "tara-default.webp"
             },
             {
                 "name": "Misfortune Tara",
-                "file": "tara-misfortune.webp"
+                "imageSrc": "tara-misfortune.webp"
             },
             {
                 "name": "Ragequit Tara",
-                "file": "tara-ragequit.webp"
+                "imageSrc": "tara-ragequit.webp"
             },
             {
                 "name": "Stara",
-                "file": "tara-stara.webp"
+                "imageSrc": "tara-stara.webp"
             },
             {
                 "name": "Street Ninja Tara",
-                "file": "tara-street-ninja.webp"
+                "imageSrc": "tara-street-ninja.webp"
             },
             {
                 "name": "Tempest Tara",
-                "file": "tara-tempest.webp"
+                "imageSrc": "tara-tempest.webp"
             },
             {
                 "name": "True Gold Tara",
-                "file": "tara-true-gold.webp"
+                "imageSrc": "tara-true-gold.webp"
             },
             {
                 "name": "True Silver Tara",
-                "file": "tara-true-silver.webp"
+                "imageSrc": "tara-true-silver.webp"
             },
             {
                 "name": "Urban Ninja Tara",
-                "file": "tara-urban-ninja.webp"
+                "imageSrc": "tara-urban-ninja.webp"
             }
         ]
     },
     {
         "name": "Willow",
-        "rarity": "Mythic",
+        "rarity": 4,
         "portrait": "willow.png",
+        "description": "Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
         "skins": [
             {
                 "name": "Willow",
-                "file": "willow-default.webp"
+                "imageSrc": "willow-default.webp"
             },
             {
                 "name": "Axl Willow",
-                "file": "willow-axl.webp"
+                "imageSrc": "willow-axl.webp"
             },
             {
                 "name": "Scorpion Willow",
-                "file": "willow-scorpion.webp"
+                "imageSrc": "willow-scorpion.webp"
             },
             {
                 "name": "True Gold Willow",
-                "file": "willow-true-gold.webp"
+                "imageSrc": "willow-true-gold.webp"
             },
             {
                 "name": "True Silver Willow",
-                "file": "willow-true-silver.webp"
+                "imageSrc": "willow-true-silver.webp"
             }
         ]
     },
     {
         "name": "Amber",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "amber.png",
+        "description": "Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last.",
         "skins": [
             {
                 "name": "Amber",
-                "file": "amber-default.webp"
+                "imageSrc": "amber-default.webp"
             },
             {
                 "name": "Amber De La Vega",
-                "file": "amber-amber-de-la-vega.webp"
+                "imageSrc": "amber-amber-de-la-vega.webp"
             },
             {
                 "name": "Bubble Trouble Amber",
-                "file": "amber-bubble-trouble.webp"
+                "imageSrc": "amber-bubble-trouble.webp"
             },
             {
                 "name": "Frost Queen Amber",
-                "file": "amber-frost-queen.webp"
+                "imageSrc": "amber-frost-queen.webp"
             },
             {
                 "name": "True Gold Amber",
-                "file": "amber-true-gold.webp"
+                "imageSrc": "amber-true-gold.webp"
             },
             {
                 "name": "True Silver Amber",
-                "file": "amber-true-silver.webp"
+                "imageSrc": "amber-true-silver.webp"
             }
         ]
     },
     {
         "name": "Chester",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "chester.png",
+        "description": "Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better...especially if that hater is Mandy!",
         "skins": [
             {
                 "name": "Chester",
-                "file": "chester-default.webp"
+                "imageSrc": "chester-default.webp"
             },
             {
                 "name": "Dark Chester",
-                "file": "chester-dark.webp"
+                "imageSrc": "chester-dark.webp"
             },
             {
                 "name": "Loki Chester",
-                "file": "chester-loki.webp"
+                "imageSrc": "chester-loki.webp"
             },
             {
                 "name": "True Gold Chester",
-                "file": "chester-true-gold.webp"
+                "imageSrc": "chester-true-gold.webp"
             },
             {
                 "name": "True Silver Chester",
-                "file": "chester-true-silver.webp"
+                "imageSrc": "chester-true-silver.webp"
             },
             {
                 "name": "Wood Spirit Chester",
-                "file": "chester-wood-spirit.webp"
+                "imageSrc": "chester-wood-spirit.webp"
             }
         ]
     },
     {
         "name": "Cordelius",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "cordelius.png",
+        "description": "Gardener and caretaker of Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
         "skins": [
             {
                 "name": "Cordelius",
-                "file": "cordelius-default.webp"
+                "imageSrc": "cordelius-default.webp"
             },
             {
                 "name": "Odin Cordelius",
-                "file": "cordelius-odin.webp"
+                "imageSrc": "cordelius-odin.webp"
             },
             {
                 "name": "Poison Cap Cordelius",
-                "file": "cordelius-poison-cap.webp"
+                "imageSrc": "cordelius-poison-cap.webp"
             },
             {
                 "name": "Raider Cordelius",
-                "file": "cordelius-raider.webp"
+                "imageSrc": "cordelius-raider.webp"
             },
             {
                 "name": "Sporemind Cordelius",
-                "file": "cordelius-sporemind.webp"
+                "imageSrc": "cordelius-sporemind.webp"
             },
             {
                 "name": "True Gold Cordelius",
-                "file": "cordelius-true-gold.webp"
+                "imageSrc": "cordelius-true-gold.webp"
             },
             {
                 "name": "True Silver Cordelius",
-                "file": "cordelius-true-silver.webp"
+                "imageSrc": "cordelius-true-silver.webp"
             }
         ]
     },
     {
         "name": "Crow",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "crow.png",
+        "description": "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi.",
         "skins": [
             {
                 "name": "Crow",
-                "file": "crow-default.webp"
+                "imageSrc": "crow-default.webp"
             },
             {
                 "name": "Captain Crow",
-                "file": "crow-captain.webp"
+                "imageSrc": "crow-captain.webp"
             },
             {
                 "name": "Crowbone",
-                "file": "crow-crowbone.webp"
+                "imageSrc": "crow-crowbone.webp"
             },
             {
                 "name": "Gold Mecha Crow",
-                "file": "crow-gold-mecha.webp"
+                "imageSrc": "crow-gold-mecha.webp"
             },
             {
                 "name": "Mecha Crow",
-                "file": "crow-mecha.webp"
+                "imageSrc": "crow-mecha.webp"
             },
             {
                 "name": "Night Mecha Crow",
-                "file": "crow-night-mecha.webp"
+                "imageSrc": "crow-night-mecha.webp"
             },
             {
                 "name": "Phoenix Crow",
-                "file": "crow-phoenix.webp"
+                "imageSrc": "crow-phoenix.webp"
             },
             {
                 "name": "True Gold Crow",
-                "file": "crow-true-gold.webp"
+                "imageSrc": "crow-true-gold.webp"
             },
             {
                 "name": "True Silver Crow",
-                "file": "crow-true-silver.webp"
+                "imageSrc": "crow-true-silver.webp"
             },
             {
                 "name": "White Crow",
-                "file": "crow-white.webp"
+                "imageSrc": "crow-white.webp"
             }
         ]
     },
     {
         "name": "Draco",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "draco.png",
+        "description": "Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd he turns the fantasy up to eleven!",
         "skins": [
             {
                 "name": "Draco",
-                "file": "draco-default.webp"
+                "imageSrc": "draco-default.webp"
             },
             {
                 "name": "Dark Knight Draco",
-                "file": "draco-dark-knight.webp"
+                "imageSrc": "draco-dark-knight.webp"
             },
             {
                 "name": "True Gold Draco",
-                "file": "draco-true-gold.webp"
+                "imageSrc": "draco-true-gold.webp"
             },
             {
                 "name": "True Silver Draco",
-                "file": "draco-true-silver.webp"
+                "imageSrc": "draco-true-silver.webp"
             }
         ]
     },
     {
         "name": "Kit",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "kit.png",
+        "description": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
         "skins": [
             {
                 "name": "Kit",
-                "file": "kit-default.webp"
+                "imageSrc": "kit-default.webp"
             },
             {
                 "name": "Billy the Kit",
-                "file": "kit-billy-the.webp"
+                "imageSrc": "kit-billy-the.webp"
             },
             {
                 "name": "KitBoxer",
-                "file": "kit-kitboxer.webp"
+                "imageSrc": "kit-kitboxer.webp"
             },
             {
                 "name": "KitBoxer Darkpaw",
-                "file": "kit-kitboxer-darkpaw.webp"
+                "imageSrc": "kit-kitboxer-darkpaw.webp"
             },
             {
                 "name": "KitBoxer Goldpaw",
-                "file": "kit-kitboxer-goldpaw.webp"
+                "imageSrc": "kit-kitboxer-goldpaw.webp"
             },
             {
                 "name": "True Gold Kit",
-                "file": "kit-true-gold.webp"
+                "imageSrc": "kit-true-gold.webp"
             },
             {
                 "name": "True Silver Kit",
-                "file": "kit-true-silver.webp"
+                "imageSrc": "kit-true-silver.webp"
             }
         ]
     },
     {
         "name": "Leon",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "leon.png",
+        "description": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
         "skins": [
             {
                 "name": "Leon",
-                "file": "leon-default.webp"
+                "imageSrc": "leon-default.webp"
             },
             {
                 "name": "Dino Leon",
-                "file": "leon-dino.webp"
+                "imageSrc": "leon-dino.webp"
             },
             {
                 "name": "Leon the Stray",
-                "file": "leon-leon-the-stray.webp"
+                "imageSrc": "leon-leon-the-stray.webp"
             },
             {
                 "name": "Mecha Leon",
-                "file": "leon-mecha.webp"
+                "imageSrc": "leon-mecha.webp"
             },
             {
                 "name": "Radiant Mecha Leon",
-                "file": "leon-radiant-mecha.webp"
+                "imageSrc": "leon-radiant-mecha.webp"
             },
             {
                 "name": "Sally Leon",
-                "file": "leon-sally.webp"
+                "imageSrc": "leon-sally.webp"
             },
             {
                 "name": "Shadow Mecha Leon",
-                "file": "leon-shadow-mecha.webp"
+                "imageSrc": "leon-shadow-mecha.webp"
             },
             {
                 "name": "Shark Leon",
-                "file": "leon-shark.webp"
+                "imageSrc": "leon-shark.webp"
             },
             {
                 "name": "Trick or Treat Leon",
-                "file": "leon-trick-or-treat.webp"
+                "imageSrc": "leon-trick-or-treat.webp"
             },
             {
                 "name": "True Gold Leon",
-                "file": "leon-true-gold.webp"
+                "imageSrc": "leon-true-gold.webp"
             },
             {
                 "name": "True Silver Leon",
-                "file": "leon-true-silver.webp"
+                "imageSrc": "leon-true-silver.webp"
             },
             {
                 "name": "Werewolf Leon",
-                "file": "leon-werewolf.webp"
+                "imageSrc": "leon-werewolf.webp"
             },
             {
                 "name": "White Wolf Leon",
-                "file": "leon-white-wolf.webp"
+                "imageSrc": "leon-white-wolf.webp"
             }
         ]
     },
     {
         "name": "Meg",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "meg.png",
+        "description": "Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while Max and Surge are out entertaining the crowds.",
         "skins": [
             {
                 "name": "Meg",
-                "file": "meg-default.webp"
+                "imageSrc": "meg-default.webp"
             },
             {
                 "name": "Beetle Meg",
-                "file": "meg-beetle.webp"
+                "imageSrc": "meg-beetle.webp"
             },
             {
                 "name": "Jaguar Spirit Meg",
-                "file": "meg-jaguar-spirit.webp"
+                "imageSrc": "meg-jaguar-spirit.webp"
             },
             {
                 "name": "Megalodon Meg",
-                "file": "meg-megalodon.webp"
+                "imageSrc": "meg-megalodon.webp"
             },
             {
                 "name": "Monster Truck Meg",
-                "file": "meg-monster-truck.webp"
+                "imageSrc": "meg-monster-truck.webp"
             },
             {
                 "name": "True Gold Meg",
-                "file": "meg-true-gold.webp"
+                "imageSrc": "meg-true-gold.webp"
             },
             {
                 "name": "True Silver Meg",
-                "file": "meg-true-silver.webp"
+                "imageSrc": "meg-true-silver.webp"
             }
         ]
     },
     {
         "name": "Sandy",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "sandy.png",
+        "description": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
         "skins": [
             {
                 "name": "Sandy",
-                "file": "sandy-default.webp"
+                "imageSrc": "sandy-default.webp"
             },
             {
                 "name": "Glowing Jellyfish Sandy",
-                "file": "sandy-glowing-jellyfish.webp"
+                "imageSrc": "sandy-glowing-jellyfish.webp"
             },
             {
                 "name": "Jellyfish Sandy",
-                "file": "sandy-jellyfish.webp"
+                "imageSrc": "sandy-jellyfish.webp"
             },
             {
                 "name": "Lantern Sandy",
-                "file": "sandy-lantern.webp"
+                "imageSrc": "sandy-lantern.webp"
             },
             {
                 "name": "Neon Jellyfish Sandy",
-                "file": "sandy-neon-jellyfish.webp"
+                "imageSrc": "sandy-neon-jellyfish.webp"
             },
             {
                 "name": "Nightmare Sandy",
-                "file": "sandy-nightmare.webp"
+                "imageSrc": "sandy-nightmare.webp"
             },
             {
                 "name": "Sandy Koya",
-                "file": "sandy-sandy-koya.webp"
+                "imageSrc": "sandy-sandy-koya.webp"
             },
             {
                 "name": "Sleepy Sandy",
-                "file": "sandy-sleepy.webp"
+                "imageSrc": "sandy-sleepy.webp"
             },
             {
                 "name": "Sugar Rush Sandy",
-                "file": "sandy-sugar-rush.webp"
+                "imageSrc": "sandy-sugar-rush.webp"
             },
             {
                 "name": "True Gold Sandy",
-                "file": "sandy-true-gold.webp"
+                "imageSrc": "sandy-true-gold.webp"
             },
             {
                 "name": "True Silver Sandy",
-                "file": "sandy-true-silver.webp"
+                "imageSrc": "sandy-true-silver.webp"
             }
         ]
     },
     {
         "name": "Spike",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "spike.png",
+        "description": "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma.",
         "skins": [
             {
                 "name": "Spike",
-                "file": "spike-default.webp"
+                "imageSrc": "spike-default.webp"
             },
             {
                 "name": "Dark Lord Spike",
-                "file": "spike-dark-lord.webp"
+                "imageSrc": "spike-dark-lord.webp"
             },
             {
                 "name": "Logmas Spike",
-                "file": "spike-logmas.webp"
+                "imageSrc": "spike-logmas.webp"
             },
             {
                 "name": "Mask Spike",
-                "file": "spike-mask.webp"
+                "imageSrc": "spike-mask.webp"
             },
             {
                 "name": "Poop Spike",
-                "file": "spike-poop.webp"
+                "imageSrc": "spike-poop.webp"
             },
             {
                 "name": "Pyro Spike",
-                "file": "spike-pyro.webp"
+                "imageSrc": "spike-pyro.webp"
             },
             {
                 "name": "Robo Spike",
-                "file": "spike-robo.webp"
+                "imageSrc": "spike-robo.webp"
             },
             {
                 "name": "Sakura Spike",
-                "file": "spike-sakura.webp"
+                "imageSrc": "spike-sakura.webp"
             },
             {
                 "name": "Toon Spike",
-                "file": "spike-toon.webp"
+                "imageSrc": "spike-toon.webp"
             },
             {
                 "name": "True Gold Spike",
-                "file": "spike-true-gold.webp"
+                "imageSrc": "spike-true-gold.webp"
             },
             {
                 "name": "True Silver Spike",
-                "file": "spike-true-silver.webp"
+                "imageSrc": "spike-true-silver.webp"
             }
         ]
     },
     {
         "name": "Surge",
-        "rariry": "Legendary",
+        "rarity": 5,
         "portrait": "surge.png",
+        "description": "Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks.",
         "skins": [
             {
                 "name": "Surge",
-                "file": "surge-default.webp"
+                "imageSrc": "surge-default.webp"
             },
             {
                 "name": "DIY Surge",
-                "file": "surge-diy.webp"
+                "imageSrc": "surge-diy.webp"
             },
             {
                 "name": "Kraken Surge",
-                "file": "surge-kraken.webp"
+                "imageSrc": "surge-kraken.webp"
             },
             {
                 "name": "Mecha Paladin Surge",
-                "file": "surge-mecha-paladin.webp"
+                "imageSrc": "surge-mecha-paladin.webp"
             },
             {
                 "name": "Scarlet Paladin Surge",
-                "file": "surge-scarlet-paladin.webp"
+                "imageSrc": "surge-scarlet-paladin.webp"
             },
             {
                 "name": "Surge Kong",
-                "file": "surge-surge-kong.webp"
+                "imageSrc": "surge-surge-kong.webp"
             },
             {
                 "name": "Surgenie",
-                "file": "surge-surgenie.webp"
+                "imageSrc": "surge-surgenie.webp"
             },
             {
                 "name": "True Gold Surge",
-                "file": "surge-true-gold.webp"
+                "imageSrc": "surge-true-gold.webp"
             },
             {
                 "name": "True Silver Surge",
-                "file": "surge-true-silver.webp"
+                "imageSrc": "surge-true-silver.webp"
             }
         ]
     }
