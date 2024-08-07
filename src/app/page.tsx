@@ -10,7 +10,7 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 const rarityTextColors = {
-  [BrawlerRarity.TrophyRoad]: 'text-trophy-road',
+  [BrawlerRarity.Common]: 'text-common',
   [BrawlerRarity.Rare]: 'text-rare',
   [BrawlerRarity.SuperRare]: 'text-super-rare',
   [BrawlerRarity.Epic]: 'text-epic',
@@ -33,7 +33,7 @@ function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitD
 
 export default async function AllBrawlersPage() {
   const allBrawlers = await getCachedAllPortraitData();
-  const trophyRoadBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.TrophyRoad);
+  const commonBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Common);
   const rareBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Rare);
   const superRareBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.SuperRare);
   const epicBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Epic);
@@ -45,7 +45,7 @@ export default async function AllBrawlersPage() {
       <h1 className="w-full text-3xl">
         ALL BRAWLERS ({allBrawlers.length})
       </h1>
-      <RaritySection title={`Trophy Road (${trophyRoadBrawlers.length})`} brawlers={trophyRoadBrawlers} />
+      <RaritySection title={`Starting Brawlers (${commonBrawlers.length})`} brawlers={commonBrawlers} />
       <RaritySection title={`Rare (${rareBrawlers.length})`} brawlers={rareBrawlers} />
       <RaritySection title={`Super Rare (${superRareBrawlers.length})`} brawlers={superRareBrawlers} />
       <RaritySection title={`Epic (${epicBrawlers.length})`} brawlers={epicBrawlers} />

@@ -1,8 +1,9 @@
 export type BrawlerData = {
     name: string;
     rarity: BrawlerRarity;
-    portrait: string;
+    class: string;
     description: string;
+    portrait: string;
     skins: {
         name: string;
         imageSrc: string;
@@ -16,7 +17,7 @@ export type PortraitData = {
 };
 
 export enum BrawlerRarity {
-    TrophyRoad,
+    Common,
     Rare,
     SuperRare,
     Epic,

@@ -6,7 +6,7 @@ import { useState } from "react";
 import { useInView } from "react-intersection-observer";
 
 const rarityBackgroundColors = {
-  [BrawlerRarity.TrophyRoad]: 'bg-trophy-road',
+  [BrawlerRarity.Common]: 'bg-common',
   [BrawlerRarity.Rare]: 'bg-rare',
   [BrawlerRarity.SuperRare]: 'bg-super-rare',
   [BrawlerRarity.Epic]: 'bg-epic',

@@ -10,7 +10,7 @@ export const content = [
 export const theme = {
   extend: {
     colors: {
-      'trophy-road': '#94d7f4',
+      'common': '#94d7f4',
       'rare': '#2edd1b',
       'super-rare': '#0087fa',
       'epic': '#b116ec',
