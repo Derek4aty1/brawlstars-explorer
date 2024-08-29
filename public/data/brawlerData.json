@@ -2831,6 +2831,19 @@
         ]
     },
     {
+        "name": "Moe",
+        "rarity": 4,
+        "class": "Damage Dealer",
+        "description": "Moe is a blind rat, found living in the Starr Park sewers by Grom, who quickly adopted him! Now part of Starr Park's maintenance team, Moe uses his special digging machine, Driller, to traverse the sewer tunnels...and also cause a bit of destruction throughout the park, much to Ash's dismay.",
+        "portrait": "moe.png",
+        "skins": [
+            {
+                "name": "Moe",
+                "imageSrc": "moe-default.webp"
+            }
+        ]
+    },
+    {
         "name": "Mr. P",
         "rarity": 4,
         "class": "Controller",
