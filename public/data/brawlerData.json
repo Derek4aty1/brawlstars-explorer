@@ -554,6 +554,10 @@
                 "imageSrc": "poco-poco-starr.webp"
             },
             {
+                "name": "Possessed Poco",
+                "imageSrc": "poco-possessed.webp"
+            },
+            {
                 "name": "Serenade Poco",
                 "imageSrc": "poco-serenade.webp"
             },
@@ -1058,6 +1062,10 @@
             {
                 "name": "Popcorn Rico",
                 "imageSrc": "rico-popcorn.webp"
+            },
+            {
+                "name": "Redjacket Rico",
+                "imageSrc": "rico-redjacket.webp"
             },
             {
                 "name": "Reloaded Ricochet",
@@ -2840,6 +2848,10 @@
             {
                 "name": "Moe",
                 "imageSrc": "moe-default.webp"
+            },
+            {
+                "name": "Monterey Moe",
+                "imageSrc": "moe-monterey.webp"
             }
         ]
     },
