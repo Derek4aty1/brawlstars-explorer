@@ -20,9 +20,8 @@ export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
     triggerOnce: true
   });
 
-  const upperCaseName = portrait.name.toUpperCase();
   // Pearl's portrait is narrower than the others...not sure if this will get fixed in the future
-  const objectFit = upperCaseName === 'PEARL' ? 'cover' : 'contain';
+  const objectFit = portrait.name === 'Pearl' ? 'cover' : 'contain';
 
   return (
     <Link href={`/${portrait.name}`} prefetch={false} draggable={false} className="transition-transform active:scale-95">
@@ -39,8 +38,8 @@ export default function PortraitCard({ portrait }: { portrait: PortraitData }) {
             style={{ objectFit: objectFit, objectPosition: "left" }}
             className={`select-none transition-opacity ease-linear ${isLoaded && inView ? 'opacity-100' : 'opacity-0'}`}
           />
-          <figcaption className="absolute px-1 bottom-0 right-0 text-sm leading-5">
-            {upperCaseName}
+          <figcaption className="absolute px-1 bottom-0 right-0 text-sm leading-5 uppercase">
+            {portrait.name}
           </figcaption>
         </div>
       </figure>

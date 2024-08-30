@@ -22,8 +22,8 @@ export default function SkinCard({ name, file }: { name: string, file: string })
           className={`select-none transition-opacity ease-linear ${isLoaded && inView ? 'opacity-100' : 'opacity-0'}`}
         />
       </div>
-      <figcaption className="w-full py-2 text-lg">
-        {name.toUpperCase()}
+      <figcaption className="w-full py-2 text-lg uppercase">
+        {name}
       </figcaption>
     </figure>
   );

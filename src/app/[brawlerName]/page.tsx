@@ -33,11 +33,11 @@ export default async function BrawlerPage({ params: { brawlerName } }: { params:
 
   return (
     <section className="px-12 flex flex-col justify-center items-center">
-      <h1 className="w-full text-3xl">
-        {brawlerData.name.toUpperCase()} ({brawlerData.skins.length})
+      <h1 className="w-full text-3xl uppercase">
+        {brawlerData.name} ({brawlerData.skins.length})
       </h1>
-      <h2 className="w-full text-xl">
-        {brawlerData.class.toUpperCase()}
+      <h2 className="w-full text-xl uppercase">
+        {brawlerData.class}
       </h2>
       <div className="pt-6 w-fit grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
         {brawlerData.skins.map(skin => (
