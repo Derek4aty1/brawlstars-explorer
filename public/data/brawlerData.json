@@ -3341,6 +3341,19 @@
         ]
     },
     {
+        "name": "Kenji",
+        "rarity": 5,
+        "class": "Assassin",
+        "description": "This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something from his past...though his sushi tastes so good, nobody cares!",
+        "portrait": "kenji.png",
+        "skins": [
+            {
+                "name": "Kenji",
+                "imageSrc": "kenji-default.webp"
+            }
+        ]
+    },
+    {
         "name": "Kit",
         "rarity": 5,
         "class": "Support",
