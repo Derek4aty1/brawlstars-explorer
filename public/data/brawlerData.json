@@ -149,6 +149,10 @@
                 "imageSrc": "brock-default.webp"
             },
             {
+                "name": "Fresh Cut Brock",
+                "imageSrc": "brock-fresh-cut.webp"
+            },
+            {
                 "name": "Beach Brock",
                 "imageSrc": "brock-beach.webp"
             },

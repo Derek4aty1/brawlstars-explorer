@@ -32,7 +32,7 @@ export default async function BrawlerPage({ params: { brawlerName } }: { params:
   }
 
   return (
-    <section className="px-12 flex flex-col justify-center items-center">
+    <section className="p-8 flex flex-col justify-center items-center">
       <h1 className="w-full text-3xl uppercase">
         {brawlerData.name} ({brawlerData.skins.length})
       </h1>

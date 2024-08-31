@@ -41,7 +41,7 @@ export default async function AllBrawlersPage() {
   const legendaryBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Legendary);
 
   return (
-    <section className="px-12 flex flex-col justify-center">
+    <section className="p-8 flex flex-col justify-center">
       <h1 className="w-full text-3xl">
         ALL BRAWLERS ({allBrawlers.length})
       </h1>
