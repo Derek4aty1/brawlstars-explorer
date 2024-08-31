@@ -1308,6 +1308,14 @@
             {
                 "name": "Dark Horse Berry",
                 "imageSrc": "berry-dark-horse.webp"
+            },
+            {
+                "name": "True Gold Berry",
+                "imageSrc": "berry-true-gold.webp"
+            },
+            {
+                "name": "True Silver Berry",
+                "imageSrc": "berry-true-silver.webp"
             }
         ]
     },
@@ -2379,6 +2387,14 @@
             {
                 "name": "High Stakes Clancy",
                 "imageSrc": "clancy-high-stakes.webp"
+            },
+            {
+                "name": "True Gold Clancy",
+                "imageSrc": "clancy-true-gold.webp"
+            },
+            {
+                "name": "True Silver Clancy",
+                "imageSrc": "clancy-true-silver.webp"
             }
         ]
     },
