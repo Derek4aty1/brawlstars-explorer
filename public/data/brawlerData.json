@@ -222,11 +222,11 @@
             },
             {
                 "name": "True Gold Brock",
-                "imageSrc": "brock-true-gold.webp"
+                "imageSrc": "brock-true-gold-fresh-cut.png"
             },
             {
                 "name": "True Silver Brock",
-                "imageSrc": "brock-true-silver.webp"
+                "imageSrc": "brock-true-silver-fresh-cut.png"
             },
             {
                 "name": "Zeus Brock",
@@ -460,12 +460,20 @@
                 "imageSrc": "el-primo-el-tigro.webp"
             },
             {
+                "name": "SpongeBob El Primo",
+                "imageSrc": "el-primo-spongebob.png"
+            },
+            {
                 "name": "True Gold El Primo",
                 "imageSrc": "el-primo-true-gold.webp"
             },
             {
                 "name": "True Silver El Primo",
                 "imageSrc": "el-primo-true-silver.webp"
+            },
+            {
+                "name": "Vamprimo",
+                "imageSrc": "el-primo-vamprimo.png"
             }
         ]
     },
@@ -766,6 +774,10 @@
                 "imageSrc": "darryl-omega-box.webp"
             },
             {
+                "name": "Plankton Darryl",
+                "imageSrc": "darryl-plankton.png"
+            },
+            {
                 "name": "True Gold Darryl",
                 "imageSrc": "darryl-true-gold.webp"
             },
@@ -805,6 +817,10 @@
             {
                 "name": "Coach Mike",
                 "imageSrc": "dynamike-coach-mike.webp"
+            },
+            {
+                "name": "Decaying Dynamike",
+                "imageSrc": "dynamike-decaying.png"
             },
             {
                 "name": "Dynasty Mike",
@@ -870,6 +886,10 @@
             {
                 "name": "Boy Scout Gus",
                 "imageSrc": "gus-boy-scout.webp"
+            },
+            {
+                "name": "Gruesome Gus",
+                "imageSrc": "gus-gruesome.png"
             },
             {
                 "name": "True Gold Gus",
@@ -960,6 +980,10 @@
             {
                 "name": "Red Dragon Jessie",
                 "imageSrc": "jessie-red-dragon.webp"
+            },
+            {
+                "name": "Sandy Jessie",
+                "imageSrc": "jessie-sandy.png"
             },
             {
                 "name": "Shadow Knight Jessie",
@@ -1133,6 +1157,10 @@
                 "imageSrc": "tick-mecha-tick-ghidorah-light.webp"
             },
             {
+                "name": "Mr. Krabs Tick",
+                "imageSrc": "tick-mr-krabs.png"
+            },
+            {
                 "name": "Snowman Tick",
                 "imageSrc": "tick-snowman.webp"
             },
@@ -1281,6 +1309,10 @@
                 "imageSrc": "belle-coral.webp"
             },
             {
+                "name": "Dragoon Belle",
+                "imageSrc": "belle-dragoon.png"
+            },
+            {
                 "name": "Ivy Belle",
                 "imageSrc": "belle-ivy.webp"
             },
@@ -1303,19 +1335,19 @@
         "skins": [
             {
                 "name": "Berry",
-                "imageSrc": "berry-default.webp"
+                "imageSrc": "berry-default.png"
             },
             {
                 "name": "Dark Horse Berry",
-                "imageSrc": "berry-dark-horse.webp"
+                "imageSrc": "berry-dark-horse.png"
             },
             {
                 "name": "True Gold Berry",
-                "imageSrc": "berry-true-gold.webp"
+                "imageSrc": "berry-true-gold.png"
             },
             {
                 "name": "True Silver Berry",
-                "imageSrc": "berry-true-silver.webp"
+                "imageSrc": "berry-true-silver.png"
             }
         ]
     },
@@ -1484,6 +1516,10 @@
             {
                 "name": "Colette",
                 "imageSrc": "colette-default.webp"
+            },
+            {
+                "name": "Cuckoo Colette",
+                "imageSrc": "colette-cuckoo.png"
             },
             {
                 "name": "Fangirl Cony",
@@ -1797,6 +1833,10 @@
                 "imageSrc": "hank-default.webp"
             },
             {
+                "name": "Moon Guardian Hank",
+                "imageSrc": "hank-moon-guardian.png"
+            },
+            {
                 "name": "Rodeo Hank",
                 "imageSrc": "hank-rodeo.webp"
             },
@@ -1933,7 +1973,11 @@
                 "imageSrc": "mandy-magma.webp"
             },
             {
-                "name": "Mandy McMandy",
+                "name": "Malicious Mandy",
+                "imageSrc": "mandy-malicious.png"
+            },
+            {
+                "name": "MC Mandy",
                 "imageSrc": "mandy-mc.webp"
             },
             {
@@ -1964,6 +2008,10 @@
             {
                 "name": "Bell Nani",
                 "imageSrc": "nani-bell.webp"
+            },
+            {
+                "name": "Knightmare Nani",
+                "imageSrc": "nani-knightmare.png"
             },
             {
                 "name": "Retro Nani",
@@ -2003,6 +2051,10 @@
                 "imageSrc": "pam-holiday.webp"
             },
             {
+                "name": "Putrid Pam",
+                "imageSrc": "pam-putrid.png"
+            },
+            {
                 "name": "Stonks Pam",
                 "imageSrc": "pam-stonks.webp"
             },
@@ -2026,6 +2078,10 @@
             {
                 "name": "Pearl",
                 "imageSrc": "pearl-default.webp"
+            },
+            {
+                "name": "Dark Keep Pearl",
+                "imageSrc": "pearl-dark-keep.png"
             },
             {
                 "name": "Periscope Pearl",
@@ -2257,6 +2313,10 @@
                 "imageSrc": "buzz-mørk-fenrir.webp"
             },
             {
+                "name": "Patrick Buzz",
+                "imageSrc": "buzz-patrick.png"
+            },
+            {
                 "name": "Red Godzilla Buzz",
                 "imageSrc": "buzz-red-godzilla.webp"
             },
@@ -2382,19 +2442,19 @@
         "skins": [
             {
                 "name": "Clancy",
-                "imageSrc": "clancy-default.webp"
+                "imageSrc": "clancy-default.png"
             },
             {
                 "name": "High Stakes Clancy",
-                "imageSrc": "clancy-high-stakes.webp"
+                "imageSrc": "clancy-high-stakes.png"
             },
             {
                 "name": "True Gold Clancy",
-                "imageSrc": "clancy-true-gold.webp"
+                "imageSrc": "clancy-true-gold.png"
             },
             {
                 "name": "True Silver Clancy",
-                "imageSrc": "clancy-true-silver.webp"
+                "imageSrc": "clancy-true-silver.png"
             }
         ]
     },
@@ -2498,6 +2558,10 @@
             {
                 "name": "Red Pitcher Fang",
                 "imageSrc": "fang-red-pitcher.webp"
+            },
+            {
+                "name": "The Fans' Fang",
+                "imageSrc": "fang-the-fans.png"
             },
             {
                 "name": "True Gold Fang",
@@ -2805,6 +2869,10 @@
                 "imageSrc": "mortis-beach-time.webp"
             },
             {
+                "name": "Blue Squidward Mortis",
+                "imageSrc": "mortis-blue-squidward.png"
+            },
+            {
                 "name": "Dark Mecha Mortis",
                 "imageSrc": "mortis-dark-mecha.webp"
             },
@@ -2829,12 +2897,20 @@
                 "imageSrc": "mortis-night-witch.webp"
             },
             {
+                "name": "Pink Squidward Mortis",
+                "imageSrc": "mortis-pink-squidward.png"
+            },
+            {
                 "name": "Rockabilly Mortis",
                 "imageSrc": "mortis-rockabilly.webp"
             },
             {
                 "name": "Rogue Mortis",
                 "imageSrc": "mortis-rogue.webp"
+            },
+            {
+                "name": "Squidward Mortis",
+                "imageSrc": "mortis-squidward.png"
             },
             {
                 "name": "Top Hat Mortis",
@@ -3236,6 +3312,10 @@
                 "imageSrc": "chester-loki.webp"
             },
             {
+                "name": "Moon Guardian Chester",
+                "imageSrc": "chester-moon-guardian.png"
+            },
+            {
                 "name": "True Gold Chester",
                 "imageSrc": "chester-true-gold.webp"
             },
@@ -3314,6 +3394,10 @@
                 "imageSrc": "crow-mecha.webp"
             },
             {
+                "name": "Moon Guardian Crow",
+                "imageSrc": "crow-moon-guardian.png"
+            },
+            {
                 "name": "Night Mecha Crow",
                 "imageSrc": "crow-night-mecha.webp"
             },
@@ -3351,6 +3435,10 @@
                 "imageSrc": "draco-dark-knight.webp"
             },
             {
+                "name": "Dread Knight Draco",
+                "imageSrc": "draco-dread-knight.png"
+            },
+            {
                 "name": "True Gold Draco",
                 "imageSrc": "draco-true-gold.webp"
             },
@@ -3370,6 +3458,10 @@
             {
                 "name": "Kenji",
                 "imageSrc": "kenji-default.webp"
+            },
+            {
+                "name": "Fruit Samurai Kenji",
+                "imageSrc": "kenji-fruit-samurai.png"
             }
         ]
     },
@@ -3399,6 +3491,10 @@
             {
                 "name": "KitBoxer Goldpaw",
                 "imageSrc": "kit-kitboxer-goldpaw.webp"
+            },
+            {
+                "name": "Lockpickit",
+                "imageSrc": "kit-lockpickit.png"
             },
             {
                 "name": "True Gold Kit",
@@ -3626,6 +3722,10 @@
                 "imageSrc": "surge-default.webp"
             },
             {
+                "name": "Anti-Hero Skeletal Surge",
+                "imageSrc": "surge-anti-hero-skeletal.png"
+            },
+            {
                 "name": "DIY Surge",
                 "imageSrc": "surge-diy.webp"
             },
@@ -3642,6 +3742,10 @@
                 "imageSrc": "surge-scarlet-paladin.webp"
             },
             {
+                "name": "Skeletal Surge",
+                "imageSrc": "surge-skeletal.png"
+            },
+            {
                 "name": "Surge Kong",
                 "imageSrc": "surge-surge-kong.webp"
             },
@@ -3656,6 +3760,10 @@
             {
                 "name": "True Silver Surge",
                 "imageSrc": "surge-true-silver.webp"
+            },
+            {
+                "name": "Villianous Skeletal Surge",
+                "imageSrc": "surge-villainous-skeletal.png"
             }
         ]
     }
