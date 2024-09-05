@@ -222,7 +222,15 @@
             },
             {
                 "name": "True Gold Brock",
+                "imageSrc": "brock-true-gold.png"
+            },
+            {
+                "name": "True Gold Brock",
                 "imageSrc": "brock-true-gold-fresh-cut.png"
+            },
+            {
+                "name": "True Silver Brock",
+                "imageSrc": "brock-true-silver.png"
             },
             {
                 "name": "True Silver Brock",
