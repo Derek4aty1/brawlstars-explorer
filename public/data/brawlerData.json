@@ -2693,6 +2693,23 @@
         ]
     },
     {
+        "name": "Juju",
+        "rarity": 4,
+        "class": "Artillery",
+        "description": "Juju owns the Oddities Shop and is followed everywhere by her \"pet\" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.",
+        "portrait": "juju.png",
+        "skins": [
+            {
+                "name": "Juju",
+                "imageSrc": "juju-default.webp"
+            },
+            {
+                "name": "Unlucky Juju",
+                "imageSrc": "juju-unlucky.webp"
+            }
+        ]
+    },
+    {
         "name": "Lily",
         "rarity": 4,
         "class": "Assassin",
