@@ -2200,6 +2200,19 @@
         ]
     },
     {
+        "name": "Shade",
+        "rarity": 3,
+        "class": "Assassin",
+        "description": "Not much is known about this mysterious pile of clothes, other than the fact it has some cool sunglasses. Discovered by Gus, Shade was given a name and now the two spooky Brawlers haunt the Ghost Station together.",
+        "portrait": "shade.png",
+        "skins": [
+            {
+                "name": "Shade",
+                "imageSrc": "shade-default.webp"
+            }
+        ]
+    },
+    {
         "name": "Stu",
         "rarity": 3,
         "class": "Assassin",
