@@ -36,9 +36,12 @@ export default async function BrawlerPage({ params: { brawlerName } }: { params:
       <h1 className="w-full text-3xl uppercase">
         {brawlerData.name} ({brawlerData.skins.length})
       </h1>
-      <h2 className="w-full text-xl uppercase">
+      <h2 className="p-1 w-full text-xl uppercase">
         {brawlerData.class}
       </h2>
+      <h3 className="pb-1 w-full text-lg whitespace-pre-line xl:max-w-[50%]">
+        {brawlerData.description}
+      </h3>
       <div className="pt-6 w-fit grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
         {brawlerData.skins.map(skin => (
           <SkinCard key={`${skin.name}-${skin.imageSrc}`} name={skin.name} file={skin.imageSrc} />

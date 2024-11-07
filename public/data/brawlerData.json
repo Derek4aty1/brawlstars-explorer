@@ -359,6 +359,10 @@
                 "imageSrc": "colt-handsome.webp"
             },
             {
+                "name": "Light Angel Colt",
+                "imageSrc": "colt-light-angel.webp"
+            },
+            {
                 "name": "Mecha Colt",
                 "imageSrc": "colt-mecha.webp"
             },
@@ -625,6 +629,10 @@
             {
                 "name": "Mantis Rosa",
                 "imageSrc": "rosa-mantis.webp"
+            },
+            {
+                "name": "Sugarplum Rosa",
+                "imageSrc": "rosa-sugarplum.png"
             },
             {
                 "name": "True Gold Rosa",
@@ -1227,6 +1235,10 @@
                 "imageSrc": "ash-default.webp"
             },
             {
+                "name": "Be Less Ash",
+                "imageSrc": "ash-be-less.png"
+            },
+            {
                 "name": "Krampus Ash",
                 "imageSrc": "ash-krampus.webp"
             },
@@ -1538,6 +1550,10 @@
                 "imageSrc": "colette-gladiator.webp"
             },
             {
+                "name": "Impie Colette",
+                "imageSrc": "colette-impie.webp"
+            },
+            {
                 "name": "Inspector Colette",
                 "imageSrc": "colette-inspector.webp"
             },
@@ -1587,12 +1603,20 @@
                 "imageSrc": "edgar-blackbird.webp"
             },
             {
+                "name": "Dark Angel Edgar",
+                "imageSrc": "edgar-dark-angel.webp"
+            },
+            {
                 "name": "Doctor Edgar",
                 "imageSrc": "edgar-doctor.webp"
             },
             {
                 "name": "Edgar Tata",
                 "imageSrc": "edgar-edgar-tata.webp"
+            },
+            {
+                "name": "Lightbearer Edgar",
+                "imageSrc": "edgar-lightbearer.webp"
             },
             {
                 "name": "Mecha Edgar",
@@ -1605,6 +1629,10 @@
             {
                 "name": "Mecha Edgar Unit-01",
                 "imageSrc": "edgar-mecha-unit-01.webp"
+            },
+            {
+                "name": "Nightbringer Edgar",
+                "imageSrc": "edgar-nightbringer.webp"
             },
             {
                 "name": "Orochi Edgar",
@@ -1638,6 +1666,10 @@
             {
                 "name": "Emz",
                 "imageSrc": "emz-default.webp"
+            },
+            {
+                "name": "Demon Emz",
+                "imageSrc": "emz-demon.webp"
             },
             {
                 "name": "DJ 3.M.Z",
@@ -1866,12 +1898,24 @@
                 "imageSrc": "larry-&-lawrie-default.webp"
             },
             {
+                "name": "Angel Larry & Lawrie",
+                "imageSrc": "larry-&-lawrie-angel.webp"
+            },
+            {
+                "name": "Dark Angel Larry & Lawrie",
+                "imageSrc": "larry-&-lawrie-dark-angel.webp"
+            },
+            {
                 "name": "Larry & Lawrie Controllers",
                 "imageSrc": "larry-&-lawrie-controllers.webp"
             },
             {
                 "name": "Glitch Larry & Lawrie",
                 "imageSrc": "larry-&-lawrie-glitch.webp"
+            },
+            {
+                "name": "Radiant Larry & Lawrie",
+                "imageSrc": "larry-&-lawrie-radiant.webp"
             },
             {
                 "name": "True Gold Larry & Lawrie",
@@ -1901,6 +1945,10 @@
             {
                 "name": "Galaxy Storm Lola",
                 "imageSrc": "lola-galaxy-storm.webp"
+            },
+            {
+                "name": "High Flyer Lola",
+                "imageSrc": "lola-high-flyer.png"
             },
             {
                 "name": "Kitsune Lola",
@@ -1940,12 +1988,24 @@
                 "imageSrc": "maisie-default.webp"
             },
             {
+                "name": "Bizarre Maisie",
+                "imageSrc": "maisie-bizarre.png"
+            },
+            {
                 "name": "Jungle Queen Maisie",
                 "imageSrc": "maisie-jungle-queen.webp"
             },
             {
                 "name": "Marauder Maisie",
                 "imageSrc": "maisie-marauder.webp"
+            },
+            {
+                "name": "Platinum Maisie",
+                "imageSrc": "maisie-platinum.png"
+            },
+            {
+                "name": "Requiem Maisie",
+                "imageSrc": "maisie-requiem.png"
             },
             {
                 "name": "Tech Maisie",
@@ -2208,7 +2268,11 @@
         "skins": [
             {
                 "name": "Shade",
-                "imageSrc": "shade-default.webp"
+                "imageSrc": "shade-default.png"
+            },
+            {
+                "name": "Cinema Shade",
+                "imageSrc": "shade-cinema.png"
             }
         ]
     },
@@ -2606,6 +2670,10 @@
                 "imageSrc": "gene-default.webp"
             },
             {
+                "name": "Angel Gene",
+                "imageSrc": "gene-angel.webp"
+            },
+            {
                 "name": "Dark Samurai Gene",
                 "imageSrc": "gene-dark-samurai.webp"
             },
@@ -2734,6 +2802,10 @@
                 "imageSrc": "lily-default.webp"
             },
             {
+                "name": "Angel Lily",
+                "imageSrc": "lily-angel.webp"
+            },
+            {
                 "name": "Strawberry Lily",
                 "imageSrc": "lily-strawberry.webp"
             },
@@ -2767,6 +2839,10 @@
                 "imageSrc": "lou-king.webp"
             },
             {
+                "name": "Rude Lou",
+                "imageSrc": "lou-rude.png"
+            },
+            {
                 "name": "Smooth Lou",
                 "imageSrc": "lou-smooth.webp"
             },
@@ -2794,6 +2870,10 @@
             {
                 "name": "Max",
                 "imageSrc": "max-default.webp"
+            },
+            {
+                "name": "Angel Max",
+                "imageSrc": "max-angel.webp"
             },
             {
                 "name": "Cony Max",
@@ -2915,12 +2995,24 @@
                 "imageSrc": "mortis-dark-mecha.webp"
             },
             {
+                "name": "Demon Mortis",
+                "imageSrc": "mortis-demon.webp"
+            },
+            {
+                "name": "Devilish Mortis",
+                "imageSrc": "mortis-devilish.webp"
+            },
+            {
                 "name": "Gala Mortis",
                 "imageSrc": "mortis-gala.webp"
             },
             {
                 "name": "Hockey Mortis",
                 "imageSrc": "mortis-hockey.webp"
+            },
+            {
+                "name": "Lambent Mortis",
+                "imageSrc": "mortis-lambent.webp"
             },
             {
                 "name": "Light Mecha Mortis",
@@ -2986,6 +3078,14 @@
             {
                 "name": "Monterey Moe",
                 "imageSrc": "moe-monterey.webp"
+            },
+            {
+                "name": "True Gold Moe",
+                "imageSrc": "moe-true-gold.webp"
+            },
+            {
+                "name": "True Silver Moe",
+                "imageSrc": "moe-true-silver.webp"
             }
         ]
     },
@@ -3042,12 +3142,20 @@
                 "imageSrc": "otis-default.webp"
             },
             {
+                "name": "Demon Otis",
+                "imageSrc": "otis-demon.webp"
+            },
+            {
                 "name": "Oni Otis",
                 "imageSrc": "otis-oni.webp"
             },
             {
                 "name": "Pharaotis",
                 "imageSrc": "otis-pharaotis.webp"
+            },
+            {
+                "name": "Rusty Otis",
+                "imageSrc": "otis-rusty.png"
             },
             {
                 "name": "True Gold Otis",
@@ -3122,6 +3230,10 @@
             {
                 "name": "Seadog Ruffs",
                 "imageSrc": "ruffs-seadog.webp"
+            },
+            {
+                "name": "Sous Chef Ruffs",
+                "imageSrc": "ruffs-sous-chef.png"
             },
             {
                 "name": "True Gold Ruffs",
@@ -3284,6 +3396,10 @@
                 "imageSrc": "willow-axl.webp"
             },
             {
+                "name": "Demon Willow",
+                "imageSrc": "willow-demon.webp"
+            },
+            {
                 "name": "Scorpion Willow",
                 "imageSrc": "willow-scorpion.webp"
             },
@@ -3381,6 +3497,10 @@
             {
                 "name": "Odin Cordelius",
                 "imageSrc": "cordelius-odin.webp"
+            },
+            {
+                "name": "Paper Cordelius",
+                "imageSrc": "cordelius-paper.png"
             },
             {
                 "name": "Poison Cap Cordelius",
@@ -3500,6 +3620,14 @@
             {
                 "name": "Fruit Samurai Kenji",
                 "imageSrc": "kenji-fruit-samurai.png"
+            },
+            {
+                "name": "True Gold Kenji",
+                "imageSrc": "kenji-true-gold.webp"
+            },
+            {
+                "name": "True Silver Kenji",
+                "imageSrc": "kenji-true-silver.webp"
             }
         ]
     },
