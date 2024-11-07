@@ -9,11 +9,7 @@ export const metadata: Metadata = {
   description: "Explore the Brawlstars universe!"
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className="h-full">
       <body className="m-0 p-0 min-h-full flex flex-col bg-blue-700 font-lilita-one text-shadow-outline text-center text-white text-balance">

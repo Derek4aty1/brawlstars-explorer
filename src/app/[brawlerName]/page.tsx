@@ -3,7 +3,10 @@ import { getBrawlerData, getAllBrawlerNames } from "@/utils/assetFetcher";
 import { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
 
-export async function generateMetadata({ params: { brawlerName } }: { params: { brawlerName: string } }): Promise<Metadata> {
+type Params = Promise<{ brawlerName: string }>;
+
+export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
+  const { brawlerName } = await params;
   const decodedBrawlerName = decodeURIComponent(brawlerName);
 
   return {
@@ -18,7 +21,8 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function BrawlerPage({ params: { brawlerName } }: { params: { brawlerName: string } }) {
+export default async function BrawlerPage({ params }: { params: Params }) {
+  const { brawlerName } = await params;
   const decodedBrawlerName = decodeURIComponent(brawlerName);
   const brawlerData = await getBrawlerData(decodedBrawlerName);
 
