@@ -1235,8 +1235,8 @@
                 "imageSrc": "ash-default.webp"
             },
             {
-                "name": "Be Less Ash",
-                "imageSrc": "ash-be-less.png"
+                "name": "Ash Boy",
+                "imageSrc": "ash-boy.png"
             },
             {
                 "name": "Krampus Ash",
@@ -1988,8 +1988,12 @@
                 "imageSrc": "maisie-default.webp"
             },
             {
-                "name": "Bizarre Maisie",
-                "imageSrc": "maisie-bizarre.png"
+                "name": "Amazing Maisie",
+                "imageSrc": "maisie-amazing.png"
+            },
+            {
+                "name": "Fuchsia Maisie",
+                "imageSrc": "maisie-fuchsia.png"
             },
             {
                 "name": "Jungle Queen Maisie",
@@ -2000,16 +2004,12 @@
                 "imageSrc": "maisie-marauder.webp"
             },
             {
-                "name": "Platinum Maisie",
-                "imageSrc": "maisie-platinum.png"
-            },
-            {
-                "name": "Requiem Maisie",
-                "imageSrc": "maisie-requiem.png"
-            },
-            {
                 "name": "Tech Maisie",
                 "imageSrc": "maisie-tech.webp"
+            },
+            {
+                "name": "Titanium Maisie",
+                "imageSrc": "maisie-titanium.png"
             },
             {
                 "name": "True Gold Maisie",
