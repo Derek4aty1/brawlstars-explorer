@@ -401,6 +401,10 @@
             {
                 "name": "True Silver Colt",
                 "imageSrc": "colt-true-silver.webp"
+            },
+            {
+                "name": "Woody Colt",
+                "imageSrc": "colt-woody.png"
             }
         ]
     },
@@ -525,8 +529,16 @@
                 "imageSrc": "nita-red-nose.webp"
             },
             {
+                "name": "Reinbear Nita",
+                "imageSrc": "nita-reinbear.png"
+            },
+            {
                 "name": "Rui Shou Nita",
                 "imageSrc": "nita-rui-shou.webp"
+            },
+            {
+                "name": "Runner Nita",
+                "imageSrc": "nita-runner.png"
             },
             {
                 "name": "Shiba Nita",
@@ -580,6 +592,10 @@
             {
                 "name": "Possessed Poco",
                 "imageSrc": "poco-possessed.webp"
+            },
+            {
+                "name": "Quit Playing Poco",
+                "imageSrc": "poco-quit-playing.png"
             },
             {
                 "name": "Serenade Poco",
@@ -794,6 +810,10 @@
                 "imageSrc": "darryl-plankton.png"
             },
             {
+                "name": "Pop-Up Darryl",
+                "imageSrc": "darryl-pop-up.png"
+            },
+            {
                 "name": "True Gold Darryl",
                 "imageSrc": "darryl-true-gold.webp"
             },
@@ -816,7 +836,7 @@
             },
             {
                 "name": "Bellhop Mike",
-                "imageSrc": "dynamike-bellhop-mike.webp"
+                "imageSrc": "dynamike-bellhop.webp"
             },
             {
                 "name": "Boomer Dynamike",
@@ -824,7 +844,7 @@
             },
             {
                 "name": "Chivas Mike",
-                "imageSrc": "dynamike-chivas-mike.webp"
+                "imageSrc": "dynamike-chivas.webp"
             },
             {
                 "name": "Classic Dynamike",
@@ -832,7 +852,7 @@
             },
             {
                 "name": "Coach Mike",
-                "imageSrc": "dynamike-coach-mike.webp"
+                "imageSrc": "dynamike-coach.webp"
             },
             {
                 "name": "Decaying Dynamike",
@@ -840,39 +860,47 @@
             },
             {
                 "name": "Dynasty Mike",
-                "imageSrc": "dynamike-dynasty-mike.webp"
+                "imageSrc": "dynamike-dynasty.webp"
             },
             {
                 "name": "Flamengo Mike",
-                "imageSrc": "dynamike-flamengo-mike.webp"
+                "imageSrc": "dynamike-flamengo.webp"
             },
             {
                 "name": "LDU Quito Mike",
-                "imageSrc": "dynamike-ldu-quito-mike.webp"
+                "imageSrc": "dynamike-ldu-quito.webp"
             },
             {
                 "name": "Moldy Mike",
-                "imageSrc": "dynamike-moldy-mike.webp"
+                "imageSrc": "dynamike-moldy.webp"
             },
             {
                 "name": "PSG Mike",
-                "imageSrc": "dynamike-psg-mike.webp"
+                "imageSrc": "dynamike-psg.webp"
             },
             {
                 "name": "Robo Mike",
-                "imageSrc": "dynamike-robo-mike.webp"
+                "imageSrc": "dynamike-robo.webp"
+            },
+            {
+                "name": "Romantic Dynamike",
+                "imageSrc": "dynamike-romantic.png"
             },
             {
                 "name": "Santa Mike",
-                "imageSrc": "dynamike-santa-mike.webp"
+                "imageSrc": "dynamike-santa.webp"
             },
             {
                 "name": "Spicy Mike",
-                "imageSrc": "dynamike-spicy-mike.webp"
+                "imageSrc": "dynamike-spicy.webp"
+            },
+            {
+                "name": "Sugar Bomb Mike",
+                "imageSrc": "dynamike-sugar-bomb.png"
             },
             {
                 "name": "Tengu Mike",
-                "imageSrc": "dynamike-tengu-mike.webp"
+                "imageSrc": "dynamike-tengu.webp"
             },
             {
                 "name": "True Gold Dynamike",
@@ -994,6 +1022,10 @@
                 "imageSrc": "jessie-dragon-knight.webp"
             },
             {
+                "name": "Jessie Jessie",
+                "imageSrc": "jessie-jessie.png"
+            },
+            {
                 "name": "Red Dragon Jessie",
                 "imageSrc": "jessie-red-dragon.webp"
             },
@@ -1051,8 +1083,16 @@
                 "imageSrc": "penny-lil-helper.webp"
             },
             {
-                "name": "Moon-curser Penny",
+                "name": "Moon-Curser Penny",
                 "imageSrc": "penny-moon-curser.webp"
+            },
+            {
+                "name": "Pop Penny",
+                "imageSrc": "penny-pop.png"
+            },
+            {
+                "name": "Robo Penny",
+                "imageSrc": "penny-robo.png"
             },
             {
                 "name": "Smuggler Penny",
@@ -1362,6 +1402,10 @@
                 "imageSrc": "berry-dark-horse.png"
             },
             {
+                "name": "Starr Horse Berry",
+                "imageSrc": "berry-starr-horse.png"
+            },
+            {
                 "name": "True Gold Berry",
                 "imageSrc": "berry-true-gold.png"
             },
@@ -1397,6 +1441,10 @@
             {
                 "name": "Bibilante",
                 "imageSrc": "bibi-bibilante.webp"
+            },
+            {
+                "name": "Bo Peep Bibi",
+                "imageSrc": "bibi-bo-peep.png"
             },
             {
                 "name": "Bubblegum Bibi",
@@ -1442,6 +1490,10 @@
             {
                 "name": "Brother Bo",
                 "imageSrc": "bo-brother.webp"
+            },
+            {
+                "name": "Cupid Bo",
+                "imageSrc": "bo-cupid.png"
             },
             {
                 "name": "Gold Mecha Bo",
@@ -1507,6 +1559,10 @@
             {
                 "name": "FootBonnie",
                 "imageSrc": "bonnie-footbonnie.webp"
+            },
+            {
+                "name": "Reindeer Bonnie",
+                "imageSrc": "bonnie-reindeer.png"
             },
             {
                 "name": "Tentacle Bonnie",
@@ -1770,6 +1826,10 @@
                 "imageSrc": "gale-default.webp"
             },
             {
+                "name": "Galactic Gale",
+                "imageSrc": "gale-galactic.png"
+            },
+            {
                 "name": "Merchant Gale",
                 "imageSrc": "gale-merchant.webp"
             },
@@ -1963,6 +2023,10 @@
                 "imageSrc": "lola-lawless.webp"
             },
             {
+                "name": "Loopy Lola",
+                "imageSrc": "lola-loopy.png"
+            },
+            {
                 "name": "Rebel Lola",
                 "imageSrc": "lola-rebel.webp"
             },
@@ -2055,6 +2119,23 @@
             {
                 "name": "True Silver Mandy",
                 "imageSrc": "mandy-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Meeple",
+        "rarity": 3,
+        "class": "Controller",
+        "description": "Meeple knows the rules to every board game in existence and if you break them... Well, let's just say you don't want to break them. They hate cheaters and those who don't follow the rules. There's one exception to the rules... Meeple themselves!",
+        "portrait": "meeple.png",
+        "skins": [
+            {
+                "name": "Meeple",
+                "imageSrc": "meeple-default.webp"
+            },
+            {
+                "name": "Strike Meeple",
+                "imageSrc": "meeple-strike.png"
             }
         ]
     },
@@ -2314,6 +2395,10 @@
             {
                 "name": "Wicked Stu",
                 "imageSrc": "stu-wicked.webp"
+            },
+            {
+                "name": "Woodriver Stu",
+                "imageSrc": "stu-woodriver.png"
             }
         ]
     },
@@ -2368,6 +2453,10 @@
             {
                 "name": "Buzzette",
                 "imageSrc": "buzz-buzzette.webp"
+            },
+            {
+                "name": "Bye Bye Buzz",
+                "imageSrc": "buzz-bye-bye.png"
             },
             {
                 "name": "Director Buzz",
@@ -2588,6 +2677,10 @@
                 "imageSrc": "eve-baiku.webp"
             },
             {
+                "name": "Extraterrestrial Eve",
+                "imageSrc": "eve-extraterrestrial.png"
+            },
+            {
                 "name": "Mothra Eve",
                 "imageSrc": "eve-mothra.webp"
             },
@@ -2682,6 +2775,10 @@
                 "imageSrc": "gene-evil.webp"
             },
             {
+                "name": "Jungle Gene",
+                "imageSrc": "gene-jungle.png"
+            },
+            {
                 "name": "Pirate Gene",
                 "imageSrc": "gene-pirate.webp"
             },
@@ -2719,6 +2816,10 @@
                 "imageSrc": "gray-detective-noir.webp"
             },
             {
+                "name": "Gigantophis Gray",
+                "imageSrc": "gray-gigantophis.png"
+            },
+            {
                 "name": "Runaway Gray",
                 "imageSrc": "gray-runaway.webp"
             },
@@ -2750,6 +2851,10 @@
             {
                 "name": "G-Force Janet",
                 "imageSrc": "janet-g-force.webp"
+            },
+            {
+                "name": "Jolly Janet",
+                "imageSrc": "janet-jolly.png"
             },
             {
                 "name": "Lunar Janet",
@@ -2921,8 +3026,20 @@
                 "imageSrc": "melodie-default.webp"
             },
             {
+                "name": "Blackgreen Melodie",
+                "imageSrc": "melodie-blackgreen.png"
+            },
+            {
                 "name": "Harpy Melodie",
                 "imageSrc": "melodie-harpy.webp"
+            },
+            {
+                "name": "Pop Melodie",
+                "imageSrc": "melodie-pop.png"
+            },
+            {
+                "name": "Redwhite Melodie",
+                "imageSrc": "melodie-redwhite.png"
             },
             {
                 "name": "Sif Melodie",
@@ -3080,6 +3197,10 @@
                 "imageSrc": "moe-monterey.webp"
             },
             {
+                "name": "Moon Driller Moe",
+                "imageSrc": "moe-moon-driller.png"
+            },
+            {
                 "name": "True Gold Moe",
                 "imageSrc": "moe-true-gold.webp"
             },
@@ -3117,8 +3238,8 @@
                 "imageSrc": "mr.-p-mr.-fly.webp"
             },
             {
-                "name": "Mr Dragonfruit",
-                "imageSrc": "mr.-p-mr-dragonfruit.webp"
+                "name": "Mr. Dragonfruit",
+                "imageSrc": "mr.-p-mr.-dragonfruit.webp"
             },
             {
                 "name": "True Gold Mr. P",
@@ -3127,6 +3248,23 @@
             {
                 "name": "True Silver Mr. P",
                 "imageSrc": "mr.-p-true-silver.webp"
+            }
+        ]
+    },
+    {
+        "name": "Ollie",
+        "rarity": 4,
+        "class": "Tank",
+        "description": "Ollie rides his customized hoverboard around Starr Park, grinding rails and causing trouble! A fan of old school hip hop, Ollie blasts his favorite tunes wherever he goes. His music is infectious... literally. Brawlers can't help but dance when they hear it.",
+        "portrait": "ollie.png",
+        "skins": [
+            {
+                "name": "Ollie",
+                "imageSrc": "ollie-default.webp"
+            },
+            {
+                "name": "Ollie G",
+                "imageSrc": "ollie-g.png"
             }
         ]
     },
@@ -3447,6 +3585,19 @@
         ]
     },
     {
+        "name": "Buzz Lightyear",
+        "rarity": 5,
+        "class": "Damage Dealer",
+        "description": "Buzz Lightyear has arrived in Starr Park! Starting his journey with an accidental delivery to the Gift Shop, Buzz has since been impressing Brawlers with his three different Brawling modes!",
+        "portrait": "buzz-lightyear.png",
+        "skins": [
+            {
+                "name": "Buzz Lightyear",
+                "imageSrc": "buzz-lightyear-default.webp"
+            }
+        ]
+    },
+    {
         "name": "Chester",
         "rarity": 5,
         "class": "Damage Dealer",
@@ -3548,6 +3699,10 @@
                 "imageSrc": "crow-gold-mecha.webp"
             },
             {
+                "name": "Maveric Crow",
+                "imageSrc": "crow-maveric.png"
+            },
+            {
                 "name": "Mecha Crow",
                 "imageSrc": "crow-mecha.webp"
             },
@@ -3618,8 +3773,20 @@
                 "imageSrc": "kenji-default.webp"
             },
             {
+                "name": "Aodaisho Kenji",
+                "imageSrc": "kenji-aodaisho.png"
+            },
+            {
                 "name": "Fruit Samurai Kenji",
                 "imageSrc": "kenji-fruit-samurai.png"
+            },
+            {
+                "name": "Hebi Kenji",
+                "imageSrc": "kenji-hebi.png"
+            },
+            {
+                "name": "Mamushi Kenji",
+                "imageSrc": "kenji-mamushi.png"
             },
             {
                 "name": "True Gold Kenji",
@@ -3645,6 +3812,10 @@
             {
                 "name": "Billy the Kit",
                 "imageSrc": "kit-billy-the.webp"
+            },
+            {
+                "name": "Cuddly Kit",
+                "imageSrc": "kit-cuddly.png"
             },
             {
                 "name": "KitBoxer",
@@ -3730,6 +3901,10 @@
             {
                 "name": "White Wolf Leon",
                 "imageSrc": "leon-white-wolf.webp"
+            },
+            {
+                "name": "World Finals Leon",
+                "imageSrc": "leon-world-finals.png"
             }
         ]
     },
@@ -3913,7 +4088,11 @@
             },
             {
                 "name": "Surge Kong",
-                "imageSrc": "surge-surge-kong.webp"
+                "imageSrc": "surge-kong.webp"
+            },
+            {
+                "name": "Surge Lightyear",
+                "imageSrc": "surge-lightyear.png"
             },
             {
                 "name": "Surgenie",
