@@ -4,6 +4,7 @@
         "rarity": 0,
         "class": "Damage Dealer",
         "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
+        "masteryTitle": "No time to explain!",
         "portrait": "shelly.png",
         "skins": [
             {
@@ -89,6 +90,7 @@
         "rarity": 1,
         "class": "Artillery",
         "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
+        "masteryTitle": "You got served!",
         "portrait": "barley.png",
         "skins": [
             {
@@ -142,6 +144,7 @@
         "rarity": 1,
         "class": "Marksman",
         "description": "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!",
+        "masteryTitle": "Boom!",
         "portrait": "brock.png",
         "skins": [
             {
@@ -251,6 +254,7 @@
         "rarity": 1,
         "class": "Tank",
         "description": "Bull isn't as carefree as he was in his youth, but just because his rowdy days are behind him doesn't mean he won't still crush someone who's asking for it.",
+        "masteryTitle": "Bulldozer!",
         "portrait": "bull.png",
         "skins": [
             {
@@ -316,6 +320,7 @@
         "rarity": 1,
         "class": "Damage Dealer",
         "description": "Colt is the star attraction at Starr Park! His good looks, charisma and gun twirling tricks win over any audience, except maybe Shelly.",
+        "masteryTitle": "The Pretty",
         "portrait": "colt.png",
         "skins": [
             {
@@ -413,6 +418,7 @@
         "rarity": 1,
         "class": "Tank",
         "description": "El Primo is always in the spotlight and that's right where he wants to be! There's no audience he can't win over, except maybe his fellow performers...",
+        "masteryTitle": "El Luchador",
         "portrait": "el-primo.png",
         "skins": [
             {
@@ -498,6 +504,7 @@
         "rarity": 1,
         "class": "Damage Dealer",
         "description": "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.",
+        "masteryTitle": "The Untamed",
         "portrait": "nita.png",
         "skins": [
             {
@@ -567,6 +574,7 @@
         "rarity": 1,
         "class": "Support",
         "description": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
+        "masteryTitle": "El Mariachi",
         "portrait": "poco.png",
         "skins": [
             {
@@ -620,6 +628,7 @@
         "rarity": 1,
         "class": "Tank",
         "description": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
+        "masteryTitle": "Touching Grass",
         "portrait": "rosa.png",
         "skins": [
             {
@@ -665,6 +674,7 @@
         "rarity": 2,
         "class": "Damage Dealer",
         "description": "An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before.",
+        "masteryTitle": "SYS 64738",
         "portrait": "8-bit.png",
         "skins": [
             {
@@ -714,6 +724,7 @@
         "rarity": 2,
         "class": "Damage Dealer",
         "description": "Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!",
+        "masteryTitle": "The Geologist",
         "portrait": "carl.png",
         "skins": [
             {
@@ -771,6 +782,7 @@
         "rarity": 2,
         "class": "Tank",
         "description": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
+        "masteryTitle": "Pirrrate!",
         "portrait": "darryl.png",
         "skins": [
             {
@@ -828,6 +840,7 @@
         "rarity": 2,
         "class": "Artillery",
         "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
+        "masteryTitle": "Birdie, birdie, birdie!",
         "portrait": "dynamike.png",
         "skins": [
             {
@@ -917,6 +930,7 @@
         "rarity": 2,
         "class": "Support",
         "description": "Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared.",
+        "masteryTitle": "The Lost",
         "portrait": "gus.png",
         "skins": [
             {
@@ -954,6 +968,7 @@
         "rarity": 2,
         "class": "Tank",
         "description": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer.",
+        "masteryTitle": "#@%**",
         "portrait": "jacky.png",
         "skins": [
             {
@@ -1003,6 +1018,7 @@
         "rarity": 2,
         "class": "Controller",
         "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
+        "masteryTitle": "The Builder",
         "portrait": "jessie.png",
         "skins": [
             {
@@ -1064,6 +1080,7 @@
         "rarity": 2,
         "class": "Artillery",
         "description": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
+        "masteryTitle": "The Salty",
         "portrait": "penny.png",
         "skins": [
             {
@@ -1117,6 +1134,7 @@
         "rarity": 2,
         "class": "Damage Dealer",
         "description": "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.",
+        "masteryTitle": "The Lover",
         "portrait": "rico.png",
         "skins": [
             {
@@ -1186,6 +1204,7 @@
         "rarity": 2,
         "class": "Artillery",
         "description": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
+        "masteryTitle": "Where's my head?",
         "portrait": "tick.png",
         "skins": [
             {
@@ -1239,6 +1258,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.",
+        "masteryTitle": "Bloodthirsty",
         "portrait": "angelo.png",
         "skins": [
             {
@@ -1268,6 +1288,7 @@
         "rarity": 3,
         "class": "Tank",
         "description": "Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!",
+        "masteryTitle": "Trash Tier",
         "portrait": "ash.png",
         "skins": [
             {
@@ -1309,6 +1330,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them...or even what it's like to be one.",
+        "masteryTitle": "Queen",
         "portrait": "bea.png",
         "skins": [
             {
@@ -1354,6 +1376,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
+        "masteryTitle": "Starr",
         "portrait": "belle.png",
         "skins": [
             {
@@ -1391,6 +1414,7 @@
         "rarity": 3,
         "class": "Support",
         "description": "Working at Mandy's Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.",
+        "masteryTitle": "Unicorn",
         "portrait": "berry.png",
         "skins": [
             {
@@ -1420,6 +1444,7 @@
         "rarity": 3,
         "class": "Tank",
         "description": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
+        "masteryTitle": "Cool Cat",
         "portrait": "bibi.png",
         "skins": [
             {
@@ -1481,6 +1506,7 @@
         "rarity": 3,
         "class": "Controller",
         "description": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
+        "masteryTitle": "One with Nature",
         "portrait": "bo.png",
         "skins": [
             {
@@ -1546,6 +1572,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!",
+        "masteryTitle": "The Reckless",
         "portrait": "bonnie.png",
         "skins": [
             {
@@ -1587,6 +1614,7 @@
         "rarity": 3,
         "class": "Damage Dealer",
         "description": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
+        "masteryTitle": "The Collector",
         "portrait": "colette.png",
         "skins": [
             {
@@ -1648,6 +1676,7 @@
         "rarity": 3,
         "class": "Assassin",
         "description": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
+        "masteryTitle": "CEO of Brawl Stars",
         "portrait": "edgar.png",
         "skins": [
             {
@@ -1717,6 +1746,7 @@
         "rarity": 3,
         "class": "Controller",
         "description": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
+        "masteryTitle": "#haters",
         "portrait": "emz.png",
         "skins": [
             {
@@ -1770,6 +1800,7 @@
         "rarity": 3,
         "class": "Tank",
         "description": "Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows.",
+        "masteryTitle": "The Tank",
         "portrait": "frank.png",
         "skins": [
             {
@@ -1819,6 +1850,7 @@
         "rarity": 3,
         "class": "Controller",
         "description": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
+        "masteryTitle": "The Janitor",
         "portrait": "gale.png",
         "skins": [
             {
@@ -1860,6 +1892,7 @@
         "rarity": 3,
         "class": "Controller",
         "description": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
+        "masteryTitle": "The Greedy",
         "portrait": "griff.png",
         "skins": [
             {
@@ -1893,6 +1926,7 @@
         "rarity": 3,
         "class": "Artillery",
         "description": "Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids were merciless.",
+        "masteryTitle": "With one left hand!",
         "portrait": "grom.png",
         "skins": [
             {
@@ -1926,6 +1960,7 @@
         "rarity": 3,
         "class": "Tank",
         "description": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
+        "masteryTitle": "Prawn Ready!",
         "portrait": "hank.png",
         "skins": [
             {
@@ -1951,6 +1986,7 @@
         "rarity": 3,
         "class": "Artillery",
         "description": "Larry sells tickets to Starr Park visitors under the watchful eye of his twin, Lawrie. Larry loves rules, they make life easier! Lawrie doesn't love rules so much as enforcing them. They make a good team.",
+        "masteryTitle": "I am the law!",
         "portrait": "larry-&-lawrie.png",
         "skins": [
             {
@@ -1992,6 +2028,7 @@
         "rarity": 3,
         "class": "Damage Dealer",
         "description": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
+        "masteryTitle": "Drama Queen",
         "portrait": "lola.png",
         "skins": [
             {
@@ -2045,6 +2082,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
+        "masteryTitle": "Master of Disaster",
         "portrait": "maisie.png",
         "skins": [
             {
@@ -2090,6 +2128,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist.",
+        "masteryTitle": "Tough Cookie",
         "portrait": "mandy.png",
         "skins": [
             {
@@ -2127,6 +2166,7 @@
         "rarity": 3,
         "class": "Controller",
         "description": "Meeple knows the rules to every board game in existence and if you break them... Well, let's just say you don't want to break them. They hate cheaters and those who don't follow the rules. There's one exception to the rules... Meeple themselves!",
+        "masteryTitle": "Cheater",
         "portrait": "meeple.png",
         "skins": [
             {
@@ -2144,6 +2184,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "Originally a security camera, Nani was modified to keep an eye on Jessie. Unfortunately, she can hardly keep up with the precocious girl!",
+        "masteryTitle": "Nanny",
         "portrait": "nani.png",
         "skins": [
             {
@@ -2185,6 +2226,7 @@
         "rarity": 3,
         "class": "Support",
         "description": "Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, Jessie...",
+        "masteryTitle": "Your mom",
         "portrait": "pam.png",
         "skins": [
             {
@@ -2222,6 +2264,7 @@
         "rarity": 3,
         "class": "Damage Dealer",
         "description": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
+        "masteryTitle": "Let Me Cook!",
         "portrait": "pearl.png",
         "skins": [
             {
@@ -2255,6 +2298,7 @@
         "rarity": 3,
         "class": "Marksman",
         "description": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
+        "masteryTitle": "The Sniper",
         "portrait": "piper.png",
         "skins": [
             {
@@ -2308,6 +2352,7 @@
         "rarity": 3,
         "class": "Assassin",
         "description": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
+        "masteryTitle": "In your face!",
         "portrait": "sam.png",
         "skins": [
             {
@@ -2345,6 +2390,7 @@
         "rarity": 3,
         "class": "Assassin",
         "description": "Not much is known about this mysterious pile of clothes, other than the fact it has some cool sunglasses. Discovered by Gus, Shade was given a name and now the two spooky Brawlers haunt the Ghost Station together.",
+        "masteryTitle": "Ghosted",
         "portrait": "shade.png",
         "skins": [
             {
@@ -2362,6 +2408,7 @@
         "rarity": 3,
         "class": "Assassin",
         "description": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
+        "masteryTitle": "Wicked",
         "portrait": "stu.png",
         "skins": [
             {
@@ -2407,6 +2454,7 @@
         "rarity": 4,
         "class": "Tank",
         "description": "Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!",
+        "masteryTitle": "Blockbuster",
         "portrait": "buster.png",
         "skins": [
             {
@@ -2436,6 +2484,7 @@
         "rarity": 4,
         "class": "Assassin",
         "description": "Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible.",
+        "masteryTitle": "Born bad",
         "portrait": "buzz.png",
         "skins": [
             {
@@ -2509,6 +2558,7 @@
         "rarity": 4,
         "class": "Support",
         "description": "Byron has invented many concoctions and tinctures that heal or harm in various ways...but most of them fall into the harming category.",
+        "masteryTitle": "The Sensational",
         "portrait": "byron.png",
         "skins": [
             {
@@ -2550,6 +2600,7 @@
         "rarity": 4,
         "class": "Controller",
         "description": "Itsy bitsy Charlie\nPut on a crazy show\nShe let down her hair\nAnd made off with all your dough\nIn came the crowd\nIt filled up the circus tent\nSo Charlie weaved away while\nTaking every cent!",
+        "masteryTitle": "The Amazing",
         "portrait": "charlie.png",
         "skins": [
             {
@@ -2583,6 +2634,7 @@
         "rarity": 4,
         "class": "Damage Dealer",
         "description": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!",
+        "masteryTitle": "The Maestro",
         "portrait": "chuck.png",
         "skins": [
             {
@@ -2612,6 +2664,7 @@
         "rarity": 4,
         "class": "Damage Dealer",
         "description": "There's no turning back with Clancy (unless Hank orders him to). He's fully embraced his fake crustacean life and will do anything for his comrades.",
+        "masteryTitle": "Shell Shocked",
         "portrait": "clancy.png",
         "skins": [
             {
@@ -2637,6 +2690,7 @@
         "rarity": 4,
         "class": "Support",
         "description": "Doug's hot dogs will extend your friends' shelf life.",
+        "masteryTitle": "Wiener",
         "portrait": "doug.png",
         "skins": [
             {
@@ -2666,6 +2720,7 @@
         "rarity": 4,
         "class": "Damage Dealer",
         "description": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home...preferably in Ruffs' fur.",
+        "masteryTitle": "Mother",
         "portrait": "eve.png",
         "skins": [
             {
@@ -2703,6 +2758,7 @@
         "rarity": 4,
         "class": "Assassin",
         "description": "Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!",
+        "masteryTitle": "Sneaker Artist",
         "portrait": "fang.png",
         "skins": [
             {
@@ -2756,6 +2812,7 @@
         "rarity": 4,
         "class": "Controller",
         "description": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
+        "masteryTitle": "Talk to the Hand!",
         "portrait": "gene.png",
         "skins": [
             {
@@ -2801,6 +2858,7 @@
         "rarity": 4,
         "class": "Support",
         "description": "Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets.",
+        "masteryTitle": "The Shady",
         "portrait": "gray.png",
         "skins": [
             {
@@ -2838,6 +2896,7 @@
         "rarity": 4,
         "class": "Marksman",
         "description": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
+        "masteryTitle": "The Rocket",
         "portrait": "janet.png",
         "skins": [
             {
@@ -2883,6 +2942,7 @@
         "rarity": 4,
         "class": "Artillery",
         "description": "Juju owns the Oddities Shop and is followed everywhere by her \"pet\" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.",
+        "masteryTitle": "Hexed",
         "portrait": "juju.png",
         "skins": [
             {
@@ -2900,6 +2960,7 @@
         "rarity": 4,
         "class": "Assassin",
         "description": "A nerd at heart and a total witchcraft buff, Lily's thirst for knowledge once led her into the Enchanted Woods, where an incident involving a firefly and a carnivorous plant would change her life forever...",
+        "masteryTitle": "Backstabber",
         "portrait": "lily.png",
         "skins": [
             {
@@ -2929,6 +2990,7 @@
         "rarity": 4,
         "class": "Controller",
         "description": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
+        "masteryTitle": "is here for you!",
         "portrait": "lou.png",
         "skins": [
             {
@@ -2970,6 +3032,7 @@
         "rarity": 4,
         "class": "Support",
         "description": "Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much...but she sure is fast!",
+        "masteryTitle": "I AM SPEED!",
         "portrait": "max.png",
         "skins": [
             {
@@ -3019,6 +3082,7 @@
         "rarity": 4,
         "class": "Assassin",
         "description": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
+        "masteryTitle": "Fearless",
         "portrait": "melodie.png",
         "skins": [
             {
@@ -3060,6 +3124,7 @@
         "rarity": 4,
         "class": "Assassin",
         "description": "Mico is the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
+        "masteryTitle": "Am I a joke to you?",
         "portrait": "mico.png",
         "skins": [
             {
@@ -3093,6 +3158,7 @@
         "rarity": 4,
         "class": "Assassin",
         "description": "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.",
+        "masteryTitle": "Creature of the Night",
         "portrait": "mortis.png",
         "skins": [
             {
@@ -3186,6 +3252,7 @@
         "rarity": 4,
         "class": "Damage Dealer",
         "description": "Moe is a blind rat, found living in the Starr Park sewers by Grom, who quickly adopted him! Now part of Starr Park's maintenance team, Moe uses his special digging machine, Driller, to traverse the sewer tunnels...and also cause a bit of destruction throughout the park, much to Ash's dismay.",
+        "masteryTitle": "Cheesy",
         "portrait": "moe.png",
         "skins": [
             {
@@ -3215,6 +3282,7 @@
         "rarity": 4,
         "class": "Controller",
         "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
+        "masteryTitle": "The Boss",
         "portrait": "mr.-p.png",
         "skins": [
             {
@@ -3256,6 +3324,7 @@
         "rarity": 4,
         "class": "Tank",
         "description": "Ollie rides his customized hoverboard around Starr Park, grinding rails and causing trouble! A fan of old school hip hop, Ollie blasts his favorite tunes wherever he goes. His music is infectious... literally. Brawlers can't help but dance when they hear it.",
+        "masteryTitle": "Based",
         "portrait": "ollie.png",
         "skins": [
             {
@@ -3273,6 +3342,7 @@
         "rarity": 4,
         "class": "Controller",
         "description": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
+        "masteryTitle": "The Artist",
         "portrait": "otis.png",
         "skins": [
             {
@@ -3314,6 +3384,7 @@
         "rarity": 4,
         "class": "Damage Dealer",
         "description": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
+        "masteryTitle": "The Watcher",
         "portrait": "r-t.png",
         "skins": [
             {
@@ -3347,6 +3418,7 @@
         "rarity": 4,
         "class": "Support",
         "description": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
+        "masteryTitle": "Colonel",
         "portrait": "ruffs.png",
         "skins": [
             {
@@ -3388,6 +3460,7 @@
         "rarity": 4,
         "class": "Artillery",
         "description": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
+        "masteryTitle": "Tree hugger",
         "portrait": "sprout.png",
         "skins": [
             {
@@ -3433,6 +3506,7 @@
         "rarity": 4,
         "class": "Controller",
         "description": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber.",
+        "masteryTitle": "is an accident",
         "portrait": "squeak.png",
         "skins": [
             {
@@ -3478,6 +3552,7 @@
         "rarity": 4,
         "class": "Damage Dealer",
         "description": "Tara has seen in the cards that great difficulties lie ahead! But don't despair...she has a terrific selection of magical trinkets for sale to help with that.",
+        "masteryTitle": "What's in the cards?",
         "portrait": "tara.png",
         "skins": [
             {
@@ -3523,6 +3598,7 @@
         "rarity": 4,
         "class": "Controller",
         "description": "Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
+        "masteryTitle": "Is in your head!",
         "portrait": "willow.png",
         "skins": [
             {
@@ -3556,6 +3632,7 @@
         "rarity": 5,
         "class": "Controller",
         "description": "Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last.",
+        "masteryTitle": "Fire Starter",
         "portrait": "amber.png",
         "skins": [
             {
@@ -3589,6 +3666,7 @@
         "rarity": 5,
         "class": "Damage Dealer",
         "description": "Buzz Lightyear has arrived in Starr Park! Starting his journey with an accidental delivery to the Gift Shop, Buzz has since been impressing Brawlers with his three different Brawling modes!",
+        "masteryTitle": "To infinity and beyond!",
         "portrait": "buzz-lightyear.png",
         "skins": [
             {
@@ -3602,6 +3680,7 @@
         "rarity": 5,
         "class": "Damage Dealer",
         "description": "Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better...especially if that hater is Mandy!",
+        "masteryTitle": "Jack of all Trades",
         "portrait": "chester.png",
         "skins": [
             {
@@ -3639,6 +3718,7 @@
         "rarity": 5,
         "class": "Assassin",
         "description": "Gardener and caretaker of Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
+        "masteryTitle": "Toxic",
         "portrait": "cordelius.png",
         "skins": [
             {
@@ -3680,6 +3760,7 @@
         "rarity": 5,
         "class": "Assassin",
         "description": "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi.",
+        "masteryTitle": "Caw caw!",
         "portrait": "crow.png",
         "skins": [
             {
@@ -3737,6 +3818,7 @@
         "rarity": 5,
         "class": "Tank",
         "description": "Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd he turns the fantasy up to eleven!",
+        "masteryTitle": "Dungeon Master",
         "portrait": "draco.png",
         "skins": [
             {
@@ -3766,6 +3848,7 @@
         "rarity": 5,
         "class": "Assassin",
         "description": "This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something from his past...though his sushi tastes so good, nobody cares!",
+        "masteryTitle": "Samurai",
         "portrait": "kenji.png",
         "skins": [
             {
@@ -3803,6 +3886,7 @@
         "rarity": 5,
         "class": "Support",
         "description": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
+        "masteryTitle": "Meow",
         "portrait": "kit.png",
         "skins": [
             {
@@ -3848,6 +3932,7 @@
         "rarity": 5,
         "class": "Assassin",
         "description": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
+        "masteryTitle": "The Sneaky",
         "portrait": "leon.png",
         "skins": [
             {
@@ -3913,6 +3998,7 @@
         "rarity": 5,
         "class": "Tank",
         "description": "Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while Max and Surge are out entertaining the crowds.",
+        "masteryTitle": "Tech Support 2.0",
         "portrait": "meg.png",
         "skins": [
             {
@@ -3950,6 +4036,7 @@
         "rarity": 5,
         "class": "Controller",
         "description": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
+        "masteryTitle": "The Sleepy",
         "portrait": "sandy.png",
         "skins": [
             {
@@ -4003,6 +4090,7 @@
         "rarity": 5,
         "class": "Damage Dealer",
         "description": "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma.",
+        "masteryTitle": "One of a Kind",
         "portrait": "spike.png",
         "skins": [
             {
@@ -4056,6 +4144,7 @@
         "rarity": 5,
         "class": "Damage Dealer",
         "description": "Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks.",
+        "masteryTitle": "Bro",
         "portrait": "surge.png",
         "skins": [
             {

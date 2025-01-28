@@ -1,8 +1,9 @@
 export type BrawlerData = {
     name: string;
     rarity: BrawlerRarity;
-    class: string;
+    class: BrawlerClass;
     description: string;
+    masteryTitle: string;
     portrait: string;
     skins: {
         name: string;
@@ -15,6 +16,15 @@ export type PortraitData = {
     imageSrc: string,
     rarity: BrawlerRarity
 };
+
+export type BrawlerClass =
+    | 'Artillery'
+    | 'Assassin'
+    | 'Controller'
+    | 'Damage Dealer'
+    | 'Marksman'
+    | 'Support'
+    | 'Tank';
 
 export enum BrawlerRarity {
     Common,
