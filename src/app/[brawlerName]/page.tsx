@@ -23,6 +23,16 @@ export async function generateStaticParams() {
   }));
 }
 
+const classImagePaths: Record<BrawlerClass, string> = {
+  'Artillery': '/images/ui/icon-class-artillery.png',
+  'Assassin': '/images/ui/icon-class-assassin.png',
+  'Controller': '/images/ui/icon-class-controller.png',
+  'Damage Dealer': '/images/ui/icon-class-damage-dealer.png',
+  'Marksman': '/images/ui/icon-class-marksman.png',
+  'Support': '/images/ui/icon-class-support.png',
+  'Tank': '/images/ui/icon-class-tank.png'
+};
+
 export default async function BrawlerPage({ params }: { params: Params }) {
   const { brawlerName } = await params;
   const decodedBrawlerName = decodeURIComponent(brawlerName);
@@ -36,23 +46,13 @@ export default async function BrawlerPage({ params }: { params: Params }) {
   if (decodedBrawlerName !== brawlerData.name) {
     return redirect(`/${brawlerData.name}`);
   }
-  
-  const classImagePaths: Record<BrawlerClass, string> = {
-    'Artillery': '/images/ui/icon-class-artillery.png',
-    'Assassin': '/images/ui/icon-class-assassin.png',
-    'Controller': '/images/ui/icon-class-controller.png',
-    'Damage Dealer': '/images/ui/icon-class-damage-dealer.png',
-    'Marksman': '/images/ui/icon-class-marksman.png',
-    'Support': '/images/ui/icon-class-support.png',
-    'Tank': '/images/ui/icon-class-tank.png',
-};
 
   return (
     <section className="p-8 flex flex-col justify-center items-center">
       <h1 className="w-full text-3xl uppercase">
         {brawlerData.name} ({brawlerData.skins.length})
       </h1>
-      <h2 className="flex justify-center pt-1 w-full text-xl uppercase">
+      <h2 className="pt-1 w-full text-xl uppercase flex justify-center ">
         <Image
           src={`${classImagePaths[brawlerData.class]}`}
           alt={`${brawlerData.class} class icon`}
@@ -71,8 +71,8 @@ export default async function BrawlerPage({ params }: { params: Params }) {
         {brawlerData.description}
       </h3>
       <div className="pt-6 w-fit grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-        {brawlerData.skins.map(skin => (
-          <SkinCard key={`${skin.name}-${skin.imageSrc}`} name={skin.name} file={skin.imageSrc} />
+        {brawlerData.skins.map((skin, index) => (
+          <SkinCard key={`${index}-${skin.name}`} skin={skin} />
         ))}
       </div>
     </section>

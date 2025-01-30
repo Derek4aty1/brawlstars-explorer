@@ -1,4202 +1,5055 @@
 [
     {
         "name": "Shelly",
-        "rarity": 0,
+        "rarity": "Common",
         "class": "Damage Dealer",
         "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
         "masteryTitle": "No time to explain!",
-        "portrait": "shelly.png",
+        "portraitImageSrc": "shelly.png",
         "skins": [
             {
                 "name": "Shelly",
+                "rarity": "N/A",
                 "imageSrc": "shelly-default.webp"
             },
             {
                 "name": "America Shelly",
+                "rarity": "Rare",
                 "imageSrc": "shelly-america.webp"
             },
             {
                 "name": "Bandita Shelly",
+                "rarity": "Rare",
                 "imageSrc": "shelly-bandita.webp"
             },
             {
                 "name": "Boca Juniors Shelly",
+                "rarity": "Rare",
                 "imageSrc": "shelly-boca-juniors.webp"
             },
             {
                 "name": "Classic Shelly",
+                "rarity": "Rare",
                 "imageSrc": "shelly-classic.webp"
             },
             {
                 "name": "Hoot Hoot Shelly",
+                "rarity": "Mythic",
                 "imageSrc": "shelly-hoot-hoot.webp"
             },
             {
                 "name": "Princess Shelly",
+                "rarity": "Super Rare",
                 "imageSrc": "shelly-princess.webp"
             },
             {
                 "name": "PSG Shelly",
+                "rarity": "Super Rare",
                 "imageSrc": "shelly-psg.webp"
             },
             {
                 "name": "Shelly Dancer",
+                "rarity": "Epic",
                 "imageSrc": "shelly-shelly-dancer.webp"
             },
             {
                 "name": "Shelly Dancer Dahlia",
+                "rarity": "Epic",
                 "imageSrc": "shelly-shelly-dancer-dahlia.webp"
             },
             {
                 "name": "Shelly Dancer Iris",
+                "rarity": "Epic",
                 "imageSrc": "shelly-shelly-dancer-iris.webp"
             },
             {
                 "name": "Sheriff Shelly",
+                "rarity": "Super Rare",
                 "imageSrc": "shelly-sheriff.webp"
             },
             {
                 "name": "Squad Buster Shelly",
+                "rarity": "Mythic",
                 "imageSrc": "shelly-squad-buster.webp"
             },
             {
                 "name": "Star Shelly",
+                "rarity": "N/A",
                 "imageSrc": "shelly-star.webp"
             },
             {
                 "name": "Stellar Shelly",
+                "rarity": "Epic",
                 "imageSrc": "shelly-stellar.webp"
             },
             {
                 "name": "True Gold Shelly",
+                "rarity": "N/A",
                 "imageSrc": "shelly-true-gold.webp"
             },
             {
                 "name": "True Silver Shelly",
+                "rarity": "N/A",
                 "imageSrc": "shelly-true-silver.webp"
             },
             {
                 "name": "U De Chile Shelly",
+                "rarity": "Rare",
                 "imageSrc": "shelly-u-de-chile.webp"
             },
             {
                 "name": "Witch Shelly",
+                "rarity": "Epic",
                 "imageSrc": "shelly-witch.webp"
             }
         ]
     },
     {
         "name": "Barley",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Artillery",
         "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
         "masteryTitle": "You got served!",
-        "portrait": "barley.png",
+        "portraitImageSrc": "barley.png",
         "skins": [
             {
                 "name": "Barley",
+                "rarity": "N/A",
                 "imageSrc": "barley-default.webp"
             },
             {
                 "name": "Bakesale Barley",
+                "rarity": "Epic",
                 "imageSrc": "barley-bakesale.webp"
             },
             {
                 "name": "Buccaneer Barley",
+                "rarity": "Epic",
                 "imageSrc": "barley-buccaneer.webp"
             },
             {
                 "name": "Golden Barley",
+                "rarity": "Rare",
                 "imageSrc": "barley-golden.webp"
             },
             {
                 "name": "Maple Barley",
+                "rarity": "Super Rare",
                 "imageSrc": "barley-maple.webp"
             },
             {
                 "name": "Red Wizard Barley",
+                "rarity": "Super Rare",
                 "imageSrc": "barley-red-wizard.webp"
             },
             {
                 "name": "Sway Master Barley",
+                "rarity": "Epic",
                 "imageSrc": "barley-sway-master.webp"
             },
             {
                 "name": "True Gold Barley",
+                "rarity": "N/A",
                 "imageSrc": "barley-true-gold.webp"
             },
             {
                 "name": "True Silver Barley",
+                "rarity": "N/A",
                 "imageSrc": "barley-true-silver.webp"
             },
             {
                 "name": "Unicorn Knight Barley",
+                "rarity": "Super Rare",
                 "imageSrc": "barley-unicorn-knight.webp"
             },
             {
                 "name": "Wizard Barley",
+                "rarity": "N/A",
                 "imageSrc": "barley-wizard.webp"
             }
         ]
     },
     {
         "name": "Brock",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Marksman",
         "description": "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!",
         "masteryTitle": "Boom!",
-        "portrait": "brock.png",
+        "portraitImageSrc": "brock.png",
         "skins": [
             {
                 "name": "Brock",
+                "rarity": "N/A",
                 "imageSrc": "brock-default.webp"
             },
             {
                 "name": "Fresh Cut Brock",
+                "rarity": "N/A",
                 "imageSrc": "brock-fresh-cut.webp"
             },
             {
                 "name": "Beach Brock",
+                "rarity": "Super Rare",
                 "imageSrc": "brock-beach.webp"
             },
             {
                 "name": "Boom Box Brock",
+                "rarity": "Super Rare",
                 "imageSrc": "brock-boom-box.webp"
             },
             {
                 "name": "Deputy Brock",
+                "rarity": "Super Rare",
                 "imageSrc": "brock-deputy.webp"
             },
             {
                 "name": "Gold Hacker Brock",
+                "rarity": "Epic",
                 "imageSrc": "brock-gold-hacker.webp"
             },
             {
                 "name": "Hacker Brock",
+                "rarity": "Epic",
                 "imageSrc": "brock-hacker.webp"
             },
             {
                 "name": "Hot Rod Brock",
+                "rarity": "Epic",
                 "imageSrc": "brock-hot-rod.webp"
             },
             {
                 "name": "Lion Dance Brock",
+                "rarity": "Epic",
                 "imageSrc": "brock-lion-dance.webp"
             },
             {
                 "name": "Old School Brock",
+                "rarity": "Super Rare",
                 "imageSrc": "brock-old-school.webp"
             },
             {
                 "name": "Postal Brock",
+                "rarity": "Epic",
                 "imageSrc": "brock-postal.webp"
             },
             {
                 "name": "RGB Hacker Brock",
+                "rarity": "Epic",
                 "imageSrc": "brock-rgb-hacker.webp"
             },
             {
                 "name": "Rocket Brown Brock",
+                "rarity": "Epic",
                 "imageSrc": "brock-rocket-brown.webp"
             },
             {
                 "name": "Super Ranger Brock",
+                "rarity": "Super Rare",
                 "imageSrc": "brock-super-ranger.webp"
             },
             {
                 "name": "Super Ranger Brock Black",
+                "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-black.webp"
             },
             {
                 "name": "Super Ranger Brock Blue",
+                "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-blue.webp"
             },
             {
                 "name": "Super Ranger Brock Pink",
+                "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-pink.webp"
             },
             {
                 "name": "Super Ranger Brock Red",
+                "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-red.webp"
             },
             {
                 "name": "Super Ranger Brock Yellow",
+                "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-yellow.webp"
             },
             {
                 "name": "True Gold Brock",
+                "rarity": "N/A",
                 "imageSrc": "brock-true-gold.png"
             },
             {
                 "name": "True Gold Brock",
+                "rarity": "N/A",
                 "imageSrc": "brock-true-gold-fresh-cut.png"
             },
             {
                 "name": "True Silver Brock",
+                "rarity": "N/A",
                 "imageSrc": "brock-true-silver.png"
             },
             {
                 "name": "True Silver Brock",
+                "rarity": "N/A",
                 "imageSrc": "brock-true-silver-fresh-cut.png"
             },
             {
                 "name": "Zeus Brock",
+                "rarity": "Mythic",
                 "imageSrc": "brock-zeus.webp"
             },
             {
                 "name": "ZomBrock",
+                "rarity": "Rare",
                 "imageSrc": "brock-zombrock.webp"
             }
         ]
     },
     {
         "name": "Bull",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Tank",
         "description": "Bull isn't as carefree as he was in his youth, but just because his rowdy days are behind him doesn't mean he won't still crush someone who's asking for it.",
         "masteryTitle": "Bulldozer!",
-        "portrait": "bull.png",
+        "portraitImageSrc": "bull.png",
         "skins": [
             {
                 "name": "Bull",
+                "rarity": "N/A",
                 "imageSrc": "bull-default.webp"
             },
             {
                 "name": "Alleycat Bull",
+                "rarity": "Epic",
                 "imageSrc": "bull-alleycat.webp"
             },
             {
                 "name": "B-800 Bull",
+                "rarity": "Super Rare",
                 "imageSrc": "bull-b-800.webp"
             },
             {
                 "name": "Barbarian King Bull",
+                "rarity": "Super Rare",
                 "imageSrc": "bull-barbarian-king.webp"
             },
             {
                 "name": "Bull Mang",
+                "rarity": "Epic",
                 "imageSrc": "bull-bull-mang.webp"
             },
             {
                 "name": "Linebacker Bull",
+                "rarity": "Super Rare",
                 "imageSrc": "bull-linebacker.webp"
             },
             {
                 "name": "Lion Bull",
+                "rarity": "Epic",
                 "imageSrc": "bull-lion.webp"
             },
             {
                 "name": "Minotaur Bull",
+                "rarity": "Mythic",
                 "imageSrc": "bull-minotaur.webp"
             },
             {
                 "name": "Norse Raider Bull",
+                "rarity": "Super Rare",
                 "imageSrc": "bull-norse-raider.webp"
             },
             {
                 "name": "Space Ox Bull",
+                "rarity": "Epic",
                 "imageSrc": "bull-space-ox.webp"
             },
             {
                 "name": "Touchdown Bull",
+                "rarity": "Super Rare",
                 "imageSrc": "bull-touchdown.webp"
             },
             {
                 "name": "True Gold Bull",
+                "rarity": "N/A",
                 "imageSrc": "bull-true-gold.webp"
             },
             {
                 "name": "True Silver Bull",
+                "rarity": "N/A",
                 "imageSrc": "bull-true-silver.webp"
             },
             {
                 "name": "Viking Bull",
+                "rarity": "Super Rare",
                 "imageSrc": "bull-viking.webp"
             }
         ]
     },
     {
         "name": "Colt",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Damage Dealer",
         "description": "Colt is the star attraction at Starr Park! His good looks, charisma and gun twirling tricks win over any audience, except maybe Shelly.",
         "masteryTitle": "The Pretty",
-        "portrait": "colt.png",
+        "portraitImageSrc": "colt.png",
         "skins": [
             {
                 "name": "Colt",
+                "rarity": "N/A",
                 "imageSrc": "colt-default.webp"
             },
             {
                 "name": "Atl. Nacional Colt",
+                "rarity": "Rare",
                 "imageSrc": "colt-atl.-nacional.webp"
             },
             {
                 "name": "Bananas Colt",
+                "rarity": "Epic",
                 "imageSrc": "colt-bananas.webp"
             },
             {
                 "name": "Cerro Porteño Colt",
+                "rarity": "Rare",
                 "imageSrc": "colt-cerro-porteño.webp"
             },
             {
                 "name": "Challenger Colt",
+                "rarity": "Epic",
                 "imageSrc": "colt-challenger.webp"
             },
             {
                 "name": "Club America Colt",
+                "rarity": "Rare",
                 "imageSrc": "colt-club-america.webp"
             },
             {
                 "name": "Corsair Colt",
+                "rarity": "Epic",
                 "imageSrc": "colt-corsair.webp"
             },
             {
                 "name": "Dark Angel Colt",
+                "rarity": "Epic",
                 "imageSrc": "colt-dark-angel.webp"
             },
             {
                 "name": "Gunslinger Colt",
+                "rarity": "Super Rare",
                 "imageSrc": "colt-gunslinger.webp"
             },
             {
                 "name": "Handsome Colt",
+                "rarity": "Super Rare",
                 "imageSrc": "colt-handsome.webp"
             },
             {
+                "name": "Jade Agent Colt",
+                "rarity": "Epic",
+                "imageSrc": "colt-jade-agent.png"
+            },
+            {
                 "name": "Light Angel Colt",
+                "rarity": "Epic",
                 "imageSrc": "colt-light-angel.webp"
             },
             {
                 "name": "Mecha Colt",
+                "rarity": "Legendary",
                 "imageSrc": "colt-mecha.webp"
             },
             {
                 "name": "Outlaw Colt",
+                "rarity": "Rare",
                 "imageSrc": "colt-outlaw.webp"
             },
             {
                 "name": "Paragon Mecha Colt",
+                "rarity": "Legendary",
                 "imageSrc": "colt-paragon-mecha.webp"
             },
             {
                 "name": "Renegade Mecha Colt",
+                "rarity": "Legendary",
                 "imageSrc": "colt-renegade-mecha.webp"
             },
             {
                 "name": "River Plate Colt",
+                "rarity": "Rare",
                 "imageSrc": "colt-river-plate.webp"
             },
             {
                 "name": "Rockstar Colt",
+                "rarity": "Rare",
                 "imageSrc": "colt-rockstar.webp"
             },
             {
                 "name": "Royal Agent Colt",
+                "rarity": "Epic",
                 "imageSrc": "colt-royal-agent.webp"
             },
             {
                 "name": "Sharktooth Colt",
+                "rarity": "Super Rare",
                 "imageSrc": "colt-sharktooth.webp"
             },
             {
                 "name": "True Gold Colt",
+                "rarity": "N/A",
                 "imageSrc": "colt-true-gold.webp"
             },
             {
                 "name": "True Silver Colt",
+                "rarity": "N/A",
                 "imageSrc": "colt-true-silver.webp"
             },
             {
                 "name": "Woody Colt",
+                "rarity": "Mythic",
                 "imageSrc": "colt-woody.png"
             }
         ]
     },
     {
         "name": "El Primo",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Tank",
         "description": "El Primo is always in the spotlight and that's right where he wants to be! There's no audience he can't win over, except maybe his fellow performers...",
         "masteryTitle": "El Luchador",
-        "portrait": "el-primo.png",
+        "portraitImageSrc": "el-primo.png",
         "skins": [
             {
                 "name": "El Primo",
+                "rarity": "N/A",
                 "imageSrc": "el-primo-default.webp"
             },
             {
                 "name": "El Atómico",
+                "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-atómico.webp"
             },
             {
                 "name": "El Baby Shark",
+                "rarity": "Epic",
                 "imageSrc": "el-primo-el-baby-shark.webp"
             },
             {
                 "name": "El Brown",
+                "rarity": "Epic",
                 "imageSrc": "el-primo-el-brown.webp"
             },
             {
                 "name": "El Corazón",
+                "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-corazón.webp"
             },
             {
                 "name": "El Dragón Rosado",
+                "rarity": "Epic",
                 "imageSrc": "el-primo-el-dragón-rosado.webp"
             },
             {
                 "name": "El Dragón Verdoso",
+                "rarity": "Epic",
                 "imageSrc": "el-primo-el-dragón-verdoso.webp"
             },
             {
                 "name": "El Mayordomo",
+                "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-mayordomo.webp"
             },
             {
                 "name": "El Primo Club Nacional",
+                "rarity": "Rare",
                 "imageSrc": "el-primo-el-primo-club-nacional.webp"
             },
             {
                 "name": "El Primo Corinthians",
+                "rarity": "Rare",
                 "imageSrc": "el-primo-el-primo-corinthians.webp"
             },
             {
                 "name": "El Primo Universitario",
+                "rarity": "Rare",
                 "imageSrc": "el-primo-el-primo-universitario.webp"
             },
             {
                 "name": "El Quarterback",
+                "rarity": "Mythic",
                 "imageSrc": "el-primo-el-quarterback.webp"
             },
             {
                 "name": "El Rey Primo",
+                "rarity": "Epic",
                 "imageSrc": "el-primo-el-rey-primo.webp"
             },
             {
                 "name": "El Rudo Primo",
+                "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-rudo-primo.webp"
             },
             {
                 "name": "El Tigro",
+                "rarity": "Epic",
                 "imageSrc": "el-primo-el-tigro.webp"
             },
             {
                 "name": "SpongeBob El Primo",
+                "rarity": "Mythic",
                 "imageSrc": "el-primo-spongebob.png"
             },
             {
                 "name": "True Gold El Primo",
+                "rarity": "N/A",
                 "imageSrc": "el-primo-true-gold.webp"
             },
             {
                 "name": "True Silver El Primo",
+                "rarity": "N/A",
                 "imageSrc": "el-primo-true-silver.webp"
             },
             {
                 "name": "Vamprimo",
+                "rarity": "Rare",
                 "imageSrc": "el-primo-vamprimo.png"
             }
         ]
     },
     {
         "name": "Nita",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Damage Dealer",
         "description": "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.",
         "masteryTitle": "The Untamed",
-        "portrait": "nita.png",
+        "portraitImageSrc": "nita.png",
         "skins": [
             {
                 "name": "Nita",
+                "rarity": "N/A",
                 "imageSrc": "nita-default.webp"
             },
             {
-                "name": "Gummy Bear Nita",
+                "name": "Gummybear Nita",
+                "rarity": "Super Rare",
                 "imageSrc": "nita-gummybear.webp"
             },
             {
                 "name": "Koala Nita",
+                "rarity": "Rare",
                 "imageSrc": "nita-koala.webp"
             },
             {
                 "name": "Mechagodzilla Nita",
+                "rarity": "Mythic",
                 "imageSrc": "nita-mechagodzilla.webp"
             },
             {
                 "name": "Nian Nita",
+                "rarity": "Epic",
                 "imageSrc": "nita-nian.webp"
             },
             {
                 "name": "Panda Nita",
+                "rarity": "Rare",
                 "imageSrc": "nita-panda.webp"
             },
             {
                 "name": "Red Nose Nita",
+                "rarity": "Epic",
                 "imageSrc": "nita-red-nose.webp"
             },
             {
                 "name": "Reinbear Nita",
+                "rarity": "Epic",
                 "imageSrc": "nita-reinbear.png"
             },
             {
                 "name": "Rui Shou Nita",
+                "rarity": "Epic",
                 "imageSrc": "nita-rui-shou.webp"
             },
             {
                 "name": "Runner Nita",
+                "rarity": "Super Rare",
                 "imageSrc": "nita-runner.png"
             },
             {
                 "name": "Shiba Nita",
+                "rarity": "Epic",
                 "imageSrc": "nita-shiba.webp"
             },
             {
                 "name": "True Gold Nita",
+                "rarity": "N/A",
                 "imageSrc": "nita-true-gold.webp"
             },
             {
                 "name": "True Silver Nita",
+                "rarity": "N/A",
                 "imageSrc": "nita-true-silver.webp"
             },
             {
                 "name": "Tusked Nita",
+                "rarity": "Legendary",
                 "imageSrc": "nita-tusked.webp"
             },
             {
                 "name": "Whale Watch Nita",
+                "rarity": "Super Rare",
                 "imageSrc": "nita-whale-watch.webp"
             }
         ]
     },
     {
         "name": "Poco",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Support",
         "description": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
         "masteryTitle": "El Mariachi",
-        "portrait": "poco.png",
+        "portraitImageSrc": "poco.png",
         "skins": [
             {
                 "name": "Poco",
+                "rarity": "N/A",
                 "imageSrc": "poco-default.webp"
             },
             {
                 "name": "CCTV Poco",
+                "rarity": "Epic",
                 "imageSrc": "poco-cctv.webp"
             },
             {
                 "name": "Desperado Poco",
+                "rarity": "Epic",
                 "imageSrc": "poco-desperado.webp"
             },
             {
                 "name": "Pirate Poco",
+                "rarity": "Super Rare",
                 "imageSrc": "poco-pirate.webp"
             },
             {
                 "name": "Poco Starr",
+                "rarity": "Super Rare",
                 "imageSrc": "poco-poco-starr.webp"
             },
             {
                 "name": "Possessed Poco",
+                "rarity": "Mythic",
                 "imageSrc": "poco-possessed.webp"
             },
             {
                 "name": "Quit Playing Poco",
+                "rarity": "N/A",
                 "imageSrc": "poco-quit-playing.png"
             },
             {
                 "name": "Serenade Poco",
+                "rarity": "Epic",
                 "imageSrc": "poco-serenade.webp"
             },
             {
                 "name": "Trash Poco",
+                "rarity": "Epic",
                 "imageSrc": "poco-trash.webp"
             },
             {
                 "name": "True Gold Poco",
+                "rarity": "N/A",
                 "imageSrc": "poco-true-gold.webp"
             },
             {
                 "name": "True Silver Poco",
+                "rarity": "N/A",
                 "imageSrc": "poco-true-silver.webp"
             }
         ]
     },
     {
         "name": "Rosa",
-        "rarity": 1,
+        "rarity": "Rare",
         "class": "Tank",
         "description": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
         "masteryTitle": "Touching Grass",
-        "portrait": "rosa.png",
+        "portraitImageSrc": "rosa.png",
         "skins": [
             {
                 "name": "Rosa",
+                "rarity": "N/A",
                 "imageSrc": "rosa-default.webp"
             },
             {
                 "name": "Brawl-o-ween Rosa",
+                "rarity": "Super Rare",
                 "imageSrc": "rosa-brawl-o-ween.webp"
             },
             {
                 "name": "Cheerleader Rosa",
+                "rarity": "Epic",
                 "imageSrc": "rosa-cheerleader.webp"
             },
             {
                 "name": "Coco Rosa",
+                "rarity": "Epic",
                 "imageSrc": "rosa-coco.webp"
             },
             {
                 "name": "Major Rosa",
+                "rarity": "Epic",
                 "imageSrc": "rosa-major.webp"
             },
             {
                 "name": "Mantis Rosa",
+                "rarity": "Epic",
                 "imageSrc": "rosa-mantis.webp"
             },
             {
                 "name": "Sugarplum Rosa",
+                "rarity": "Epic",
                 "imageSrc": "rosa-sugarplum.png"
             },
             {
                 "name": "True Gold Rosa",
+                "rarity": "N/A",
                 "imageSrc": "rosa-true-gold.webp"
             },
             {
                 "name": "True Silver Rosa",
+                "rarity": "N/A",
                 "imageSrc": "rosa-true-silver.webp"
             }
         ]
     },
     {
         "name": "8-Bit",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Damage Dealer",
         "description": "An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before.",
         "masteryTitle": "SYS 64738",
-        "portrait": "8-bit.png",
+        "portraitImageSrc": "8-bit.png",
         "skins": [
             {
                 "name": "8-Bit",
+                "rarity": "N/A",
                 "imageSrc": "8-bit-default.webp"
             },
             {
                 "name": "8-Bit Classic",
+                "rarity": "Rare",
                 "imageSrc": "8-bit-classic.webp"
             },
             {
                 "name": "Antivirus 8-Bit",
+                "rarity": "Legendary",
                 "imageSrc": "8-bit-antivirus.webp"
             },
             {
                 "name": "Haunted House 8-Bit",
+                "rarity": "Epic",
                 "imageSrc": "8-bit-haunted-house.webp"
             },
             {
                 "name": "Piano 8-Bit",
+                "rarity": "Epic",
                 "imageSrc": "8-bit-piano.webp"
             },
             {
                 "name": "Saloon 8-Bit",
+                "rarity": "Epic",
                 "imageSrc": "8-bit-saloon.webp"
             },
             {
                 "name": "True Gold 8-Bit",
+                "rarity": "N/A",
                 "imageSrc": "8-bit-true-gold.webp"
             },
             {
                 "name": "True Silver 8-Bit",
+                "rarity": "N/A",
                 "imageSrc": "8-bit-true-silver.webp"
             },
             {
                 "name": "V8-Bit",
+                "rarity": "Super Rare",
                 "imageSrc": "8-bit-v8-bit.webp"
             },
             {
                 "name": "Virus 8-Bit",
-                "imageSrc": "8-bit-virus.webp"
+                "rarity": "Legendary",
+                "imageSrc": "8-bit-virus.png"
             }
         ]
     },
     {
         "name": "Carl",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Damage Dealer",
         "description": "Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!",
         "masteryTitle": "The Geologist",
-        "portrait": "carl.png",
+        "portraitImageSrc": "carl.png",
         "skins": [
             {
                 "name": "Carl",
+                "rarity": "N/A",
                 "imageSrc": "carl-default.webp"
             },
             {
                 "name": "Biker Carl",
+                "rarity": "Epic",
                 "imageSrc": "carl-biker.webp"
             },
             {
                 "name": "Captain Carl",
+                "rarity": "Epic",
                 "imageSrc": "carl-captain.webp"
             },
             {
                 "name": "Dark Tide Carl",
+                "rarity": "Epic",
                 "imageSrc": "carl-dark-tide.webp"
             },
             {
                 "name": "Goblin Carl",
+                "rarity": "Rare",
                 "imageSrc": "carl-goblin.webp"
             },
             {
                 "name": "Hog Rider Carl",
+                "rarity": "Super Rare",
                 "imageSrc": "carl-hog-rider.webp"
             },
             {
                 "name": "Leonard Carl",
+                "rarity": "Super Rare",
                 "imageSrc": "carl-leonard.webp"
             },
             {
                 "name": "Road Rage Carl",
+                "rarity": "Super Rare",
                 "imageSrc": "carl-road-rage.webp"
             },
             {
                 "name": "Sultan Carl",
+                "rarity": "Epic",
                 "imageSrc": "carl-sultan.webp"
             },
             {
                 "name": "Surfer Carl",
+                "rarity": "Epic",
                 "imageSrc": "carl-surfer.webp"
             },
             {
                 "name": "True Gold Carl",
+                "rarity": "N/A",
                 "imageSrc": "carl-true-gold.webp"
             },
             {
                 "name": "True Silver Carl",
+                "rarity": "N/A",
                 "imageSrc": "carl-true-silver.webp"
             }
         ]
     },
     {
         "name": "Darryl",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Tank",
         "description": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
         "masteryTitle": "Pirrrate!",
-        "portrait": "darryl.png",
+        "portraitImageSrc": "darryl.png",
         "skins": [
             {
                 "name": "Darryl",
+                "rarity": "N/A",
                 "imageSrc": "darryl-default.webp"
             },
             {
                 "name": "Crash Test Darryl",
+                "rarity": "Epic",
                 "imageSrc": "darryl-crash-test.webp"
             },
             {
                 "name": "Cupcake Darryl",
+                "rarity": "Epic",
                 "imageSrc": "darryl-cupcake.webp"
             },
             {
                 "name": "D4R-RY1",
+                "rarity": "Super Rare",
                 "imageSrc": "darryl-d4r-ry1.webp"
             },
             {
                 "name": "Dumpling Darryl",
+                "rarity": "Super Rare",
                 "imageSrc": "darryl-dumpling.webp"
             },
             {
                 "name": "Mascot Darryl",
+                "rarity": "Super Rare",
                 "imageSrc": "darryl-mascot.webp"
             },
             {
                 "name": "Mega Box Darryl",
+                "rarity": "Epic",
                 "imageSrc": "darryl-mega-box.webp"
             },
             {
                 "name": "Omega Box Darryl",
+                "rarity": "Epic",
                 "imageSrc": "darryl-omega-box.webp"
             },
             {
                 "name": "Plankton Darryl",
+                "rarity": "Epic",
                 "imageSrc": "darryl-plankton.png"
             },
             {
                 "name": "Pop-Up Darryl",
+                "rarity": "Rare",
                 "imageSrc": "darryl-pop-up.png"
             },
             {
                 "name": "True Gold Darryl",
+                "rarity": "N/A",
                 "imageSrc": "darryl-true-gold.webp"
             },
             {
                 "name": "True Silver Darryl",
+                "rarity": "N/A",
                 "imageSrc": "darryl-true-silver.webp"
             }
         ]
     },
     {
         "name": "Dynamike",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Artillery",
         "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
         "masteryTitle": "Birdie, birdie, birdie!",
-        "portrait": "dynamike.png",
+        "portraitImageSrc": "dynamike.png",
         "skins": [
             {
                 "name": "Dynamike",
+                "rarity": "N/A",
                 "imageSrc": "dynamike-default.webp"
             },
             {
                 "name": "Bellhop Mike",
+                "rarity": "Super Rare",
                 "imageSrc": "dynamike-bellhop.webp"
             },
             {
                 "name": "Boomer Dynamike",
+                "rarity": "Super Rare",
                 "imageSrc": "dynamike-boomer.webp"
             },
             {
                 "name": "Chivas Mike",
+                "rarity": "Rare",
                 "imageSrc": "dynamike-chivas.webp"
             },
             {
                 "name": "Classic Dynamike",
+                "rarity": "Epic",
                 "imageSrc": "dynamike-classic.webp"
             },
             {
                 "name": "Coach Mike",
+                "rarity": "Epic",
                 "imageSrc": "dynamike-coach.webp"
             },
             {
                 "name": "Decaying Dynamike",
+                "rarity": "Super Rare",
                 "imageSrc": "dynamike-decaying.png"
             },
             {
                 "name": "Dynasty Mike",
+                "rarity": "Epic",
                 "imageSrc": "dynamike-dynasty.webp"
             },
             {
                 "name": "Flamengo Mike",
+                "rarity": "Rare",
                 "imageSrc": "dynamike-flamengo.webp"
             },
             {
                 "name": "LDU Quito Mike",
+                "rarity": "Rare",
                 "imageSrc": "dynamike-ldu-quito.webp"
             },
             {
                 "name": "Moldy Mike",
+                "rarity": "Mythic",
                 "imageSrc": "dynamike-moldy.webp"
             },
             {
                 "name": "PSG Mike",
+                "rarity": "Epic",
                 "imageSrc": "dynamike-psg.webp"
             },
             {
                 "name": "Robo Mike",
+                "rarity": "Legendary",
                 "imageSrc": "dynamike-robo.webp"
             },
             {
                 "name": "Romantic Dynamike",
+                "rarity": "N/A",
                 "imageSrc": "dynamike-romantic.png"
             },
             {
                 "name": "Santa Mike",
+                "rarity": "Super Rare",
                 "imageSrc": "dynamike-santa.webp"
             },
             {
                 "name": "Spicy Mike",
+                "rarity": "Epic",
                 "imageSrc": "dynamike-spicy.webp"
             },
             {
                 "name": "Sugar Bomb Mike",
+                "rarity": "Super Rare",
                 "imageSrc": "dynamike-sugar-bomb.png"
             },
             {
                 "name": "Tengu Mike",
+                "rarity": "Epic",
                 "imageSrc": "dynamike-tengu.webp"
             },
             {
                 "name": "True Gold Dynamike",
+                "rarity": "N/A",
                 "imageSrc": "dynamike-true-gold.webp"
             },
             {
                 "name": "True Silver Dynamike",
+                "rarity": "N/A",
                 "imageSrc": "dynamike-true-silver.webp"
             }
         ]
     },
     {
         "name": "Gus",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Support",
         "description": "Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared.",
         "masteryTitle": "The Lost",
-        "portrait": "gus.png",
+        "portraitImageSrc": "gus.png",
         "skins": [
             {
                 "name": "Gus",
+                "rarity": "N/A",
                 "imageSrc": "gus-default.webp"
             },
             {
                 "name": "Balloon Sally Gus",
+                "rarity": "Super Rare",
                 "imageSrc": "gus-balloon-sally.webp"
             },
             {
                 "name": "Boy Scout Gus",
+                "rarity": "Rare",
                 "imageSrc": "gus-boy-scout.webp"
             },
             {
                 "name": "Gruesome Gus",
+                "rarity": "Super Rare",
                 "imageSrc": "gus-gruesome.png"
             },
             {
                 "name": "True Gold Gus",
+                "rarity": "N/A",
                 "imageSrc": "gus-true-gold.webp"
             },
             {
                 "name": "True Silver Gus",
+                "rarity": "N/A",
                 "imageSrc": "gus-true-silver.webp"
             },
             {
                 "name": "World Champion Gus",
+                "rarity": "Epic",
                 "imageSrc": "gus-world-champion.webp"
             }
         ]
     },
     {
         "name": "Jacky",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Tank",
         "description": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer.",
         "masteryTitle": "#@%**",
-        "portrait": "jacky.png",
+        "portraitImageSrc": "jacky.png",
         "skins": [
             {
                 "name": "Jacky",
+                "rarity": "N/A",
                 "imageSrc": "jacky-default.webp"
             },
             {
                 "name": "Constructor Jacky",
+                "rarity": "Rare",
                 "imageSrc": "jacky-constructor.webp"
             },
             {
                 "name": "Cuttlefish Jacky",
+                "rarity": "Super Rare",
                 "imageSrc": "jacky-cuttlefish.webp"
             },
             {
                 "name": "Gift Express Jacky",
+                "rarity": "Super Rare",
                 "imageSrc": "jacky-gift-express.webp"
             },
             {
                 "name": "Jacky Cooky",
+                "rarity": "Epic",
                 "imageSrc": "jacky-jacky-cooky.webp"
             },
             {
                 "name": "Jet Ski Jacky",
+                "rarity": "Epic",
                 "imageSrc": "jacky-jet-ski.webp"
             },
             {
                 "name": "True Gold Jacky",
+                "rarity": "N/A",
                 "imageSrc": "jacky-true-gold.webp"
             },
             {
                 "name": "True Silver Jacky",
+                "rarity": "N/A",
                 "imageSrc": "jacky-true-silver.webp"
             },
             {
                 "name": "Ultra Driller Jacky",
+                "rarity": "Epic",
                 "imageSrc": "jacky-ultra-driller.webp"
             },
             {
                 "name": "Wave Hopper Jacky",
+                "rarity": "Epic",
                 "imageSrc": "jacky-wave-hopper.webp"
             }
         ]
     },
     {
         "name": "Jessie",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Controller",
         "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
         "masteryTitle": "The Builder",
-        "portrait": "jessie.png",
+        "portraitImageSrc": "jessie.png",
         "skins": [
             {
                 "name": "Jessie",
+                "rarity": "N/A",
                 "imageSrc": "jessie-default.webp"
             },
             {
                 "name": "Cat Burglar Jessie",
+                "rarity": "Epic",
                 "imageSrc": "jessie-cat-burglar.webp"
             },
             {
                 "name": "Doll Jessie",
+                "rarity": "Rare",
                 "imageSrc": "jessie-doll.webp"
             },
             {
                 "name": "Dragon Knight Jessie",
+                "rarity": "Epic",
                 "imageSrc": "jessie-dragon-knight.webp"
             },
             {
                 "name": "Jessie Jessie",
+                "rarity": "Super Rare",
                 "imageSrc": "jessie-jessie.png"
             },
             {
                 "name": "Red Dragon Jessie",
+                "rarity": "Super Rare",
                 "imageSrc": "jessie-red-dragon.webp"
             },
             {
                 "name": "Sandy Jessie",
+                "rarity": "Super Rare",
                 "imageSrc": "jessie-sandy.png"
             },
             {
                 "name": "Shadow Knight Jessie",
+                "rarity": "Epic",
                 "imageSrc": "jessie-shadow-knight.webp"
             },
             {
                 "name": "Skadi Jessie",
+                "rarity": "Mythic",
                 "imageSrc": "jessie-skadi.webp"
             },
             {
                 "name": "Summer Jessie",
+                "rarity": "Super Rare",
                 "imageSrc": "jessie-summer.webp"
             },
             {
                 "name": "Tanuki Jessie",
+                "rarity": "Epic",
                 "imageSrc": "jessie-tanuki.webp"
             },
             {
                 "name": "True Gold Jessie",
+                "rarity": "N/A",
                 "imageSrc": "jessie-true-gold.webp"
             },
             {
                 "name": "True Silver Jessie",
+                "rarity": "N/A",
                 "imageSrc": "jessie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Penny",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Artillery",
         "description": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
         "masteryTitle": "The Salty",
-        "portrait": "penny.png",
+        "portraitImageSrc": "penny.png",
         "skins": [
             {
                 "name": "Penny",
+                "rarity": "N/A",
                 "imageSrc": "penny-default.webp"
             },
             {
                 "name": "Bunny Penny",
+                "rarity": "Super Rare",
                 "imageSrc": "penny-bunny.webp"
             },
             {
                 "name": "Dark Bunny Penny",
+                "rarity": "Super Rare",
                 "imageSrc": "penny-dark-bunny.webp"
             },
             {
                 "name": "Lil Helper Penny",
+                "rarity": "Super Rare",
                 "imageSrc": "penny-lil-helper.webp"
             },
             {
                 "name": "Moon-Curser Penny",
+                "rarity": "Epic",
                 "imageSrc": "penny-moon-curser.webp"
             },
             {
                 "name": "Pop Penny",
+                "rarity": "Mythic",
                 "imageSrc": "penny-pop.png"
             },
             {
                 "name": "Robo Penny",
+                "rarity": "Rare",
                 "imageSrc": "penny-robo.png"
             },
             {
                 "name": "Smuggler Penny",
+                "rarity": "Epic",
                 "imageSrc": "penny-smuggler.webp"
             },
             {
                 "name": "Trash Panda Penny",
+                "rarity": "Epic",
                 "imageSrc": "penny-trash-panda.webp"
             },
             {
                 "name": "True Gold Penny",
+                "rarity": "N/A",
                 "imageSrc": "penny-true-gold.webp"
             },
             {
                 "name": "True Silver Penny",
+                "rarity": "N/A",
                 "imageSrc": "penny-true-silver.webp"
             }
         ]
     },
     {
         "name": "Rico",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Damage Dealer",
         "description": "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.",
         "masteryTitle": "The Lover",
-        "portrait": "rico.png",
+        "portraitImageSrc": "rico.png",
         "skins": [
             {
                 "name": "Rico",
+                "rarity": "N/A",
                 "imageSrc": "rico-default.webp"
             },
             {
                 "name": "Chicken Rico",
+                "rarity": "Epic",
                 "imageSrc": "rico-chicken.webp"
             },
             {
                 "name": "Final Boss Rico",
+                "rarity": "Epic",
                 "imageSrc": "rico-final-boss.webp"
             },
             {
                 "name": "Firefly Rico",
+                "rarity": "Super Rare",
                 "imageSrc": "rico-firefly.webp"
             },
             {
                 "name": "Guard Rico",
+                "rarity": "Epic",
                 "imageSrc": "rico-guard.webp"
             },
             {
                 "name": "Loaded Rico",
+                "rarity": "Epic",
                 "imageSrc": "rico-loaded.webp"
             },
             {
                 "name": "Popcorn Rico",
+                "rarity": "Epic",
                 "imageSrc": "rico-popcorn.webp"
             },
             {
                 "name": "Redjacket Rico",
+                "rarity": "Rare",
                 "imageSrc": "rico-redjacket.webp"
             },
             {
                 "name": "Reloaded Ricochet",
+                "rarity": "Super Rare",
                 "imageSrc": "rico-reloaded-ricochet.webp"
             },
             {
                 "name": "Ricochet",
+                "rarity": "Super Rare",
                 "imageSrc": "rico-ricochet.webp"
             },
             {
                 "name": "Sovereign Bling Rico",
+                "rarity": "Hypercharge",
                 "imageSrc": "rico-sovereign-bling.webp"
             },
             {
                 "name": "Sovereign Gem Rico",
+                "rarity": "Hypercharge",
                 "imageSrc": "rico-sovereign-gem.webp"
             },
             {
                 "name": "Sovereign Rico",
+                "rarity": "Hypercharge",
                 "imageSrc": "rico-sovereign.webp"
             },
             {
                 "name": "True Gold Rico",
+                "rarity": "N/A",
                 "imageSrc": "rico-true-gold.webp"
             },
             {
                 "name": "True Silver Rico",
+                "rarity": "N/A",
                 "imageSrc": "rico-true-silver.webp"
             }
         ]
     },
     {
         "name": "Tick",
-        "rarity": 2,
+        "rarity": "Super Rare",
         "class": "Artillery",
         "description": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
         "masteryTitle": "Where's my head?",
-        "portrait": "tick.png",
+        "portraitImageSrc": "tick.png",
         "skins": [
             {
                 "name": "Tick",
+                "rarity": "N/A",
                 "imageSrc": "tick-default.webp"
             },
             {
                 "name": "Cerberus Tick",
+                "rarity": "Mythic",
                 "imageSrc": "tick-cerberus.webp"
             },
             {
                 "name": "King Crab Tick",
+                "rarity": "Super Rare",
                 "imageSrc": "tick-king-crab.webp"
             },
             {
-                "name": "Mecha Tick Ghidorah",
+                "name": "Mecha-Tick Ghidorah",
+                "rarity": "Epic",
                 "imageSrc": "tick-mecha-tick-ghidorah.webp"
             },
             {
-                "name": "Mecha Tick Ghidorah Dark",
+                "name": "Mecha-Tick Ghidorah Dark",
+                "rarity": "Epic",
                 "imageSrc": "tick-mecha-tick-ghidorah-dark.webp"
             },
             {
-                "name": "Mecha Tick Ghidorah Light",
+                "name": "Mecha-Tick Ghidorah Light",
+                "rarity": "Epic",
                 "imageSrc": "tick-mecha-tick-ghidorah-light.webp"
             },
             {
                 "name": "Mr. Krabs Tick",
+                "rarity": "Super Rare",
                 "imageSrc": "tick-mr-krabs.png"
             },
             {
                 "name": "Snowman Tick",
+                "rarity": "Super Rare",
                 "imageSrc": "tick-snowman.webp"
             },
             {
                 "name": "Tick Shooky",
+                "rarity": "Epic",
                 "imageSrc": "tick-tick-shooky.webp"
             },
             {
                 "name": "True Gold Tick",
+                "rarity": "N/A",
                 "imageSrc": "tick-true-gold.webp"
             },
             {
                 "name": "True Silver Tick",
+                "rarity": "N/A",
                 "imageSrc": "tick-true-silver.webp"
             }
         ]
     },
     {
         "name": "Angelo",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.",
         "masteryTitle": "Bloodthirsty",
-        "portrait": "angelo.png",
+        "portraitImageSrc": "angelo.png",
         "skins": [
             {
                 "name": "Angelo",
+                "rarity": "N/A",
                 "imageSrc": "angelo-default.webp"
             },
             {
                 "name": "Dionysus Angelo",
+                "rarity": "Super Rare",
                 "imageSrc": "angelo-dionysus.webp"
             },
             {
                 "name": "Elf Angelo",
+                "rarity": "Rare",
                 "imageSrc": "angelo-elf.webp"
             },
             {
                 "name": "True Gold Angelo",
+                "rarity": "N/A",
                 "imageSrc": "angelo-true-gold.webp"
             },
             {
                 "name": "True Silver Angelo",
+                "rarity": "N/A",
                 "imageSrc": "angelo-true-silver.webp"
             }
         ]
     },
     {
         "name": "Ash",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Tank",
         "description": "Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!",
         "masteryTitle": "Trash Tier",
-        "portrait": "ash.png",
+        "portraitImageSrc": "ash.png",
         "skins": [
             {
                 "name": "Ash",
+                "rarity": "N/A",
                 "imageSrc": "ash-default.webp"
             },
             {
                 "name": "Ash Boy",
+                "rarity": "Super Rare",
                 "imageSrc": "ash-boy.png"
             },
             {
                 "name": "Krampus Ash",
+                "rarity": "Super Rare",
                 "imageSrc": "ash-krampus.webp"
             },
             {
                 "name": "Ninja Ash",
+                "rarity": "Epic",
                 "imageSrc": "ash-ninja.webp"
             },
             {
                 "name": "Piñata Ash",
+                "rarity": "Epic",
                 "imageSrc": "ash-piñata.webp"
             },
             {
                 "name": "Pizza Oven Ash",
+                "rarity": "Epic",
                 "imageSrc": "ash-pizza-oven.webp"
             },
             {
                 "name": "True Gold Ash",
+                "rarity": "N/A",
                 "imageSrc": "ash-true-gold.webp"
             },
             {
                 "name": "True Silver Ash",
+                "rarity": "N/A",
                 "imageSrc": "ash-true-silver.webp"
             }
         ]
     },
     {
         "name": "Bea",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them...or even what it's like to be one.",
         "masteryTitle": "Queen",
-        "portrait": "bea.png",
+        "portraitImageSrc": "bea.png",
         "skins": [
             {
                 "name": "Bea",
+                "rarity": "N/A",
                 "imageSrc": "bea-default.webp"
             },
             {
                 "name": "Archvillain Bea",
+                "rarity": "Super Rare",
                 "imageSrc": "bea-archvillain.webp"
             },
             {
                 "name": "Bea Byte",
+                "rarity": "Super Rare",
                 "imageSrc": "bea-bea-byte.webp"
             },
             {
                 "name": "Gold Neko Bea",
+                "rarity": "Epic",
                 "imageSrc": "bea-gold-neko.webp"
             },
             {
                 "name": "Ladybug Bea",
+                "rarity": "Rare",
                 "imageSrc": "bea-ladybug.webp"
             },
             {
                 "name": "Mega Beetle Bea",
+                "rarity": "Epic",
                 "imageSrc": "bea-mega-beetle.webp"
             },
             {
                 "name": "Neko Bea",
+                "rarity": "Super Rare",
                 "imageSrc": "bea-neko.webp"
             },
             {
                 "name": "True Gold Bea",
+                "rarity": "N/A",
                 "imageSrc": "bea-true-gold.webp"
             },
             {
                 "name": "True Silver Bea",
+                "rarity": "N/A",
                 "imageSrc": "bea-true-silver.webp"
             }
         ]
     },
     {
         "name": "Belle",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
         "masteryTitle": "Starr",
-        "portrait": "belle.png",
+        "portraitImageSrc": "belle.png",
         "skins": [
             {
                 "name": "Belle",
+                "rarity": "N/A",
                 "imageSrc": "belle-default.webp"
             },
             {
                 "name": "Belle Goldhand",
+                "rarity": "Epic",
                 "imageSrc": "belle-belle-goldhand.webp"
             },
             {
                 "name": "Coral Belle",
+                "rarity": "Epic",
                 "imageSrc": "belle-coral.webp"
             },
             {
                 "name": "Dragoon Belle",
+                "rarity": "Epic",
                 "imageSrc": "belle-dragoon.png"
             },
             {
                 "name": "Ivy Belle",
+                "rarity": "Super Rare",
                 "imageSrc": "belle-ivy.webp"
             },
             {
                 "name": "True Gold Belle",
+                "rarity": "N/A",
                 "imageSrc": "belle-true-gold.webp"
             },
             {
                 "name": "True Silver Belle",
+                "rarity": "N/A",
                 "imageSrc": "belle-true-silver.webp"
             }
         ]
     },
     {
         "name": "Berry",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Support",
         "description": "Working at Mandy's Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.",
         "masteryTitle": "Unicorn",
-        "portrait": "berry.png",
+        "portraitImageSrc": "berry.png",
         "skins": [
             {
                 "name": "Berry",
+                "rarity": "N/A",
                 "imageSrc": "berry-default.png"
             },
             {
                 "name": "Dark Horse Berry",
+                "rarity": "Rare",
                 "imageSrc": "berry-dark-horse.png"
             },
             {
                 "name": "Starr Horse Berry",
+                "rarity": "Epic",
                 "imageSrc": "berry-starr-horse.png"
             },
             {
                 "name": "True Gold Berry",
+                "rarity": "N/A",
                 "imageSrc": "berry-true-gold.png"
             },
             {
                 "name": "True Silver Berry",
+                "rarity": "N/A",
                 "imageSrc": "berry-true-silver.png"
             }
         ]
     },
     {
         "name": "Bibi",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Tank",
         "description": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
         "masteryTitle": "Cool Cat",
-        "portrait": "bibi.png",
+        "portraitImageSrc": "bibi.png",
         "skins": [
             {
                 "name": "Bibi",
+                "rarity": "N/A",
                 "imageSrc": "bibi-default.webp"
             },
             {
                 "name": "Bibi Gamer",
+                "rarity": "Mythic",
                 "imageSrc": "bibi-gamer.webp"
             },
             {
                 "name": "Bibi RJ",
+                "rarity": "Epic",
                 "imageSrc": "bibi-bibi-rj.webp"
             },
             {
                 "name": "Bibi Vicious",
+                "rarity": "Super Rare",
                 "imageSrc": "bibi-vicious.webp"
             },
             {
                 "name": "Bibilante",
+                "rarity": "Super Rare",
                 "imageSrc": "bibi-bibilante.webp"
             },
             {
                 "name": "Bo Peep Bibi",
+                "rarity": "Epic",
                 "imageSrc": "bibi-bo-peep.png"
             },
             {
                 "name": "Bubblegum Bibi",
+                "rarity": "Rare",
                 "imageSrc": "bibi-bubblegum.webp"
             },
             {
                 "name": "Cursed Pirate Bibi",
+                "rarity": "Epic",
                 "imageSrc": "bibi-cursed-pirate.webp"
             },
             {
                 "name": "Heroine Bibi",
+                "rarity": "Epic",
                 "imageSrc": "bibi-heroine.webp"
             },
             {
                 "name": "Thor Bibi",
+                "rarity": "Legendary",
                 "imageSrc": "bibi-thor.webp"
             },
             {
                 "name": "True Gold Bibi",
+                "rarity": "N/A",
                 "imageSrc": "bibi-true-gold.webp"
             },
             {
                 "name": "True Silver Bibi",
+                "rarity": "N/A",
                 "imageSrc": "bibi-true-silver.webp"
             },
             {
                 "name": "ZomBibi",
+                "rarity": "Super Rare",
                 "imageSrc": "bibi-zombibi.webp"
             }
         ]
     },
     {
         "name": "Bo",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Controller",
         "description": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
         "masteryTitle": "One with Nature",
-        "portrait": "bo.png",
+        "portraitImageSrc": "bo.png",
         "skins": [
             {
                 "name": "Bo",
+                "rarity": "N/A",
                 "imageSrc": "bo-default.webp"
             },
             {
                 "name": "Brother Bo",
+                "rarity": "Mythic",
                 "imageSrc": "bo-brother.webp"
             },
             {
                 "name": "Cupid Bo",
+                "rarity": "N/A",
                 "imageSrc": "bo-cupid.png"
             },
             {
                 "name": "Gold Mecha Bo",
+                "rarity": "Legendary",
                 "imageSrc": "bo-gold-mecha.webp"
             },
             {
                 "name": "Ho Ho Ho Bo",
+                "rarity": "Super Rare",
                 "imageSrc": "bo-ho-ho-ho.webp"
             },
             {
                 "name": "Horus Bo",
+                "rarity": "Epic",
                 "imageSrc": "bo-horus.webp"
             },
             {
                 "name": "Light Mecha Bo",
+                "rarity": "Legendary",
                 "imageSrc": "bo-light-mecha.webp"
             },
             {
                 "name": "Mecha Bo",
+                "rarity": "Legendary",
                 "imageSrc": "bo-mecha.webp"
             },
             {
                 "name": "Supreme Bo",
+                "rarity": "Mythic",
                 "imageSrc": "bo-supreme.webp"
             },
             {
                 "name": "True Gold Bo",
+                "rarity": "N/A",
                 "imageSrc": "bo-true-gold.webp"
             },
             {
                 "name": "True Silver Bo",
+                "rarity": "N/A",
                 "imageSrc": "bo-true-silver.webp"
             },
             {
                 "name": "Underworld Bo",
+                "rarity": "Epic",
                 "imageSrc": "bo-underworld.webp"
             },
             {
                 "name": "Warrior Bo",
+                "rarity": "Rare",
                 "imageSrc": "bo-warrior.webp"
             },
             {
                 "name": "Wasp Bo",
+                "rarity": "Epic",
                 "imageSrc": "bo-wasp.webp"
             }
         ]
     },
     {
         "name": "Bonnie",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!",
         "masteryTitle": "The Reckless",
-        "portrait": "bonnie.png",
+        "portraitImageSrc": "bonnie.png",
         "skins": [
             {
                 "name": "Bonnie",
+                "rarity": "N/A",
                 "imageSrc": "bonnie-default.webp"
             },
             {
                 "name": "Empress Bonnie",
+                "rarity": "Epic",
                 "imageSrc": "bonnie-empress.webp"
             },
             {
                 "name": "FootBonnie",
+                "rarity": "Rare",
                 "imageSrc": "bonnie-footbonnie.webp"
             },
             {
                 "name": "Reindeer Bonnie",
+                "rarity": "Epic",
                 "imageSrc": "bonnie-reindeer.png"
             },
             {
                 "name": "Tentacle Bonnie",
+                "rarity": "Super Rare",
                 "imageSrc": "bonnie-tentacle.webp"
             },
             {
                 "name": "True Gold Bonnie",
+                "rarity": "N/A",
                 "imageSrc": "bonnie-true-gold.webp"
             },
             {
                 "name": "True Silver Bonnie",
+                "rarity": "N/A",
                 "imageSrc": "bonnie-true-silver.webp"
             },
             {
                 "name": "Unicorn Bonnie",
+                "rarity": "Rare",
                 "imageSrc": "bonnie-unicorn.webp"
             }
         ]
     },
     {
         "name": "Colette",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Damage Dealer",
         "description": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
         "masteryTitle": "The Collector",
-        "portrait": "colette.png",
+        "portraitImageSrc": "colette.png",
         "skins": [
             {
                 "name": "Colette",
+                "rarity": "N/A",
                 "imageSrc": "colette-default.webp"
             },
             {
                 "name": "Cuckoo Colette",
+                "rarity": "Rare",
                 "imageSrc": "colette-cuckoo.png"
             },
             {
                 "name": "Fangirl Cony",
+                "rarity": "Super Rare",
                 "imageSrc": "colette-fangirl-cony.webp"
             },
             {
                 "name": "Gladiator Colette",
+                "rarity": "Epic",
                 "imageSrc": "colette-gladiator.webp"
             },
             {
                 "name": "Impie Colette",
+                "rarity": "Epic",
                 "imageSrc": "colette-impie.webp"
             },
             {
                 "name": "Inspector Colette",
+                "rarity": "Epic",
                 "imageSrc": "colette-inspector.webp"
             },
             {
                 "name": "Kiiro Pawlette",
+                "rarity": "Epic",
                 "imageSrc": "colette-kiiro-pawlette.webp"
             },
             {
                 "name": "Midori Pawlette",
+                "rarity": "Epic",
                 "imageSrc": "colette-midori-pawlette.webp"
             },
             {
                 "name": "Navigator Colette",
+                "rarity": "Super Rare",
                 "imageSrc": "colette-navigator.webp"
             },
             {
                 "name": "Pinku Pawlette",
+                "rarity": "Epic",
                 "imageSrc": "colette-pinku-pawlette.webp"
             },
             {
                 "name": "Trixie Colette",
+                "rarity": "Epic",
                 "imageSrc": "colette-trixie.webp"
             },
             {
                 "name": "True Gold Colette",
+                "rarity": "N/A",
                 "imageSrc": "colette-true-gold.webp"
             },
             {
                 "name": "True Silver Colette",
+                "rarity": "N/A",
                 "imageSrc": "colette-true-silver.webp"
             }
         ]
     },
     {
         "name": "Edgar",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Assassin",
         "description": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
         "masteryTitle": "CEO of Brawl Stars",
-        "portrait": "edgar.png",
+        "portraitImageSrc": "edgar.png",
         "skins": [
             {
                 "name": "Edgar",
+                "rarity": "N/A",
                 "imageSrc": "edgar-default.webp"
             },
             {
                 "name": "Blackbird Edgar",
+                "rarity": "Rare",
                 "imageSrc": "edgar-blackbird.webp"
             },
             {
                 "name": "Dark Angel Edgar",
+                "rarity": "Hypercharge",
                 "imageSrc": "edgar-dark-angel.webp"
             },
             {
                 "name": "Doctor Edgar",
+                "rarity": "Epic",
                 "imageSrc": "edgar-doctor.webp"
             },
             {
                 "name": "Edgar Tata",
+                "rarity": "Epic",
                 "imageSrc": "edgar-edgar-tata.webp"
             },
             {
                 "name": "Lightbearer Edgar",
+                "rarity": "Legendary",
                 "imageSrc": "edgar-lightbearer.webp"
             },
             {
                 "name": "Mecha Edgar",
+                "rarity": "Legendary",
                 "imageSrc": "edgar-mecha.webp"
             },
             {
                 "name": "Mecha Edgar Unit-00",
+                "rarity": "Legendary",
                 "imageSrc": "edgar-mecha-unit-00.webp"
             },
             {
                 "name": "Mecha Edgar Unit-01",
+                "rarity": "Legendary",
                 "imageSrc": "edgar-mecha-unit-01.webp"
             },
             {
                 "name": "Nightbringer Edgar",
+                "rarity": "Legendary",
                 "imageSrc": "edgar-nightbringer.webp"
             },
             {
                 "name": "Orochi Edgar",
+                "rarity": "Epic",
                 "imageSrc": "edgar-orochi.webp"
             },
             {
                 "name": "Quickdraw Edgar",
+                "rarity": "Super Rare",
                 "imageSrc": "edgar-quickdraw.webp"
             },
             {
                 "name": "Thief Edgar",
+                "rarity": "Mythic",
                 "imageSrc": "edgar-thief.webp"
             },
             {
                 "name": "True Gold Edgar",
+                "rarity": "N/A",
                 "imageSrc": "edgar-true-gold.webp"
             },
             {
                 "name": "True Silver Edgar",
+                "rarity": "N/A",
                 "imageSrc": "edgar-true-silver.webp"
             }
         ]
     },
     {
         "name": "Emz",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Controller",
         "description": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
         "masteryTitle": "#haters",
-        "portrait": "emz.png",
+        "portraitImageSrc": "emz.png",
         "skins": [
             {
                 "name": "Emz",
+                "rarity": "N/A",
                 "imageSrc": "emz-default.webp"
             },
             {
                 "name": "Demon Emz",
+                "rarity": "Epic",
                 "imageSrc": "emz-demon.webp"
             },
             {
                 "name": "DJ 3.M.Z",
+                "rarity": "Epic",
                 "imageSrc": "emz-dj-3mz.webp"
             },
             {
-                "name": "Harajuku",
+                "name": "Harajuku Emz",
+                "rarity": "Super Rare",
                 "imageSrc": "emz-harajuku.webp"
             },
             {
-                "name": "Mean Girl",
+                "name": "Mean Girl Emz",
+                "rarity": "Rare",
                 "imageSrc": "emz-mean-girl.webp"
             },
             {
-                "name": "Medusa",
+                "name": "Medusa Emz",
+                "rarity": "Epic",
                 "imageSrc": "emz-medusa.webp"
             },
             {
-                "name": "Ruby Medusa",
+                "name": "Ruby Medusa Emz",
+                "rarity": "Epic",
                 "imageSrc": "emz-ruby-medusa.webp"
             },
             {
-                "name": "Sapphire Medusa",
+                "name": "Sapphire Medusa Emz",
+                "rarity": "Epic",
                 "imageSrc": "emz-sapphire-medusa.webp"
             },
             {
-                "name": "Super Fan",
+                "name": "Super Fan Emz",
+                "rarity": "Epic",
                 "imageSrc": "emz-super-fan.webp"
             },
             {
                 "name": "True Gold Emz",
+                "rarity": "N/A",
                 "imageSrc": "emz-true-gold.webp"
             },
             {
                 "name": "True Silver Emz",
+                "rarity": "N/A",
                 "imageSrc": "emz-true-silver.webp"
             }
         ]
     },
     {
         "name": "Frank",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Tank",
         "description": "Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows.",
         "masteryTitle": "The Tank",
-        "portrait": "frank.png",
+        "portraitImageSrc": "frank.png",
         "skins": [
             {
                 "name": "Frank",
+                "rarity": "N/A",
                 "imageSrc": "frank-default.webp"
             },
             {
+                "name": "Blue King Frank",
+                "rarity": "Legendary",
+                "imageSrc": "frank-blue-king.png"
+            },
+            {
                 "name": "Caveman Frank",
+                "rarity": "Super Rare",
                 "imageSrc": "frank-caveman.webp"
             },
             {
                 "name": "DJ Frank",
+                "rarity": "Super Rare",
                 "imageSrc": "frank-dj.webp"
             },
             {
                 "name": "Holiday Party Frank",
+                "rarity": "Epic",
                 "imageSrc": "frank-holiday-party.webp"
             },
             {
                 "name": "Parasol Frank",
+                "rarity": "Rare",
                 "imageSrc": "frank-parasol.webp"
             },
             {
                 "name": "Prehistoric Frank",
+                "rarity": "Super Rare",
                 "imageSrc": "frank-prehistoric.webp"
             },
             {
+                "name": "Red King Frank",
+                "rarity": "Legendary",
+                "imageSrc": "frank-red-king.png"
+            },
+            {
                 "name": "Spirit Knight Frank",
+                "rarity": "Epic",
                 "imageSrc": "frank-spirit-knight.webp"
             },
             {
                 "name": "True Gold Frank",
+                "rarity": "N/A",
                 "imageSrc": "frank-true-gold.webp"
             },
             {
                 "name": "True Silver Frank",
+                "rarity": "N/A",
                 "imageSrc": "frank-true-silver.webp"
             },
             {
                 "name": "Vanara Frank",
+                "rarity": "Mythic",
                 "imageSrc": "frank-vanara.webp"
             }
         ]
     },
     {
         "name": "Gale",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Controller",
         "description": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
         "masteryTitle": "The Janitor",
-        "portrait": "gale.png",
+        "portraitImageSrc": "gale.png",
         "skins": [
             {
                 "name": "Gale",
+                "rarity": "N/A",
                 "imageSrc": "gale-default.webp"
             },
             {
                 "name": "Galactic Gale",
+                "rarity": "Rare",
                 "imageSrc": "gale-galactic.png"
             },
             {
                 "name": "Merchant Gale",
+                "rarity": "Epic",
                 "imageSrc": "gale-merchant.webp"
             },
             {
                 "name": "Nutcracker Gale",
+                "rarity": "Epic",
                 "imageSrc": "gale-nutcracker.webp"
             },
             {
                 "name": "Shell Blaster Gale",
+                "rarity": "Epic",
                 "imageSrc": "gale-shell-blaster.webp"
             },
             {
                 "name": "Squeakbuster Gale",
+                "rarity": "Epic",
                 "imageSrc": "gale-squeakbuster.webp"
             },
             {
                 "name": "True Gold Gale",
+                "rarity": "N/A",
                 "imageSrc": "gale-true-gold.webp"
             },
             {
                 "name": "True Silver Gale",
+                "rarity": "N/A",
                 "imageSrc": "gale-true-silver.webp"
             }
         ]
     },
     {
         "name": "Griff",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Controller",
         "description": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
         "masteryTitle": "The Greedy",
-        "portrait": "griff.png",
+        "portraitImageSrc": "griff.png",
         "skins": [
             {
                 "name": "Griff",
+                "rarity": "N/A",
                 "imageSrc": "griff-default.webp"
             },
             {
                 "name": "High Score Griff",
+                "rarity": "Super Rare",
                 "imageSrc": "griff-high-score.webp"
             },
             {
                 "name": "Sleigher Griff",
+                "rarity": "Epic",
                 "imageSrc": "griff-sleigher.webp"
             },
             {
                 "name": "Sunken Chest Griff",
+                "rarity": "Epic",
                 "imageSrc": "griff-sunken-chest.webp"
             },
             {
                 "name": "True Gold Griff",
+                "rarity": "N/A",
                 "imageSrc": "griff-true-gold.webp"
             },
             {
                 "name": "True Silver Griff",
+                "rarity": "N/A",
                 "imageSrc": "griff-true-silver.webp"
             }
         ]
     },
     {
         "name": "Grom",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Artillery",
         "description": "Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids were merciless.",
         "masteryTitle": "With one left hand!",
-        "portrait": "grom.png",
+        "portraitImageSrc": "grom.png",
         "skins": [
             {
                 "name": "Grom",
+                "rarity": "N/A",
                 "imageSrc": "grom-default.webp"
             },
             {
                 "name": "Bunny Grom",
+                "rarity": "Super Rare",
                 "imageSrc": "grom-bunny.webp"
             },
             {
                 "name": "Dasis Grom",
+                "rarity": "Mythic",
                 "imageSrc": "grom-dasis.webp"
             },
             {
                 "name": "FrankenGrom",
+                "rarity": "Epic",
                 "imageSrc": "grom-frankengrom.webp"
             },
             {
                 "name": "True Gold Grom",
+                "rarity": "N/A",
                 "imageSrc": "grom-true-gold.webp"
             },
             {
                 "name": "True Silver Grom",
+                "rarity": "N/A",
                 "imageSrc": "grom-true-silver.webp"
             }
         ]
     },
     {
         "name": "Hank",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Tank",
         "description": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
         "masteryTitle": "Prawn Ready!",
-        "portrait": "hank.png",
+        "portraitImageSrc": "hank.png",
         "skins": [
             {
                 "name": "Hank",
+                "rarity": "N/A",
                 "imageSrc": "hank-default.webp"
             },
             {
                 "name": "Moon Guardian Hank",
+                "rarity": "Super Rare",
                 "imageSrc": "hank-moon-guardian.png"
             },
             {
                 "name": "Rodeo Hank",
+                "rarity": "Mythic",
                 "imageSrc": "hank-rodeo.webp"
             },
             {
                 "name": "Shark Tank Hank",
+                "rarity": "Rare",
                 "imageSrc": "hank-shark-tank.webp"
+            },
+            {
+                "name": "True Gold Hank",
+                "rarity": "N/A",
+                "imageSrc": "hank-true-gold.png"
+            },
+            {
+                "name": "True Silver Hank",
+                "rarity": "N/A",
+                "imageSrc": "hank-true-silver.png"
             }
         ]
     },
     {
         "name": "Larry & Lawrie",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Artillery",
         "description": "Larry sells tickets to Starr Park visitors under the watchful eye of his twin, Lawrie. Larry loves rules, they make life easier! Lawrie doesn't love rules so much as enforcing them. They make a good team.",
         "masteryTitle": "I am the law!",
-        "portrait": "larry-&-lawrie.png",
+        "portraitImageSrc": "larry-&-lawrie.png",
         "skins": [
             {
                 "name": "Larry & Lawrie",
+                "rarity": "N/A",
                 "imageSrc": "larry-&-lawrie-default.webp"
             },
             {
                 "name": "Angel Larry & Lawrie",
+                "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-angel.webp"
             },
             {
                 "name": "Dark Angel Larry & Lawrie",
+                "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-dark-angel.webp"
             },
             {
                 "name": "Larry & Lawrie Controllers",
+                "rarity": "Rare",
                 "imageSrc": "larry-&-lawrie-controllers.webp"
             },
             {
                 "name": "Glitch Larry & Lawrie",
+                "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-glitch.webp"
             },
             {
                 "name": "Radiant Larry & Lawrie",
+                "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-radiant.webp"
             },
             {
                 "name": "True Gold Larry & Lawrie",
+                "rarity": "N/A",
                 "imageSrc": "larry-&-lawrie-true-gold.webp"
             },
             {
                 "name": "True Silver Larry & Lawrie",
+                "rarity": "N/A",
                 "imageSrc": "larry-&-lawrie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Lola",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Damage Dealer",
         "description": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
         "masteryTitle": "Drama Queen",
-        "portrait": "lola.png",
+        "portraitImageSrc": "lola.png",
         "skins": [
             {
                 "name": "Lola",
+                "rarity": "N/A",
                 "imageSrc": "lola-default.webp"
             },
             {
                 "name": "Cobra Lola",
+                "rarity": "Epic",
                 "imageSrc": "lola-cobra.webp"
             },
             {
                 "name": "Galaxy Storm Lola",
+                "rarity": "Super Rare",
                 "imageSrc": "lola-galaxy-storm.webp"
             },
             {
                 "name": "High Flyer Lola",
+                "rarity": "Rare",
                 "imageSrc": "lola-high-flyer.png"
             },
             {
                 "name": "Kitsune Lola",
+                "rarity": "Epic",
                 "imageSrc": "lola-kitsune.webp"
             },
             {
                 "name": "Lavish Lola",
+                "rarity": "Epic",
                 "imageSrc": "lola-lavish.webp"
             },
             {
                 "name": "Lawless Lola",
+                "rarity": "Epic",
                 "imageSrc": "lola-lawless.webp"
             },
             {
                 "name": "Loopy Lola",
+                "rarity": "Epic",
                 "imageSrc": "lola-loopy.png"
             },
             {
                 "name": "Rebel Lola",
+                "rarity": "Epic",
                 "imageSrc": "lola-rebel.webp"
             },
             {
                 "name": "True Gold Lola",
+                "rarity": "N/A",
                 "imageSrc": "lola-true-gold.webp"
             },
             {
                 "name": "True Silver Lola",
+                "rarity": "N/A",
                 "imageSrc": "lola-true-silver.webp"
             }
         ]
     },
     {
         "name": "Maisie",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
         "masteryTitle": "Master of Disaster",
-        "portrait": "maisie.png",
+        "portraitImageSrc": "maisie.png",
         "skins": [
             {
                 "name": "Maisie",
+                "rarity": "N/A",
                 "imageSrc": "maisie-default.webp"
             },
             {
                 "name": "Amazing Maisie",
+                "rarity": "Epic",
                 "imageSrc": "maisie-amazing.png"
             },
             {
                 "name": "Fuchsia Maisie",
+                "rarity": "Epic",
                 "imageSrc": "maisie-fuchsia.png"
             },
             {
                 "name": "Jungle Queen Maisie",
+                "rarity": "Epic",
                 "imageSrc": "maisie-jungle-queen.webp"
             },
             {
                 "name": "Marauder Maisie",
+                "rarity": "Epic",
                 "imageSrc": "maisie-marauder.webp"
             },
             {
                 "name": "Tech Maisie",
+                "rarity": "Rare",
                 "imageSrc": "maisie-tech.webp"
             },
             {
                 "name": "Titanium Maisie",
+                "rarity": "Epic",
                 "imageSrc": "maisie-titanium.png"
             },
             {
                 "name": "True Gold Maisie",
+                "rarity": "N/A",
                 "imageSrc": "maisie-true-gold.webp"
             },
             {
                 "name": "True Silver Maisie",
+                "rarity": "N/A",
                 "imageSrc": "maisie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Mandy",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist.",
         "masteryTitle": "Tough Cookie",
-        "portrait": "mandy.png",
+        "portraitImageSrc": "mandy.png",
         "skins": [
             {
                 "name": "Mandy",
+                "rarity": "N/A",
                 "imageSrc": "mandy-default.webp"
             },
             {
                 "name": "Hanbok Mandy",
+                "rarity": "Epic",
                 "imageSrc": "mandy-hanbok.webp"
             },
             {
                 "name": "Magma Mandy",
+                "rarity": "Epic",
                 "imageSrc": "mandy-magma.webp"
             },
             {
                 "name": "Malicious Mandy",
+                "rarity": "Epic",
                 "imageSrc": "mandy-malicious.png"
             },
             {
                 "name": "MC Mandy",
+                "rarity": "Rare",
                 "imageSrc": "mandy-mc.webp"
             },
             {
                 "name": "True Gold Mandy",
+                "rarity": "N/A",
                 "imageSrc": "mandy-true-gold.webp"
             },
             {
                 "name": "True Silver Mandy",
+                "rarity": "N/A",
                 "imageSrc": "mandy-true-silver.webp"
             }
         ]
     },
     {
         "name": "Meeple",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Controller",
         "description": "Meeple knows the rules to every board game in existence and if you break them... Well, let's just say you don't want to break them. They hate cheaters and those who don't follow the rules. There's one exception to the rules... Meeple themselves!",
         "masteryTitle": "Cheater",
-        "portrait": "meeple.png",
+        "portraitImageSrc": "meeple.png",
         "skins": [
             {
                 "name": "Meeple",
+                "rarity": "N/A",
                 "imageSrc": "meeple-default.webp"
             },
             {
                 "name": "Strike Meeple",
+                "rarity": "Rare",
                 "imageSrc": "meeple-strike.png"
             }
         ]
     },
     {
         "name": "Nani",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "Originally a security camera, Nani was modified to keep an eye on Jessie. Unfortunately, she can hardly keep up with the precocious girl!",
         "masteryTitle": "Nanny",
-        "portrait": "nani.png",
+        "portraitImageSrc": "nani.png",
         "skins": [
             {
                 "name": "Nani",
+                "rarity": "N/A",
                 "imageSrc": "nani-default.webp"
             },
             {
                 "name": "Ares Nani",
+                "rarity": "Mythic",
                 "imageSrc": "nani-ares.webp"
             },
             {
                 "name": "Bell Nani",
+                "rarity": "Super Rare",
                 "imageSrc": "nani-bell.webp"
             },
             {
                 "name": "Knightmare Nani",
+                "rarity": "Epic",
                 "imageSrc": "nani-knightmare.png"
             },
             {
                 "name": "Retro Nani",
+                "rarity": "Rare",
                 "imageSrc": "nani-retro.webp"
             },
             {
                 "name": "Sally Nani",
+                "rarity": "Epic",
                 "imageSrc": "nani-sally.webp"
             },
             {
                 "name": "True Gold Nani",
+                "rarity": "N/A",
                 "imageSrc": "nani-true-gold.webp"
             },
             {
                 "name": "True Silver Nani",
+                "rarity": "N/A",
                 "imageSrc": "nani-true-silver.webp"
             }
         ]
     },
     {
         "name": "Pam",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Support",
         "description": "Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, Jessie...",
         "masteryTitle": "Your mom",
-        "portrait": "pam.png",
+        "portraitImageSrc": "pam.png",
         "skins": [
             {
                 "name": "Pam",
+                "rarity": "N/A",
                 "imageSrc": "pam-default.webp"
             },
             {
                 "name": "Evil Queen Pam",
+                "rarity": "Legendary",
                 "imageSrc": "pam-evil-queen.webp"
             },
             {
                 "name": "Holiday Pam",
+                "rarity": "Super Rare",
                 "imageSrc": "pam-holiday.webp"
             },
             {
                 "name": "Putrid Pam",
+                "rarity": "Epic",
                 "imageSrc": "pam-putrid.png"
             },
             {
                 "name": "Stonks Pam",
+                "rarity": "Super Rare",
                 "imageSrc": "pam-stonks.webp"
             },
             {
                 "name": "True Gold Pam",
+                "rarity": "N/A",
                 "imageSrc": "pam-true-gold.webp"
             },
             {
                 "name": "True Silver Pam",
+                "rarity": "N/A",
                 "imageSrc": "pam-true-silver.webp"
             }
         ]
     },
     {
         "name": "Pearl",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Damage Dealer",
         "description": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
         "masteryTitle": "Let Me Cook!",
-        "portrait": "pearl.png",
+        "portraitImageSrc": "pearl.png",
         "skins": [
             {
                 "name": "Pearl",
+                "rarity": "N/A",
                 "imageSrc": "pearl-default.webp"
             },
             {
                 "name": "Dark Keep Pearl",
+                "rarity": "Super Rare",
                 "imageSrc": "pearl-dark-keep.png"
             },
             {
                 "name": "Periscope Pearl",
+                "rarity": "Epic",
                 "imageSrc": "pearl-periscope.webp"
             },
             {
                 "name": "True Gold Pearl",
+                "rarity": "N/A",
                 "imageSrc": "pearl-true-gold.webp"
             },
             {
                 "name": "True Silver Pearl",
+                "rarity": "N/A",
                 "imageSrc": "pearl-true-silver.webp"
             },
             {
                 "name": "Vintage Pearl",
+                "rarity": "Rare",
                 "imageSrc": "pearl-vintage.webp"
             }
         ]
     },
     {
         "name": "Piper",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Marksman",
         "description": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
         "masteryTitle": "The Sniper",
-        "portrait": "piper.png",
+        "portraitImageSrc": "piper.png",
         "skins": [
             {
                 "name": "Piper",
+                "rarity": "N/A",
                 "imageSrc": "piper-default.webp"
             },
             {
                 "name": "Athena Piper",
+                "rarity": "Mythic",
                 "imageSrc": "piper-athena.webp"
             },
             {
                 "name": "Calavera Piper",
+                "rarity": "Super Rare",
                 "imageSrc": "piper-calavera.webp"
             },
             {
                 "name": "Choco Piper",
+                "rarity": "Super Rare",
                 "imageSrc": "piper-choco.webp"
             },
             {
                 "name": "Cupid Piper",
+                "rarity": "Epic",
                 "imageSrc": "piper-cupid.webp"
             },
             {
                 "name": "Flag Bearer Piper",
+                "rarity": "Epic",
                 "imageSrc": "piper-flag-bearer.webp"
             },
             {
                 "name": "Lunar Piper",
+                "rarity": "Epic",
                 "imageSrc": "piper-lunar.webp"
             },
             {
                 "name": "Mariposa Piper",
+                "rarity": "Epic",
                 "imageSrc": "piper-mariposa.webp"
             },
             {
                 "name": "Pink Piper",
+                "rarity": "Rare",
                 "imageSrc": "piper-pink.webp"
             },
             {
                 "name": "True Gold Piper",
+                "rarity": "N/A",
                 "imageSrc": "piper-true-gold.webp"
             },
             {
                 "name": "True Silver Piper",
+                "rarity": "N/A",
                 "imageSrc": "piper-true-silver.webp"
             }
         ]
     },
     {
         "name": "Sam",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Assassin",
         "description": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
         "masteryTitle": "In your face!",
-        "portrait": "sam.png",
+        "portraitImageSrc": "sam.png",
         "skins": [
             {
                 "name": "Sam",
+                "rarity": "N/A",
                 "imageSrc": "sam-default.webp"
             },
             {
                 "name": "Caesar Sam",
+                "rarity": "Epic",
                 "imageSrc": "sam-caesar.webp"
             },
             {
                 "name": "Dark Clown Sam",
+                "rarity": "Super Rare",
                 "imageSrc": "sam-dark-clown.webp"
             },
             {
                 "name": "Sam the Teddy",
+                "rarity": "Rare",
                 "imageSrc": "sam-sam-the-teddy.webp"
             },
             {
                 "name": "True Gold Sam",
+                "rarity": "N/A",
                 "imageSrc": "sam-true-gold.webp"
             },
             {
                 "name": "True Silver Sam",
+                "rarity": "N/A",
                 "imageSrc": "sam-true-silver.webp"
             },
             {
                 "name": "Yeti Sam",
+                "rarity": "Epic",
                 "imageSrc": "sam-yeti.webp"
             }
         ]
     },
     {
         "name": "Shade",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Assassin",
         "description": "Not much is known about this mysterious pile of clothes, other than the fact it has some cool sunglasses. Discovered by Gus, Shade was given a name and now the two spooky Brawlers haunt the Ghost Station together.",
         "masteryTitle": "Ghosted",
-        "portrait": "shade.png",
+        "portraitImageSrc": "shade.png",
         "skins": [
             {
                 "name": "Shade",
+                "rarity": "N/A",
                 "imageSrc": "shade-default.png"
             },
             {
                 "name": "Cinema Shade",
+                "rarity": "Rare",
                 "imageSrc": "shade-cinema.png"
             }
         ]
     },
     {
         "name": "Stu",
-        "rarity": 3,
+        "rarity": "Epic",
         "class": "Assassin",
         "description": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
         "masteryTitle": "Wicked",
-        "portrait": "stu.png",
+        "portraitImageSrc": "stu.png",
         "skins": [
             {
                 "name": "Stu",
+                "rarity": "N/A",
                 "imageSrc": "stu-default.webp"
             },
             {
                 "name": "Headless Rider Stu",
+                "rarity": "Epic",
                 "imageSrc": "stu-headless-rider.webp"
             },
             {
                 "name": "Jock Stu",
+                "rarity": "Legendary",
                 "imageSrc": "stu-jock.webp"
             },
             {
                 "name": "Santa Stu",
+                "rarity": "Epic",
                 "imageSrc": "stu-santa.webp"
             },
             {
                 "name": "Superstar Stu",
+                "rarity": "Rare",
                 "imageSrc": "stu-superstar.webp"
             },
             {
                 "name": "True Gold Stu",
+                "rarity": "N/A",
                 "imageSrc": "stu-true-gold.webp"
             },
             {
                 "name": "True Silver Stu",
+                "rarity": "N/A",
                 "imageSrc": "stu-true-silver.webp"
             },
             {
                 "name": "Wicked Stu",
+                "rarity": "Super Rare",
                 "imageSrc": "stu-wicked.webp"
             },
             {
                 "name": "Woodriver Stu",
+                "rarity": "N/A",
                 "imageSrc": "stu-woodriver.png"
             }
         ]
     },
     {
         "name": "Buster",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Tank",
         "description": "Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!",
         "masteryTitle": "Blockbuster",
-        "portrait": "buster.png",
+        "portraitImageSrc": "buster.png",
         "skins": [
             {
                 "name": "Buster",
+                "rarity": "N/A",
                 "imageSrc": "buster-default.webp"
             },
             {
                 "name": "Chainsaw Buster",
+                "rarity": "Epic",
                 "imageSrc": "buster-chainsaw.webp"
             },
             {
                 "name": "Crocodile Buster",
+                "rarity": "Epic",
                 "imageSrc": "buster-crocodile.webp"
             },
             {
                 "name": "True Gold Buster",
+                "rarity": "N/A",
                 "imageSrc": "buster-true-gold.webp"
             },
             {
                 "name": "True Silver Buster",
+                "rarity": "N/A",
                 "imageSrc": "buster-true-silver.webp"
             }
         ]
     },
     {
         "name": "Buzz",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Assassin",
         "description": "Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible.",
         "masteryTitle": "Born bad",
-        "portrait": "buzz.png",
+        "portraitImageSrc": "buzz.png",
         "skins": [
             {
                 "name": "Buzz",
+                "rarity": "N/A",
                 "imageSrc": "buzz-default.webp"
             },
             {
                 "name": "Black Godzilla Buzz",
+                "rarity": "Hypercharge",
                 "imageSrc": "buzz-black-godzilla.webp"
             },
             {
                 "name": "Born Bad Buzz",
+                "rarity": "Epic",
                 "imageSrc": "buzz-born-bad.webp"
             },
             {
                 "name": "Buzzette",
+                "rarity": "Epic",
                 "imageSrc": "buzz-buzzette.webp"
             },
             {
                 "name": "Bye Bye Buzz",
+                "rarity": "N/A",
                 "imageSrc": "buzz-bye-bye.png"
             },
             {
                 "name": "Director Buzz",
+                "rarity": "Epic",
                 "imageSrc": "buzz-director.webp"
             },
             {
                 "name": "Eldr Fenrir Buzz",
+                "rarity": "Epic",
                 "imageSrc": "buzz-eldr-fenrir.webp"
             },
             {
                 "name": "Fenrir Buzz",
+                "rarity": "Epic",
                 "imageSrc": "buzz-fenrir.webp"
             },
             {
                 "name": "Filmmaker Buzz",
+                "rarity": "Epic",
                 "imageSrc": "buzz-filmmaker.webp"
             },
             {
                 "name": "Godzilla Buzz",
+                "rarity": "Hypercharge",
                 "imageSrc": "buzz-godzilla.webp"
             },
             {
                 "name": "Kaiju Buzz",
+                "rarity": "Rare",
                 "imageSrc": "buzz-kaiju.webp"
             },
             {
                 "name": "Mørk Fenrir Buzz",
+                "rarity": "Epic",
                 "imageSrc": "buzz-mørk-fenrir.webp"
             },
             {
-                "name": "Patrick Buzz",
+                "name": "Buzz Patrick",
+                "rarity": "Epic",
                 "imageSrc": "buzz-patrick.png"
             },
             {
                 "name": "Red Godzilla Buzz",
+                "rarity": "Hypercharge",
                 "imageSrc": "buzz-red-godzilla.webp"
             },
             {
                 "name": "True Gold Buzz",
+                "rarity": "N/A",
                 "imageSrc": "buzz-true-gold.webp"
             },
             {
                 "name": "True Silver Buzz",
+                "rarity": "N/A",
                 "imageSrc": "buzz-true-silver.webp"
             }
         ]
     },
     {
         "name": "Byron",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Support",
         "description": "Byron has invented many concoctions and tinctures that heal or harm in various ways...but most of them fall into the harming category.",
         "masteryTitle": "The Sensational",
-        "portrait": "byron.png",
+        "portraitImageSrc": "byron.png",
         "skins": [
             {
                 "name": "Byron",
+                "rarity": "N/A",
                 "imageSrc": "byron-default.webp"
             },
             {
                 "name": "Beach Byron",
+                "rarity": "Rare",
                 "imageSrc": "byron-beach.webp"
             },
             {
                 "name": "Byron the White",
+                "rarity": "Epic",
                 "imageSrc": "byron-byron-the-white.webp"
             },
             {
                 "name": "Overlord Byron",
+                "rarity": "Epic",
                 "imageSrc": "byron-overlord.webp"
             },
             {
                 "name": "Ringmaster Byron",
+                "rarity": "Mythic",
                 "imageSrc": "byron-ringmaster.webp"
             },
             {
                 "name": "True Gold Byron",
+                "rarity": "N/A",
                 "imageSrc": "byron-true-gold.webp"
             },
             {
                 "name": "True Silver Byron",
+                "rarity": "N/A",
                 "imageSrc": "byron-true-silver.webp"
             },
             {
                 "name": "Wizard Byron",
+                "rarity": "Epic",
                 "imageSrc": "byron-wizard.webp"
             }
         ]
     },
     {
         "name": "Charlie",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Controller",
         "description": "Itsy bitsy Charlie\nPut on a crazy show\nShe let down her hair\nAnd made off with all your dough\nIn came the crowd\nIt filled up the circus tent\nSo Charlie weaved away while\nTaking every cent!",
         "masteryTitle": "The Amazing",
-        "portrait": "charlie.png",
+        "portraitImageSrc": "charlie.png",
         "skins": [
             {
                 "name": "Charlie",
+                "rarity": "N/A",
                 "imageSrc": "charlie-default.webp"
             },
             {
                 "name": "Amazing Charlie",
+                "rarity": "Rare",
                 "imageSrc": "charlie-amazing.webp"
             },
             {
                 "name": "Rosie Charlie",
+                "rarity": "Epic",
                 "imageSrc": "charlie-rosie.webp"
             },
             {
                 "name": "True Gold Charlie",
+                "rarity": "N/A",
                 "imageSrc": "charlie-true-gold.webp"
             },
             {
                 "name": "True Silver Charlie",
+                "rarity": "N/A",
                 "imageSrc": "charlie-true-silver.webp"
             },
             {
                 "name": "Virus Charlie",
+                "rarity": "Legendary",
                 "imageSrc": "charlie-virus.webp"
             }
         ]
     },
     {
         "name": "Chuck",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Damage Dealer",
         "description": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!",
         "masteryTitle": "The Maestro",
-        "portrait": "chuck.png",
+        "portraitImageSrc": "chuck.png",
         "skins": [
             {
                 "name": "Chuck",
+                "rarity": "N/A",
                 "imageSrc": "chuck-default.webp"
             },
             {
                 "name": "Desert Scorpion Chuck",
+                "rarity": "Legendary",
                 "imageSrc": "chuck-desert-scorpion.webp"
             },
             {
                 "name": "Inferno Chuck",
+                "rarity": "Rare",
                 "imageSrc": "chuck-inferno.webp"
             },
             {
                 "name": "True Gold Chuck",
+                "rarity": "N/A",
                 "imageSrc": "chuck-true-gold.webp"
             },
             {
                 "name": "True Silver Chuck",
+                "rarity": "N/A",
                 "imageSrc": "chuck-true-silver.webp"
             }
         ]
     },
     {
         "name": "Clancy",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Damage Dealer",
         "description": "There's no turning back with Clancy (unless Hank orders him to). He's fully embraced his fake crustacean life and will do anything for his comrades.",
         "masteryTitle": "Shell Shocked",
-        "portrait": "clancy.png",
+        "portraitImageSrc": "clancy.png",
         "skins": [
             {
                 "name": "Clancy",
+                "rarity": "N/A",
                 "imageSrc": "clancy-default.png"
             },
             {
                 "name": "High Stakes Clancy",
+                "rarity": "Rare",
                 "imageSrc": "clancy-high-stakes.png"
             },
             {
                 "name": "True Gold Clancy",
+                "rarity": "N/A",
                 "imageSrc": "clancy-true-gold.png"
             },
             {
                 "name": "True Silver Clancy",
+                "rarity": "N/A",
                 "imageSrc": "clancy-true-silver.png"
             }
         ]
     },
     {
         "name": "Doug",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Support",
         "description": "Doug's hot dogs will extend your friends' shelf life.",
         "masteryTitle": "Wiener",
-        "portrait": "doug.png",
+        "portraitImageSrc": "doug.png",
         "skins": [
             {
                 "name": "Doug",
+                "rarity": "N/A",
                 "imageSrc": "doug-default.webp"
             },
             {
                 "name": "Draco Doug",
+                "rarity": "Rare",
                 "imageSrc": "doug-draco.webp"
             },
             {
                 "name": "Man-o-war Doug",
+                "rarity": "Epic",
                 "imageSrc": "doug-man-o-war.webp"
             },
             {
                 "name": "True Gold Doug",
+                "rarity": "N/A",
                 "imageSrc": "doug-true-gold.webp"
             },
             {
                 "name": "True Silver Doug",
+                "rarity": "N/A",
                 "imageSrc": "doug-true-silver.webp"
             }
         ]
     },
     {
         "name": "Eve",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Damage Dealer",
         "description": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home...preferably in Ruffs' fur.",
         "masteryTitle": "Mother",
-        "portrait": "eve.png",
+        "portraitImageSrc": "eve.png",
         "skins": [
             {
                 "name": "Eve",
+                "rarity": "N/A",
                 "imageSrc": "eve-default.webp"
             },
             {
                 "name": "Baiku Eve",
+                "rarity": "Epic",
                 "imageSrc": "eve-baiku.webp"
             },
             {
                 "name": "Extraterrestrial Eve",
+                "rarity": "Epic",
                 "imageSrc": "eve-extraterrestrial.png"
             },
             {
                 "name": "Mothra Eve",
+                "rarity": "Epic",
                 "imageSrc": "eve-mothra.webp"
             },
             {
                 "name": "Spiky Eve",
+                "rarity": "Epic",
                 "imageSrc": "eve-spiky.webp"
             },
             {
                 "name": "True Gold Eve",
+                "rarity": "N/A",
                 "imageSrc": "eve-true-gold.webp"
             },
             {
                 "name": "True Silver Eve",
+                "rarity": "N/A",
                 "imageSrc": "eve-true-silver.webp"
             }
         ]
     },
     {
         "name": "Fang",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Assassin",
         "description": "Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!",
         "masteryTitle": "Sneaker Artist",
-        "portrait": "fang.png",
+        "portraitImageSrc": "fang.png",
         "skins": [
             {
                 "name": "Fang",
+                "rarity": "N/A",
                 "imageSrc": "fang-default.webp"
             },
             {
                 "name": "Blue Pitcher Fang",
+                "rarity": "Epic",
                 "imageSrc": "fang-blue-pitcher.webp"
             },
             {
                 "name": "Fanguard",
+                "rarity": "Mythic",
                 "imageSrc": "fang-fanguard.webp"
             },
             {
                 "name": "Ferocious Fang",
+                "rarity": "Epic",
                 "imageSrc": "fang-ferocious.webp"
             },
             {
                 "name": "Furious Fang",
+                "rarity": "Epic",
                 "imageSrc": "fang-furious.webp"
             },
             {
                 "name": "Kabocha Fang",
+                "rarity": "Epic",
                 "imageSrc": "fang-kabocha.webp"
             },
             {
                 "name": "Octo Fang",
+                "rarity": "Super Rare",
                 "imageSrc": "fang-octo.webp"
             },
             {
                 "name": "Red Pitcher Fang",
+                "rarity": "Epic",
                 "imageSrc": "fang-red-pitcher.webp"
             },
             {
                 "name": "The Fans' Fang",
+                "rarity": "Epic",
                 "imageSrc": "fang-the-fans.png"
             },
             {
                 "name": "True Gold Fang",
+                "rarity": "N/A",
                 "imageSrc": "fang-true-gold.webp"
             },
             {
                 "name": "True Silver Fang",
+                "rarity": "N/A",
                 "imageSrc": "fang-true-silver.webp"
             }
         ]
     },
     {
         "name": "Gene",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Controller",
         "description": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
         "masteryTitle": "Talk to the Hand!",
-        "portrait": "gene.png",
+        "portraitImageSrc": "gene.png",
         "skins": [
             {
                 "name": "Gene",
+                "rarity": "N/A",
                 "imageSrc": "gene-default.webp"
             },
             {
                 "name": "Angel Gene",
+                "rarity": "Super Rare",
                 "imageSrc": "gene-angel.webp"
             },
             {
                 "name": "Dark Samurai Gene",
+                "rarity": "Epic",
                 "imageSrc": "gene-dark-samurai.webp"
             },
             {
                 "name": "Evil Gene",
+                "rarity": "Epic",
                 "imageSrc": "gene-evil.webp"
             },
             {
                 "name": "Jungle Gene",
+                "rarity": "Rare",
                 "imageSrc": "gene-jungle.png"
             },
             {
                 "name": "Pirate Gene",
+                "rarity": "Super Rare",
                 "imageSrc": "gene-pirate.webp"
             },
             {
                 "name": "Swamp Gene",
+                "rarity": "Super Rare",
                 "imageSrc": "gene-swamp.webp"
             },
             {
                 "name": "True Gold Gene",
+                "rarity": "N/A",
                 "imageSrc": "gene-true-gold.webp"
             },
             {
                 "name": "True Silver Gene",
+                "rarity": "N/A",
                 "imageSrc": "gene-true-silver.webp"
             }
         ]
     },
     {
         "name": "Gray",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Support",
         "description": "Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets.",
         "masteryTitle": "The Shady",
-        "portrait": "gray.png",
+        "portraitImageSrc": "gray.png",
         "skins": [
             {
                 "name": "Gray",
+                "rarity": "N/A",
                 "imageSrc": "gray-default.webp"
             },
             {
                 "name": "Detective Gray",
+                "rarity": "Super Rare",
                 "imageSrc": "gray-detective.webp"
             },
             {
                 "name": "Detective Gray Noir Edition",
+                "rarity": "Super Rare",
                 "imageSrc": "gray-detective-noir.webp"
             },
             {
                 "name": "Gigantophis Gray",
+                "rarity": "Epic",
                 "imageSrc": "gray-gigantophis.png"
             },
             {
                 "name": "Runaway Gray",
+                "rarity": "Rare",
                 "imageSrc": "gray-runaway.webp"
             },
             {
                 "name": "True Gold Gray",
+                "rarity": "N/A",
                 "imageSrc": "gray-true-gold.webp"
             },
             {
                 "name": "True Silver Gray",
+                "rarity": "N/A",
                 "imageSrc": "gray-true-silver.webp"
             }
         ]
     },
     {
         "name": "Janet",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Marksman",
         "description": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
         "masteryTitle": "The Rocket",
-        "portrait": "janet.png",
+        "portraitImageSrc": "janet.png",
         "skins": [
             {
                 "name": "Janet",
+                "rarity": "N/A",
                 "imageSrc": "janet-default.webp"
             },
             {
                 "name": "Dark Fairy Janet",
+                "rarity": "Epic",
                 "imageSrc": "janet-dark-fairy.webp"
             },
             {
                 "name": "G-Force Janet",
+                "rarity": "Rare",
                 "imageSrc": "janet-g-force.webp"
             },
             {
                 "name": "Jolly Janet",
+                "rarity": "Super Rare",
                 "imageSrc": "janet-jolly.png"
             },
             {
                 "name": "Lunar Janet",
+                "rarity": "Mythic",
                 "imageSrc": "janet-lunar.webp"
             },
             {
                 "name": "Popstar Janet",
+                "rarity": "Super Rare",
                 "imageSrc": "janet-popstar.webp"
             },
             {
                 "name": "True Gold Janet",
+                "rarity": "N/A",
                 "imageSrc": "janet-true-gold.webp"
             },
             {
                 "name": "True Silver Janet",
+                "rarity": "N/A",
                 "imageSrc": "janet-true-silver.webp"
             },
             {
                 "name": "Valkyrie Janet",
+                "rarity": "Epic",
                 "imageSrc": "janet-valkyrie.webp"
             }
         ]
     },
     {
         "name": "Juju",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Artillery",
         "description": "Juju owns the Oddities Shop and is followed everywhere by her \"pet\" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.",
         "masteryTitle": "Hexed",
-        "portrait": "juju.png",
+        "portraitImageSrc": "juju.png",
         "skins": [
             {
                 "name": "Juju",
+                "rarity": "N/A",
                 "imageSrc": "juju-default.webp"
             },
             {
                 "name": "Unlucky Juju",
+                "rarity": "Rare",
                 "imageSrc": "juju-unlucky.webp"
             }
         ]
     },
     {
         "name": "Lily",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Assassin",
         "description": "A nerd at heart and a total witchcraft buff, Lily's thirst for knowledge once led her into the Enchanted Woods, where an incident involving a firefly and a carnivorous plant would change her life forever...",
         "masteryTitle": "Backstabber",
-        "portrait": "lily.png",
+        "portraitImageSrc": "lily.png",
         "skins": [
             {
                 "name": "Lily",
+                "rarity": "N/A",
                 "imageSrc": "lily-default.webp"
             },
             {
                 "name": "Angel Lily",
+                "rarity": "Epic",
                 "imageSrc": "lily-angel.webp"
             },
             {
                 "name": "Strawberry Lily",
+                "rarity": "Rare",
                 "imageSrc": "lily-strawberry.webp"
             },
             {
                 "name": "True Gold Lily",
+                "rarity": "N/A",
                 "imageSrc": "lily-true-gold.webp"
             },
             {
                 "name": "True Silver Lily",
+                "rarity": "N/A",
                 "imageSrc": "lily-true-silver.webp"
             }
         ]
     },
     {
         "name": "Lou",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Controller",
         "description": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
         "masteryTitle": "is here for you!",
-        "portrait": "lou.png",
+        "portraitImageSrc": "lou.png",
         "skins": [
             {
                 "name": "Lou",
+                "rarity": "N/A",
                 "imageSrc": "lou-default.webp"
             },
             {
                 "name": "Burger Lou",
+                "rarity": "Super Rare",
                 "imageSrc": "lou-burger.webp"
             },
             {
                 "name": "King Lou",
+                "rarity": "Epic",
                 "imageSrc": "lou-king.webp"
             },
             {
                 "name": "Rude Lou",
+                "rarity": "Mythic",
                 "imageSrc": "lou-rude.png"
             },
             {
                 "name": "Smooth Lou",
+                "rarity": "Super Rare",
                 "imageSrc": "lou-smooth.webp"
             },
             {
                 "name": "Stone Troll Lou",
+                "rarity": "Epic",
                 "imageSrc": "lou-stone-troll.webp"
             },
             {
                 "name": "True Gold Lou",
+                "rarity": "N/A",
                 "imageSrc": "lou-true-gold.webp"
             },
             {
                 "name": "True Silver Lou",
+                "rarity": "N/A",
                 "imageSrc": "lou-true-silver.webp"
             }
         ]
     },
     {
         "name": "Max",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Support",
         "description": "Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much...but she sure is fast!",
         "masteryTitle": "I AM SPEED!",
-        "portrait": "max.png",
+        "portraitImageSrc": "max.png",
         "skins": [
             {
                 "name": "Max",
+                "rarity": "N/A",
                 "imageSrc": "max-default.webp"
             },
             {
                 "name": "Angel Max",
+                "rarity": "Epic",
                 "imageSrc": "max-angel.webp"
             },
             {
                 "name": "Cony Max",
+                "rarity": "Epic",
                 "imageSrc": "max-cony.webp"
             },
             {
                 "name": "GT Max",
+                "rarity": "Rare",
                 "imageSrc": "max-gt.webp"
             },
             {
                 "name": "Hermes Max",
+                "rarity": "Super Rare",
                 "imageSrc": "max-hermes.webp"
             },
             {
                 "name": "Leopard Max",
+                "rarity": "Super Rare",
                 "imageSrc": "max-leopard.webp"
             },
             {
                 "name": "Panther Max",
+                "rarity": "Super Rare",
                 "imageSrc": "max-panther.webp"
             },
             {
                 "name": "Streetwear Max",
+                "rarity": "Super Rare",
                 "imageSrc": "max-streetwear.webp"
             },
             {
                 "name": "True Gold Max",
+                "rarity": "N/A",
                 "imageSrc": "max-true-gold.webp"
             },
             {
                 "name": "True Silver Max",
+                "rarity": "N/A",
                 "imageSrc": "max-true-silver.webp"
             }
         ]
     },
     {
         "name": "Melodie",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Assassin",
         "description": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
         "masteryTitle": "Fearless",
-        "portrait": "melodie.png",
+        "portraitImageSrc": "melodie.png",
         "skins": [
             {
                 "name": "Melodie",
+                "rarity": "N/A",
                 "imageSrc": "melodie-default.webp"
             },
             {
                 "name": "Blackgreen Melodie",
+                "rarity": "Epic",
                 "imageSrc": "melodie-blackgreen.png"
             },
             {
                 "name": "Harpy Melodie",
+                "rarity": "Epic",
                 "imageSrc": "melodie-harpy.webp"
             },
             {
                 "name": "Pop Melodie",
+                "rarity": "Epic",
                 "imageSrc": "melodie-pop.png"
             },
             {
                 "name": "Redwhite Melodie",
+                "rarity": "Epic",
                 "imageSrc": "melodie-redwhite.png"
             },
             {
                 "name": "Sif Melodie",
+                "rarity": "Rare",
                 "imageSrc": "melodie-sif.webp"
             },
             {
                 "name": "True Gold Melodie",
+                "rarity": "N/A",
                 "imageSrc": "melodie-true-gold.webp"
             },
             {
                 "name": "True Silver Melodie",
+                "rarity": "N/A",
                 "imageSrc": "melodie-true-silver.webp"
             }
         ]
     },
     {
         "name": "Mico",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Assassin",
         "description": "Mico is the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
         "masteryTitle": "Am I a joke to you?",
-        "portrait": "mico.png",
+        "portraitImageSrc": "mico.png",
         "skins": [
             {
                 "name": "Mico",
+                "rarity": "N/A",
                 "imageSrc": "mico-default.webp"
             },
             {
                 "name": "Grouch Mico",
+                "rarity": "Epic",
                 "imageSrc": "mico-grouch.webp"
             },
             {
                 "name": "Macaron Mico",
+                "rarity": "Rare",
                 "imageSrc": "mico-macaron.webp"
             },
             {
                 "name": "True Gold Mico",
-                "imageSrc": "mico-true-gold.webp"
+                "rarity": "N/A",
+                "imageSrc": "mico-true-gold.png"
             },
             {
                 "name": "True Silver Mico",
-                "imageSrc": "mico-true-silver.webp"
+                "rarity": "N/A",
+                "imageSrc": "mico-true-silver.png"
             },
             {
                 "name": "Wukong Mico",
+                "rarity": "Legendary",
                 "imageSrc": "mico-wukong.webp"
             }
         ]
     },
     {
         "name": "Mortis",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Assassin",
         "description": "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.",
         "masteryTitle": "Creature of the Night",
-        "portrait": "mortis.png",
+        "portraitImageSrc": "mortis.png",
         "skins": [
             {
                 "name": "Mortis",
+                "rarity": "N/A",
                 "imageSrc": "mortis-default.webp"
             },
             {
                 "name": "Beach Time Mortis",
+                "rarity": "Super Rare",
                 "imageSrc": "mortis-beach-time.webp"
             },
             {
                 "name": "Blue Squidward Mortis",
+                "rarity": "Epic",
                 "imageSrc": "mortis-blue-squidward.png"
             },
             {
                 "name": "Dark Mecha Mortis",
+                "rarity": "Legendary",
                 "imageSrc": "mortis-dark-mecha.webp"
             },
             {
                 "name": "Demon Mortis",
+                "rarity": "Hypercharge",
                 "imageSrc": "mortis-demon.webp"
             },
             {
                 "name": "Devilish Mortis",
+                "rarity": "Hypercharge",
                 "imageSrc": "mortis-devilish.webp"
             },
             {
                 "name": "Gala Mortis",
+                "rarity": "Rare",
                 "imageSrc": "mortis-gala.webp"
             },
             {
                 "name": "Hockey Mortis",
+                "rarity": "Epic",
                 "imageSrc": "mortis-hockey.webp"
             },
             {
                 "name": "Lambent Mortis",
+                "rarity": "Hypercharge",
                 "imageSrc": "mortis-lambent.webp"
             },
             {
                 "name": "Light Mecha Mortis",
+                "rarity": "Legendary",
                 "imageSrc": "mortis-light-mecha.webp"
             },
             {
                 "name": "Mecha Mortis",
+                "rarity": "Legendary",
                 "imageSrc": "mortis-mecha.webp"
             },
             {
                 "name": "Night Witch Mortis",
+                "rarity": "Epic",
                 "imageSrc": "mortis-night-witch.webp"
             },
             {
                 "name": "Pink Squidward Mortis",
+                "rarity": "Epic",
                 "imageSrc": "mortis-pink-squidward.png"
             },
             {
                 "name": "Rockabilly Mortis",
+                "rarity": "Epic",
                 "imageSrc": "mortis-rockabilly.webp"
             },
             {
                 "name": "Rogue Mortis",
+                "rarity": "Epic",
                 "imageSrc": "mortis-rogue.webp"
             },
             {
                 "name": "Squidward Mortis",
+                "rarity": "Epic",
                 "imageSrc": "mortis-squidward.png"
             },
             {
                 "name": "Top Hat Mortis",
+                "rarity": "N/A",
                 "imageSrc": "mortis-top-hat.webp"
             },
             {
                 "name": "True Gold Mortis",
+                "rarity": "N/A",
                 "imageSrc": "mortis-true-gold.webp"
             },
             {
                 "name": "True Gold Mortis",
+                "rarity": "N/A",
                 "imageSrc": "mortis-true-gold-hat.webp"
             },
             {
                 "name": "True Silver Mortis",
+                "rarity": "N/A",
                 "imageSrc": "mortis-true-silver.webp"
             },
             {
                 "name": "True Silver Mortis",
+                "rarity": "N/A",
                 "imageSrc": "mortis-true-silver-hat.webp"
             }
         ]
     },
     {
         "name": "Moe",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Damage Dealer",
         "description": "Moe is a blind rat, found living in the Starr Park sewers by Grom, who quickly adopted him! Now part of Starr Park's maintenance team, Moe uses his special digging machine, Driller, to traverse the sewer tunnels...and also cause a bit of destruction throughout the park, much to Ash's dismay.",
         "masteryTitle": "Cheesy",
-        "portrait": "moe.png",
+        "portraitImageSrc": "moe.png",
         "skins": [
             {
                 "name": "Moe",
+                "rarity": "N/A",
                 "imageSrc": "moe-default.webp"
             },
             {
                 "name": "Monterey Moe",
+                "rarity": "Rare",
                 "imageSrc": "moe-monterey.webp"
             },
             {
                 "name": "Moon Driller Moe",
+                "rarity": "Epic",
                 "imageSrc": "moe-moon-driller.png"
             },
             {
                 "name": "True Gold Moe",
+                "rarity": "N/A",
                 "imageSrc": "moe-true-gold.webp"
             },
             {
                 "name": "True Silver Moe",
+                "rarity": "N/A",
                 "imageSrc": "moe-true-silver.webp"
             }
         ]
     },
     {
         "name": "Mr. P",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Controller",
         "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
         "masteryTitle": "The Boss",
-        "portrait": "mr.-p.png",
+        "portraitImageSrc": "mr.-p.png",
         "skins": [
             {
                 "name": "Mr. P",
+                "rarity": "N/A",
                 "imageSrc": "mr.-p-default.webp"
             },
             {
                 "name": "Agent P",
+                "rarity": "Rare",
                 "imageSrc": "mr.-p-agent.webp"
             },
             {
                 "name": "Count Pengula",
+                "rarity": "Super Rare",
                 "imageSrc": "mr.-p-count-pengula.webp"
             },
             {
                 "name": "Daruma Mr. P",
+                "rarity": "Super Rare",
                 "imageSrc": "mr.-p-daruma.webp"
             },
             {
                 "name": "Mr. Fly",
+                "rarity": "Super Rare",
                 "imageSrc": "mr.-p-mr.-fly.webp"
             },
             {
                 "name": "Mr. Dragonfruit",
+                "rarity": "Epic",
                 "imageSrc": "mr.-p-mr.-dragonfruit.webp"
             },
             {
                 "name": "True Gold Mr. P",
+                "rarity": "N/A",
                 "imageSrc": "mr.-p-true-gold.webp"
             },
             {
                 "name": "True Silver Mr. P",
+                "rarity": "N/A",
                 "imageSrc": "mr.-p-true-silver.webp"
             }
         ]
     },
     {
         "name": "Ollie",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Tank",
         "description": "Ollie rides his customized hoverboard around Starr Park, grinding rails and causing trouble! A fan of old school hip hop, Ollie blasts his favorite tunes wherever he goes. His music is infectious... literally. Brawlers can't help but dance when they hear it.",
         "masteryTitle": "Based",
-        "portrait": "ollie.png",
+        "portraitImageSrc": "ollie.png",
         "skins": [
             {
                 "name": "Ollie",
+                "rarity": "N/A",
                 "imageSrc": "ollie-default.webp"
             },
             {
                 "name": "Ollie G",
+                "rarity": "Rare",
                 "imageSrc": "ollie-g.png"
             }
         ]
     },
     {
         "name": "Otis",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Controller",
         "description": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
         "masteryTitle": "The Artist",
-        "portrait": "otis.png",
+        "portraitImageSrc": "otis.png",
         "skins": [
             {
                 "name": "Otis",
+                "rarity": "N/A",
                 "imageSrc": "otis-default.webp"
             },
             {
                 "name": "Demon Otis",
+                "rarity": "Epic",
                 "imageSrc": "otis-demon.webp"
             },
             {
                 "name": "Oni Otis",
+                "rarity": "Epic",
                 "imageSrc": "otis-oni.webp"
             },
             {
                 "name": "Pharaotis",
+                "rarity": "Epic",
                 "imageSrc": "otis-pharaotis.webp"
             },
             {
                 "name": "Rusty Otis",
+                "rarity": "Rare",
                 "imageSrc": "otis-rusty.png"
             },
             {
                 "name": "True Gold Otis",
+                "rarity": "N/A",
                 "imageSrc": "otis-true-gold.webp"
             },
             {
                 "name": "True Silver Otis",
+                "rarity": "N/A",
                 "imageSrc": "otis-true-silver.webp"
             },
             {
                 "name": "W Otis",
+                "rarity": "Epic",
                 "imageSrc": "otis-w.webp"
             }
         ]
     },
     {
         "name": "R-T",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Damage Dealer",
         "description": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
         "masteryTitle": "The Watcher",
-        "portrait": "r-t.png",
+        "portraitImageSrc": "r-t.png",
         "skins": [
             {
                 "name": "R-T",
+                "rarity": "N/A",
                 "imageSrc": "r-t-default.webp"
             },
             {
                 "name": "Crimson R-T",
+                "rarity": "Epic",
                 "imageSrc": "r-t-crimson.webp"
             },
             {
                 "name": "Patrol R-T",
+                "rarity": "Rare",
                 "imageSrc": "r-t-patrol.webp"
             },
             {
                 "name": "Poseidon R-T",
+                "rarity": "Mythic",
                 "imageSrc": "r-t-poseidon.webp"
             },
             {
                 "name": "True Gold R-T",
+                "rarity": "N/A",
                 "imageSrc": "r-t-true-gold.webp"
             },
             {
                 "name": "True Silver R-T",
+                "rarity": "N/A",
                 "imageSrc": "r-t-true-silver.webp"
             }
         ]
     },
     {
         "name": "Ruffs",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Support",
         "description": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
         "masteryTitle": "Colonel",
-        "portrait": "ruffs.png",
+        "portraitImageSrc": "ruffs.png",
         "skins": [
             {
                 "name": "Ruffs",
+                "rarity": "N/A",
                 "imageSrc": "ruffs-default.webp"
             },
             {
                 "name": "Marshal Ruffs",
+                "rarity": "Super Rare",
                 "imageSrc": "ruffs-marshal.webp"
             },
             {
                 "name": "Ronin Ruffs",
+                "rarity": "Epic",
                 "imageSrc": "ruffs-ronin.webp"
             },
             {
                 "name": "Ruffs Chimmy",
+                "rarity": "Epic",
                 "imageSrc": "ruffs-ruffs-chimmy.webp"
             },
             {
                 "name": "Seadog Ruffs",
+                "rarity": "Epic",
                 "imageSrc": "ruffs-seadog.webp"
             },
             {
                 "name": "Sous Chef Ruffs",
+                "rarity": "Rare",
                 "imageSrc": "ruffs-sous-chef.png"
             },
             {
                 "name": "True Gold Ruffs",
+                "rarity": "N/A",
                 "imageSrc": "ruffs-true-gold.webp"
             },
             {
                 "name": "True Silver Ruffs",
+                "rarity": "N/A",
                 "imageSrc": "ruffs-true-silver.webp"
             }
         ]
     },
     {
         "name": "Sprout",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Artillery",
         "description": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
         "masteryTitle": "Tree hugger",
-        "portrait": "sprout.png",
+        "portraitImageSrc": "sprout.png",
         "skins": [
             {
                 "name": "Sprout",
+                "rarity": "N/A",
                 "imageSrc": "sprout-default.webp"
             },
             {
                 "name": "Aquamarine Sprout",
+                "rarity": "Epic",
                 "imageSrc": "sprout-aquamarine.webp"
             },
             {
                 "name": "Corrupted Sprout",
+                "rarity": "Super Rare",
                 "imageSrc": "sprout-corrupted.webp"
             },
             {
                 "name": "Emerald Prince Sprout",
+                "rarity": "Super Rare",
                 "imageSrc": "sprout-emerald-prince.webp"
             },
             {
                 "name": "Lunar Sprout",
+                "rarity": "Epic",
                 "imageSrc": "sprout-lunar.webp"
             },
             {
                 "name": "Ruby Prince Sprout",
+                "rarity": "Super Rare",
                 "imageSrc": "sprout-ruby-prince.webp"
             },
             {
                 "name": "Tropical Sprout",
+                "rarity": "Rare",
                 "imageSrc": "sprout-tropical.webp"
             },
             {
                 "name": "True Gold Sprout",
+                "rarity": "N/A",
                 "imageSrc": "sprout-true-gold.webp"
             },
             {
                 "name": "True Silver Sprout",
+                "rarity": "N/A",
                 "imageSrc": "sprout-true-silver.webp"
             }
         ]
     },
     {
         "name": "Squeak",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Controller",
         "description": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber.",
         "masteryTitle": "is an accident",
-        "portrait": "squeak.png",
+        "portraitImageSrc": "squeak.png",
         "skins": [
             {
                 "name": "Squeak",
+                "rarity": "N/A",
                 "imageSrc": "squeak-default.webp"
             },
             {
                 "name": "First Blob Squeak",
+                "rarity": "Super Rare",
                 "imageSrc": "squeak-first-blob.webp"
             },
             {
                 "name": "Ghost Squeak",
+                "rarity": "Super Rare",
                 "imageSrc": "squeak-ghost.webp"
             },
             {
                 "name": "Moon Bunny Squeak",
+                "rarity": "Super Rare",
                 "imageSrc": "squeak-moon-bunny.webp"
             },
             {
                 "name": "Nerd Squeak",
+                "rarity": "Epic",
                 "imageSrc": "squeak-nerd.webp"
             },
             {
                 "name": "Potato Squeak",
+                "rarity": "Super Rare",
                 "imageSrc": "squeak-potato.webp"
             },
             {
                 "name": "Squeaky Note",
+                "rarity": "Rare",
                 "imageSrc": "squeak-squeaky-note.webp"
             },
             {
                 "name": "True Gold Squeak",
+                "rarity": "N/A",
                 "imageSrc": "squeak-true-gold.webp"
             },
             {
                 "name": "True Silver Squeak",
+                "rarity": "N/A",
                 "imageSrc": "squeak-true-silver.webp"
             }
         ]
     },
     {
         "name": "Tara",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Damage Dealer",
         "description": "Tara has seen in the cards that great difficulties lie ahead! But don't despair...she has a terrific selection of magical trinkets for sale to help with that.",
         "masteryTitle": "What's in the cards?",
-        "portrait": "tara.png",
+        "portraitImageSrc": "tara.png",
         "skins": [
             {
                 "name": "Tara",
+                "rarity": "N/A",
                 "imageSrc": "tara-default.webp"
             },
             {
                 "name": "Misfortune Tara",
+                "rarity": "Epic",
                 "imageSrc": "tara-misfortune.webp"
             },
             {
                 "name": "Ragequit Tara",
+                "rarity": "Epic",
                 "imageSrc": "tara-ragequit.webp"
             },
             {
                 "name": "Stara",
+                "rarity": "Rare",
                 "imageSrc": "tara-stara.webp"
             },
             {
                 "name": "Street Ninja Tara",
+                "rarity": "Super Rare",
                 "imageSrc": "tara-street-ninja.webp"
             },
             {
                 "name": "Tempest Tara",
+                "rarity": "Epic",
                 "imageSrc": "tara-tempest.webp"
             },
             {
                 "name": "True Gold Tara",
+                "rarity": "N/A",
                 "imageSrc": "tara-true-gold.webp"
             },
             {
                 "name": "True Silver Tara",
+                "rarity": "N/A",
                 "imageSrc": "tara-true-silver.webp"
             },
             {
                 "name": "Urban Ninja Tara",
+                "rarity": "Epic",
                 "imageSrc": "tara-urban-ninja.webp"
             }
         ]
     },
     {
         "name": "Willow",
-        "rarity": 4,
+        "rarity": "Mythic",
         "class": "Controller",
         "description": "Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
         "masteryTitle": "Is in your head!",
-        "portrait": "willow.png",
+        "portraitImageSrc": "willow.png",
         "skins": [
             {
                 "name": "Willow",
+                "rarity": "N/A",
                 "imageSrc": "willow-default.webp"
             },
             {
                 "name": "Axl Willow",
+                "rarity": "Rare",
                 "imageSrc": "willow-axl.webp"
             },
             {
                 "name": "Demon Willow",
+                "rarity": "Epic",
                 "imageSrc": "willow-demon.webp"
             },
             {
                 "name": "Scorpion Willow",
+                "rarity": "Super Rare",
                 "imageSrc": "willow-scorpion.webp"
             },
             {
                 "name": "True Gold Willow",
+                "rarity": "N/A",
                 "imageSrc": "willow-true-gold.webp"
             },
             {
                 "name": "True Silver Willow",
+                "rarity": "N/A",
                 "imageSrc": "willow-true-silver.webp"
             }
         ]
     },
     {
         "name": "Amber",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Controller",
         "description": "Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last.",
         "masteryTitle": "Fire Starter",
-        "portrait": "amber.png",
+        "portraitImageSrc": "amber.png",
         "skins": [
             {
                 "name": "Amber",
+                "rarity": "N/A",
                 "imageSrc": "amber-default.webp"
             },
             {
                 "name": "Amber De La Vega",
+                "rarity": "Epic",
                 "imageSrc": "amber-amber-de-la-vega.webp"
             },
             {
                 "name": "Bubble Trouble Amber",
+                "rarity": "Epic",
                 "imageSrc": "amber-bubble-trouble.webp"
             },
             {
                 "name": "Frost Queen Amber",
+                "rarity": "Legendary",
                 "imageSrc": "amber-frost-queen.webp"
             },
             {
                 "name": "True Gold Amber",
+                "rarity": "N/A",
                 "imageSrc": "amber-true-gold.webp"
             },
             {
                 "name": "True Silver Amber",
+                "rarity": "N/A",
                 "imageSrc": "amber-true-silver.webp"
             }
         ]
     },
     {
         "name": "Buzz Lightyear",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Damage Dealer",
         "description": "Buzz Lightyear has arrived in Starr Park! Starting his journey with an accidental delivery to the Gift Shop, Buzz has since been impressing Brawlers with his three different Brawling modes!",
         "masteryTitle": "To infinity and beyond!",
-        "portrait": "buzz-lightyear.png",
+        "portraitImageSrc": "buzz-lightyear.png",
         "skins": [
             {
                 "name": "Buzz Lightyear",
+                "rarity": "N/A",
                 "imageSrc": "buzz-lightyear-default.webp"
             }
         ]
     },
     {
         "name": "Chester",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Damage Dealer",
         "description": "Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better...especially if that hater is Mandy!",
         "masteryTitle": "Jack of all Trades",
-        "portrait": "chester.png",
+        "portraitImageSrc": "chester.png",
         "skins": [
             {
                 "name": "Chester",
+                "rarity": "N/A",
                 "imageSrc": "chester-default.webp"
             },
             {
                 "name": "Dark Chester",
+                "rarity": "Rare",
                 "imageSrc": "chester-dark.webp"
             },
             {
                 "name": "Loki Chester",
+                "rarity": "Epic",
                 "imageSrc": "chester-loki.webp"
             },
             {
                 "name": "Moon Guardian Chester",
+                "rarity": "Epic",
                 "imageSrc": "chester-moon-guardian.png"
             },
             {
                 "name": "True Gold Chester",
+                "rarity": "N/A",
                 "imageSrc": "chester-true-gold.webp"
             },
             {
                 "name": "True Silver Chester",
+                "rarity": "N/A",
                 "imageSrc": "chester-true-silver.webp"
             },
             {
                 "name": "Wood Spirit Chester",
+                "rarity": "Super Rare",
                 "imageSrc": "chester-wood-spirit.webp"
             }
         ]
     },
     {
         "name": "Cordelius",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Assassin",
         "description": "Gardener and caretaker of Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
         "masteryTitle": "Toxic",
-        "portrait": "cordelius.png",
+        "portraitImageSrc": "cordelius.png",
         "skins": [
             {
                 "name": "Cordelius",
+                "rarity": "N/A",
                 "imageSrc": "cordelius-default.webp"
             },
             {
                 "name": "Odin Cordelius",
+                "rarity": "Epic",
                 "imageSrc": "cordelius-odin.webp"
             },
             {
                 "name": "Paper Cordelius",
+                "rarity": "Legendary",
                 "imageSrc": "cordelius-paper.png"
             },
             {
                 "name": "Poison Cap Cordelius",
+                "rarity": "Rare",
                 "imageSrc": "cordelius-poison-cap.webp"
             },
             {
                 "name": "Raider Cordelius",
+                "rarity": "Epic",
                 "imageSrc": "cordelius-raider.webp"
             },
             {
                 "name": "Sporemind Cordelius",
+                "rarity": "Epic",
                 "imageSrc": "cordelius-sporemind.webp"
             },
             {
                 "name": "True Gold Cordelius",
+                "rarity": "N/A",
                 "imageSrc": "cordelius-true-gold.webp"
             },
             {
                 "name": "True Silver Cordelius",
+                "rarity": "N/A",
                 "imageSrc": "cordelius-true-silver.webp"
             }
         ]
     },
     {
         "name": "Crow",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Assassin",
         "description": "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi.",
         "masteryTitle": "Caw caw!",
-        "portrait": "crow.png",
+        "portraitImageSrc": "crow.png",
         "skins": [
             {
                 "name": "Crow",
+                "rarity": "N/A",
                 "imageSrc": "crow-default.webp"
             },
             {
                 "name": "Captain Crow",
+                "rarity": "Super Rare",
                 "imageSrc": "crow-captain.webp"
             },
             {
                 "name": "Crowbone",
+                "rarity": "Epic",
                 "imageSrc": "crow-crowbone.webp"
             },
             {
                 "name": "Gold Mecha Crow",
+                "rarity": "Legendary",
                 "imageSrc": "crow-gold-mecha.webp"
             },
             {
-                "name": "Maveric Crow",
-                "imageSrc": "crow-maveric.png"
+                "name": "Maverick Crow",
+                "rarity": "Rare",
+                "imageSrc": "crow-maverick.png"
             },
             {
                 "name": "Mecha Crow",
+                "rarity": "Legendary",
                 "imageSrc": "crow-mecha.webp"
             },
             {
                 "name": "Moon Guardian Crow",
+                "rarity": "Mythic",
                 "imageSrc": "crow-moon-guardian.png"
             },
             {
                 "name": "Night Mecha Crow",
+                "rarity": "Legendary",
                 "imageSrc": "crow-night-mecha.webp"
             },
             {
                 "name": "Phoenix Crow",
+                "rarity": "Legendary",
                 "imageSrc": "crow-phoenix.webp"
             },
             {
                 "name": "True Gold Crow",
+                "rarity": "N/A",
                 "imageSrc": "crow-true-gold.webp"
             },
             {
                 "name": "True Silver Crow",
+                "rarity": "N/A",
                 "imageSrc": "crow-true-silver.webp"
             },
             {
                 "name": "White Crow",
+                "rarity": "Super Rare",
                 "imageSrc": "crow-white.webp"
             }
         ]
     },
     {
         "name": "Draco",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Tank",
         "description": "Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd he turns the fantasy up to eleven!",
         "masteryTitle": "Dungeon Master",
-        "portrait": "draco.png",
+        "portraitImageSrc": "draco.png",
         "skins": [
             {
                 "name": "Draco",
+                "rarity": "N/A",
                 "imageSrc": "draco-default.webp"
             },
             {
                 "name": "Dark Knight Draco",
+                "rarity": "Rare",
                 "imageSrc": "draco-dark-knight.webp"
             },
             {
                 "name": "Dread Knight Draco",
+                "rarity": "Legendary",
                 "imageSrc": "draco-dread-knight.png"
             },
             {
                 "name": "True Gold Draco",
+                "rarity": "N/A",
                 "imageSrc": "draco-true-gold.webp"
             },
             {
                 "name": "True Silver Draco",
+                "rarity": "N/A",
                 "imageSrc": "draco-true-silver.webp"
             }
         ]
     },
     {
         "name": "Kenji",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Assassin",
         "description": "This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something from his past...though his sushi tastes so good, nobody cares!",
         "masteryTitle": "Samurai",
-        "portrait": "kenji.png",
+        "portraitImageSrc": "kenji.png",
         "skins": [
             {
                 "name": "Kenji",
+                "rarity": "N/A",
                 "imageSrc": "kenji-default.webp"
             },
             {
                 "name": "Aodaisho Kenji",
+                "rarity": "Epic",
                 "imageSrc": "kenji-aodaisho.png"
             },
             {
                 "name": "Fruit Samurai Kenji",
+                "rarity": "Rare",
                 "imageSrc": "kenji-fruit-samurai.png"
             },
             {
                 "name": "Hebi Kenji",
+                "rarity": "Epic",
                 "imageSrc": "kenji-hebi.png"
             },
             {
                 "name": "Mamushi Kenji",
+                "rarity": "Epic",
                 "imageSrc": "kenji-mamushi.png"
             },
             {
                 "name": "True Gold Kenji",
+                "rarity": "N/A",
                 "imageSrc": "kenji-true-gold.webp"
             },
             {
                 "name": "True Silver Kenji",
+                "rarity": "N/A",
                 "imageSrc": "kenji-true-silver.webp"
             }
         ]
     },
     {
         "name": "Kit",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Support",
         "description": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
         "masteryTitle": "Meow",
-        "portrait": "kit.png",
+        "portraitImageSrc": "kit.png",
         "skins": [
             {
                 "name": "Kit",
+                "rarity": "N/A",
                 "imageSrc": "kit-default.webp"
             },
             {
                 "name": "Billy the Kit",
+                "rarity": "Rare",
                 "imageSrc": "kit-billy-the.webp"
             },
             {
                 "name": "Cuddly Kit",
+                "rarity": "Super Rare",
                 "imageSrc": "kit-cuddly.png"
             },
             {
                 "name": "KitBoxer",
+                "rarity": "Epic",
                 "imageSrc": "kit-kitboxer.webp"
             },
             {
                 "name": "KitBoxer Darkpaw",
+                "rarity": "Epic",
                 "imageSrc": "kit-kitboxer-darkpaw.webp"
             },
             {
                 "name": "KitBoxer Goldpaw",
+                "rarity": "Epic",
                 "imageSrc": "kit-kitboxer-goldpaw.webp"
             },
             {
                 "name": "Lockpickit",
+                "rarity": "Epic",
                 "imageSrc": "kit-lockpickit.png"
             },
             {
                 "name": "True Gold Kit",
+                "rarity": "N/A",
                 "imageSrc": "kit-true-gold.webp"
             },
             {
                 "name": "True Silver Kit",
+                "rarity": "N/A",
                 "imageSrc": "kit-true-silver.webp"
             }
         ]
     },
     {
         "name": "Leon",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Assassin",
         "description": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
         "masteryTitle": "The Sneaky",
-        "portrait": "leon.png",
+        "portraitImageSrc": "leon.png",
         "skins": [
             {
                 "name": "Leon",
+                "rarity": "N/A",
                 "imageSrc": "leon-default.webp"
             },
             {
                 "name": "Dino Leon",
+                "rarity": "Super Rare",
                 "imageSrc": "leon-dino.webp"
             },
             {
                 "name": "Leon the Stray",
+                "rarity": "Rare",
                 "imageSrc": "leon-leon-the-stray.webp"
             },
             {
                 "name": "Mecha Leon",
+                "rarity": "Legendary",
                 "imageSrc": "leon-mecha.webp"
             },
             {
                 "name": "Radiant Mecha Leon",
+                "rarity": "Legendary",
                 "imageSrc": "leon-radiant-mecha.webp"
             },
             {
                 "name": "Sally Leon",
+                "rarity": "Super Rare",
                 "imageSrc": "leon-sally.webp"
             },
             {
                 "name": "Shadow Mecha Leon",
+                "rarity": "Legendary",
                 "imageSrc": "leon-shadow-mecha.webp"
             },
             {
                 "name": "Shark Leon",
+                "rarity": "Super Rare",
                 "imageSrc": "leon-shark.webp"
             },
             {
                 "name": "Trick or Treat Leon",
+                "rarity": "Super Rare",
                 "imageSrc": "leon-trick-or-treat.webp"
             },
             {
                 "name": "True Gold Leon",
+                "rarity": "N/A",
                 "imageSrc": "leon-true-gold.webp"
             },
             {
                 "name": "True Silver Leon",
+                "rarity": "N/A",
                 "imageSrc": "leon-true-silver.webp"
             },
             {
                 "name": "Werewolf Leon",
+                "rarity": "Epic",
                 "imageSrc": "leon-werewolf.webp"
             },
             {
                 "name": "White Wolf Leon",
+                "rarity": "Mythic",
                 "imageSrc": "leon-white-wolf.webp"
             },
             {
                 "name": "World Finals Leon",
+                "rarity": "Epic",
                 "imageSrc": "leon-world-finals.png"
             }
         ]
     },
     {
         "name": "Meg",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Tank",
         "description": "Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while Max and Surge are out entertaining the crowds.",
         "masteryTitle": "Tech Support 2.0",
-        "portrait": "meg.png",
+        "portraitImageSrc": "meg.png",
         "skins": [
             {
                 "name": "Meg",
+                "rarity": "N/A",
                 "imageSrc": "meg-default.webp"
             },
             {
                 "name": "Beetle Meg",
+                "rarity": "Super Rare",
                 "imageSrc": "meg-beetle.webp"
             },
             {
                 "name": "Jaguar Spirit Meg",
+                "rarity": "Epic",
                 "imageSrc": "meg-jaguar-spirit.webp"
             },
             {
                 "name": "Megalodon Meg",
+                "rarity": "Mythic",
                 "imageSrc": "meg-megalodon.webp"
             },
             {
                 "name": "Monster Truck Meg",
+                "rarity": "Epic",
                 "imageSrc": "meg-monster-truck.webp"
             },
             {
                 "name": "True Gold Meg",
+                "rarity": "N/A",
                 "imageSrc": "meg-true-gold.webp"
             },
             {
                 "name": "True Silver Meg",
+                "rarity": "N/A",
                 "imageSrc": "meg-true-silver.webp"
             }
         ]
     },
     {
         "name": "Sandy",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Controller",
         "description": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
         "masteryTitle": "The Sleepy",
-        "portrait": "sandy.png",
+        "portraitImageSrc": "sandy.png",
         "skins": [
             {
                 "name": "Sandy",
+                "rarity": "N/A",
                 "imageSrc": "sandy-default.webp"
             },
             {
                 "name": "Glowing Jellyfish Sandy",
+                "rarity": "Epic",
                 "imageSrc": "sandy-glowing-jellyfish.webp"
             },
             {
                 "name": "Jellyfish Sandy",
+                "rarity": "Epic",
                 "imageSrc": "sandy-jellyfish.webp"
             },
             {
                 "name": "Lantern Sandy",
+                "rarity": "Epic",
                 "imageSrc": "sandy-lantern.webp"
             },
             {
                 "name": "Neon Jellyfish Sandy",
+                "rarity": "Epic",
                 "imageSrc": "sandy-neon-jellyfish.webp"
             },
             {
                 "name": "Nightmare Sandy",
+                "rarity": "Epic",
                 "imageSrc": "sandy-nightmare.webp"
             },
             {
                 "name": "Sandy Koya",
+                "rarity": "Epic",
                 "imageSrc": "sandy-sandy-koya.webp"
             },
             {
                 "name": "Sleepy Sandy",
+                "rarity": "Rare",
                 "imageSrc": "sandy-sleepy.webp"
             },
             {
                 "name": "Sugar Rush Sandy",
+                "rarity": "Super Rare",
                 "imageSrc": "sandy-sugar-rush.webp"
             },
             {
                 "name": "True Gold Sandy",
+                "rarity": "N/A",
                 "imageSrc": "sandy-true-gold.webp"
             },
             {
                 "name": "True Silver Sandy",
+                "rarity": "N/A",
                 "imageSrc": "sandy-true-silver.webp"
             }
         ]
     },
     {
         "name": "Spike",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Damage Dealer",
         "description": "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma.",
         "masteryTitle": "One of a Kind",
-        "portrait": "spike.png",
+        "portraitImageSrc": "spike.png",
         "skins": [
             {
                 "name": "Spike",
+                "rarity": "N/A",
                 "imageSrc": "spike-default.webp"
             },
             {
                 "name": "Dark Lord Spike",
+                "rarity": "Epic",
                 "imageSrc": "spike-dark-lord.webp"
             },
             {
                 "name": "Logmas Spike",
+                "rarity": "Super Rare",
                 "imageSrc": "spike-logmas.webp"
             },
             {
                 "name": "Mask Spike",
+                "rarity": "Rare",
                 "imageSrc": "spike-mask.webp"
             },
             {
                 "name": "Poop Spike",
+                "rarity": "Mythic",
                 "imageSrc": "spike-poop.webp"
             },
             {
                 "name": "Pyro Spike",
+                "rarity": "Super Rare",
                 "imageSrc": "spike-pyro.webp"
             },
             {
                 "name": "Robo Spike",
+                "rarity": "Epic",
                 "imageSrc": "spike-robo.webp"
             },
             {
                 "name": "Sakura Spike",
+                "rarity": "Super Rare",
                 "imageSrc": "spike-sakura.webp"
             },
             {
                 "name": "Toon Spike",
+                "rarity": "Legendary",
                 "imageSrc": "spike-toon.webp"
             },
             {
                 "name": "True Gold Spike",
+                "rarity": "N/A",
                 "imageSrc": "spike-true-gold.webp"
             },
             {
                 "name": "True Silver Spike",
+                "rarity": "N/A",
                 "imageSrc": "spike-true-silver.webp"
             }
         ]
     },
     {
         "name": "Surge",
-        "rarity": 5,
+        "rarity": "Legendary",
         "class": "Damage Dealer",
         "description": "Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks.",
         "masteryTitle": "Bro",
-        "portrait": "surge.png",
+        "portraitImageSrc": "surge.png",
         "skins": [
             {
                 "name": "Surge",
+                "rarity": "N/A",
                 "imageSrc": "surge-default.webp"
             },
             {
                 "name": "Anti-Hero Skeletal Surge",
+                "rarity": "Epic",
                 "imageSrc": "surge-anti-hero-skeletal.png"
             },
             {
                 "name": "DIY Surge",
+                "rarity": "Super Rare",
                 "imageSrc": "surge-diy.webp"
             },
             {
                 "name": "Kraken Surge",
+                "rarity": "Epic",
                 "imageSrc": "surge-kraken.webp"
             },
             {
                 "name": "Mecha Paladin Surge",
+                "rarity": "Epic",
                 "imageSrc": "surge-mecha-paladin.webp"
             },
             {
                 "name": "Scarlet Paladin Surge",
+                "rarity": "Epic",
                 "imageSrc": "surge-scarlet-paladin.webp"
             },
             {
                 "name": "Skeletal Surge",
+                "rarity": "Epic",
                 "imageSrc": "surge-skeletal.png"
             },
             {
                 "name": "Surge Kong",
+                "rarity": "Super Rare",
                 "imageSrc": "surge-kong.webp"
             },
             {
                 "name": "Surge Lightyear",
+                "rarity": "N/A",
                 "imageSrc": "surge-lightyear.png"
             },
             {
                 "name": "Surgenie",
+                "rarity": "Epic",
                 "imageSrc": "surge-surgenie.webp"
             },
             {
                 "name": "True Gold Surge",
+                "rarity": "N/A",
                 "imageSrc": "surge-true-gold.webp"
             },
             {
                 "name": "True Silver Surge",
+                "rarity": "N/A",
                 "imageSrc": "surge-true-silver.webp"
             },
             {
                 "name": "Villianous Skeletal Surge",
+                "rarity": "Epic",
                 "imageSrc": "surge-villainous-skeletal.png"
             }
         ]

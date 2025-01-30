@@ -1,36 +1,25 @@
+export type BrawlerRarity = 'Common' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary';
+export type BrawlerClass = 'Artillery' | 'Assassin' | 'Controller' | 'Damage Dealer' | 'Marksman' | 'Support' | 'Tank';
+export type BrawlerSkinRarity = 'N/A' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Hypercharge';
+
 export type BrawlerData = {
     name: string;
     rarity: BrawlerRarity;
     class: BrawlerClass;
     description: string;
     masteryTitle: string;
-    portrait: string;
-    skins: {
-        name: string;
-        imageSrc: string;
-    }[];
+    portraitImageSrc: string;
+    skins: BrawlerSkin[];
 };
 
-export type PortraitData = {
+export type BrawlerPortrait = {
     name: string,
-    imageSrc: string,
-    rarity: BrawlerRarity
+    rarity: BrawlerRarity,
+    imageSrc: string
 };
 
-export type BrawlerClass =
-    | 'Artillery'
-    | 'Assassin'
-    | 'Controller'
-    | 'Damage Dealer'
-    | 'Marksman'
-    | 'Support'
-    | 'Tank';
-
-export enum BrawlerRarity {
-    Common,
-    Rare,
-    SuperRare,
-    Epic,
-    Mythic,
-    Legendary
+export type BrawlerSkin = {
+    name: string;
+    rarity: BrawlerSkinRarity;
+    imageSrc: string;
 };

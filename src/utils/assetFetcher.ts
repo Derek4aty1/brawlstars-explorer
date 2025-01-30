@@ -1,13 +1,14 @@
-import { BrawlerData, PortraitData } from '@/types/BrawlerTypes';
+import { BrawlerData, BrawlerPortrait } from '@/types/BrawlerTypes';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 import { cache } from 'react';
 
 export const getCachedAllBrawlerData = cache(async (): Promise<BrawlerData[]> => {
-  const filePath = join(process.cwd(), 'public', 'data', 'brawlerData.json');
+  const filePath = join(process.cwd(), 'public/data/brawlerData.json');
   const fileContents = readFileSync(filePath, 'utf8');
   const allBrawlerData: BrawlerData[] = JSON.parse(fileContents);
   allBrawlerData.forEach(brawler => {
+    brawler.portraitImageSrc = `/images/portraits/${brawler.portraitImageSrc}`;
     brawler.skins.forEach(skin => {
       skin.imageSrc = `/images/skins/${skin.imageSrc}`;
     });
@@ -15,14 +16,14 @@ export const getCachedAllBrawlerData = cache(async (): Promise<BrawlerData[]> =>
   return allBrawlerData;
 });
 
-export const getCachedAllPortraitData = cache(async (): Promise<PortraitData[]> => {
+export const getCachedAllBrawlerPortraits = cache(async (): Promise<BrawlerPortrait[]> => {
   const allBrawlerData = await getCachedAllBrawlerData();
-  const allPortraitData: PortraitData[] = allBrawlerData.map(brawler => ({
+  const allBrawlerPortrait: BrawlerPortrait[] = allBrawlerData.map(brawler => ({
     name: brawler.name,
-    imageSrc: `/images/portraits/${brawler.portrait}`,
-    rarity: brawler.rarity
+    rarity: brawler.rarity,
+    imageSrc: brawler.portraitImageSrc
   }));
-  return allPortraitData;
+  return allBrawlerPortrait;
 });
 
 export async function getBrawlerData(brawlerName: string): Promise<BrawlerData | undefined> {

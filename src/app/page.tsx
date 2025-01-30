@@ -1,6 +1,6 @@
 import PortraitCard from "@/components/PortraitCard";
-import { BrawlerRarity, PortraitData } from "@/types/BrawlerTypes";
-import { getCachedAllPortraitData } from "@/utils/assetFetcher";
+import { BrawlerPortrait, BrawlerRarity } from "@/types/BrawlerTypes";
+import { getCachedAllBrawlerPortraits } from "@/utils/assetFetcher";
 import { Metadata } from "next";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -9,21 +9,21 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-const rarityTextColors = {
-  [BrawlerRarity.Common]: 'text-common',
-  [BrawlerRarity.Rare]: 'text-rare',
-  [BrawlerRarity.SuperRare]: 'text-super-rare',
-  [BrawlerRarity.Epic]: 'text-epic',
-  [BrawlerRarity.Mythic]: 'text-mythic',
-  [BrawlerRarity.Legendary]: 'text-legendary',
+const rarityTextColors: Record<BrawlerRarity, string> = {
+  'Common': 'text-common',
+  'Rare': 'text-rare',
+  'Super Rare': 'text-super-rare',
+  'Epic': 'text-epic',
+  'Mythic': 'text-mythic',
+  'Legendary': 'text-legendary'
 };
 
-function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitData[] }) {
+function RaritySection({ title, portraits }: { title: string, portraits: BrawlerPortrait[] }) {
   return (
     <div className="py-4 flex flex-col items-center gap-2">
-      <h2 className={`w-full text-xl ${rarityTextColors[brawlers[0].rarity]}`}>{title}</h2>
+      <h2 className={`w-full text-xl ${rarityTextColors[portraits[0].rarity]}`}>{title}</h2>
       <div className="w-fit grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
-        {brawlers.map(portrait => (
+        {portraits.map(portrait => (
           <PortraitCard key={portrait.name} portrait={portrait} />
         ))}
       </div>
@@ -32,25 +32,25 @@ function RaritySection({ title, brawlers }: { title: string, brawlers: PortraitD
 }
 
 export default async function AllBrawlersPage() {
-  const allBrawlers = await getCachedAllPortraitData();
-  const commonBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Common);
-  const rareBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Rare);
-  const superRareBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.SuperRare);
-  const epicBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Epic);
-  const mythicBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Mythic);
-  const legendaryBrawlers = allBrawlers.filter(portrait => portrait.rarity === BrawlerRarity.Legendary);
+  const allBrawlerPortraits = await getCachedAllBrawlerPortraits();
+  const commonPortraits = allBrawlerPortraits.filter(portrait => portrait.rarity === 'Common');
+  const rarePortraits = allBrawlerPortraits.filter(portrait => portrait.rarity === 'Rare');
+  const superRarePortraits = allBrawlerPortraits.filter(portrait => portrait.rarity === 'Super Rare');
+  const epicPortraits = allBrawlerPortraits.filter(portrait => portrait.rarity === 'Epic');
+  const mythicPortraits = allBrawlerPortraits.filter(portrait => portrait.rarity === 'Mythic');
+  const legendaryPortraits = allBrawlerPortraits.filter(portrait => portrait.rarity === 'Legendary');
 
   return (
     <section className="p-8 flex flex-col justify-center">
       <h1 className="w-full text-3xl">
-        ALL BRAWLERS ({allBrawlers.length})
+        ALL BRAWLERS ({allBrawlerPortraits.length})
       </h1>
-      <RaritySection title={`Starting Brawlers (${commonBrawlers.length})`} brawlers={commonBrawlers} />
-      <RaritySection title={`Rare (${rareBrawlers.length})`} brawlers={rareBrawlers} />
-      <RaritySection title={`Super Rare (${superRareBrawlers.length})`} brawlers={superRareBrawlers} />
-      <RaritySection title={`Epic (${epicBrawlers.length})`} brawlers={epicBrawlers} />
-      <RaritySection title={`Mythic (${mythicBrawlers.length})`} brawlers={mythicBrawlers} />
-      <RaritySection title={`Legendary (${legendaryBrawlers.length})`} brawlers={legendaryBrawlers} />
+      <RaritySection title={`Starting Brawlers (${commonPortraits.length})`} portraits={commonPortraits} />
+      <RaritySection title={`Rare (${rarePortraits.length})`} portraits={rarePortraits} />
+      <RaritySection title={`Super Rare (${superRarePortraits.length})`} portraits={superRarePortraits} />
+      <RaritySection title={`Epic (${epicPortraits.length})`} portraits={epicPortraits} />
+      <RaritySection title={`Mythic (${mythicPortraits.length})`} portraits={mythicPortraits} />
+      <RaritySection title={`Legendary (${legendaryPortraits.length})`} portraits={legendaryPortraits} />
     </section>
   );
 }
