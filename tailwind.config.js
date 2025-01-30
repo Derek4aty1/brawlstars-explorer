@@ -2,12 +2,7 @@ import * as textShadow from 'tailwindcss-textshadow';
 
 /** @type {import('tailwindcss').Config} */
 export const content = [
-  "./app/**/*.{js,ts,jsx,tsx,mdx}",
-  "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-  "./components/**/*.{js,ts,jsx,tsx,mdx}",
-
-  // Or if using `src` directory:
-  "./src/**/*.{js,ts,jsx,tsx,mdx}",
+  "./src/**/*.{js,ts,jsx,tsx,mdx}"
 ];
 export const theme = {
   extend: {
@@ -17,13 +12,13 @@ export const theme = {
       'super-rare': '#0087fa',
       'epic': '#b116ec',
       'mythic': '#ff0021',
-      'legendary': '#fff11e',
+      'legendary': '#fff11e'
     },
     fontFamily: {
       'lilita-one': 'Lilita One'
     },
     textShadow: {
-      'outline': '-1px -1px black, 0px -1px black, 1px -1px black, 1px 0px black, 1px 1px black, 0px 1px black, -1px 1px black, -1px 0px black, 0px 2.5px black',
+      'outline': '-1px -1px black, 0px -1px black, 1px -1px black, 1px 0px black, 1px 1px black, 0px 1px black, -1px 1px black, -1px 0px black, 0px 2.5px black'
     }
   }
 };

@@ -58,6 +58,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
           alt={`${brawlerData.class} class icon`}
           width={28}
           height={28}
+          priority={true}
           draggable={false}
           style={{ objectFit: "contain" }}
           className="select-none mr-1"

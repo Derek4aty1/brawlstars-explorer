@@ -42,6 +42,7 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
           alt={`${skin.rarity} skin rarity icon`}
           width={28}
           height={28}
+          priority={true}
           draggable={false}
           style={{ objectFit: "contain" }}
           className="select-none pt-1"
