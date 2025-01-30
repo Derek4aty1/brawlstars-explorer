@@ -1300,12 +1300,12 @@
             {
                 "name": "True Gold Jessie",
                 "rarity": "N/A",
-                "imageSrc": "jessie-true-gold.webp"
+                "imageSrc": "jessie-true-gold.png"
             },
             {
                 "name": "True Silver Jessie",
                 "rarity": "N/A",
-                "imageSrc": "jessie-true-silver.webp"
+                "imageSrc": "jessie-true-silver.png"
             }
         ]
     },
@@ -1805,12 +1805,12 @@
             {
                 "name": "True Gold Bibi",
                 "rarity": "N/A",
-                "imageSrc": "bibi-true-gold.webp"
+                "imageSrc": "bibi-true-gold.png"
             },
             {
                 "name": "True Silver Bibi",
                 "rarity": "N/A",
-                "imageSrc": "bibi-true-silver.webp"
+                "imageSrc": "bibi-true-silver.png"
             },
             {
                 "name": "ZomBibi",
@@ -4210,12 +4210,12 @@
             {
                 "name": "True Gold Sprout",
                 "rarity": "N/A",
-                "imageSrc": "sprout-true-gold.webp"
+                "imageSrc": "sprout-true-gold.png"
             },
             {
                 "name": "True Silver Sprout",
                 "rarity": "N/A",
-                "imageSrc": "sprout-true-silver.webp"
+                "imageSrc": "sprout-true-silver.png"
             }
         ]
     },
