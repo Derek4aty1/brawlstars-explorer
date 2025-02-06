@@ -739,7 +739,7 @@
             },
             {
                 "name": "Quit Playing Poco",
-                "rarity": "N/A",
+                "rarity": "Epic",
                 "imageSrc": "poco-quit-playing.png"
             },
             {
@@ -5029,7 +5029,7 @@
             },
             {
                 "name": "Surge Lightyear",
-                "rarity": "N/A",
+                "rarity": "Legendary",
                 "imageSrc": "surge-lightyear.png"
             },
             {
