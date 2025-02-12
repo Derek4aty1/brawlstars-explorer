@@ -1,6 +1,7 @@
 import PortraitCard from "@/components/PortraitCard";
-import { BrawlerPortrait, BrawlerRarity } from "@/types/BrawlerTypes";
-import { getCachedAllBrawlerPortraits } from "@/utils/assetFetcher";
+import { BrawlerPortrait } from "@/types/BrawlerTypes";
+import { getCachedAllBrawlerPortraits } from "@/utils/brawlerDataFetcher";
+import { getRarityTextColor } from "@/utils/uiAssetMapper";
 import { Metadata } from "next";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -9,19 +10,10 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-const rarityTextColors: Record<BrawlerRarity, string> = {
-  'Common': 'text-common',
-  'Rare': 'text-rare',
-  'Super Rare': 'text-super-rare',
-  'Epic': 'text-epic',
-  'Mythic': 'text-mythic',
-  'Legendary': 'text-legendary'
-};
-
 function RaritySection({ title, portraits }: { title: string, portraits: BrawlerPortrait[] }) {
   return (
     <div className="py-4 flex flex-col items-center gap-2">
-      <h2 className={`w-full text-xl ${rarityTextColors[portraits[0].rarity]}`}>{title}</h2>
+      <h2 className={`w-full text-xl ${getRarityTextColor(portraits[0].rarity)}`}>{title}</h2>
       <div className="w-fit grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6">
         {portraits.map(portrait => (
           <PortraitCard key={portrait.name} portrait={portrait} />

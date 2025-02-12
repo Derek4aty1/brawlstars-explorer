@@ -2,6 +2,10 @@ export type BrawlerRarity = 'Common' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic'
 export type BrawlerClass = 'Artillery' | 'Assassin' | 'Controller' | 'Damage Dealer' | 'Marksman' | 'Support' | 'Tank';
 export type BrawlerSkinRarity = 'N/A' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Hypercharge';
 
+export type BrawlerSkinCollection = 
+    | 'True Gold'
+    | 'True Silver';
+
 export type BrawlerData = {
     name: string;
     rarity: BrawlerRarity;
@@ -12,14 +16,15 @@ export type BrawlerData = {
     skins: BrawlerSkin[];
 };
 
-export type BrawlerPortrait = {
-    name: string,
-    rarity: BrawlerRarity,
-    imageSrc: string
-};
-
 export type BrawlerSkin = {
     name: string;
     rarity: BrawlerSkinRarity;
     imageSrc: string;
+    collections: BrawlerSkinCollection[];
+};
+
+export type BrawlerPortrait = {
+    name: string,
+    rarity: BrawlerRarity,
+    imageSrc: string
 };

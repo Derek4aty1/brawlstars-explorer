@@ -1,9 +1,9 @@
 import Image from "next/image";
 import SkinCard from "@/components/SkinCard";
-import { getBrawlerData, getAllBrawlerNames } from "@/utils/assetFetcher";
+import { getBrawlerData, getAllBrawlerNames } from "@/utils/brawlerDataFetcher";
 import { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
-import { BrawlerClass } from "@/types/BrawlerTypes";
+import { getBrawlerClassIcon } from "@/utils/uiAssetMapper";
 
 type Params = Promise<{ brawlerName: string }>;
 
@@ -22,16 +22,6 @@ export async function generateStaticParams() {
     brawlerName: name
   }));
 }
-
-const classImagePaths: Record<BrawlerClass, string> = {
-  'Artillery': '/images/ui/icon-class-artillery.png',
-  'Assassin': '/images/ui/icon-class-assassin.png',
-  'Controller': '/images/ui/icon-class-controller.png',
-  'Damage Dealer': '/images/ui/icon-class-damage-dealer.png',
-  'Marksman': '/images/ui/icon-class-marksman.png',
-  'Support': '/images/ui/icon-class-support.png',
-  'Tank': '/images/ui/icon-class-tank.png'
-};
 
 export default async function BrawlerPage({ params }: { params: Params }) {
   const { brawlerName } = await params;
@@ -54,7 +44,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       </h1>
       <h2 className="pt-1 w-full text-xl uppercase flex justify-center ">
         <Image
-          src={`${classImagePaths[brawlerData.class]}`}
+          src={getBrawlerClassIcon(brawlerData.class)}
           alt={`${brawlerData.class} class icon`}
           width={28}
           height={28}
@@ -71,9 +61,9 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       <h3 className="pt-1 w-full text-lg whitespace-pre-line xl:max-w-[50%]">
         {brawlerData.description}
       </h3>
-      <div className="pt-6 w-fit grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+      <div className="pt-6 w-fit grid items-start gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
         {brawlerData.skins.map((skin, index) => (
-          <SkinCard key={`${index}-${skin.name}`} skin={skin} />
+          <SkinCard key={`${skin.name}-${index}`} skin={skin} />
         ))}
       </div>
     </section>

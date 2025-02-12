@@ -1,18 +1,9 @@
 'use client';
-import { BrawlerSkin, BrawlerSkinRarity } from "@/types/BrawlerTypes";
+import { BrawlerSkin } from "@/types/BrawlerTypes";
+import { getSkinCollectionIcon, getSkinRarityIcon } from "@/utils/uiAssetMapper";
 import Image from "next/image";
 import { useState } from "react";
 import { useInView } from "react-intersection-observer";
-
-const skinRarityIconPaths: Record<BrawlerSkinRarity, string> = {
-  'N/A': '',
-  'Rare': '/images/ui/icon-skin-rare.png',
-  'Super Rare': '/images/ui/icon-skin-super-rare.png',
-  'Epic': '/images/ui/icon-skin-epic.png',
-  'Mythic': '/images/ui/icon-skin-mythic.png',
-  'Legendary': '/images/ui/icon-skin-legendary.png',
-  'Hypercharge': '/images/ui/icon-skin-hypercharge.png'
-};
 
 export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
   const [isLoaded, setIsLoaded] = useState(false);
@@ -36,17 +27,34 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
       <figcaption className="w-full pt-2 text-lg uppercase">
         {skin.name}
       </figcaption>
-      {skin.rarity !== 'N/A' && (
-        <Image
-          src={`${skinRarityIconPaths[skin.rarity]}`}
-          alt={`${skin.rarity} skin rarity icon`}
-          width={28}
-          height={28}
-          priority={true}
-          draggable={false}
-          style={{ objectFit: "contain" }}
-          className="select-none pt-1"
-        />
+      {(skin.rarity !== 'N/A' || skin.collections.length > 0) && (
+        <div className="flex flex-wrap gap-2 pt-1">
+          {skin.rarity !== 'N/A' && (
+            <Image
+              src={getSkinRarityIcon(skin.rarity)}
+              alt={`${skin.rarity} skin rarity icon`}
+              width={28}
+              height={28}
+              priority={true}
+              draggable={false}
+              style={{ objectFit: "contain" }}
+              className="select-none"
+            />
+          )}
+          {skin.collections.map((collection) => (
+            <Image
+              key={collection}
+              src={getSkinCollectionIcon(collection)}
+              alt={`${collection} skin collection icon`}
+              width={28}
+              height={28}
+              priority={true}
+              draggable={false}
+              style={{ objectFit: "contain" }}
+              className="select-none"
+            />
+          ))}
+        </div>
       )}
     </figure>
   );
