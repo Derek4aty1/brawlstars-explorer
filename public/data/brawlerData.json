@@ -4194,6 +4194,12 @@
                 "rarity": "N/A",
                 "imageSrc": "finx-default.png",
                 "collections": []
+            },
+            {
+                "name": "Jurassic Finx",
+                "rarity": "Rare",
+                "imageSrc": "finx-jurassic.png",
+                "collections": []
             }
         ]
     },
