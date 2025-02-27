@@ -12,8 +12,8 @@ export default function PortraitCard({ portrait }: { portrait: BrawlerPortrait }
     triggerOnce: true
   });
 
-  // Pearl's portrait is narrower than the others...not sure if this will get fixed in the future
-  const objectFit = portrait.name === 'Pearl' ? 'cover' : 'contain';
+  // Couple of portraits are narrower than the others...not sure if this will get fixed in the future
+  const objectFit = ['Pearl', 'Finx'].includes(portrait.name) ? 'cover' : 'contain';
 
   return (
     <Link href={`/${portrait.name}`} draggable={false} className="transition-transform active:scale-95">

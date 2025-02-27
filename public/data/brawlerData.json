@@ -4182,6 +4182,22 @@
         ]
     },
     {
+        "name": "Finx",
+        "rarity": "Mythic",
+        "class": "Controller",
+        "description": "The owner of Starr Park's escape room, Finx is meant to help visitors complete tasks. Instead, he uses his time controlling abilities to cause mischief! Also, he LOVES cats.",
+        "masteryTitle": "Waste of time",
+        "portraitImageSrc": "finx.png",
+        "skins": [
+            {
+                "name": "Finx",
+                "rarity": "N/A",
+                "imageSrc": "finx-default.png",
+                "collections": []
+            }
+        ]
+    },
+    {
         "name": "Gene",
         "rarity": "Mythic",
         "class": "Controller",
@@ -4498,6 +4514,22 @@
                 "collections": [
                     "True Silver"
                 ]
+            }
+        ]
+    },
+    {
+        "name": "Lumi",
+        "rarity": "Mythic",
+        "class": "Damage Dealer",
+        "description": "A passionate metalhead and a talented drummer, Lumi traded her drumsticks for morning stars when she got her job at Starr Park. She controls elements of ice and fire, which reflects her shy nature and her burning passion for music!",
+        "masteryTitle": "Headbanger",
+        "portraitImageSrc": "lumi.png",
+        "skins": [
+            {
+                "name": "Lumi",
+                "rarity": "N/A",
+                "imageSrc": "lumi-default.png",
+                "collections": []
             }
         ]
     },
