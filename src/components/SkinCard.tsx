@@ -31,7 +31,7 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
         {skin.name}
       </figcaption>
       {(skin.rarity || skin.themes.length > 0) && (
-        <div className="flex flex-wrap gap-2 mt-1">
+        <div className="flex place-content-center items-center gap-2 mt-1">
           {skin.rarity && (
             <Image
               src={getSkinRarityIcon(skin.rarity)}
@@ -40,7 +40,7 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
               height={32}
               priority={true}
               draggable={false}
-              className="w-auto h-auto object-contain select-none"
+              className="w-auto h-auto max-w-[32px] max-h-[32px] object-contain select-none"
             />
           )}
           {skin.themes.map(theme => (
@@ -52,7 +52,7 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
               height={32}
               priority={true}
               draggable={false}
-              className="w-auto h-auto object-contain select-none"
+              className="w-auto h-auto max-w-[32px] max-h-[32px] object-contain select-none"
             />
           ))}
         </div>
