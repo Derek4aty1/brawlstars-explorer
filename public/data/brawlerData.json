@@ -3209,6 +3209,20 @@
                 "rarity": "Rare",
                 "imageSrc": "meeple-strike.png",
                 "themes": []
+            },
+            {
+                "name": "True Gold Meeple",
+                "imageSrc": "meeple-true-gold.png",
+                "themes": [
+                    "True Gold"
+                ]
+            },
+            {
+                "name": "True Silver Meeple",
+                "imageSrc": "meeple-true-silver.png",
+                "themes": [
+                    "True Silver"
+                ]
             }
         ]
     },
