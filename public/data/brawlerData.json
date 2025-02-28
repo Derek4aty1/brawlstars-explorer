@@ -16,84 +16,116 @@
                 "name": "America Shelly",
                 "rarity": "Rare",
                 "imageSrc": "shelly-america.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Bandita Shelly",
                 "rarity": "Rare",
                 "imageSrc": "shelly-bandita.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Boca Juniors Shelly",
                 "rarity": "Rare",
                 "imageSrc": "shelly-boca-juniors.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Classic Shelly",
                 "rarity": "Rare",
                 "imageSrc": "shelly-classic.webp",
-                "themes": []
+                "themes": [
+                    "Anniversary"
+                ]
             },
             {
                 "name": "Hoot Hoot Shelly",
                 "rarity": "Mythic",
                 "imageSrc": "shelly-hoot-hoot.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Princess Shelly",
                 "rarity": "Super Rare",
                 "imageSrc": "shelly-princess.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Once Upon"
+                ]
             },
             {
                 "name": "PSG Shelly",
                 "rarity": "Super Rare",
                 "imageSrc": "shelly-psg.webp",
-                "themes": []
+                "themes": [
+                    "PSG"
+                ]
             },
             {
                 "name": "Shelly Dancer",
                 "rarity": "Epic",
                 "imageSrc": "shelly-shelly-dancer.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Shelly Dancer Dahlia",
                 "rarity": "Epic",
                 "imageSrc": "shelly-shelly-dancer-dahlia.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Shelly Dancer Iris",
                 "rarity": "Epic",
                 "imageSrc": "shelly-shelly-dancer-iris.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Sheriff Shelly",
                 "rarity": "Super Rare",
                 "imageSrc": "shelly-sheriff.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Squad Buster Shelly",
                 "rarity": "Mythic",
                 "imageSrc": "shelly-squad-buster.webp",
-                "themes": []
+                "themes": [
+                    "Squad Busters"
+                ]
             },
             {
                 "name": "Star Shelly",
                 "imageSrc": "shelly-star.webp",
-                "themes": []
+                "themes": [
+                    "Anniversary"
+                ]
             },
             {
                 "name": "Stellar Shelly",
                 "rarity": "Epic",
                 "imageSrc": "shelly-stellar.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "True Gold Shelly",
@@ -113,13 +145,17 @@
                 "name": "U De Chile Shelly",
                 "rarity": "Rare",
                 "imageSrc": "shelly-u-de-chile.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Witch Shelly",
                 "rarity": "Epic",
                 "imageSrc": "shelly-witch.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             }
         ]
     },
@@ -140,37 +176,49 @@
                 "name": "Bakesale Barley",
                 "rarity": "Epic",
                 "imageSrc": "barley-bakesale.webp",
-                "themes": []
+                "themes": [
+                    "Retropolis Nights"
+                ]
             },
             {
                 "name": "Buccaneer Barley",
                 "rarity": "Epic",
                 "imageSrc": "barley-buccaneer.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "Golden Barley",
                 "rarity": "Rare",
                 "imageSrc": "barley-golden.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Maple Barley",
                 "rarity": "Super Rare",
                 "imageSrc": "barley-maple.webp",
-                "themes": []
+                "themes": [
+                    "Starry Meal"
+                ]
             },
             {
                 "name": "Red Wizard Barley",
                 "rarity": "Super Rare",
                 "imageSrc": "barley-red-wizard.webp",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             },
             {
                 "name": "Sway Master Barley",
                 "rarity": "Epic",
                 "imageSrc": "barley-sway-master.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "True Gold Barley",
@@ -190,12 +238,16 @@
                 "name": "Unicorn Knight Barley",
                 "rarity": "Super Rare",
                 "imageSrc": "barley-unicorn-knight.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Wizard Barley",
                 "imageSrc": "barley-wizard.webp",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             }
         ]
     },
@@ -221,103 +273,142 @@
                 "name": "Beach Brock",
                 "rarity": "Super Rare",
                 "imageSrc": "brock-beach.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Boom Box Brock",
                 "rarity": "Super Rare",
                 "imageSrc": "brock-boom-box.webp",
-                "themes": []
+                "themes": [
+                    "Vibing"
+                ]
             },
             {
                 "name": "Deputy Brock",
                 "rarity": "Super Rare",
                 "imageSrc": "brock-deputy.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Gold Hacker Brock",
                 "rarity": "Epic",
                 "imageSrc": "brock-gold-hacker.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Hacker Brock",
                 "rarity": "Epic",
                 "imageSrc": "brock-hacker.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Hot Rod Brock",
                 "rarity": "Epic",
                 "imageSrc": "brock-hot-rod.webp",
-                "themes": []
+                "themes": [
+                    "Retropolis Nights"
+                ]
             },
             {
                 "name": "Lion Dance Brock",
                 "rarity": "Epic",
                 "imageSrc": "brock-lion-dance.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Old School Brock",
                 "rarity": "Super Rare",
                 "imageSrc": "brock-old-school.webp",
-                "themes": []
+                "themes": [
+                    "Anniversary"
+                ]
             },
             {
                 "name": "Postal Brock",
                 "rarity": "Epic",
                 "imageSrc": "brock-postal.webp",
-                "themes": []
+                "themes": [
+                    "City Troubles",
+                    "Ranked"
+                ]
             },
             {
                 "name": "RGB Hacker Brock",
                 "rarity": "Epic",
                 "imageSrc": "brock-rgb-hacker.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Rocket Brown Brock",
                 "rarity": "Epic",
                 "imageSrc": "brock-rocket-brown.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "Super Ranger Brock",
                 "rarity": "Super Rare",
                 "imageSrc": "brock-super-ranger.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Max Force"
+                ]
             },
             {
                 "name": "Super Ranger Brock Black",
                 "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-black.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Super Ranger Brock Blue",
                 "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-blue.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Super Ranger Brock Pink",
                 "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-pink.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Super Ranger Brock Red",
                 "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-red.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Super Ranger Brock Yellow",
                 "rarity": "Epic",
                 "imageSrc": "brock-super-ranger-brock-yellow.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "True Gold Brock",
@@ -351,13 +442,17 @@
                 "name": "Zeus Brock",
                 "rarity": "Mythic",
                 "imageSrc": "brock-zeus.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "ZomBrock",
                 "rarity": "Rare",
                 "imageSrc": "brock-zombrock.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             }
         ]
     },
@@ -378,61 +473,82 @@
                 "name": "Alleycat Bull",
                 "rarity": "Epic",
                 "imageSrc": "bull-alleycat.webp",
-                "themes": []
+                "themes": [
+                    "License to Brawl"
+                ]
             },
             {
                 "name": "B-800 Bull",
                 "rarity": "Super Rare",
                 "imageSrc": "bull-b-800.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Starrs of Brawlywood"
+                ]
             },
             {
                 "name": "Barbarian King Bull",
                 "rarity": "Super Rare",
                 "imageSrc": "bull-barbarian-king.webp",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             },
             {
                 "name": "Bull Mang",
                 "rarity": "Epic",
                 "imageSrc": "bull-bull-mang.webp",
-                "themes": []
+                "themes": [
+                    "BT21"
+                ]
             },
             {
                 "name": "Linebacker Bull",
                 "rarity": "Super Rare",
                 "imageSrc": "bull-linebacker.webp",
-                "themes": []
+                "themes": [
+                    "Super Brawl"
+                ]
             },
             {
                 "name": "Lion Bull",
                 "rarity": "Epic",
                 "imageSrc": "bull-lion.webp",
-                "themes": []
+                "themes": [
+                    "Animal Kingdom"
+                ]
             },
             {
                 "name": "Minotaur Bull",
                 "rarity": "Mythic",
                 "imageSrc": "bull-minotaur.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Norse Raider Bull",
                 "rarity": "Super Rare",
                 "imageSrc": "bull-norse-raider.webp",
-                "themes": []
+                "themes": [
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "Space Ox Bull",
                 "rarity": "Epic",
                 "imageSrc": "bull-space-ox.webp",
-                "themes": []
+                "themes": [
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Touchdown Bull",
                 "rarity": "Super Rare",
                 "imageSrc": "bull-touchdown.webp",
-                "themes": []
+                "themes": [
+                    "Super Brawl"
+                ]
             },
             {
                 "name": "True Gold Bull",
@@ -452,7 +568,9 @@
                 "name": "Viking Bull",
                 "rarity": "Super Rare",
                 "imageSrc": "bull-viking.webp",
-                "themes": []
+                "themes": [
+                    "Northern Saga"
+                ]
             }
         ]
     },
@@ -480,115 +598,156 @@
                 "name": "Atl. Nacional Colt",
                 "rarity": "Rare",
                 "imageSrc": "colt-atl.-nacional.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Bananas Colt",
                 "rarity": "Epic",
                 "imageSrc": "colt-bananas.webp",
-                "themes": []
+                "themes": [
+                    "Rumble Jungle Heroes"
+                ]
             },
             {
                 "name": "Cerro Porteño Colt",
                 "rarity": "Rare",
                 "imageSrc": "colt-cerro-porteño.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Challenger Colt",
                 "rarity": "Epic",
                 "imageSrc": "colt-challenger.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             },
             {
                 "name": "Club America Colt",
                 "rarity": "Rare",
                 "imageSrc": "colt-club-america.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Corsair Colt",
                 "rarity": "Epic",
                 "imageSrc": "colt-corsair.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "Dark Angel Colt",
                 "rarity": "Epic",
                 "imageSrc": "colt-dark-angel.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Gunslinger Colt",
                 "rarity": "Super Rare",
                 "imageSrc": "colt-gunslinger.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Handsome Colt",
                 "rarity": "Super Rare",
                 "imageSrc": "colt-handsome.webp",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "Jade Agent Colt",
                 "rarity": "Epic",
                 "imageSrc": "colt-jade-agent.png",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Light Angel Colt",
                 "rarity": "Epic",
                 "imageSrc": "colt-light-angel.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Mecha Colt",
                 "rarity": "Legendary",
                 "imageSrc": "colt-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Outlaw Colt",
                 "rarity": "Rare",
                 "imageSrc": "colt-outlaw.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Paragon Mecha Colt",
                 "rarity": "Legendary",
                 "imageSrc": "colt-paragon-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Renegade Mecha Colt",
                 "rarity": "Legendary",
                 "imageSrc": "colt-renegade-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "River Plate Colt",
                 "rarity": "Rare",
                 "imageSrc": "colt-river-plate.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Rockstar Colt",
                 "rarity": "Rare",
                 "imageSrc": "colt-rockstar.webp",
-                "themes": []
+                "themes": [
+                    "Vibing"
+                ]
             },
             {
                 "name": "Royal Agent Colt",
                 "rarity": "Epic",
                 "imageSrc": "colt-royal-agent.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Sharktooth Colt",
                 "rarity": "Super Rare",
                 "imageSrc": "colt-sharktooth.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "True Gold Colt",
@@ -608,7 +767,9 @@
                 "name": "Woody Colt",
                 "rarity": "Mythic",
                 "imageSrc": "colt-woody.png",
-                "themes": []
+                "themes": [
+                    "Toy Story"
+                ]
             }
         ]
     },
@@ -629,91 +790,122 @@
                 "name": "El Atómico",
                 "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-atómico.webp",
-                "themes": []
+                "themes": [
+                    "Wasteland"
+                ]
             },
             {
                 "name": "El Baby Shark",
                 "rarity": "Epic",
                 "imageSrc": "el-primo-el-baby-shark.webp",
-                "themes": []
+                "themes": [
+                    "Baby Shark"
+                ]
             },
             {
                 "name": "El Brown",
                 "rarity": "Epic",
                 "imageSrc": "el-primo-el-brown.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "El Corazón",
                 "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-corazón.webp",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "El Dragón Rosado",
                 "rarity": "Epic",
                 "imageSrc": "el-primo-el-dragón-rosado.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "El Dragón Verdoso",
                 "rarity": "Epic",
                 "imageSrc": "el-primo-el-dragón-verdoso.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "El Mayordomo",
                 "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-mayordomo.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "License to Brawl"
+                ]
             },
             {
                 "name": "El Primo Club Nacional",
                 "rarity": "Rare",
                 "imageSrc": "el-primo-el-primo-club-nacional.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "El Primo Corinthians",
                 "rarity": "Rare",
                 "imageSrc": "el-primo-el-primo-corinthians.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "El Primo Universitario",
                 "rarity": "Rare",
                 "imageSrc": "el-primo-el-primo-universitario.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "El Quarterback",
                 "rarity": "Mythic",
                 "imageSrc": "el-primo-el-quarterback.webp",
-                "themes": []
+                "themes": [
+                    "Super Brawl"
+                ]
             },
             {
                 "name": "El Rey Primo",
                 "rarity": "Epic",
                 "imageSrc": "el-primo-el-rey-primo.webp",
-                "themes": []
+                "themes": [
+                    "Royals"
+                ]
             },
             {
                 "name": "El Rudo Primo",
                 "rarity": "Super Rare",
                 "imageSrc": "el-primo-el-rudo-primo.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "El Tigro",
                 "rarity": "Epic",
                 "imageSrc": "el-primo-el-tigro.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "SpongeBob El Primo",
                 "rarity": "Mythic",
                 "imageSrc": "el-primo-spongebob.png",
-                "themes": []
+                "themes": [
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "True Gold El Primo",
@@ -733,7 +925,9 @@
                 "name": "Vamprimo",
                 "rarity": "Rare",
                 "imageSrc": "el-primo-vamprimo.png",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             }
         ]
     },
@@ -756,70 +950,93 @@
                 "rarity": "Super Rare",
                 "imageSrc": "nita-gummybear.webp",
                 "secondaryImageSrc": "nita-gummybear-bruce.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Sugar Rush"
+                ]
             },
             {
                 "name": "Koala Nita",
-                "rarity": "Rare",
+                "rarity": "Super Rare",
                 "imageSrc": "nita-koala.webp",
                 "secondaryImageSrc": "nita-koala-bruce.png",
-                "themes": []
+                "themes": [
+                    "Animal Kingdom"
+                ]
             },
             {
                 "name": "Mechagodzilla Nita",
                 "rarity": "Mythic",
                 "imageSrc": "nita-mechagodzilla.webp",
                 "secondaryImageSrc": "nita-mechagodzilla-bruce.png",
-                "themes": []
+                "themes": [
+                    "Godzilla"
+                ]
             },
             {
                 "name": "Nian Nita",
                 "rarity": "Epic",
                 "imageSrc": "nita-nian.webp",
                 "secondaryImageSrc": "nita-nian-bruce.png",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Panda Nita",
                 "rarity": "Rare",
                 "imageSrc": "nita-panda.webp",
                 "secondaryImageSrc": "nita-panda-bruce.png",
-                "themes": []
+                "themes": [
+                    "Animal Kingdom"
+                ]
             },
             {
                 "name": "Red Nose Nita",
                 "rarity": "Epic",
                 "imageSrc": "nita-red-nose.webp",
                 "secondaryImageSrc": "nita-red-nose-bruce.png",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Reinbear Nita",
                 "rarity": "Epic",
                 "imageSrc": "nita-reinbear.png",
                 "secondaryImageSrc": null,
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Rui Shou Nita",
                 "rarity": "Epic",
                 "imageSrc": "nita-rui-shou.webp",
                 "secondaryImageSrc": "nita-rui-shou-bruce.png",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Runner Nita",
                 "rarity": "Super Rare",
                 "imageSrc": "nita-runner.png",
                 "secondaryImageSrc": "nita-runner-bruce.png",
-                "themes": []
+                "themes": [
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Shiba Nita",
                 "rarity": "Epic",
                 "imageSrc": "nita-shiba.webp",
                 "secondaryImageSrc": "nita-shiba-bruce.png",
-                "themes": []
+                "themes": [
+                    "The Golden Kawaii"
+                ]
             },
             {
                 "name": "True Gold Nita",
@@ -842,14 +1059,19 @@
                 "rarity": "Legendary",
                 "imageSrc": "nita-tusked.webp",
                 "secondaryImageSrc": "nita-tusked-bruce.png",
-                "themes": []
+                "themes": [
+                    "Bizarre Circus"
+                ]
             },
             {
                 "name": "Whale Watch Nita",
                 "rarity": "Super Rare",
                 "imageSrc": "nita-whale-watch.webp",
                 "secondaryImageSrc": "nita-whale-watch-bruce.png",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl",
+                    "Supercell Make"
+                ]
             }
         ]
     },
@@ -870,49 +1092,68 @@
                 "name": "CCTV Poco",
                 "rarity": "Epic",
                 "imageSrc": "poco-cctv.webp",
-                "themes": []
+                "themes": [
+                    "Starr Park Origins"
+                ]
             },
             {
                 "name": "Desperado Poco",
                 "rarity": "Epic",
                 "imageSrc": "poco-desperado.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "The Calamity Gang"
+                ]
             },
             {
                 "name": "Pirate Poco",
                 "rarity": "Super Rare",
                 "imageSrc": "poco-pirate.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "Poco Starr",
                 "rarity": "Super Rare",
                 "imageSrc": "poco-poco-starr.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Gift Shop"
+                ]
             },
             {
                 "name": "Possessed Poco",
                 "rarity": "Mythic",
                 "imageSrc": "poco-possessed.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Quit Playing Poco",
                 "rarity": "Epic",
                 "imageSrc": "poco-quit-playing.png",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "The Good Randoms"
+                ]
             },
             {
                 "name": "Serenade Poco",
                 "rarity": "Epic",
                 "imageSrc": "poco-serenade.webp",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "Trash Poco",
                 "rarity": "Epic",
                 "imageSrc": "poco-trash.webp",
-                "themes": []
+                "themes": [
+                    "The Bad Randoms"
+                ]
             },
             {
                 "name": "True Gold Poco",
@@ -947,37 +1188,51 @@
                 "name": "Brawl-o-ween Rosa",
                 "rarity": "Super Rare",
                 "imageSrc": "rosa-brawl-o-ween.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Cheerleader Rosa",
                 "rarity": "Epic",
                 "imageSrc": "rosa-cheerleader.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Academy"
+                ]
             },
             {
                 "name": "Coco Rosa",
                 "rarity": "Epic",
                 "imageSrc": "rosa-coco.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Major Rosa",
                 "rarity": "Epic",
                 "imageSrc": "rosa-major.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Mantis Rosa",
                 "rarity": "Epic",
                 "imageSrc": "rosa-mantis.webp",
-                "themes": []
+                "themes": [
+                    "Biodome"
+                ]
             },
             {
                 "name": "Sugarplum Rosa",
                 "rarity": "Epic",
                 "imageSrc": "rosa-sugarplum.png",
-                "themes": []
+                "themes": [
+                    "Cartoon Studios",
+                    "Ranked"
+                ]
             },
             {
                 "name": "True Gold Rosa",
@@ -1014,35 +1269,47 @@
                 "rarity": "Rare",
                 "imageSrc": "8-bit-classic.webp",
                 "secondaryImageSrc": "8-bit-classic-damage-booster.png",
-                "themes": []
+                "themes": [
+                    "Gaming"
+                ]
             },
             {
                 "name": "Antivirus 8-Bit",
                 "rarity": "Legendary",
                 "imageSrc": "8-bit-antivirus.webp",
                 "secondaryImageSrc": "8-bit-antivirus-damage-booster.png",
-                "themes": []
+                "themes": [
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Haunted House 8-Bit",
                 "rarity": "Epic",
                 "imageSrc": "8-bit-haunted-house.webp",
                 "secondaryImageSrc": "8-bit-haunted-house-damage-booster.png",
-                "themes": []
+                "themes": [
+                    "Enchanted Woods"
+                ]
             },
             {
                 "name": "Piano 8-Bit",
                 "rarity": "Epic",
                 "imageSrc": "8-bit-piano.webp",
                 "secondaryImageSrc": "8-bit-piano-damage-booster.png",
-                "themes": []
+                "themes": [
+                    "Outlaws",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Saloon 8-Bit",
                 "rarity": "Epic",
                 "imageSrc": "8-bit-saloon.webp",
                 "secondaryImageSrc": "8-bit-saloon-damage-booster.png",
-                "themes": []
+                "themes": [
+                    "Outlaws",
+                    "Ranked"
+                ]
             },
             {
                 "name": "True Gold 8-Bit",
@@ -1065,14 +1332,18 @@
                 "rarity": "Super Rare",
                 "imageSrc": "8-bit-v8-bit.webp",
                 "secondaryImageSrc": "8-bit-v8-bit-damage-booster.png",
-                "themes": []
+                "themes": [
+                    "Retropolis Nights"
+                ]
             },
             {
                 "name": "Virus 8-Bit",
                 "rarity": "Legendary",
                 "imageSrc": "8-bit-virus.png",
                 "secondaryImageSrc": "8-bit-virus-damage-booster.png",
-                "themes": []
+                "themes": [
+                    "CyberBrawl"
+                ]
             }
         ]
     },
@@ -1093,55 +1364,75 @@
                 "name": "Biker Carl",
                 "rarity": "Epic",
                 "imageSrc": "carl-biker.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Stunt Show"
+                ]
             },
             {
                 "name": "Captain Carl",
                 "rarity": "Epic",
                 "imageSrc": "carl-captain.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "Dark Tide Carl",
                 "rarity": "Epic",
                 "imageSrc": "carl-dark-tide.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "Goblin Carl",
                 "rarity": "Rare",
                 "imageSrc": "carl-goblin.webp",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             },
             {
                 "name": "Hog Rider Carl",
                 "rarity": "Super Rare",
                 "imageSrc": "carl-hog-rider.webp",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             },
             {
                 "name": "Leonard Carl",
                 "rarity": "Super Rare",
                 "imageSrc": "carl-leonard.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "Road Rage Carl",
                 "rarity": "Super Rare",
                 "imageSrc": "carl-road-rage.webp",
-                "themes": []
+                "themes": [
+                    "Retropolis Nights"
+                ]
             },
             {
                 "name": "Sultan Carl",
                 "rarity": "Epic",
                 "imageSrc": "carl-sultan.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Surfer Carl",
                 "rarity": "Epic",
                 "imageSrc": "carl-surfer.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "True Gold Carl",
@@ -1176,55 +1467,75 @@
                 "name": "Crash Test Darryl",
                 "rarity": "Epic",
                 "imageSrc": "darryl-crash-test.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Stunt Show"
+                ]
             },
             {
                 "name": "Cupcake Darryl",
                 "rarity": "Epic",
                 "imageSrc": "darryl-cupcake.webp",
-                "themes": []
+                "themes": [
+                    "Sugar Rush"
+                ]
             },
             {
                 "name": "D4R-RY1",
                 "rarity": "Super Rare",
                 "imageSrc": "darryl-d4r-ry1.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Dumpling Darryl",
                 "rarity": "Super Rare",
                 "imageSrc": "darryl-dumpling.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Mascot Darryl",
                 "rarity": "Super Rare",
                 "imageSrc": "darryl-mascot.webp",
-                "themes": []
+                "themes": [
+                    "Golden Brawl Ball"
+                ]
             },
             {
                 "name": "Mega Box Darryl",
                 "rarity": "Epic",
                 "imageSrc": "darryl-mega-box.webp",
-                "themes": []
+                "themes": [
+                    "The Mega"
+                ]
             },
             {
                 "name": "Omega Box Darryl",
                 "rarity": "Epic",
                 "imageSrc": "darryl-omega-box.webp",
-                "themes": []
+                "themes": [
+                    "The Omega"
+                ]
             },
             {
                 "name": "Plankton Darryl",
                 "rarity": "Epic",
                 "imageSrc": "darryl-plankton.png",
-                "themes": []
+                "themes": [
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "Pop-Up Darryl",
                 "rarity": "Rare",
                 "imageSrc": "darryl-pop-up.png",
-                "themes": []
+                "themes": [
+                    "Come Play With Us!"
+                ]
             },
             {
                 "name": "True Gold Darryl",
@@ -1259,103 +1570,139 @@
                 "name": "Bellhop Mike",
                 "rarity": "Super Rare",
                 "imageSrc": "dynamike-bellhop.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Boomer Dynamike",
                 "rarity": "Super Rare",
                 "imageSrc": "dynamike-boomer.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Chivas Mike",
                 "rarity": "Rare",
                 "imageSrc": "dynamike-chivas.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Classic Dynamike",
                 "rarity": "Epic",
                 "imageSrc": "dynamike-classic.webp",
-                "themes": []
+                "themes": [
+                    "Anniversary"
+                ]
             },
             {
                 "name": "Coach Mike",
                 "rarity": "Epic",
                 "imageSrc": "dynamike-coach.webp",
-                "themes": []
+                "themes": [
+                    "Golden Brawl Ball"
+                ]
             },
             {
                 "name": "Decaying Dynamike",
                 "rarity": "Super Rare",
                 "imageSrc": "dynamike-decaying.png",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Dynasty Mike",
                 "rarity": "Epic",
                 "imageSrc": "dynamike-dynasty.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Flamengo Mike",
                 "rarity": "Rare",
                 "imageSrc": "dynamike-flamengo.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "LDU Quito Mike",
                 "rarity": "Rare",
                 "imageSrc": "dynamike-ldu-quito.webp",
-                "themes": []
+                "themes": [
+                    "Latin America Master League"
+                ]
             },
             {
                 "name": "Moldy Mike",
                 "rarity": "Mythic",
                 "imageSrc": "dynamike-moldy.webp",
-                "themes": []
+                "themes": [
+                    "Wasteland"
+                ]
             },
             {
                 "name": "PSG Mike",
                 "rarity": "Epic",
                 "imageSrc": "dynamike-psg.webp",
-                "themes": []
+                "themes": [
+                    "PSG"
+                ]
             },
             {
                 "name": "Robo Mike",
                 "rarity": "Legendary",
                 "imageSrc": "dynamike-robo.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Romantic Dynamike",
                 "rarity": "Super Rare",
                 "imageSrc": "dynamike-romantic.png",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "Santa Mike",
                 "rarity": "Super Rare",
                 "imageSrc": "dynamike-santa.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Spicy Mike",
                 "rarity": "Epic",
                 "imageSrc": "dynamike-spicy.webp",
-                "themes": []
+                "themes": [
+                    "Starry Meal"
+                ]
             },
             {
                 "name": "Sugar Bomb Mike",
                 "rarity": "Super Rare",
                 "imageSrc": "dynamike-sugar-bomb.png",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Tengu Mike",
                 "rarity": "Epic",
                 "imageSrc": "dynamike-tengu.webp",
-                "themes": []
+                "themes": [
+                    "The Ayakashi Clan"
+                ]
             },
             {
                 "name": "True Gold Dynamike",
@@ -1390,19 +1737,25 @@
                 "name": "Balloon Sally Gus",
                 "rarity": "Super Rare",
                 "imageSrc": "gus-balloon-sally.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "Boy Scout Gus",
                 "rarity": "Rare",
                 "imageSrc": "gus-boy-scout.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "Gruesome Gus",
                 "rarity": "Super Rare",
                 "imageSrc": "gus-gruesome.png",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "True Gold Gus",
@@ -1422,7 +1775,9 @@
                 "name": "World Champion Gus",
                 "rarity": "Epic",
                 "imageSrc": "gus-world-champion.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             }
         ]
     },
@@ -1443,31 +1798,42 @@
                 "name": "Constructor Jacky",
                 "rarity": "Rare",
                 "imageSrc": "jacky-constructor.webp",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "Cuttlefish Jacky",
                 "rarity": "Super Rare",
                 "imageSrc": "jacky-cuttlefish.webp",
-                "themes": []
+                "themes": [
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "Gift Express Jacky",
                 "rarity": "Super Rare",
                 "imageSrc": "jacky-gift-express.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Jacky Cooky",
                 "rarity": "Epic",
                 "imageSrc": "jacky-jacky-cooky.webp",
-                "themes": []
+                "themes": [
+                    "BT21"
+                ]
             },
             {
                 "name": "Jet Ski Jacky",
                 "rarity": "Epic",
                 "imageSrc": "jacky-jet-ski.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "True Gold Jacky",
@@ -1487,13 +1853,18 @@
                 "name": "Ultra Driller Jacky",
                 "rarity": "Epic",
                 "imageSrc": "jacky-ultra-driller.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Wave Hopper Jacky",
                 "rarity": "Epic",
                 "imageSrc": "jacky-wave-hopper.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Summer of Brawl"
+                ]
             }
         ]
     },
@@ -1516,70 +1887,90 @@
                 "rarity": "Epic",
                 "imageSrc": "jessie-cat-burglar.webp",
                 "secondaryImageSrc": "jessie-cat-burglar-scrappy.png",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             },
             {
                 "name": "Doll Jessie",
                 "rarity": "Rare",
                 "imageSrc": "jessie-doll.webp",
                 "secondaryImageSrc": "jessie-doll-scrappy.png",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "Dragon Knight Jessie",
                 "rarity": "Epic",
                 "imageSrc": "jessie-dragon-knight.webp",
                 "secondaryImageSrc": "jessie-dragon-knight-scrappy.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Jessie Jessie",
                 "rarity": "Super Rare",
                 "imageSrc": "jessie-jessie.png",
                 "secondaryImageSrc": "jessie-jessie-scrappy.png",
-                "themes": []
+                "themes": [
+                    "Toy Story"
+                ]
             },
             {
                 "name": "Red Dragon Jessie",
                 "rarity": "Super Rare",
                 "imageSrc": "jessie-red-dragon.webp",
                 "secondaryImageSrc": "jessie-red-dragon-scrappy.png",
-                "themes": []
+                "themes": [
+                    "The Red"
+                ]
             },
             {
                 "name": "Sandy Jessie",
                 "rarity": "Super Rare",
                 "imageSrc": "jessie-sandy.png",
                 "secondaryImageSrc": "jessie-sandy-scrappy.png",
-                "themes": []
+                "themes": [
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "Shadow Knight Jessie",
                 "rarity": "Epic",
                 "imageSrc": "jessie-shadow-knight.webp",
                 "secondaryImageSrc": "jessie-shadow-knight-scrappy.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Skadi Jessie",
                 "rarity": "Mythic",
                 "imageSrc": "jessie-skadi.webp",
                 "secondaryImageSrc": "jessie-skadi-scrappy.png",
-                "themes": []
+                "themes": [
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "Summer Jessie",
                 "rarity": "Super Rare",
                 "imageSrc": "jessie-summer.webp",
                 "secondaryImageSrc": "jessie-summer-scrappy.png",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Tanuki Jessie",
                 "rarity": "Epic",
                 "imageSrc": "jessie-tanuki.webp",
                 "secondaryImageSrc": "jessie-tanuki-scrappy.png",
-                "themes": []
+                "themes": [
+                    "The Golden Kawaii"
+                ]
             },
             {
                 "name": "True Gold Jessie",
@@ -1618,56 +2009,75 @@
                 "rarity": "Super Rare",
                 "imageSrc": "penny-bunny.webp",
                 "secondaryImageSrc": "penny-bunny-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "Bunny Brigade"
+                ]
             },
             {
                 "name": "Dark Bunny Penny",
                 "rarity": "Super Rare",
                 "imageSrc": "penny-dark-bunny.webp",
                 "secondaryImageSrc": "penny-dark-bunny-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "Bunny Brigade"
+                ]
             },
             {
                 "name": "Lil Helper Penny",
                 "rarity": "Super Rare",
                 "imageSrc": "penny-lil-helper.webp",
                 "secondaryImageSrc": "penny-lil-helper-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Moon-Curser Penny",
                 "rarity": "Epic",
                 "imageSrc": "penny-moon-curser.webp",
                 "secondaryImageSrc": "penny-moon-curser-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "The Worst Bunch"
+                ]
             },
             {
                 "name": "Pop Penny",
                 "rarity": "Mythic",
                 "imageSrc": "penny-pop.png",
                 "secondaryImageSrc": "penny-pop-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "Come Play With Us!"
+                ]
             },
             {
                 "name": "Robo Penny",
                 "rarity": "Rare",
                 "imageSrc": "penny-robo.png",
                 "secondaryImageSrc": "penny-robo-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Smuggler Penny",
                 "rarity": "Epic",
                 "imageSrc": "penny-smuggler.webp",
                 "secondaryImageSrc": "penny-smuggler-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "The Worst Bunch"
+                ]
             },
             {
                 "name": "Trash Panda Penny",
                 "rarity": "Epic",
                 "imageSrc": "penny-trash-panda.webp",
                 "secondaryImageSrc": "penny-trash-panda-old-lobber.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "True Gold Penny",
@@ -1704,73 +2114,99 @@
                 "name": "Chicken Rico",
                 "rarity": "Epic",
                 "imageSrc": "rico-chicken.webp",
-                "themes": []
+                "themes": [
+                    "Animal Kingdom"
+                ]
             },
             {
                 "name": "Final Boss Rico",
                 "rarity": "Epic",
                 "imageSrc": "rico-final-boss.webp",
-                "themes": []
+                "themes": [
+                    "Cartoon Studios",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Firefly Rico",
                 "rarity": "Super Rare",
                 "imageSrc": "rico-firefly.webp",
-                "themes": []
+                "themes": [
+                    "Biodome",
+                    "Brawl Pass"
+                ]
             },
             {
                 "name": "Guard Rico",
                 "rarity": "Epic",
                 "imageSrc": "rico-guard.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Loaded Rico",
                 "rarity": "Epic",
                 "imageSrc": "rico-loaded.webp",
-                "themes": []
+                "themes": [
+                    "Royals"
+                ]
             },
             {
                 "name": "Popcorn Rico",
                 "rarity": "Epic",
                 "imageSrc": "rico-popcorn.webp",
-                "themes": []
+                "themes": [
+                    "Starrs of Brawlywood"
+                ]
             },
             {
                 "name": "Redjacket Rico",
                 "rarity": "Rare",
                 "imageSrc": "rico-redjacket.webp",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "Reloaded Ricochet",
                 "rarity": "Super Rare",
                 "imageSrc": "rico-reloaded-ricochet.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Ricochet",
                 "rarity": "Super Rare",
                 "imageSrc": "rico-ricochet.webp",
-                "themes": []
+                "themes": [
+                    "Anniversary"
+                ]
             },
             {
                 "name": "Sovereign Bling Rico",
                 "rarity": "Hypercharge",
                 "imageSrc": "rico-sovereign-bling.webp",
-                "themes": []
+                "themes": [
+                    "Royals"
+                ]
             },
             {
                 "name": "Sovereign Gem Rico",
                 "rarity": "Hypercharge",
                 "imageSrc": "rico-sovereign-gem.webp",
-                "themes": []
+                "themes": [
+                    "Royals"
+                ]
             },
             {
                 "name": "Sovereign Rico",
                 "rarity": "Hypercharge",
                 "imageSrc": "rico-sovereign.webp",
-                "themes": []
+                "themes": [
+                    "Royals"
+                ]
             },
             {
                 "name": "True Gold Rico",
@@ -1805,49 +2241,68 @@
                 "name": "Cerberus Tick",
                 "rarity": "Mythic",
                 "imageSrc": "tick-cerberus.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "King Crab Tick",
                 "rarity": "Super Rare",
                 "imageSrc": "tick-king-crab.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Mecha-Tick Ghidorah",
                 "rarity": "Epic",
                 "imageSrc": "tick-mecha-tick-ghidorah.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Godzilla"
+                ]
             },
             {
                 "name": "Mecha-Tick Ghidorah Dark",
                 "rarity": "Epic",
                 "imageSrc": "tick-mecha-tick-ghidorah-dark.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Godzilla"
+                ]
             },
             {
                 "name": "Mecha-Tick Ghidorah Light",
                 "rarity": "Epic",
                 "imageSrc": "tick-mecha-tick-ghidorah-light.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Godzilla"
+                ]
             },
             {
                 "name": "Mr. Krabs Tick",
                 "rarity": "Super Rare",
                 "imageSrc": "tick-mr-krabs.png",
-                "themes": []
+                "themes": [
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "Snowman Tick",
                 "rarity": "Super Rare",
                 "imageSrc": "tick-snowman.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Tick Shooky",
                 "rarity": "Epic",
                 "imageSrc": "tick-tick-shooky.webp",
-                "themes": []
+                "themes": [
+                    "BT21"
+                ]
             },
             {
                 "name": "True Gold Tick",
@@ -1882,13 +2337,17 @@
                 "name": "Dionysus Angelo",
                 "rarity": "Super Rare",
                 "imageSrc": "angelo-dionysus.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Elf Angelo",
                 "rarity": "Rare",
                 "imageSrc": "angelo-elf.webp",
-                "themes": []
+                "themes": [
+                    "Enchanted Woods"
+                ]
             },
             {
                 "name": "True Gold Angelo",
@@ -1924,31 +2383,43 @@
                 "name": "Ash Boy",
                 "rarity": "Super Rare",
                 "imageSrc": "ash-boy.png",
-                "themes": []
+                "themes": [
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Krampus Ash",
                 "rarity": "Super Rare",
                 "imageSrc": "ash-krampus.webp",
-                "themes": []
+                "themes": [
+                    "Dark Winter Tales"
+                ]
             },
             {
                 "name": "Ninja Ash",
                 "rarity": "Epic",
                 "imageSrc": "ash-ninja.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "The Ayakashi Clan"
+                ]
             },
             {
                 "name": "Piñata Ash",
                 "rarity": "Epic",
                 "imageSrc": "ash-piñata.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Sugar Rush"
+                ]
             },
             {
                 "name": "Pizza Oven Ash",
                 "rarity": "Epic",
                 "imageSrc": "ash-pizza-oven.webp",
-                "themes": []
+                "themes": [
+                    "Starry Meal"
+                ]
             },
             {
                 "name": "True Gold Ash",
@@ -1983,37 +2454,51 @@
                 "name": "Archvillain Bea",
                 "rarity": "Super Rare",
                 "imageSrc": "bea-archvillain.webp",
-                "themes": []
+                "themes": [
+                    "Cartoon Studios",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Bea Byte",
                 "rarity": "Super Rare",
                 "imageSrc": "bea-bea-byte.webp",
-                "themes": []
+                "themes": [
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Gold Neko Bea",
                 "rarity": "Epic",
                 "imageSrc": "bea-gold-neko.webp",
-                "themes": []
+                "themes": [
+                    "The Golden Kawaii"
+                ]
             },
             {
                 "name": "Ladybug Bea",
                 "rarity": "Rare",
                 "imageSrc": "bea-ladybug.webp",
-                "themes": []
+                "themes": [
+                    "Animal Kingdom"
+                ]
             },
             {
                 "name": "Mega Beetle Bea",
                 "rarity": "Epic",
                 "imageSrc": "bea-mega-beetle.webp",
-                "themes": []
+                "themes": [
+                    "Biodome",
+                    "Max Force"
+                ]
             },
             {
                 "name": "Neko Bea",
                 "rarity": "Super Rare",
                 "imageSrc": "bea-neko.webp",
-                "themes": []
+                "themes": [
+                    "The Golden Kawaii"
+                ]
             },
             {
                 "name": "True Gold Bea",
@@ -2048,25 +2533,36 @@
                 "name": "Belle Goldhand",
                 "rarity": "Epic",
                 "imageSrc": "belle-belle-goldhand.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Coral Belle",
                 "rarity": "Epic",
                 "imageSrc": "belle-coral.webp",
-                "themes": []
+                "themes": [
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "Dragoon Belle",
                 "rarity": "Epic",
                 "imageSrc": "belle-dragoon.png",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Supercell Make",
+                    "The Worst Bunch"
+                ]
             },
             {
                 "name": "Ivy Belle",
                 "rarity": "Super Rare",
                 "imageSrc": "belle-ivy.webp",
-                "themes": []
+                "themes": [
+                    "Biodome"
+                ]
             },
             {
                 "name": "True Gold Belle",
@@ -2101,13 +2597,17 @@
                 "name": "Dark Horse Berry",
                 "rarity": "Rare",
                 "imageSrc": "berry-dark-horse.png",
-                "themes": []
+                "themes": [
+                    "Starrs of Brawlywood"
+                ]
             },
             {
-                "name": "Starr Horse Berry",
+                "name": "StarrHorse Berry",
                 "rarity": "Epic",
-                "imageSrc": "berry-starr-horse.png",
-                "themes": []
+                "imageSrc": "berry-starrhorse.png",
+                "themes": [
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "True Gold Berry",
@@ -2139,58 +2639,68 @@
                 "themes": []
             },
             {
-                "name": "Bibi Gamer",
-                "rarity": "Mythic",
-                "imageSrc": "bibi-gamer.webp",
-                "themes": []
-            },
-            {
                 "name": "Bibi RJ",
                 "rarity": "Epic",
                 "imageSrc": "bibi-bibi-rj.webp",
-                "themes": []
-            },
-            {
-                "name": "Bibi Vicious",
-                "rarity": "Super Rare",
-                "imageSrc": "bibi-vicious.webp",
-                "themes": []
+                "themes": [
+                    "BT21"
+                ]
             },
             {
                 "name": "Bibilante",
                 "rarity": "Super Rare",
                 "imageSrc": "bibi-bibilante.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Bo Peep Bibi",
                 "rarity": "Epic",
                 "imageSrc": "bibi-bo-peep.png",
-                "themes": []
+                "themes": [
+                    "Toy Story"
+                ]
             },
             {
                 "name": "Bubblegum Bibi",
                 "rarity": "Rare",
                 "imageSrc": "bibi-bubblegum.webp",
-                "themes": []
+                "themes": [
+                    "Sugar Rush"
+                ]
             },
             {
                 "name": "Cursed Pirate Bibi",
                 "rarity": "Epic",
                 "imageSrc": "bibi-cursed-pirate.webp",
-                "themes": []
+                "themes": [
+                    "Cursed Pirates"
+                ]
+            },
+            {
+                "name": "Gamer Bibi",
+                "rarity": "Mythic",
+                "imageSrc": "bibi-gamer.webp",
+                "themes": [
+                    "Gaming"
+                ]
             },
             {
                 "name": "Heroine Bibi",
                 "rarity": "Epic",
                 "imageSrc": "bibi-heroine.png",
-                "themes": []
+                "themes": [
+                    "Gaming"
+                ]
             },
             {
                 "name": "Thor Bibi",
                 "rarity": "Legendary",
                 "imageSrc": "bibi-thor.webp",
-                "themes": []
+                "themes": [
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "True Gold Bibi",
@@ -2207,10 +2717,21 @@
                 ]
             },
             {
+                "name": "Vicious Bibi",
+                "rarity": "Super Rare",
+                "imageSrc": "bibi-vicious.webp",
+                "themes": [
+                    "The Bad Randoms"
+                ]
+            },
+            {
                 "name": "ZomBibi",
                 "rarity": "Super Rare",
                 "imageSrc": "bibi-zombibi.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween",
+                    "Supercell Make"
+                ]
             }
         ]
     },
@@ -2231,49 +2752,66 @@
                 "name": "Brother Bo",
                 "rarity": "Mythic",
                 "imageSrc": "bo-brother.webp",
-                "themes": []
+                "themes": [
+                    "Warrior's Journey"
+                ]
             },
             {
                 "name": "Cupid Bo",
                 "rarity": "Super Rare",
                 "imageSrc": "bo-cupid.png",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "Gold Mecha Bo",
                 "rarity": "Legendary",
                 "imageSrc": "bo-gold-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Ho Ho Ho Bo",
                 "rarity": "Super Rare",
                 "imageSrc": "bo-ho-ho-ho.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Horus Bo",
                 "rarity": "Epic",
                 "imageSrc": "bo-horus.webp",
-                "themes": []
+                "themes": [
+                    "Dark Sands",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Light Mecha Bo",
                 "rarity": "Legendary",
                 "imageSrc": "bo-light-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Mecha Bo",
                 "rarity": "Legendary",
                 "imageSrc": "bo-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Supreme Bo",
                 "rarity": "Mythic",
                 "imageSrc": "bo-supreme.webp",
-                "themes": []
+                "themes": [
+                    "Warrior's Journey"
+                ]
             },
             {
                 "name": "True Gold Bo",
@@ -2293,19 +2831,27 @@
                 "name": "Underworld Bo",
                 "rarity": "Epic",
                 "imageSrc": "bo-underworld.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Warrior Bo",
                 "rarity": "Rare",
                 "imageSrc": "bo-warrior.webp",
-                "themes": []
+                "themes": [
+                    "Rumble Jungle Heroes"
+                ]
             },
             {
                 "name": "Wasp Bo",
                 "rarity": "Epic",
                 "imageSrc": "bo-wasp.webp",
-                "themes": []
+                "themes": [
+                    "Biodome",
+                    "Ranked"
+                ]
             }
         ]
     },
@@ -2328,28 +2874,36 @@
                 "rarity": "Epic",
                 "imageSrc": "bonnie-empress.webp",
                 "secondaryImageSrc": "bonnie-empress-no-clyde.png",
-                "themes": []
+                "themes": [
+                    "The Worst Bunch"
+                ]
             },
             {
                 "name": "FootBonnie",
                 "rarity": "Rare",
                 "imageSrc": "bonnie-footbonnie.webp",
                 "secondaryImageSrc": "bonnie-footbonnie-no-clyde.png",
-                "themes": []
+                "themes": [
+                    "Golden Brawl Ball"
+                ]
             },
             {
                 "name": "Reindeer Bonnie",
                 "rarity": "Epic",
                 "imageSrc": "bonnie-reindeer.png",
                 "secondaryImageSrc": "bonnie-reindeer-no-clyde.png",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Tentacle Bonnie",
                 "rarity": "Super Rare",
                 "imageSrc": "bonnie-tentacle.webp",
                 "secondaryImageSrc": "bonnie-tentacle-no-clyde.png",
-                "themes": []
+                "themes": [
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "True Gold Bonnie",
@@ -2372,7 +2926,9 @@
                 "rarity": "Rare",
                 "imageSrc": "bonnie-unicorn.webp",
                 "secondaryImageSrc": "bonnie-unicorn-no-clyde.png",
-                "themes": []
+                "themes": [
+                    "Sugar Rush"
+                ]
             }
         ]
     },
@@ -2393,61 +2949,87 @@
                 "name": "Cuckoo Colette",
                 "rarity": "Rare",
                 "imageSrc": "colette-cuckoo.png",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Fangirl Cony",
                 "rarity": "Super Rare",
                 "imageSrc": "colette-fangirl-cony.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "Gladiator Colette",
                 "rarity": "Epic",
                 "imageSrc": "colette-gladiator.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Impie Colette",
                 "rarity": "Epic",
                 "imageSrc": "colette-impie.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Inspector Colette",
                 "rarity": "Epic",
                 "imageSrc": "colette-inspector.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Kiiro Pawlette",
                 "rarity": "Epic",
                 "imageSrc": "colette-kiiro-pawlette.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Midori Pawlette",
                 "rarity": "Epic",
                 "imageSrc": "colette-midori-pawlette.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Navigator Colette",
                 "rarity": "Super Rare",
                 "imageSrc": "colette-navigator.webp",
-                "themes": []
+                "themes": [
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Pinku Pawlette",
                 "rarity": "Epic",
                 "imageSrc": "colette-pinku-pawlette.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Trixie Colette",
                 "rarity": "Epic",
                 "imageSrc": "colette-trixie.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "True Gold Colette",
@@ -2482,76 +3064,100 @@
                 "name": "Blackbird Edgar",
                 "rarity": "Rare",
                 "imageSrc": "edgar-blackbird.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Dark Angel Edgar",
                 "rarity": "Hypercharge",
                 "imageSrc": "edgar-dark-angel.webp",
                 "secondaryImageSrc": "edgar-dark-angel-hypercharged.png",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Doctor Edgar",
                 "rarity": "Epic",
                 "imageSrc": "edgar-doctor.webp",
-                "themes": []
+                "themes": [
+                    "Biodome"
+                ]
             },
             {
                 "name": "Edgar Tata",
                 "rarity": "Epic",
                 "imageSrc": "edgar-edgar-tata.webp",
-                "themes": []
+                "themes": [
+                    "BT21"
+                ]
             },
             {
                 "name": "Lightbearer Edgar",
                 "rarity": "Hypercharge",
                 "imageSrc": "edgar-lightbearer.webp",
                 "secondaryImageSrc": "edgar-lightbearer-hypercharged.png",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Mecha Edgar",
                 "rarity": "Legendary",
                 "imageSrc": "edgar-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Mecha Edgar Unit-00",
                 "rarity": "Legendary",
                 "imageSrc": "edgar-mecha-unit-00.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Mecha Edgar Unit-01",
                 "rarity": "Legendary",
                 "imageSrc": "edgar-mecha-unit-01.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Nightbringer Edgar",
                 "rarity": "Hypercharge",
                 "imageSrc": "edgar-nightbringer.webp",
                 "secondaryImageSrc": "edgar-nightbringer-hypercharged.png",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Orochi Edgar",
                 "rarity": "Epic",
                 "imageSrc": "edgar-orochi.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Quickdraw Edgar",
                 "rarity": "Super Rare",
                 "imageSrc": "edgar-quickdraw.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Thief Edgar",
                 "rarity": "Mythic",
                 "imageSrc": "edgar-thief.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "True Gold Edgar",
@@ -2586,49 +3192,69 @@
                 "name": "Demon Emz",
                 "rarity": "Epic",
                 "imageSrc": "emz-demon.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "DJ 3.M.Z",
                 "rarity": "Epic",
                 "imageSrc": "emz-dj-3mz.webp",
-                "themes": []
+                "themes": [
+                    "Supercell Make",
+                    "Vibing"
+                ]
             },
             {
                 "name": "Harajuku Emz",
                 "rarity": "Super Rare",
                 "imageSrc": "emz-harajuku.webp",
-                "themes": []
+                "themes": [
+                    "The Golden Kawaii"
+                ]
             },
             {
                 "name": "Mean Girl Emz",
                 "rarity": "Rare",
                 "imageSrc": "emz-mean-girl.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Academy"
+                ]
             },
             {
                 "name": "Medusa Emz",
                 "rarity": "Epic",
                 "imageSrc": "emz-medusa.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Ruby Medusa Emz",
                 "rarity": "Epic",
                 "imageSrc": "emz-ruby-medusa.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Sapphire Medusa Emz",
                 "rarity": "Epic",
                 "imageSrc": "emz-sapphire-medusa.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Super Fan Emz",
                 "rarity": "Epic",
                 "imageSrc": "emz-super-fan.webp",
-                "themes": []
+                "themes": [
+                    "Gift Shop"
+                ]
             },
             {
                 "name": "True Gold Emz",
@@ -2663,49 +3289,66 @@
                 "name": "Blue King Frank",
                 "rarity": "Legendary",
                 "imageSrc": "frank-blue-king.png",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             },
             {
                 "name": "Caveman Frank",
                 "rarity": "Super Rare",
                 "imageSrc": "frank-caveman.webp",
-                "themes": []
+                "themes": [
+                    "Skull Cave Clan"
+                ]
             },
             {
                 "name": "DJ Frank",
                 "rarity": "Super Rare",
                 "imageSrc": "frank-dj.webp",
-                "themes": []
+                "themes": [
+                    "Vibing"
+                ]
             },
             {
                 "name": "Holiday Party Frank",
                 "rarity": "Epic",
                 "imageSrc": "frank-holiday-party.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Parasol Frank",
                 "rarity": "Rare",
                 "imageSrc": "frank-parasol.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Prehistoric Frank",
                 "rarity": "Super Rare",
                 "imageSrc": "frank-prehistoric.webp",
-                "themes": []
+                "themes": [
+                    "Skull Cave Clan"
+                ]
             },
             {
                 "name": "Red King Frank",
                 "rarity": "Legendary",
                 "imageSrc": "frank-red-king.png",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             },
             {
                 "name": "Spirit Knight Frank",
                 "rarity": "Epic",
                 "imageSrc": "frank-spirit-knight.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "True Gold Frank",
@@ -2725,7 +3368,9 @@
                 "name": "Vanara Frank",
                 "rarity": "Mythic",
                 "imageSrc": "frank-vanara.webp",
-                "themes": []
+                "themes": [
+                    "Warrior's Journey"
+                ]
             }
         ]
     },
@@ -2746,31 +3391,44 @@
                 "name": "Galactic Gale",
                 "rarity": "Rare",
                 "imageSrc": "gale-galactic.png",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "Merchant Gale",
                 "rarity": "Epic",
                 "imageSrc": "gale-merchant.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Nutcracker Gale",
                 "rarity": "Epic",
                 "imageSrc": "gale-nutcracker.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Shell Blaster Gale",
                 "rarity": "Epic",
                 "imageSrc": "gale-shell-blaster.webp",
-                "themes": []
+                "themes": [
+                    "Deep Sea League",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Squeakbuster Gale",
                 "rarity": "Epic",
                 "imageSrc": "gale-squeakbuster.webp",
-                "themes": []
+                "themes": [
+                    "Starrs of Brawlywood"
+                ]
             },
             {
                 "name": "True Gold Gale",
@@ -2805,19 +3463,25 @@
                 "name": "High Score Griff",
                 "rarity": "Super Rare",
                 "imageSrc": "griff-high-score.webp",
-                "themes": []
+                "themes": [
+                    "Gaming"
+                ]
             },
             {
                 "name": "Sleigher Griff",
                 "rarity": "Epic",
                 "imageSrc": "griff-sleigher.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Sunken Chest Griff",
                 "rarity": "Epic",
                 "imageSrc": "griff-sunken-chest.webp",
-                "themes": []
+                "themes": [
+                    "Cursed Pirates"
+                ]
             },
             {
                 "name": "True Gold Griff",
@@ -2852,19 +3516,25 @@
                 "name": "Bunny Grom",
                 "rarity": "Super Rare",
                 "imageSrc": "grom-bunny.webp",
-                "themes": []
+                "themes": [
+                    "Bunny Brigade"
+                ]
             },
             {
                 "name": "Dasis Grom",
                 "rarity": "Mythic",
                 "imageSrc": "grom-dasis.webp",
-                "themes": []
+                "themes": [
+                    "Warrior's Journey"
+                ]
             },
             {
                 "name": "FrankenGrom",
                 "rarity": "Epic",
                 "imageSrc": "grom-frankengrom.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "True Gold Grom",
@@ -2899,19 +3569,25 @@
                 "name": "Moon Guardian Hank",
                 "rarity": "Super Rare",
                 "imageSrc": "hank-moon-guardian.png",
-                "themes": []
+                "themes": [
+                    "Lunar Stories"
+                ]
             },
             {
                 "name": "Rodeo Hank",
                 "rarity": "Mythic",
                 "imageSrc": "hank-rodeo.webp",
-                "themes": []
+                "themes": [
+                    "Wasteland"
+                ]
             },
             {
                 "name": "Shark Tank Hank",
                 "rarity": "Rare",
                 "imageSrc": "hank-shark-tank.webp",
-                "themes": []
+                "themes": [
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "True Gold Hank",
@@ -2948,35 +3624,49 @@
                 "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-angel.webp",
                 "secondaryImageSrc": "larry-&-lawrie-angel-lawrie.png",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons",
+                    "Brawl Pass"
+                ]
             },
             {
                 "name": "Dark Angel Larry & Lawrie",
                 "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-dark-angel.webp",
                 "secondaryImageSrc": "larry-&-lawrie-dark-angel-lawrie.png",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons",
+                    "Brawl Pass"
+                ]
             },
             {
                 "name": "Larry & Lawrie Controllers",
                 "rarity": "Rare",
                 "imageSrc": "larry-&-lawrie-controllers.webp",
                 "secondaryImageSrc": "larry-&-lawrie-controllers-lawrie.png",
-                "themes": []
+                "themes": [
+                    "Gaming"
+                ]
             },
             {
                 "name": "Glitch Larry & Lawrie",
                 "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-glitch.webp",
                 "secondaryImageSrc": "larry-&-lawrie-glitch-lawrie.png",
-                "themes": []
+                "themes": [
+                    "CyberBrawl",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Radiant Larry & Lawrie",
                 "rarity": "Epic",
                 "imageSrc": "larry-&-lawrie-radiant.webp",
                 "secondaryImageSrc": "larry-&-lawrie-radiant-lawrie.png",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons",
+                    "Brawl Pass"
+                ]
             },
             {
                 "name": "True Gold Larry & Lawrie",
@@ -3013,49 +3703,68 @@
                 "name": "Cobra Lola",
                 "rarity": "Epic",
                 "imageSrc": "lola-cobra.webp",
-                "themes": []
+                "themes": [
+                    "Bizarre Circus",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Galaxy Storm Lola",
                 "rarity": "Super Rare",
                 "imageSrc": "lola-galaxy-storm.webp",
-                "themes": []
+                "themes": [
+                    "The Worst Bunch"
+                ]
             },
             {
                 "name": "High Flyer Lola",
                 "rarity": "Rare",
                 "imageSrc": "lola-high-flyer.png",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "Kitsune Lola",
                 "rarity": "Epic",
                 "imageSrc": "lola-kitsune.webp",
-                "themes": []
+                "themes": [
+                    "The Ayakashi Clan"
+                ]
             },
             {
                 "name": "Lavish Lola",
                 "rarity": "Epic",
                 "imageSrc": "lola-lavish.webp",
-                "themes": []
+                "themes": [
+                    "Retropolis Nights"
+                ]
             },
             {
                 "name": "Lawless Lola",
                 "rarity": "Epic",
                 "imageSrc": "lola-lawless.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "The Calamity Gang"
+                ]
             },
             {
                 "name": "Loopy Lola",
                 "rarity": "Epic",
                 "imageSrc": "lola-loopy.png",
-                "themes": []
+                "themes": [
+                    "Come Play With Us!"
+                ]
             },
             {
                 "name": "Rebel Lola",
                 "rarity": "Epic",
                 "imageSrc": "lola-rebel.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "City Troubles"
+                ]
             },
             {
                 "name": "True Gold Lola",
@@ -3090,37 +3799,54 @@
                 "name": "Amazing Maisie",
                 "rarity": "Epic",
                 "imageSrc": "maisie-amazing.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Fuchsia Maisie",
                 "rarity": "Epic",
                 "imageSrc": "maisie-fuchsia.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Jungle Queen Maisie",
                 "rarity": "Epic",
                 "imageSrc": "maisie-jungle-queen.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Rumble Jungle Heroes"
+                ]
             },
             {
                 "name": "Marauder Maisie",
                 "rarity": "Epic",
                 "imageSrc": "maisie-marauder.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Wasteland"
+                ]
             },
             {
                 "name": "Tech Maisie",
                 "rarity": "Rare",
                 "imageSrc": "maisie-tech.webp",
-                "themes": []
+                "themes": [
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Titanium Maisie",
                 "rarity": "Epic",
                 "imageSrc": "maisie-titanium.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "True Gold Maisie",
@@ -3155,25 +3881,35 @@
                 "name": "Hanbok Mandy",
                 "rarity": "Epic",
                 "imageSrc": "mandy-hanbok.webp",
-                "themes": []
+                "themes": [
+                    "Bountiful Harvest"
+                ]
             },
             {
                 "name": "Magma Mandy",
                 "rarity": "Epic",
                 "imageSrc": "mandy-magma.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Flaming"
+                ]
             },
             {
                 "name": "Malicious Mandy",
                 "rarity": "Epic",
                 "imageSrc": "mandy-malicious.png",
-                "themes": []
+                "themes": [
+                    "Once Upon",
+                    "Ranked"
+                ]
             },
             {
                 "name": "MC Mandy",
                 "rarity": "Rare",
                 "imageSrc": "mandy-mc.webp",
-                "themes": []
+                "themes": [
+                    "Vibing"
+                ]
             },
             {
                 "name": "True Gold Mandy",
@@ -3208,7 +3944,9 @@
                 "name": "Strike Meeple",
                 "rarity": "Rare",
                 "imageSrc": "meeple-strike.png",
-                "themes": []
+                "themes": [
+                    "Come Play With Us!"
+                ]
             },
             {
                 "name": "True Gold Meeple",
@@ -3245,35 +3983,45 @@
                 "rarity": "Mythic",
                 "imageSrc": "nani-ares.webp",
                 "secondaryImageSrc": "nani-ares-peep.png",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Bell Nani",
                 "rarity": "Super Rare",
                 "imageSrc": "nani-bell.webp",
                 "secondaryImageSrc": "nani-bell-peep.png",
-                "themes": []
+                "themes": [
+                    "Bunny Brigade"
+                ]
             },
             {
                 "name": "Knightmare Nani",
                 "rarity": "Epic",
                 "imageSrc": "nani-knightmare.png",
                 "secondaryImageSrc": "nani-knightmare-peep.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Retro Nani",
                 "rarity": "Rare",
                 "imageSrc": "nani-retro.webp",
                 "secondaryImageSrc": "nani-retro-peep.png",
-                "themes": []
+                "themes": [
+                    "Gaming"
+                ]
             },
             {
                 "name": "Sally Nani",
                 "rarity": "Epic",
                 "imageSrc": "nani-sally.webp",
                 "secondaryImageSrc": "nani-sally-peep.png",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "True Gold Nani",
@@ -3312,28 +4060,36 @@
                 "rarity": "Legendary",
                 "imageSrc": "pam-evil-queen.webp",
                 "secondaryImageSrc": "pam-evil-queen-healing-turret.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Holiday Pam",
                 "rarity": "Super Rare",
                 "imageSrc": "pam-holiday.webp",
                 "secondaryImageSrc": "pam-holiday-healing-turret.png",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Putrid Pam",
                 "rarity": "Epic",
                 "imageSrc": "pam-putrid.png",
                 "secondaryImageSrc": "pam-putrid-healing-turret.png",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Stonks Pam",
                 "rarity": "Super Rare",
                 "imageSrc": "pam-stonks.webp",
                 "secondaryImageSrc": "pam-stonks-healing-turret.png",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "True Gold Pam",
@@ -3370,13 +4126,18 @@
                 "name": "Dark Keep Pearl",
                 "rarity": "Super Rare",
                 "imageSrc": "pearl-dark-keep.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Periscope Pearl",
                 "rarity": "Epic",
                 "imageSrc": "pearl-periscope.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "True Gold Pearl",
@@ -3396,7 +4157,9 @@
                 "name": "Vintage Pearl",
                 "rarity": "Rare",
                 "imageSrc": "pearl-vintage.webp",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             }
         ]
     },
@@ -3417,49 +4180,66 @@
                 "name": "Athena Piper",
                 "rarity": "Mythic",
                 "imageSrc": "piper-athena.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Calavera Piper",
                 "rarity": "Super Rare",
                 "imageSrc": "piper-calavera.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Choco Piper",
                 "rarity": "Super Rare",
                 "imageSrc": "piper-choco.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "Cupid Piper",
                 "rarity": "Epic",
                 "imageSrc": "piper-cupid.webp",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "Flag Bearer Piper",
                 "rarity": "Epic",
                 "imageSrc": "piper-flag-bearer.webp",
-                "themes": []
+                "themes": [
+                    "Brawlnaval"
+                ]
             },
             {
                 "name": "Lunar Piper",
                 "rarity": "Epic",
                 "imageSrc": "piper-lunar.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Stories"
+                ]
             },
             {
                 "name": "Mariposa Piper",
                 "rarity": "Epic",
                 "imageSrc": "piper-mariposa.webp",
-                "themes": []
+                "themes": [
+                    "License to Brawl",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Pink Piper",
                 "rarity": "Rare",
                 "imageSrc": "piper-pink.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "True Gold Piper",
@@ -3494,19 +4274,26 @@
                 "name": "Caesar Sam",
                 "rarity": "Epic",
                 "imageSrc": "sam-caesar.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Dark Clown Sam",
                 "rarity": "Super Rare",
                 "imageSrc": "sam-dark-clown.webp",
-                "themes": []
+                "themes": [
+                    "Bizarre Circus"
+                ]
             },
             {
                 "name": "Sam the Teddy",
                 "rarity": "Rare",
                 "imageSrc": "sam-sam-the-teddy.webp",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "True Gold Sam",
@@ -3526,7 +4313,9 @@
                 "name": "Yeti Sam",
                 "rarity": "Epic",
                 "imageSrc": "sam-yeti.webp",
-                "themes": []
+                "themes": [
+                    "Dark Winter Tales"
+                ]
             }
         ]
     },
@@ -3547,7 +4336,23 @@
                 "name": "Cinema Shade",
                 "rarity": "Rare",
                 "imageSrc": "shade-cinema.png",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
+            },
+            {
+                "name": "True Gold Shade",
+                "imageSrc": "shade-true-gold.png",
+                "themes": [
+                    "True Gold"
+                ]
+            },
+            {
+                "name": "True Silver Shade",
+                "imageSrc": "shade-true-silver.png",
+                "themes": [
+                    "True Silver"
+                ]
             }
         ]
     },
@@ -3568,25 +4373,33 @@
                 "name": "Headless Rider Stu",
                 "rarity": "Epic",
                 "imageSrc": "stu-headless-rider.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Jock Stu",
                 "rarity": "Legendary",
                 "imageSrc": "stu-jock.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Academy"
+                ]
             },
             {
                 "name": "Santa Stu",
                 "rarity": "Epic",
                 "imageSrc": "stu-santa.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Superstar Stu",
                 "rarity": "Rare",
                 "imageSrc": "stu-superstar.webp",
-                "themes": []
+                "themes": [
+                    "Stunt Show"
+                ]
             },
             {
                 "name": "True Gold Stu",
@@ -3606,13 +4419,17 @@
                 "name": "Wicked Stu",
                 "rarity": "Super Rare",
                 "imageSrc": "stu-wicked.webp",
-                "themes": []
+                "themes": [
+                    "The Bad Randoms"
+                ]
             },
             {
                 "name": "Woodriver Stu",
                 "rarity": "Super Rare",
                 "imageSrc": "stu-woodriver.png",
-                "themes": []
+                "themes": [
+                    "The Good Randoms"
+                ]
             }
         ]
     },
@@ -3633,13 +4450,18 @@
                 "name": "Chainsaw Buster",
                 "rarity": "Epic",
                 "imageSrc": "buster-chainsaw.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Crocodile Buster",
                 "rarity": "Epic",
                 "imageSrc": "buster-crocodile.webp",
-                "themes": []
+                "themes": [
+                    "Rumble Jungle Heroes"
+                ]
             },
             {
                 "name": "True Gold Buster",
@@ -3674,79 +4496,111 @@
                 "name": "Black Godzilla Buzz",
                 "rarity": "Hypercharge",
                 "imageSrc": "buzz-black-godzilla.webp",
-                "themes": []
+                "themes": [
+                    "Godzilla"
+                ]
             },
             {
                 "name": "Born Bad Buzz",
                 "rarity": "Epic",
                 "imageSrc": "buzz-born-bad.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "The Bad Randoms"
+                ]
             },
             {
                 "name": "Buzzette",
                 "rarity": "Epic",
                 "imageSrc": "buzz-buzzette.webp",
-                "themes": []
+                "themes": [
+                    "Sugar Rush"
+                ]
             },
             {
                 "name": "Bye Bye Buzz",
                 "rarity": "Epic",
                 "imageSrc": "buzz-bye-bye.png",
-                "themes": []
+                "themes": [
+                    "The Good Randoms"
+                ]
             },
             {
                 "name": "Director Buzz",
                 "rarity": "Epic",
                 "imageSrc": "buzz-director.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Starrs of Brawlywood"
+                ]
             },
             {
                 "name": "Eldr Fenrir Buzz",
                 "rarity": "Epic",
                 "imageSrc": "buzz-eldr-fenrir.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "Fenrir Buzz",
                 "rarity": "Epic",
                 "imageSrc": "buzz-fenrir.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "Filmmaker Buzz",
                 "rarity": "Epic",
                 "imageSrc": "buzz-filmmaker.webp",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "Starrs of Brawlywood"
+                ]
             },
             {
                 "name": "Godzilla Buzz",
                 "rarity": "Hypercharge",
                 "imageSrc": "buzz-godzilla.webp",
-                "themes": []
+                "themes": [
+                    "Godzilla"
+                ]
             },
             {
                 "name": "Kaiju Buzz",
                 "rarity": "Rare",
                 "imageSrc": "buzz-kaiju.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Mørk Fenrir Buzz",
                 "rarity": "Epic",
                 "imageSrc": "buzz-mørk-fenrir.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "Buzz Patrick",
                 "rarity": "Epic",
                 "imageSrc": "buzz-patrick.png",
-                "themes": []
+                "themes": [
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "Red Godzilla Buzz",
                 "rarity": "Hypercharge",
                 "imageSrc": "buzz-red-godzilla.webp",
-                "themes": []
+                "themes": [
+                    "Godzilla"
+                ]
             },
             {
                 "name": "True Gold Buzz",
@@ -3781,25 +4635,34 @@
                 "name": "Beach Byron",
                 "rarity": "Rare",
                 "imageSrc": "byron-beach.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Byron the White",
                 "rarity": "Epic",
                 "imageSrc": "byron-byron-the-white.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Overlord Byron",
                 "rarity": "Epic",
                 "imageSrc": "byron-overlord.webp",
-                "themes": []
+                "themes": [
+                    "The Worst Bunch"
+                ]
             },
             {
                 "name": "Ringmaster Byron",
                 "rarity": "Mythic",
                 "imageSrc": "byron-ringmaster.webp",
-                "themes": []
+                "themes": [
+                    "Bizarre Circus"
+                ]
             },
             {
                 "name": "True Gold Byron",
@@ -3819,7 +4682,10 @@
                 "name": "Wizard Byron",
                 "rarity": "Epic",
                 "imageSrc": "byron-wizard.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon",
+                    "Ranked"
+                ]
             }
         ]
     },
@@ -3840,13 +4706,18 @@
                 "name": "Amazing Charlie",
                 "rarity": "Rare",
                 "imageSrc": "charlie-amazing.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Rosie Charlie",
                 "rarity": "Epic",
                 "imageSrc": "charlie-rosie.webp",
-                "themes": []
+                "themes": [
+                    "Biodome",
+                    "Brawl Pass"
+                ]
             },
             {
                 "name": "True Gold Charlie",
@@ -3866,7 +4737,9 @@
                 "name": "Virus Charlie",
                 "rarity": "Legendary",
                 "imageSrc": "charlie-virus.webp",
-                "themes": []
+                "themes": [
+                    "CyberBrawl"
+                ]
             }
         ]
     },
@@ -3887,13 +4760,17 @@
                 "name": "Desert Scorpion Chuck",
                 "rarity": "Legendary",
                 "imageSrc": "chuck-desert-scorpion.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Inferno Chuck",
                 "rarity": "Rare",
                 "imageSrc": "chuck-inferno.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "True Gold Chuck",
@@ -3928,7 +4805,9 @@
                 "name": "High Stakes Clancy",
                 "rarity": "Rare",
                 "imageSrc": "clancy-high-stakes.png",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "True Gold Clancy",
@@ -3963,13 +4842,17 @@
                 "name": "Draco Doug",
                 "rarity": "Rare",
                 "imageSrc": "doug-draco.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Man-o-war Doug",
                 "rarity": "Epic",
                 "imageSrc": "doug-man-o-war.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "True Gold Doug",
@@ -4004,25 +4887,35 @@
                 "name": "Baiku Eve",
                 "rarity": "Epic",
                 "imageSrc": "eve-baiku.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Extraterrestrial Eve",
                 "rarity": "Epic",
                 "imageSrc": "eve-extraterrestrial.png",
-                "themes": []
+                "themes": [
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Mothra Eve",
                 "rarity": "Epic",
                 "imageSrc": "eve-mothra.webp",
-                "themes": []
+                "themes": [
+                    "Godzilla",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Spiky Eve",
                 "rarity": "Epic",
                 "imageSrc": "eve-spiky.webp",
-                "themes": []
+                "themes": [
+                    "Biodome",
+                    "Brawl Pass"
+                ]
             },
             {
                 "name": "True Gold Eve",
@@ -4057,49 +4950,66 @@
                 "name": "Blue Pitcher Fang",
                 "rarity": "Epic",
                 "imageSrc": "fang-blue-pitcher.webp",
-                "themes": []
+                "themes": [
+                    "Super Brawl"
+                ]
             },
             {
                 "name": "Fanguard",
                 "rarity": "Mythic",
                 "imageSrc": "fang-fanguard.webp",
-                "themes": []
+                "themes": [
+                    "CyberBrawl"
+                ]
             },
             {
                 "name": "Ferocious Fang",
                 "rarity": "Epic",
                 "imageSrc": "fang-ferocious.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Furious Fang",
                 "rarity": "Epic",
                 "imageSrc": "fang-furious.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass"
+                ]
             },
             {
                 "name": "Kabocha Fang",
                 "rarity": "Epic",
                 "imageSrc": "fang-kabocha.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Octo Fang",
                 "rarity": "Super Rare",
                 "imageSrc": "fang-octo.webp",
-                "themes": []
+                "themes": [
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "Red Pitcher Fang",
                 "rarity": "Epic",
                 "imageSrc": "fang-red-pitcher.webp",
-                "themes": []
+                "themes": [
+                    "Super Brawl"
+                ]
             },
             {
                 "name": "The Fans' Fang",
                 "rarity": "Epic",
                 "imageSrc": "fang-the-fans.png",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             },
             {
                 "name": "True Gold Fang",
@@ -4134,7 +5044,9 @@
                 "name": "Jurassic Finx",
                 "rarity": "Rare",
                 "imageSrc": "finx-jurassic.png",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             }
         ]
     },
@@ -4155,37 +5067,50 @@
                 "name": "Angel Gene",
                 "rarity": "Super Rare",
                 "imageSrc": "gene-angel.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Dark Samurai Gene",
                 "rarity": "Epic",
                 "imageSrc": "gene-dark-samurai.webp",
-                "themes": []
+                "themes": [
+                    "Supercell Make",
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Evil Gene",
                 "rarity": "Epic",
                 "imageSrc": "gene-evil.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Jungle Gene",
                 "rarity": "Rare",
                 "imageSrc": "gene-jungle.png",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Pirate Gene",
                 "rarity": "Super Rare",
                 "imageSrc": "gene-pirate.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "Swamp Gene",
                 "rarity": "Super Rare",
                 "imageSrc": "gene-swamp.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "True Gold Gene",
@@ -4220,25 +5145,33 @@
                 "name": "Detective Gray",
                 "rarity": "Super Rare",
                 "imageSrc": "gray-detective.webp",
-                "themes": []
+                "themes": [
+                    "License to Brawl"
+                ]
             },
             {
                 "name": "Detective Gray Noir Edition",
                 "rarity": "Super Rare",
                 "imageSrc": "gray-detective-noir.webp",
-                "themes": []
+                "themes": [
+                    "License to Brawl"
+                ]
             },
             {
                 "name": "Gigantophis Gray",
                 "rarity": "Epic",
                 "imageSrc": "gray-gigantophis.png",
-                "themes": []
+                "themes": [
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Runaway Gray",
                 "rarity": "Rare",
                 "imageSrc": "gray-runaway.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "True Gold Gray",
@@ -4273,31 +5206,41 @@
                 "name": "Dark Fairy Janet",
                 "rarity": "Epic",
                 "imageSrc": "janet-dark-fairy.webp",
-                "themes": []
+                "themes": [
+                    "Enchanted Woods"
+                ]
             },
             {
                 "name": "G-Force Janet",
                 "rarity": "Rare",
                 "imageSrc": "janet-g-force.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Jolly Janet",
                 "rarity": "Super Rare",
                 "imageSrc": "janet-jolly.png",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Lunar Janet",
                 "rarity": "Mythic",
                 "imageSrc": "janet-lunar.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Stories"
+                ]
             },
             {
                 "name": "Popstar Janet",
                 "rarity": "Super Rare",
                 "imageSrc": "janet-popstar.webp",
-                "themes": []
+                "themes": [
+                    "The Good Randoms"
+                ]
             },
             {
                 "name": "True Gold Janet",
@@ -4317,7 +5260,10 @@
                 "name": "Valkyrie Janet",
                 "rarity": "Epic",
                 "imageSrc": "janet-valkyrie.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Northern Saga"
+                ]
             }
         ]
     },
@@ -4338,7 +5284,9 @@
                 "name": "Unlucky Juju",
                 "rarity": "Rare",
                 "imageSrc": "juju-unlucky.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             }
         ]
     },
@@ -4359,13 +5307,18 @@
                 "name": "Angel Lily",
                 "rarity": "Epic",
                 "imageSrc": "lily-angel.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Strawberry Lily",
                 "rarity": "Rare",
                 "imageSrc": "lily-strawberry.webp",
-                "themes": []
+                "themes": [
+                    "Biodome"
+                ]
             },
             {
                 "name": "True Gold Lily",
@@ -4400,31 +5353,43 @@
                 "name": "Burger Lou",
                 "rarity": "Super Rare",
                 "imageSrc": "lou-burger.webp",
-                "themes": []
+                "themes": [
+                    "Starry Meal"
+                ]
             },
             {
                 "name": "King Lou",
                 "rarity": "Epic",
                 "imageSrc": "lou-king.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Royals"
+                ]
             },
             {
                 "name": "Rude Lou",
                 "rarity": "Mythic",
                 "imageSrc": "lou-rude.png",
-                "themes": []
+                "themes": [
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Smooth Lou",
                 "rarity": "Super Rare",
                 "imageSrc": "lou-smooth.webp",
-                "themes": []
+                "themes": [
+                    "My Brawlentine"
+                ]
             },
             {
                 "name": "Stone Troll Lou",
                 "rarity": "Epic",
                 "imageSrc": "lou-stone-troll.webp",
-                "themes": []
+                "themes": [
+                    "Enchanted Woods",
+                    "Ranked"
+                ]
             },
             {
                 "name": "True Gold Lou",
@@ -4459,7 +5424,9 @@
                 "name": "Dark Knight Lumi",
                 "rarity": "Rare",
                 "imageSrc": "lumi-dark-knight.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             }
         ]
     },
@@ -4480,43 +5447,57 @@
                 "name": "Angel Max",
                 "rarity": "Epic",
                 "imageSrc": "max-angel.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Cony Max",
                 "rarity": "Epic",
                 "imageSrc": "max-cony.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "GT Max",
                 "rarity": "Rare",
                 "imageSrc": "max-gt.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "Hermes Max",
                 "rarity": "Super Rare",
                 "imageSrc": "max-hermes.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "Leopard Max",
                 "rarity": "Super Rare",
                 "imageSrc": "max-leopard.webp",
-                "themes": []
+                "themes": [
+                    "Rumble Jungle Heroes"
+                ]
             },
             {
                 "name": "Panther Max",
                 "rarity": "Super Rare",
                 "imageSrc": "max-panther.webp",
-                "themes": []
+                "themes": [
+                    "Rumble Jungle Heroes"
+                ]
             },
             {
                 "name": "Streetwear Max",
                 "rarity": "Super Rare",
                 "imageSrc": "max-streetwear.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "True Gold Max",
@@ -4551,31 +5532,45 @@
                 "name": "Blackgreen Melodie",
                 "rarity": "Epic",
                 "imageSrc": "melodie-blackgreen.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "The Good Randoms"
+                ]
             },
             {
                 "name": "Harpy Melodie",
                 "rarity": "Epic",
                 "imageSrc": "melodie-harpy.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Pop Melodie",
                 "rarity": "Epic",
                 "imageSrc": "melodie-pop.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "The Good Randoms"
+                ]
             },
             {
                 "name": "Redwhite Melodie",
                 "rarity": "Epic",
                 "imageSrc": "melodie-redwhite.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "The Good Randoms"
+                ]
             },
             {
                 "name": "Sif Melodie",
                 "rarity": "Rare",
                 "imageSrc": "melodie-sif.webp",
-                "themes": []
+                "themes": [
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "True Gold Melodie",
@@ -4610,13 +5605,17 @@
                 "name": "Grouch Mico",
                 "rarity": "Epic",
                 "imageSrc": "mico-grouch.webp",
-                "themes": []
+                "themes": [
+                    "Dark Winter Tales"
+                ]
             },
             {
                 "name": "Macaron Mico",
                 "rarity": "Rare",
                 "imageSrc": "mico-macaron.webp",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "True Gold Mico",
@@ -4636,7 +5635,9 @@
                 "name": "Wukong Mico",
                 "rarity": "Legendary",
                 "imageSrc": "mico-wukong.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             }
         ]
     },
@@ -4657,94 +5658,127 @@
                 "name": "Beach Time Mortis",
                 "rarity": "Super Rare",
                 "imageSrc": "mortis-beach-time.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Blue Squidward Mortis",
                 "rarity": "Epic",
                 "imageSrc": "mortis-blue-squidward.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "Dark Mecha Mortis",
                 "rarity": "Legendary",
                 "imageSrc": "mortis-dark-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Demon Mortis",
                 "rarity": "Hypercharge",
                 "imageSrc": "mortis-demon.png",
                 "secondaryImageSrc": "mortis-demon-hypercharged.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Devilish Mortis",
                 "rarity": "Hypercharge",
                 "imageSrc": "mortis-devilish.png",
                 "secondaryImageSrc": "mortis-devilish-hypercharged.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Gala Mortis",
                 "rarity": "Rare",
                 "imageSrc": "mortis-gala.webp",
-                "themes": []
+                "themes": [
+                    "License to Brawl"
+                ]
             },
             {
                 "name": "Hockey Mortis",
                 "rarity": "Epic",
                 "imageSrc": "mortis-hockey.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             },
             {
                 "name": "Lambent Mortis",
                 "rarity": "Hypercharge",
                 "imageSrc": "mortis-lambent.png",
                 "secondaryImageSrc": "mortis-lambent-hypercharged.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Light Mecha Mortis",
                 "rarity": "Legendary",
                 "imageSrc": "mortis-light-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Mecha Mortis",
                 "rarity": "Legendary",
                 "imageSrc": "mortis-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Night Witch Mortis",
                 "rarity": "Epic",
                 "imageSrc": "mortis-night-witch.webp",
-                "themes": []
+                "themes": [
+                    "Clash Stories"
+                ]
             },
             {
                 "name": "Pink Squidward Mortis",
                 "rarity": "Epic",
                 "imageSrc": "mortis-pink-squidward.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "Rockabilly Mortis",
                 "rarity": "Epic",
                 "imageSrc": "mortis-rockabilly.webp",
-                "themes": []
+                "themes": [
+                    "Retropolis Nights"
+                ]
             },
             {
                 "name": "Rogue Mortis",
                 "rarity": "Epic",
                 "imageSrc": "mortis-rogue.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Squidward Mortis",
                 "rarity": "Epic",
                 "imageSrc": "mortis-squidward.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "SpongeBob"
+                ]
             },
             {
                 "name": "Top Hat Mortis",
@@ -4798,13 +5832,18 @@
                 "name": "Monterey Moe",
                 "rarity": "Rare",
                 "imageSrc": "moe-monterey.webp",
-                "themes": []
+                "themes": [
+                    "Starry Meal"
+                ]
             },
             {
                 "name": "Moon Driller Moe",
                 "rarity": "Epic",
                 "imageSrc": "moe-moon-driller.png",
-                "themes": []
+                "themes": [
+                    "Ranked",
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "True Gold Moe",
@@ -4828,61 +5867,72 @@
         "class": "Controller",
         "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
         "masteryTitle": "The Boss",
-        "portraitImageSrc": "mr.-p.png",
+        "portraitImageSrc": "mr-p.png",
         "skins": [
             {
                 "name": "Mr. P",
-                "imageSrc": "mr.-p-default.webp",
-                "secondaryImageSrc": "mr.-p-default-porter.png",
+                "imageSrc": "mr-p-default.webp",
+                "secondaryImageSrc": "mr-p-default-porter.png",
                 "themes": []
             },
             {
                 "name": "Agent P",
                 "rarity": "Rare",
-                "imageSrc": "mr.-p-agent.webp",
-                "secondaryImageSrc": "mr.-p-agent-porter.png",
-                "themes": []
+                "imageSrc": "mr-p-agent.webp",
+                "secondaryImageSrc": "mr-p-agent-porter.png",
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "Count Pengula",
                 "rarity": "Super Rare",
-                "imageSrc": "mr.-p-count-pengula.webp",
-                "secondaryImageSrc": "mr.-p-count-pengula-porter.png",
-                "themes": []
+                "imageSrc": "mr-p-count-pengula.webp",
+                "secondaryImageSrc": "mr-p-count-pengula-porter.png",
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Daruma Mr. P",
                 "rarity": "Super Rare",
-                "imageSrc": "mr.-p-daruma.webp",
-                "secondaryImageSrc": "mr.-p-daruma-porter.png",
-                "themes": []
+                "imageSrc": "mr-p-daruma.webp",
+                "secondaryImageSrc": "mr-p-daruma-porter.png",
+                "themes": [
+                    "The Golden Kawaii"
+                ]
             },
             {
                 "name": "Mr. Fly",
                 "rarity": "Super Rare",
-                "imageSrc": "mr.-p-mr.-fly.webp",
-                "secondaryImageSrc": "mr.-p-mr.-fly-porter.png",
-                "themes": []
+                "imageSrc": "mr-p-mr-fly.webp",
+                "secondaryImageSrc": "mr-p-mr-fly-porter.png",
+                "themes": [
+                    "Biodome"
+                ]
             },
             {
                 "name": "Mr. Dragonfruit",
                 "rarity": "Epic",
-                "imageSrc": "mr.-p-mr.-dragonfruit.webp",
-                "secondaryImageSrc": "mr.-p-mr.-dragonfruit-porter.png",
-                "themes": []
+                "imageSrc": "mr-p-mr-dragonfruit.webp",
+                "secondaryImageSrc": "mr-p-mr-dragonfruit-porter.png",
+                "themes": [
+                    "Biodome",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "True Gold Mr. P",
-                "imageSrc": "mr.-p-true-gold.webp",
-                "secondaryImageSrc": "mr.-p-true-gold-porter.png",
+                "imageSrc": "mr-p-true-gold.webp",
+                "secondaryImageSrc": "mr-p-true-gold-porter.png",
                 "themes": [
                     "True Gold"
                 ]
             },
             {
                 "name": "True Silver Mr. P",
-                "imageSrc": "mr.-p-true-silver.webp",
-                "secondaryImageSrc": "mr.-p-true-silver-porter.png",
+                "imageSrc": "mr-p-true-silver.webp",
+                "secondaryImageSrc": "mr-p-true-silver-porter.png",
                 "themes": [
                     "True Silver"
                 ]
@@ -4906,7 +5956,9 @@
                 "name": "Ollie G",
                 "rarity": "Rare",
                 "imageSrc": "ollie-g.png",
-                "themes": []
+                "themes": [
+                    "City Troubles"
+                ]
             },
             {
                 "name": "True Gold Ollie",
@@ -4943,28 +5995,37 @@
                 "rarity": "Epic",
                 "imageSrc": "otis-demon.webp",
                 "secondaryImageSrc": "otis-demon-cil.png",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Oni Otis",
                 "rarity": "Epic",
                 "imageSrc": "otis-oni.webp",
                 "secondaryImageSrc": "otis-oni-cil.png",
-                "themes": []
+                "themes": [
+                    "The Ayakashi Clan"
+                ]
             },
             {
                 "name": "Pharaotis",
                 "rarity": "Epic",
                 "imageSrc": "otis-pharaotis.webp",
                 "secondaryImageSrc": "otis-pharaotis-cil.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Dark Sands"
+                ]
             },
             {
                 "name": "Rusty Otis",
                 "rarity": "Rare",
                 "imageSrc": "otis-rusty.png",
                 "secondaryImageSrc": "otis-rusty-cil.png",
-                "themes": []
+                "themes": [
+                    "Wasteland"
+                ]
             },
             {
                 "name": "True Gold Otis",
@@ -4987,7 +6048,9 @@
                 "rarity": "Epic",
                 "imageSrc": "otis-w.webp",
                 "secondaryImageSrc": "otis-w-cil.png",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             }
         ]
     },
@@ -5008,19 +6071,26 @@
                 "name": "Crimson R-T",
                 "rarity": "Epic",
                 "imageSrc": "r-t-crimson.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Patrol R-T",
                 "rarity": "Rare",
                 "imageSrc": "r-t-patrol.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Poseidon R-T",
                 "rarity": "Mythic",
                 "imageSrc": "r-t-poseidon.webp",
-                "themes": []
+                "themes": [
+                    "Legends of Olympus"
+                ]
             },
             {
                 "name": "True Gold R-T",
@@ -5055,31 +6125,42 @@
                 "name": "Marshal Ruffs",
                 "rarity": "Super Rare",
                 "imageSrc": "ruffs-marshal.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Ronin Ruffs",
                 "rarity": "Epic",
                 "imageSrc": "ruffs-ronin.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Ruffs Chimmy",
                 "rarity": "Epic",
                 "imageSrc": "ruffs-ruffs-chimmy.webp",
-                "themes": []
+                "themes": [
+                    "BT21"
+                ]
             },
             {
                 "name": "Seadog Ruffs",
                 "rarity": "Epic",
                 "imageSrc": "ruffs-seadog.webp",
-                "themes": []
+                "themes": [
+                    "Tales of the Sea"
+                ]
             },
             {
                 "name": "Sous Chef Ruffs",
                 "rarity": "Rare",
                 "imageSrc": "ruffs-sous-chef.png",
-                "themes": []
+                "themes": [
+                    "Starry Meal"
+                ]
             },
             {
                 "name": "True Gold Ruffs",
@@ -5114,37 +6195,49 @@
                 "name": "Aquamarine Sprout",
                 "rarity": "Epic",
                 "imageSrc": "sprout-aquamarine.webp",
-                "themes": []
+                "themes": [
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "Corrupted Sprout",
                 "rarity": "Super Rare",
                 "imageSrc": "sprout-corrupted.webp",
-                "themes": []
+                "themes": [
+                    "Biodome"
+                ]
             },
             {
                 "name": "Emerald Prince Sprout",
                 "rarity": "Super Rare",
                 "imageSrc": "sprout-emerald-prince.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Lunar Sprout",
                 "rarity": "Epic",
                 "imageSrc": "sprout-lunar.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Stories"
+                ]
             },
             {
                 "name": "Ruby Prince Sprout",
                 "rarity": "Super Rare",
                 "imageSrc": "sprout-ruby-prince.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Tropical Sprout",
                 "rarity": "Rare",
                 "imageSrc": "sprout-tropical.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "True Gold Sprout",
@@ -5179,37 +6272,49 @@
                 "name": "First Blob Squeak",
                 "rarity": "Super Rare",
                 "imageSrc": "squeak-first-blob.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Ghost Squeak",
                 "rarity": "Super Rare",
                 "imageSrc": "squeak-ghost.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Moon Bunny Squeak",
                 "rarity": "Super Rare",
                 "imageSrc": "squeak-moon-bunny.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Stories"
+                ]
             },
             {
                 "name": "Nerd Squeak",
                 "rarity": "Epic",
                 "imageSrc": "squeak-nerd.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Academy"
+                ]
             },
             {
                 "name": "Potato Squeak",
                 "rarity": "Super Rare",
                 "imageSrc": "squeak-potato.webp",
-                "themes": []
+                "themes": [
+                    "Come Play With Us!"
+                ]
             },
             {
                 "name": "Squeaky Note",
                 "rarity": "Rare",
                 "imageSrc": "squeak-squeaky-note.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "True Gold Squeak",
@@ -5244,31 +6349,41 @@
                 "name": "Misfortune Tara",
                 "rarity": "Epic",
                 "imageSrc": "tara-misfortune.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Ragequit Tara",
                 "rarity": "Epic",
                 "imageSrc": "tara-ragequit.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             },
             {
                 "name": "Stara",
                 "rarity": "Rare",
                 "imageSrc": "tara-stara.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "Street Ninja Tara",
                 "rarity": "Super Rare",
                 "imageSrc": "tara-street-ninja.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "Tempest Tara",
                 "rarity": "Epic",
                 "imageSrc": "tara-tempest.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "True Gold Tara",
@@ -5288,7 +6403,9 @@
                 "name": "Urban Ninja Tara",
                 "rarity": "Epic",
                 "imageSrc": "tara-urban-ninja.webp",
-                "themes": []
+                "themes": [
+                    "Lunar Brawl"
+                ]
             }
         ]
     },
@@ -5309,19 +6426,25 @@
                 "name": "Axl Willow",
                 "rarity": "Rare",
                 "imageSrc": "willow-axl.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "Demon Willow",
                 "rarity": "Epic",
                 "imageSrc": "willow-demon.webp",
-                "themes": []
+                "themes": [
+                    "Angels vs. Demons"
+                ]
             },
             {
                 "name": "Scorpion Willow",
                 "rarity": "Super Rare",
                 "imageSrc": "willow-scorpion.webp",
-                "themes": []
+                "themes": [
+                    "Wasteland"
+                ]
             },
             {
                 "name": "True Gold Willow",
@@ -5356,19 +6479,26 @@
                 "name": "Amber De La Vega",
                 "rarity": "Epic",
                 "imageSrc": "amber-amber-de-la-vega.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Bubble Trouble Amber",
                 "rarity": "Epic",
                 "imageSrc": "amber-bubble-trouble.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Frost Queen Amber",
                 "rarity": "Legendary",
                 "imageSrc": "amber-frost-queen.webp",
-                "themes": []
+                "themes": [
+                    "Dark Winter Tales"
+                ]
             },
             {
                 "name": "True Gold Amber",
@@ -5418,19 +6548,26 @@
                 "name": "Dark Chester",
                 "rarity": "Rare",
                 "imageSrc": "chester-dark.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "Loki Chester",
                 "rarity": "Epic",
                 "imageSrc": "chester-loki.webp",
-                "themes": []
+                "themes": [
+                    "Northern Saga",
+                    "Ranked"
+                ]
             },
             {
                 "name": "Moon Guardian Chester",
                 "rarity": "Epic",
                 "imageSrc": "chester-moon-guardian.png",
-                "themes": []
+                "themes": [
+                    "Lunar Stories"
+                ]
             },
             {
                 "name": "True Gold Chester",
@@ -5450,7 +6587,9 @@
                 "name": "Wood Spirit Chester",
                 "rarity": "Super Rare",
                 "imageSrc": "chester-wood-spirit.webp",
-                "themes": []
+                "themes": [
+                    "Enchanted Woods"
+                ]
             }
         ]
     },
@@ -5471,31 +6610,42 @@
                 "name": "Odin Cordelius",
                 "rarity": "Epic",
                 "imageSrc": "cordelius-odin.webp",
-                "themes": []
+                "themes": [
+                    "Northern Saga"
+                ]
             },
             {
                 "name": "Paper Cordelius",
                 "rarity": "Legendary",
                 "imageSrc": "cordelius-paper.png",
-                "themes": []
+                "themes": [
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "Poison Cap Cordelius",
                 "rarity": "Rare",
                 "imageSrc": "cordelius-poison-cap.webp",
-                "themes": []
+                "themes": [
+                    "Enchanted Woods"
+                ]
             },
             {
                 "name": "Raider Cordelius",
                 "rarity": "Epic",
                 "imageSrc": "cordelius-raider.webp",
-                "themes": []
+                "themes": [
+                    "Wasteland"
+                ]
             },
             {
                 "name": "Sporemind Cordelius",
                 "rarity": "Epic",
                 "imageSrc": "cordelius-sporemind.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "The Worst Bunch"
+                ]
             },
             {
                 "name": "True Gold Cordelius",
@@ -5530,49 +6680,65 @@
                 "name": "Captain Crow",
                 "rarity": "Super Rare",
                 "imageSrc": "crow-captain.webp",
-                "themes": []
+                "themes": [
+                    "Starrs of Brawlywood"
+                ]
             },
             {
                 "name": "Crowbone",
                 "rarity": "Epic",
                 "imageSrc": "crow-crowbone.webp",
-                "themes": []
+                "themes": [
+                    "The Calamity Gang"
+                ]
             },
             {
                 "name": "Gold Mecha Crow",
                 "rarity": "Legendary",
                 "imageSrc": "crow-gold-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Maverick Crow",
                 "rarity": "Rare",
                 "imageSrc": "crow-maverick.png",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "Mecha Crow",
                 "rarity": "Legendary",
                 "imageSrc": "crow-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Moon Guardian Crow",
                 "rarity": "Mythic",
                 "imageSrc": "crow-moon-guardian.png",
-                "themes": []
+                "themes": [
+                    "Lunar Stories"
+                ]
             },
             {
                 "name": "Night Mecha Crow",
                 "rarity": "Legendary",
                 "imageSrc": "crow-night-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Phoenix Crow",
                 "rarity": "Legendary",
                 "imageSrc": "crow-phoenix.webp",
-                "themes": []
+                "themes": [
+                    "Flaming"
+                ]
             },
             {
                 "name": "True Gold Crow",
@@ -5592,7 +6758,9 @@
                 "name": "White Crow",
                 "rarity": "Super Rare",
                 "imageSrc": "crow-white.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             }
         ]
     },
@@ -5613,13 +6781,17 @@
                 "name": "Dark Knight Draco",
                 "rarity": "Rare",
                 "imageSrc": "draco-dark-knight.webp",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Dread Knight Draco",
                 "rarity": "Legendary",
                 "imageSrc": "draco-dread-knight.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "True Gold Draco",
@@ -5654,25 +6826,36 @@
                 "name": "Aodaisho Kenji",
                 "rarity": "Epic",
                 "imageSrc": "kenji-aodaisho.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Fruit Samurai Kenji",
                 "rarity": "Rare",
                 "imageSrc": "kenji-fruit-samurai.png",
-                "themes": []
+                "themes": [
+                    "Starry Meal"
+                ]
             },
             {
                 "name": "Hebi Kenji",
                 "rarity": "Epic",
                 "imageSrc": "kenji-hebi.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Mamushi Kenji",
                 "rarity": "Epic",
                 "imageSrc": "kenji-mamushi.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "True Gold Kenji",
@@ -5707,37 +6890,52 @@
                 "name": "Billy the Kit",
                 "rarity": "Rare",
                 "imageSrc": "kit-billy-the.webp",
-                "themes": []
+                "themes": [
+                    "Outlaws"
+                ]
             },
             {
                 "name": "Cuddly Kit",
                 "rarity": "Super Rare",
                 "imageSrc": "kit-cuddly.png",
-                "themes": []
+                "themes": [
+                    "Come Play With Us!"
+                ]
             },
             {
                 "name": "KitBoxer",
                 "rarity": "Epic",
                 "imageSrc": "kit-kitboxer.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "KitBoxer Darkpaw",
                 "rarity": "Epic",
                 "imageSrc": "kit-kitboxer-darkpaw.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Lunar Brawl"
+                ]
             },
             {
                 "name": "KitBoxer Goldpaw",
                 "rarity": "Epic",
                 "imageSrc": "kit-kitboxer-goldpaw.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Lunar Brawl"
+                ]
             },
             {
-                "name": "Lockpickit",
+                "name": "LockpicKit",
                 "rarity": "Epic",
                 "imageSrc": "kit-lockpickit.png",
-                "themes": []
+                "themes": [
+                    "Once Upon"
+                ]
             },
             {
                 "name": "True Gold Kit",
@@ -5772,49 +6970,65 @@
                 "name": "Dino Leon",
                 "rarity": "Super Rare",
                 "imageSrc": "leon-dino.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Leon the Stray",
                 "rarity": "Rare",
                 "imageSrc": "leon-leon-the-stray.webp",
-                "themes": []
+                "themes": [
+                    "Animal Kingdom"
+                ]
             },
             {
                 "name": "Mecha Leon",
                 "rarity": "Legendary",
                 "imageSrc": "leon-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Radiant Mecha Leon",
                 "rarity": "Legendary",
                 "imageSrc": "leon-radiant-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Sally Leon",
                 "rarity": "Super Rare",
                 "imageSrc": "leon-sally.webp",
-                "themes": []
+                "themes": [
+                    "Brown & Friends"
+                ]
             },
             {
                 "name": "Shadow Mecha Leon",
                 "rarity": "Legendary",
                 "imageSrc": "leon-shadow-mecha.webp",
-                "themes": []
+                "themes": [
+                    "Mecha Squad"
+                ]
             },
             {
                 "name": "Shark Leon",
                 "rarity": "Super Rare",
                 "imageSrc": "leon-shark.webp",
-                "themes": []
+                "themes": [
+                    "Summer of Brawl"
+                ]
             },
             {
                 "name": "Trick or Treat Leon",
                 "rarity": "Super Rare",
                 "imageSrc": "leon-trick-or-treat.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "True Gold Leon",
@@ -5834,19 +7048,25 @@
                 "name": "Werewolf Leon",
                 "rarity": "Epic",
                 "imageSrc": "leon-werewolf.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "White Wolf Leon",
                 "rarity": "Mythic",
                 "imageSrc": "leon-white-wolf.webp",
-                "themes": []
+                "themes": [
+                    "Brawl-o-ween"
+                ]
             },
             {
                 "name": "World Finals Leon",
                 "rarity": "Epic",
                 "imageSrc": "leon-world-finals.png",
-                "themes": []
+                "themes": [
+                    "Brawl Stars Championship"
+                ]
             }
         ]
     },
@@ -5861,36 +7081,49 @@
             {
                 "name": "Meg",
                 "imageSrc": "meg-default.webp",
-                "secondaryImageSrc": "meg-default-mech.png",
+                "secondaryImageSrc": "meg-default-mecha.png",
                 "themes": []
             },
             {
                 "name": "Beetle Meg",
                 "rarity": "Super Rare",
                 "imageSrc": "meg-beetle.webp",
-                "themes": []
+                "secondaryImageSrc": "meg-beetle-mecha.png",
+                "themes": [
+                    "Biodome"
+                ]
             },
             {
                 "name": "Jaguar Spirit Meg",
                 "rarity": "Epic",
                 "imageSrc": "meg-jaguar-spirit.webp",
-                "themes": []
+                "secondaryImageSrc": "meg-jaguar-spirit-mecha.png",
+                "themes": [
+                    "Ranked",
+                    "Rumble Jungle Heroes"
+                ]
             },
             {
                 "name": "Megalodon Meg",
                 "rarity": "Mythic",
                 "imageSrc": "meg-megalodon.webp",
-                "themes": []
+                "themes": [
+                    "Cursed Pirates"
+                ]
             },
             {
                 "name": "Monster Truck Meg",
                 "rarity": "Epic",
                 "imageSrc": "meg-monster-truck.webp",
-                "themes": []
+                "secondaryImageSrc": "meg-monster-truck-mecha.png",
+                "themes": [
+                    "Stunt Show"
+                ]
             },
             {
                 "name": "True Gold Meg",
                 "imageSrc": "meg-true-gold.webp",
+                "secondaryImageSrc": "meg-true-gold-mecha.png",
                 "themes": [
                     "True Gold"
                 ]
@@ -5898,6 +7131,7 @@
             {
                 "name": "True Silver Meg",
                 "imageSrc": "meg-true-silver.webp",
+                "secondaryImageSrc": "meg-true-silver-mecha.png",
                 "themes": [
                     "True Silver"
                 ]
@@ -5921,49 +7155,69 @@
                 "name": "Glowing Jellyfish Sandy",
                 "rarity": "Epic",
                 "imageSrc": "sandy-glowing-jellyfish.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "Jellyfish Sandy",
                 "rarity": "Epic",
                 "imageSrc": "sandy-jellyfish.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "Lantern Sandy",
                 "rarity": "Epic",
                 "imageSrc": "sandy-lantern.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Neon Jellyfish Sandy",
                 "rarity": "Epic",
                 "imageSrc": "sandy-neon-jellyfish.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Deep Sea League"
+                ]
             },
             {
                 "name": "Nightmare Sandy",
                 "rarity": "Epic",
                 "imageSrc": "sandy-nightmare.webp",
-                "themes": []
+                "themes": [
+                    "Supercell Make",
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "Sandy Koya",
                 "rarity": "Epic",
                 "imageSrc": "sandy-sandy-koya.webp",
-                "themes": []
+                "themes": [
+                    "BT21"
+                ]
             },
             {
                 "name": "Sleepy Sandy",
                 "rarity": "Rare",
                 "imageSrc": "sandy-sleepy.webp",
-                "themes": []
+                "themes": [
+                    "Misc"
+                ]
             },
             {
                 "name": "Sugar Rush Sandy",
                 "rarity": "Super Rare",
                 "imageSrc": "sandy-sugar-rush.webp",
-                "themes": []
+                "themes": [
+                    "Gift Shop"
+                ]
             },
             {
                 "name": "True Gold Sandy",
@@ -5998,49 +7252,65 @@
                 "name": "Dark Lord Spike",
                 "rarity": "Epic",
                 "imageSrc": "spike-dark-lord.webp",
-                "themes": []
+                "themes": [
+                    "StarrForce Assemble"
+                ]
             },
             {
                 "name": "Logmas Spike",
                 "rarity": "Super Rare",
                 "imageSrc": "spike-logmas.webp",
-                "themes": []
+                "themes": [
+                    "Brawlidays"
+                ]
             },
             {
                 "name": "Mask Spike",
                 "rarity": "Rare",
                 "imageSrc": "spike-mask.webp",
-                "themes": []
+                "themes": [
+                    "Gift Shop"
+                ]
             },
             {
                 "name": "Poop Spike",
                 "rarity": "Mythic",
                 "imageSrc": "spike-poop.webp",
-                "themes": []
+                "themes": [
+                    "April Fool's"
+                ]
             },
             {
                 "name": "Pyro Spike",
                 "rarity": "Super Rare",
                 "imageSrc": "spike-pyro.webp",
-                "themes": []
+                "themes": [
+                    "Stunt Show"
+                ]
             },
             {
                 "name": "Robo Spike",
                 "rarity": "Epic",
                 "imageSrc": "spike-robo.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Sakura Spike",
                 "rarity": "Super Rare",
                 "imageSrc": "spike-sakura.webp",
-                "themes": []
+                "themes": [
+                    "The Golden Kawaii"
+                ]
             },
             {
                 "name": "Toon Spike",
                 "rarity": "Legendary",
                 "imageSrc": "spike-toon.webp",
-                "themes": []
+                "themes": [
+                    "Cartoon Studios"
+                ]
             },
             {
                 "name": "True Gold Spike",
@@ -6075,55 +7345,77 @@
                 "name": "Anti-Hero Skeletal Surge",
                 "rarity": "Epic",
                 "imageSrc": "surge-anti-hero-skeletal.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Once Upon"
+                ]
             },
             {
                 "name": "DIY Surge",
                 "rarity": "Super Rare",
                 "imageSrc": "surge-diy.webp",
-                "themes": []
+                "themes": [
+                    "Come Play With Us!"
+                ]
             },
             {
                 "name": "Kraken Surge",
                 "rarity": "Epic",
                 "imageSrc": "surge-kraken.webp",
-                "themes": []
+                "themes": [
+                    "Cursed Pirates",
+                    "Supercell Make"
+                ]
             },
             {
                 "name": "Mecha Paladin Surge",
                 "rarity": "Epic",
                 "imageSrc": "surge-mecha-paladin.webp",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Max Force"
+                ]
             },
             {
                 "name": "Scarlet Paladin Surge",
                 "rarity": "Epic",
                 "imageSrc": "surge-scarlet-paladin.webp",
-                "themes": []
+                "themes": [
+                    "Max Force"
+                ]
             },
             {
                 "name": "Skeletal Surge",
                 "rarity": "Epic",
                 "imageSrc": "surge-skeletal.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Once Upon"
+                ]
             },
             {
                 "name": "Surge Kong",
                 "rarity": "Super Rare",
                 "imageSrc": "surge-kong.webp",
-                "themes": []
+                "themes": [
+                    "Starrs of Brawlywood"
+                ]
             },
             {
                 "name": "Surge Lightyear",
                 "rarity": "Legendary",
                 "imageSrc": "surge-lightyear.png",
-                "themes": []
+                "themes": [
+                    "Toy Story"
+                ]
             },
             {
                 "name": "Surgenie",
                 "rarity": "Epic",
                 "imageSrc": "surge-surgenie.webp",
-                "themes": []
+                "themes": [
+                    "Sands of Time"
+                ]
             },
             {
                 "name": "True Gold Surge",
@@ -6143,7 +7435,10 @@
                 "name": "Villianous Skeletal Surge",
                 "rarity": "Epic",
                 "imageSrc": "surge-villainous-skeletal.png",
-                "themes": []
+                "themes": [
+                    "Brawl Pass",
+                    "Once Upon"
+                ]
             }
         ]
     }

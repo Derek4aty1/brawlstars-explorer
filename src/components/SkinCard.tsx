@@ -5,7 +5,7 @@ import FadeInImage from "@/components/FadeInImage";
 
 export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
   // TODO: Change...this sucks and is only temporary.
-  const spawnableSizeClasses = skin.secondaryImageSrc?.match(/-bruce\.|-no-clyde\.|-lawrie\.|-mech\.|-hypercharged\./) ? 'w-[256px] h-[256px]' : 'w-[128px] h-[128px]';
+  const spawnableSizeClasses = skin.secondaryImageSrc?.match(/-bruce\.|-no-clyde\.|-lawrie\.|-mecha\.|-hypercharged\./) ? 'w-[256px] h-[256px]' : 'w-[128px] h-[128px]';
 
   return (
     <figure className="h-full w-full flex flex-col items-center">
@@ -40,7 +40,7 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
               height={32}
               priority={true}
               draggable={false}
-              className="w-auto h-[32px] object-contain select-none"
+              className="w-auto h-auto object-contain select-none"
             />
           )}
           {skin.themes.map(theme => (
@@ -52,7 +52,7 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
               height={32}
               priority={true}
               draggable={false}
-              className="w-auto h-[32px] object-contain select-none"
+              className="w-auto h-auto object-contain select-none"
             />
           ))}
         </div>
