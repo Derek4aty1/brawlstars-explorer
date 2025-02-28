@@ -38,11 +38,11 @@ export default async function BrawlerPage({ params }: { params: Params }) {
   }
 
   return (
-    <section className="p-8 flex flex-col justify-center items-center">
+    <section className="flex p-8 flex-col justify-center items-center">
       <h1 className="w-full text-3xl uppercase">
         {brawlerData.name} ({brawlerData.skins.length})
       </h1>
-      <h2 className="pt-1 w-full text-xl uppercase flex justify-center ">
+      <h2 className="flex pt-1 w-full justify-center text-xl uppercase">
         <Image
           src={getBrawlerClassIcon(brawlerData.class)}
           alt={`${brawlerData.class} class icon`}
@@ -50,8 +50,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
           height={28}
           priority={true}
           draggable={false}
-          style={{ objectFit: "contain" }}
-          className="select-none mr-1"
+          className="mr-1 object-contain select-none"
         />
         {brawlerData.class}
       </h2>
@@ -61,7 +60,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       <h3 className="pt-1 w-full text-lg whitespace-pre-line xl:max-w-[50%]">
         {brawlerData.description}
       </h3>
-      <div className="pt-6 w-fit grid items-start gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+      <div className="grid pt-6 w-fit items-start gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
         {brawlerData.skins.map((skin, index) => (
           <SkinCard key={`${skin.name}-${index}`} skin={skin} />
         ))}

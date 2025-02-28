@@ -1,57 +1,58 @@
-'use client';
 import { BrawlerSkin } from "@/types/BrawlerTypes";
-import { getSkinCollectionIcon, getSkinRarityIcon } from "@/utils/uiAssetMapper";
+import { getSkinThemeIcon, getSkinRarityIcon } from "@/utils/uiAssetMapper";
 import Image from "next/image";
-import { useState } from "react";
-import { useInView } from "react-intersection-observer";
+import FadeInImage from "@/components/FadeInImage";
 
 export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
-  const [isLoaded, setIsLoaded] = useState(false);
-  const { ref, inView } = useInView({
-    triggerOnce: true
-  });
+  // TODO: Change...this sucks and is only temporary.
+  const spawnableSizeClasses = skin.secondaryImageSrc?.match(/-bruce\.|-no-clyde\.|-lawrie\.|-mech\.|-hypercharged\./) ? 'w-[256px] h-[256px]' : 'w-[128px] h-[128px]';
 
   return (
-    <figure className="flex flex-col w-full justify-center items-center">
-      <div ref={ref} className="relative h-[256px] w-[256px]">
-        <Image
-          src={skin.imageSrc}
-          alt={`${skin.name} skin`}
+    <figure className="h-full w-full flex flex-col items-center">
+      <FadeInImage
+        wrapperClassName="h-[256px] w-[256px]"
+        src={skin.imageSrc}
+        alt={`${skin.name} skin`}
+        fill={true}
+        draggable={false}
+        className="object-contain"
+      />
+      {skin.secondaryImageSrc && (
+        <FadeInImage
+          wrapperClassName={`mt-4 ${spawnableSizeClasses}`}
+          src={skin.secondaryImageSrc}
+          alt={`${skin.name} spawn`}
           fill={true}
           draggable={false}
-          onLoad={() => setIsLoaded(true)}
-          style={{ objectFit: "contain" }}
-          className={`select-none transition-opacity ease-linear ${isLoaded && inView ? 'opacity-100' : 'opacity-0'}`}
+          className="object-contain"
         />
-      </div>
-      <figcaption className="w-full pt-2 text-lg uppercase">
+      )}
+      <figcaption className="w-full mt-2 text-lg uppercase">
         {skin.name}
       </figcaption>
-      {(skin.rarity !== 'N/A' || skin.collections.length > 0) && (
-        <div className="flex flex-wrap gap-2 pt-1">
-          {skin.rarity !== 'N/A' && (
+      {(skin.rarity || skin.themes.length > 0) && (
+        <div className="flex flex-wrap gap-2 mt-1">
+          {skin.rarity && (
             <Image
               src={getSkinRarityIcon(skin.rarity)}
               alt={`${skin.rarity} skin rarity icon`}
-              width={28}
-              height={28}
+              width={32}
+              height={32}
               priority={true}
               draggable={false}
-              style={{ objectFit: "contain" }}
-              className="select-none"
+              className="w-auto h-[32px] object-contain select-none"
             />
           )}
-          {skin.collections.map((collection) => (
+          {skin.themes.map(theme => (
             <Image
-              key={collection}
-              src={getSkinCollectionIcon(collection)}
-              alt={`${collection} skin collection icon`}
-              width={28}
-              height={28}
+              key={theme}
+              src={getSkinThemeIcon(theme)}
+              alt={`${theme} skin theme icon`}
+              width={32}
+              height={32}
               priority={true}
               draggable={false}
-              style={{ objectFit: "contain" }}
-              className="select-none"
+              className="w-auto h-[32px] object-contain select-none"
             />
           ))}
         </div>

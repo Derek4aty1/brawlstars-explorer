@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: `Brawlstars Explorer | All Brawlers`
+    title: 'Brawlstars Explorer | All Brawlers'
   }
 }
 

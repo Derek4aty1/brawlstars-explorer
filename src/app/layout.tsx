@@ -6,15 +6,15 @@ import Scroll from "@/components/layout/Scroll";
 import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
-  title: "Brawlstars Explorer",
-  description: "Explore the Brawlstars universe!"
+  title: 'Brawlstars Explorer',
+  description: 'Explore the Brawlstars universe!'
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className="h-full">
       <Scroll />
-      <body className="m-0 p-0 min-h-full flex flex-col bg-blue-700 font-lilita-one text-shadow-outline text-center text-white text-balance">
+      <body className="flex flex-col m-0 p-0 min-h-full bg-blue-700 font-lilita-one text-shadow-outline text-center text-white text-balance">
         <Header />
         <div className="fixed top-0 left-0 w-full h-full z-[-1]">
           <video autoPlay playsInline loop muted className="w-full h-full object-cover overflow-hidden">

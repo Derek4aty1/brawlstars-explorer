@@ -1,4 +1,4 @@
-import { BrawlerClass, BrawlerRarity, BrawlerSkinRarity, BrawlerSkinCollection } from "@/types/BrawlerTypes";
+import { BrawlerClass, BrawlerRarity, BrawlerSkinRarity, BrawlerSkinTheme } from "@/types/BrawlerTypes";
 
 const rarityTextColors: Record<BrawlerRarity, string> = {
   'Common': 'text-common',
@@ -41,7 +41,6 @@ export function getBrawlerClassIcon(brawlerClass: BrawlerClass): string {
 }
 
 const skinRarityIconPaths: Record<BrawlerSkinRarity, string> = {
-  'N/A': '',
   'Rare': '/images/ui/skins/rarities/rare.png',
   'Super Rare': '/images/ui/skins/rarities/super-rare.png',
   'Epic': '/images/ui/skins/rarities/epic.png',
@@ -54,11 +53,12 @@ export function getSkinRarityIcon(rarity: BrawlerSkinRarity): string {
   return skinRarityIconPaths[rarity] || '';
 }
 
-const skinCollectionIconPaths: Record<BrawlerSkinCollection, string> = {
-  'True Gold': '/images/ui/skins/collections/true-gold.png',
-  'True Silver': '/images/ui/skins/collections/true-silver.png'
+const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
+  'Pro Pass': '/images/ui/skins/themes/pro-pass.png',
+  'True Gold': '/images/ui/skins/themes/true-gold.png',
+  'True Silver': '/images/ui/skins/themes/true-silver.png'
 };
 
-export function getSkinCollectionIcon(collection: BrawlerSkinCollection): string {
-  return skinCollectionIconPaths[collection] || '';
+export function getSkinThemeIcon(theme: BrawlerSkinTheme): string {
+  return skinThemeIconPaths[theme] || '';
 }
