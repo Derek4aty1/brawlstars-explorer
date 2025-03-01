@@ -450,8 +450,8 @@
         "themes": []
       },
       {
-        "name": "Astral Colt I",
-        "imageSrc": "colt-astral-i.png",
+        "name": "Astral Colt",
+        "imageSrc": "colt-astral.png",
         "themes": ["Pro Pass"]
       },
       {
