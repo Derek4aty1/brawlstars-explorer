@@ -588,8 +588,15 @@
                 "themes": []
             },
             {
-                "name": "Astral Colt",
-                "imageSrc": "colt-astral.png",
+                "name": "Astral Colt I",
+                "imageSrc": "colt-astral-i.png",
+                "themes": [
+                    "Pro Pass"
+                ]
+            },
+            {
+                "name": "Astral Colt IV",
+                "imageSrc": "colt-astral-iv.png",
                 "themes": [
                     "Pro Pass"
                 ]
@@ -652,6 +659,14 @@
                 ]
             },
             {
+                "name": "Guaurdian Colt",
+                "rarity": "Hypercharge",
+                "imageSrc": "colt-guardian.png",
+                "themes": [
+                    "Pro Pass"
+                ]
+            },
+            {
                 "name": "Gunslinger Colt",
                 "rarity": "Super Rare",
                 "imageSrc": "colt-gunslinger.webp",
@@ -666,6 +681,14 @@
                 "imageSrc": "colt-handsome.webp",
                 "themes": [
                     "City Troubles"
+                ]
+            },
+            {
+                "name": "Hyperion Colt",
+                "rarity": "Hypercharge",
+                "imageSrc": "colt-hyperion.png",
+                "themes": [
+                    "Pro Pass"
                 ]
             },
             {
@@ -761,6 +784,15 @@
                 "imageSrc": "colt-true-silver.webp",
                 "themes": [
                     "True Silver"
+                ]
+            },
+            {
+                "name": "Ultra Astral Colt",
+                "rarity": "Hypercharge",
+                "imageSrc": "colt-astral-iv.png",
+                "secondaryImageSrc": "colt-ultra-astral.png",
+                "themes": [
+                    "Pro Pass"
                 ]
             },
             {
@@ -1400,6 +1432,11 @@
                 "themes": [
                     "Clash Stories"
                 ]
+            },
+            {
+                "name": "Insector Carl",
+                "imageSrc": "carl-insector.png",
+                "themes": []
             },
             {
                 "name": "Leonard Carl",
@@ -2119,6 +2156,11 @@
                 ]
             },
             {
+                "name": "Egg Rico",
+                "imageSrc": "rico-egg.png",
+                "themes": []
+            },
+            {
                 "name": "Final Boss Rico",
                 "rarity": "Epic",
                 "imageSrc": "rico-final-boss.webp",
@@ -2405,6 +2447,13 @@
                 ]
             },
             {
+                "name": "P.E.K.K.A.S.H.",
+                "imageSrc": "ash-pekkash.png",
+                "themes": [
+                    "Clash Stories"
+                ]
+            },
+            {
                 "name": "Piñata Ash",
                 "rarity": "Epic",
                 "imageSrc": "ash-piñata.webp",
@@ -2527,6 +2576,12 @@
             {
                 "name": "Belle",
                 "imageSrc": "belle-default.webp",
+                "themes": []
+            },
+            {
+                "name": "Beach Belle",
+                "rarity": "Rare",
+                "imageSrc": "belle-beach.png",
                 "themes": []
             },
             {
@@ -2695,6 +2750,22 @@
                 ]
             },
             {
+                "name": "Injustice Smasher Bibi",
+                "rarity": "Epic",
+                "imageSrc": "bibi-injustice-smasher.png",
+                "themes": [
+                    "Brawl Pass"
+                ]
+            },
+            {
+                "name": "Justice Smasher Bibi",
+                "rarity": "Epic",
+                "imageSrc": "bibi-justice-smasher.png",
+                "themes": [
+                    "Brawl Pass"
+                ]
+            },
+            {
                 "name": "Thor Bibi",
                 "rarity": "Legendary",
                 "imageSrc": "bibi-thor.webp",
@@ -2722,6 +2793,14 @@
                 "imageSrc": "bibi-vicious.webp",
                 "themes": [
                     "The Bad Randoms"
+                ]
+            },
+            {
+                "name": "Virtue Smasher Bibi",
+                "rarity": "Epic",
+                "imageSrc": "bibi-virtue-smasher.png",
+                "themes": [
+                    "Brawl Pass"
                 ]
             },
             {
@@ -3302,6 +3381,13 @@
                 ]
             },
             {
+                "name": "Charcoal Frank",
+                "imageSrc": "frank-charcoal.png",
+                "themes": [
+                    "Brawl Pass"
+                ]
+            },
+            {
                 "name": "DJ Frank",
                 "rarity": "Super Rare",
                 "imageSrc": "frank-dj.webp",
@@ -3315,6 +3401,20 @@
                 "imageSrc": "frank-holiday-party.webp",
                 "themes": [
                     "Brawlidays"
+                ]
+            },
+            {
+                "name": "Mummified Frank",
+                "imageSrc": "frank-mummified.png",
+                "themes": [
+                    "Brawl Pass"
+                ]
+            },
+            {
+                "name": "Papyrus Frank",
+                "imageSrc": "frank-papyrus.png",
+                "themes": [
+                    "Brawl Pass"
                 ]
             },
             {
@@ -3535,6 +3635,11 @@
                 "themes": [
                     "Brawl-o-ween"
                 ]
+            },
+            {
+                "name": "Protector Grom",
+                "imageSrc": "grom-protector.png",
+                "themes": []
             },
             {
                 "name": "True Gold Grom",
@@ -3878,6 +3983,13 @@
                 "themes": []
             },
             {
+                "name": "Carnaval Mandy",
+                "imageSrc": "mandy-carnaval.png",
+                "themes": [
+                    "Brawlnaval"
+                ]
+            },
+            {
                 "name": "Hanbok Mandy",
                 "rarity": "Epic",
                 "imageSrc": "mandy-hanbok.webp",
@@ -3938,6 +4050,11 @@
             {
                 "name": "Meeple",
                 "imageSrc": "meeple-default.webp",
+                "themes": []
+            },
+            {
+                "name": "Mystic Meeple",
+                "imageSrc": "meeple-mystic.png",
                 "themes": []
             },
             {
@@ -4053,6 +4170,11 @@
                 "name": "Pam",
                 "imageSrc": "pam-default.webp",
                 "secondaryImageSrc": "pam-default-healing-turret.png",
+                "themes": []
+            },
+            {
+                "name": "Egg Pam",
+                "imageSrc": "pam-egg.png",
                 "themes": []
             },
             {
@@ -4296,6 +4418,11 @@
                 ]
             },
             {
+                "name": "Spectaculor Sam",
+                "imageSrc": "sam-spectaculor.png",
+                "themes": []
+            },
+            {
                 "name": "True Gold Sam",
                 "imageSrc": "sam-true-gold.webp",
                 "themes": [
@@ -4462,6 +4589,11 @@
                 "themes": [
                     "Rumble Jungle Heroes"
                 ]
+            },
+            {
+                "name": "Equilibrium Buster",
+                "imageSrc": "buster-equilibrium.png",
+                "themes": []
             },
             {
                 "name": "True Gold Buster",
@@ -4765,6 +4897,11 @@
                 ]
             },
             {
+                "name": "Electroid Chuck",
+                "imageSrc": "chuck-electroid.png",
+                "themes": []
+            },
+            {
                 "name": "Inferno Chuck",
                 "rarity": "Rare",
                 "imageSrc": "chuck-inferno.webp",
@@ -4892,6 +5029,12 @@
                 ]
             },
             {
+                "name": "Cored Eve",
+                "rarity": "Rare",
+                "imageSrc": "eve-cored.png",
+                "themes": []
+            },
+            {
                 "name": "Extraterrestrial Eve",
                 "rarity": "Epic",
                 "imageSrc": "eve-extraterrestrial.png",
@@ -4969,6 +5112,12 @@
                 "themes": [
                     "Lunar Brawl"
                 ]
+            },
+            {
+                "name": "First Mate Fang",
+                "rarity": "Rare",
+                "imageSrc": "fang-first-mate.png",
+                "themes": []
             },
             {
                 "name": "Furious Fang",
@@ -5211,6 +5360,11 @@
                 ]
             },
             {
+                "name": "Firewing Janet",
+                "imageSrc": "janet-firewing.png",
+                "themes": []
+            },
+            {
                 "name": "G-Force Janet",
                 "rarity": "Rare",
                 "imageSrc": "janet-g-force.webp",
@@ -5279,6 +5433,25 @@
                 "name": "Juju",
                 "imageSrc": "juju-default.webp",
                 "themes": []
+            },
+            {
+                "name": "Queen Juju",
+                "imageSrc": "juju-queen.png",
+                "themes": []
+            },
+            {
+                "name": "True Gold Juju",
+                "imageSrc": "juju-true-gold.png",
+                "themes": [
+                    "True Gold"
+                ]
+            },
+            {
+                "name": "True Silver Juju",
+                "imageSrc": "juju-true-silver.png",
+                "themes": [
+                    "True Silver"
+                ]
             },
             {
                 "name": "Unlucky Juju",
@@ -5961,6 +6134,11 @@
                 ]
             },
             {
+                "name": "PharaOllie",
+                "imageSrc": "ollie-pharaollie.png",
+                "themes": []
+            },
+            {
                 "name": "True Gold Ollie",
                 "imageSrc": "ollie-true-gold.png",
                 "themes": [
@@ -6139,6 +6317,11 @@
                 ]
             },
             {
+                "name": "Ruffesses II",
+                "imageSrc": "ruffs-ruffesses-ii.png",
+                "themes": []
+            },
+            {
                 "name": "Ruffs Chimmy",
                 "rarity": "Epic",
                 "imageSrc": "ruffs-ruffs-chimmy.webp",
@@ -6307,6 +6490,11 @@
                 "themes": [
                     "Come Play With Us!"
                 ]
+            },
+            {
+                "name": "Scarab Squeak",
+                "imageSrc": "squeak-scarab.png",
+                "themes": []
             },
             {
                 "name": "Squeaky Note",
@@ -6493,6 +6681,12 @@
                 ]
             },
             {
+                "name": "Fiendish Amber",
+                "rarity": "Rare",
+                "imageSrc": "amber-fiendish.png",
+                "themes": []
+            },
+            {
                 "name": "Frost Queen Amber",
                 "rarity": "Legendary",
                 "imageSrc": "amber-frost-queen.webp",
@@ -6581,6 +6775,13 @@
                 "imageSrc": "chester-true-silver.webp",
                 "themes": [
                     "True Silver"
+                ]
+            },
+            {
+                "name": "Uno Chester",
+                "imageSrc": "chester-uno.png",
+                "themes": [
+                    "Uno"
                 ]
             },
             {

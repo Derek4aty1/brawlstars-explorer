@@ -130,6 +130,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Toy Story': '/images/ui/skins/themes/toy-story.png',
   'True Gold': '/images/ui/skins/themes/true-gold.png',
   'True Silver': '/images/ui/skins/themes/true-silver.png',
+  'Uno': '/images/ui/skins/themes/uno.png',
   'Vibing': '/images/ui/skins/themes/vibing.png',
   'Warrior\'s Journey': '/images/ui/skins/themes/warriors-journey.png',
   'Wasteland': '/images/ui/skins/themes/wasteland.png'

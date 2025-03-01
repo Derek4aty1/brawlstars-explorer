@@ -79,6 +79,7 @@ export type BrawlerSkinTheme =
     | 'Toy Story'
     | 'True Gold'
     | 'True Silver'
+    | 'Uno'
     | 'Vibing'
     | 'Warrior\'s Journey'
     | 'Wasteland';
