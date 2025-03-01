@@ -1,7 +1,7 @@
 'use client';
-import Image, { ImageProps } from "next/image";
-import { ReactNode, useState } from "react";
-import { useInView } from "react-intersection-observer";
+import Image, { ImageProps } from 'next/image';
+import { ReactNode, useState } from 'react';
+import { useInView } from 'react-intersection-observer';
 
 interface FadeInImageProps extends ImageProps {
   wrapperClassName?: string;
@@ -9,7 +9,7 @@ interface FadeInImageProps extends ImageProps {
   children?: ReactNode;
 }
 
-export default function FadeInImage({ wrapperClassName = "", triggerOnce = true, children, ...props }: FadeInImageProps) {
+export default function FadeInImage({ wrapperClassName = '', triggerOnce = true, children, ...props }: FadeInImageProps) {
   const [isLoaded, setIsLoaded] = useState(false);
   const { ref, inView } = useInView({ triggerOnce });
 
@@ -20,11 +20,7 @@ export default function FadeInImage({ wrapperClassName = "", triggerOnce = true,
         onLoad={() => setIsLoaded(true)}
         className={`transition-opacity ease-linear ${isLoaded && inView ? 'opacity-100' : 'opacity-0'} ${props.className || ''}`}
       />
-      {children && (
-        <div className={`transition-opacity ease-linear ${inView ? 'opacity-100' : 'opacity-0'}`}>
-          {children}
-        </div>
-      )}
+      {children && <div className={`transition-opacity ease-linear ${inView ? 'opacity-100' : 'opacity-0'}`}>{children}</div>}
     </div>
   );
 }

@@ -51,6 +51,8 @@ This is a personal Next.js project showcasing asset art from Brawlstars.
 [![React][React-badge]][React-url]
 [![TypeScript][TypeScript-badge]][TypeScript-url]
 [![Tailwind_CSS][Tailwind-badge]][Tailwind-url]
+[![ESLint][ESLint-badge]][ESLint-url]
+[![Prettier][Prettier-badge]][Prettier-url]
 [![Vercel][Vercel-badge]][Vercel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

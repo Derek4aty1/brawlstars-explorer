@@ -1,4 +1,4 @@
-import { BrawlerClass, BrawlerRarity, BrawlerSkinRarity, BrawlerSkinTheme } from "@/types/BrawlerTypes";
+import { BrawlerClass, BrawlerRarity, BrawlerSkinRarity, BrawlerSkinTheme } from '@/types/BrawlerTypes';
 
 const rarityTextColors: Record<BrawlerRarity, string> = {
   'Common': 'text-common',
@@ -6,7 +6,7 @@ const rarityTextColors: Record<BrawlerRarity, string> = {
   'Super Rare': 'text-super-rare',
   'Epic': 'text-epic',
   'Mythic': 'text-mythic',
-  'Legendary': 'text-legendary'
+  'Legendary': 'text-legendary',
 };
 
 export function getRarityTextColor(rarity: BrawlerRarity): string {
@@ -19,7 +19,7 @@ const rarityBackgroundColors: Record<BrawlerRarity, string> = {
   'Super Rare': 'bg-super-rare',
   'Epic': 'bg-epic',
   'Mythic': 'bg-mythic',
-  'Legendary': 'bg-legendary'
+  'Legendary': 'bg-legendary',
 };
 
 export function getRarityBackgroundColor(rarity: BrawlerRarity): string {
@@ -33,7 +33,7 @@ const brawlerClassImagePaths: Record<BrawlerClass, string> = {
   'Damage Dealer': '/images/ui/classes/damage-dealer.png',
   'Marksman': '/images/ui/classes/marksman.png',
   'Support': '/images/ui/classes/support.png',
-  'Tank': '/images/ui/classes/tank.png'
+  'Tank': '/images/ui/classes/tank.png',
 };
 
 export function getBrawlerClassIcon(brawlerClass: BrawlerClass): string {
@@ -46,7 +46,7 @@ const skinRarityIconPaths: Record<BrawlerSkinRarity, string> = {
   'Epic': '/images/ui/skins/rarities/epic.png',
   'Mythic': '/images/ui/skins/rarities/mythic.png',
   'Legendary': '/images/ui/skins/rarities/legendary.png',
-  'Hypercharge': '/images/ui/skins/rarities/hypercharge.png'
+  'Hypercharge': '/images/ui/skins/rarities/hypercharge.png',
 };
 
 export function getSkinRarityIcon(rarity: BrawlerSkinRarity): string {
@@ -57,7 +57,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Angels vs. Demons': '/images/ui/skins/themes/angels-vs-demons.png',
   'Animal Kingdom': '/images/ui/skins/themes/animal-kingdom.png',
   'Anniversary': '/images/ui/skins/themes/anniversary.png',
-  'April Fool\'s': '/images/ui/skins/themes/april-fools.png',
+  "April Fool's": '/images/ui/skins/themes/april-fools.png',
   'Baby Shark': '/images/ui/skins/themes/baby-shark.png',
   'Biodome': '/images/ui/skins/themes/biodome.png',
   'Bizarre Circus': '/images/ui/skins/themes/bizarre-circus.png',
@@ -132,8 +132,8 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'True Silver': '/images/ui/skins/themes/true-silver.png',
   'Uno': '/images/ui/skins/themes/uno.png',
   'Vibing': '/images/ui/skins/themes/vibing.png',
-  'Warrior\'s Journey': '/images/ui/skins/themes/warriors-journey.png',
-  'Wasteland': '/images/ui/skins/themes/wasteland.png'
+  "Warrior's Journey": '/images/ui/skins/themes/warriors-journey.png',
+  'Wasteland': '/images/ui/skins/themes/wasteland.png',
 };
 
 export function getSkinThemeIcon(theme: BrawlerSkinTheme): string {
