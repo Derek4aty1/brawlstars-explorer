@@ -102,6 +102,7 @@ export type BrawlerSkin = {
   rarity?: BrawlerSkinRarity;
   imageSrc: string;
   secondaryImageSrc?: string; // Hypercharge/pets/turrets/etc.
+  secondaryImageSize?: 128 | 256;
   themes: BrawlerSkinTheme[];
 };
 

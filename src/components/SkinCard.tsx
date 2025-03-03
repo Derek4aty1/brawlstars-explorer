@@ -4,9 +4,8 @@ import Image from 'next/image';
 import FadeInImage from '@/components/FadeInImage';
 
 export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
-  // TODO: Change...this sucks and is only temporary.
-  const secondarySizeClasses = skin.secondaryImageSrc?.match(/-bruce\.|-astral\.|-no-clyde\.|-lawrie\.|-mecha\.|-hypercharged\./)
-    ? 'w-[256px] h-[256px]'
+  const secondarySizeClasses = skin.secondaryImageSize
+    ? `w-[${skin.secondaryImageSize}px] h-[${skin.secondaryImageSize}px]`
     : 'w-[128px] h-[128px]';
 
   const icons = [
