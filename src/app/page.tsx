@@ -4,11 +4,9 @@ import { getCachedAllBrawlerPortraits } from '@/utils/brawlerDataFetcher';
 import { getRarityTextColor } from '@/utils/uiAssetMapper';
 import { Metadata } from 'next';
 
-export async function generateMetadata(): Promise<Metadata> {
-  return {
-    title: 'Brawlstars Explorer | All Brawlers',
-  };
-}
+export const metadata: Metadata = {
+  title: 'Brawlstars Explorer | All Brawlers',
+};
 
 function RaritySection({ title, portraits }: { title: string; portraits: BrawlerPortrait[] }) {
   return (

@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 flex h-[64px] bg-black">
       <nav className="flex w-full">
-        <Link href="/" draggable={false} className="m-3 flex transition-transform hover:scale-110 active:scale-95">
+        <Link href="/" draggable={false} className="m-3 flex transition-transform hover:scale-110 active:scale-100">
           <Image
             src="/images/brawlstars-logo-wings.png"
             alt="Brawlstars logo with wings"
@@ -19,7 +19,7 @@ export default function Header() {
           href="https://github.com/Derek4aty1/brawlstars-explorer"
           target="_blank"
           draggable={false}
-          className="m-3 ml-auto flex items-center transition-transform hover:scale-110 active:scale-95"
+          className="m-3 ml-auto flex items-center transition-transform hover:scale-110 active:scale-100"
         >
           <Image src="/images/github-logo-white.svg" alt="Github logo" width={30} height={30} draggable={false} className="select-none" />
         </a>

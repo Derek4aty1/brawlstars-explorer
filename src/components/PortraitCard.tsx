@@ -8,21 +8,21 @@ export default function PortraitCard({ portrait }: { portrait: BrawlerPortrait }
   const objectFit = ['Pearl', 'Finx'].includes(portrait.name) ? 'cover' : 'contain';
 
   return (
-    <Link href={`/${portrait.name}`} draggable={false} className="transition-transform active:scale-95">
-      <figure
-        draggable={false}
-        className="flex flex-col items-center gap-2 rounded-md border-[3px] border-transparent transition-transform hover:scale-105 hover:border-white hover:bg-white"
-      >
+    <Link
+      href={`/${portrait.name}`}
+      draggable={false}
+      className="rounded-md border-[3px] border-transparent transition-transform hover:scale-105 hover:border-white hover:bg-white active:scale-100"
+    >
+      <figure className={`relative rounded border-[3px] border-black shadow-2xl ${getRarityBackgroundColor(portrait.rarity)}`}>
         <FadeInImage
-          wrapperClassName={`w-[160px] aspect-[16/10] border-[3px] border-black shadow-2xl rounded ${getRarityBackgroundColor(portrait.rarity)}`}
           src={portrait.imageSrc}
           alt={`${portrait.name} portrait`}
-          fill={true}
+          fill
           draggable={false}
+          wrapperClassName="w-[160px] h-[100px]"
           className={`object-${objectFit} object-left`}
-        >
-          <figcaption className="absolute bottom-0 right-0 px-1 text-sm uppercase leading-5">{portrait.name}</figcaption>
-        </FadeInImage>
+        />
+        <figcaption className="absolute bottom-0 right-0 px-1 text-sm uppercase leading-5">{portrait.name}</figcaption>
       </figure>
     </Link>
   );
