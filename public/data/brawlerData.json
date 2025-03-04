@@ -230,13 +230,13 @@
       {
         "name": "Gold Hacker Brock",
         "rarity": "Epic",
-        "imageSrc": "brock-gold-hacker.webp",
+        "imageSrc": "brock-gold-hacker.png",
         "themes": ["Brawl Pass", "CyberBrawl"]
       },
       {
         "name": "Hacker Brock",
         "rarity": "Epic",
-        "imageSrc": "brock-hacker.webp",
+        "imageSrc": "brock-hacker.png",
         "themes": ["Brawl Pass", "CyberBrawl"]
       },
       {
@@ -266,7 +266,7 @@
       {
         "name": "RGB Hacker Brock",
         "rarity": "Epic",
-        "imageSrc": "brock-rgb-hacker.webp",
+        "imageSrc": "brock-rgb-hacker.png",
         "themes": ["Brawl Pass", "CyberBrawl"]
       },
       {
@@ -284,31 +284,31 @@
       {
         "name": "Super Ranger Brock Black",
         "rarity": "Epic",
-        "imageSrc": "brock-super-ranger-brock-black.webp",
+        "imageSrc": "brock-super-ranger-brock-black.png",
         "themes": ["Max Force"]
       },
       {
         "name": "Super Ranger Brock Blue",
         "rarity": "Epic",
-        "imageSrc": "brock-super-ranger-brock-blue.webp",
+        "imageSrc": "brock-super-ranger-brock-blue.png",
         "themes": ["Max Force"]
       },
       {
         "name": "Super Ranger Brock Pink",
         "rarity": "Epic",
-        "imageSrc": "brock-super-ranger-brock-pink.webp",
+        "imageSrc": "brock-super-ranger-brock-pink.png",
         "themes": ["Max Force"]
       },
       {
         "name": "Super Ranger Brock Red",
         "rarity": "Epic",
-        "imageSrc": "brock-super-ranger-brock-red.webp",
+        "imageSrc": "brock-super-ranger-brock-red.png",
         "themes": ["Max Force"]
       },
       {
         "name": "Super Ranger Brock Yellow",
         "rarity": "Epic",
-        "imageSrc": "brock-super-ranger-brock-yellow.webp",
+        "imageSrc": "brock-super-ranger-brock-yellow.png",
         "themes": ["Max Force"]
       },
       {
@@ -799,8 +799,6 @@
         "name": "Reinbear Nita",
         "rarity": "Epic",
         "imageSrc": "nita-reinbear.png",
-        "secondaryImageSrc": null,
-        "secondaryImageSize": 256,
         "themes": ["Brawlidays"]
       },
       {
@@ -1749,13 +1747,13 @@
       {
         "name": "Redjacket Rico",
         "rarity": "Rare",
-        "imageSrc": "rico-redjacket.webp",
+        "imageSrc": "rico-redjacket.png",
         "themes": ["City Troubles"]
       },
       {
         "name": "Reloaded Ricochet",
         "rarity": "Super Rare",
-        "imageSrc": "rico-reloaded-ricochet.webp",
+        "imageSrc": "rico-reloaded-ricochet.png",
         "themes": ["Outlaws"]
       },
       {
@@ -1767,19 +1765,25 @@
       {
         "name": "Sovereign Bling Rico",
         "rarity": "Hypercharge",
-        "imageSrc": "rico-sovereign-bling.webp",
+        "imageSrc": "rico-sovereign-bling.png",
+        "secondaryImageSrc": "rico-sovereign-bling-hypercharged.webp",
+        "secondaryImageSize": 256,
         "themes": ["Royals"]
       },
       {
         "name": "Sovereign Gem Rico",
         "rarity": "Hypercharge",
-        "imageSrc": "rico-sovereign-gem.webp",
+        "imageSrc": "rico-sovereign-gem.png",
+        "secondaryImageSrc": "rico-sovereign-gem-hypercharged.webp",
+        "secondaryImageSize": 256,
         "themes": ["Royals"]
       },
       {
         "name": "Sovereign Rico",
         "rarity": "Hypercharge",
-        "imageSrc": "rico-sovereign.webp",
+        "imageSrc": "rico-sovereign.png",
+        "secondaryImageSrc": "rico-sovereign-hypercharged.webp",
+        "secondaryImageSize": 256,
         "themes": ["Royals"]
       },
       {
@@ -3148,6 +3152,7 @@
       },
       {
         "name": "Carnaval Mandy",
+        "rarity": "Mythic",
         "imageSrc": "mandy-carnaval.png",
         "themes": ["Brawlnaval"]
       },

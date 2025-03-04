@@ -35,18 +35,18 @@ export default function SkinCard({ skin }: { skin: BrawlerSkin }) {
       )}
       <figcaption className="mt-2 w-full text-lg uppercase">{skin.name}</figcaption>
       {icons.length > 0 && (
-        <div className="mt-1 flex place-content-center items-center gap-2">
+        <div className="mt-1 flex w-full place-content-center items-center gap-1.5">
           {icons.map(({ key, src, alt }) => (
-            <Image
+            <FadeInImage
               key={key}
               src={src}
               alt={alt}
               title={key}
               width={32}
               height={32}
-              priority
               draggable={false}
-              className="h-auto max-h-[32px] w-auto max-w-[32px] select-none object-contain"
+              wrapperClassName="w-[32px] h-[32px] flex items-center justify-center"
+              className="h-auto max-h-[32px] w-auto max-w-[32px] select-none"
             />
           ))}
         </div>

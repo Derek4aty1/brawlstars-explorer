@@ -4,6 +4,7 @@ import { getBrawlerData, getAllBrawlerNames } from '@/utils/brawlerDataFetcher';
 import { Metadata } from 'next';
 import { notFound, redirect } from 'next/navigation';
 import { getBrawlerClassIcon } from '@/utils/uiAssetMapper';
+import FadeInImage from '@/components/FadeInImage';
 
 type Params = Promise<{ brawlerName: string }>;
 
@@ -42,15 +43,15 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       <h1 className="w-full text-3xl uppercase">
         {brawlerData.name} ({brawlerData.skins.length})
       </h1>
-      <h2 className="flex w-full justify-center pt-1 text-xl uppercase">
-        <Image
+      <h2 className="flex w-full items-center justify-center pt-1 text-xl uppercase">
+        <FadeInImage
           src={getBrawlerClassIcon(brawlerData.class)}
           alt={`${brawlerData.class} class icon`}
-          width={28}
-          height={28}
-          priority
+          width={32}
+          height={32}
           draggable={false}
-          className="mr-1 select-none object-contain"
+          wrapperClassName="mr-1 h-[32px] w-[32px] flex items-center justify-center"
+          className="select-none"
         />
         {brawlerData.class}
       </h2>
