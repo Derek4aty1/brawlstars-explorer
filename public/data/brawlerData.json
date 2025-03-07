@@ -2676,6 +2676,7 @@
       },
       {
         "name": "Charcoal Frank",
+        "rarity": "Epic",
         "imageSrc": "frank-charcoal.png",
         "themes": ["Brawl Pass", "Dark Sands"]
       },
@@ -2693,11 +2694,13 @@
       },
       {
         "name": "Mummified Frank",
+        "rarity": "Epic",
         "imageSrc": "frank-mummified.png",
         "themes": ["Brawl Pass", "Dark Sands"]
       },
       {
         "name": "Papyrus Frank",
+        "rarity": "Epic",
         "imageSrc": "frank-papyrus.png",
         "themes": ["Brawl Pass", "Dark Sands"]
       },
