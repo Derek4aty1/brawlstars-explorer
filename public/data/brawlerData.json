@@ -2677,7 +2677,7 @@
       {
         "name": "Charcoal Frank",
         "imageSrc": "frank-charcoal.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Dark Sands"]
       },
       {
         "name": "DJ Frank",
@@ -2694,12 +2694,12 @@
       {
         "name": "Mummified Frank",
         "imageSrc": "frank-mummified.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Dark Sands"]
       },
       {
         "name": "Papyrus Frank",
         "imageSrc": "frank-papyrus.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Dark Sands"]
       },
       {
         "name": "Parasol Frank",
