@@ -4331,8 +4331,9 @@
       },
       {
         "name": "Queen Juju",
+        "rarity": "Super Rare",
         "imageSrc": "juju-queen.png",
-        "themes": []
+        "themes": ["Dark Sands"]
       },
       {
         "name": "True Gold Juju",
