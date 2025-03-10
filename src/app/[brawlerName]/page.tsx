@@ -43,7 +43,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       <h1 className="w-full text-3xl uppercase">
         {brawlerData.name} ({brawlerData.skins.length})
       </h1>
-      <h2 className="flex w-full items-center justify-center pt-1 text-xl uppercase">
+      <h2 className="mt-1 flex w-full items-center justify-center text-xl uppercase">
         <FadeInImage
           src={getBrawlerClassIcon(brawlerData.class)}
           alt={`${brawlerData.class} class icon`}
@@ -55,9 +55,9 @@ export default async function BrawlerPage({ params }: { params: Params }) {
         />
         {brawlerData.class}
       </h2>
-      <h2 className="w-full pt-1 text-xl">Mastery Title: {brawlerData.masteryTitle}</h2>
-      <h3 className="w-full whitespace-pre-line pt-1 text-lg xl:max-w-[50%]">{brawlerData.description}</h3>
-      <div className="grid w-fit grid-cols-1 items-start gap-8 pt-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+      <h2 className="mt-1 w-full text-xl">Mastery Title: {brawlerData.masteryTitle}</h2>
+      <h3 className="mt-1 w-full whitespace-pre-line text-lg xl:max-w-[50%]">{brawlerData.description}</h3>
+      <div className="mt-6 grid w-fit grid-cols-1 items-start gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
         {brawlerData.skins.map((skin, index) => (
           <SkinCard key={`${skin.name}-${index}`} skin={skin} />
         ))}

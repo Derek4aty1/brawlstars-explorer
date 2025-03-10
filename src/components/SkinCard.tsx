@@ -1,6 +1,5 @@
 import { BrawlerSkin } from '@/types/BrawlerTypes';
 import { getSkinThemeIcon, getSkinRarityIcon } from '@/utils/uiAssetMapper';
-import Image from 'next/image';
 import FadeInImage from '@/components/FadeInImage';
 
 export default function SkinCard({ skin }: { skin: BrawlerSkin }) {

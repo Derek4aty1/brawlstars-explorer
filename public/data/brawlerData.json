@@ -5052,8 +5052,9 @@
       },
       {
         "name": "Ruffesses II",
+        "rarity": "Super Rare",
         "imageSrc": "ruffs-ruffesses-ii.png",
-        "themes": []
+        "themes": ["Dark Sands"]
       },
       {
         "name": "Ruffs Chimmy",

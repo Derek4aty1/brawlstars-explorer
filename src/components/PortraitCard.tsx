@@ -22,7 +22,7 @@ export default function PortraitCard({ portrait }: { portrait: BrawlerPortrait }
           wrapperClassName="w-[160px] h-[100px]"
           className={`object-${objectFit} object-left`}
         />
-        <figcaption className="absolute bottom-0 right-0 px-1 text-sm uppercase leading-5">{portrait.name}</figcaption>
+        <figcaption className="absolute bottom-0 right-0 mr-1 text-sm uppercase leading-5">{portrait.name}</figcaption>
       </figure>
     </Link>
   );
