@@ -446,7 +446,7 @@
     "skins": [
       {
         "name": "Colt",
-        "imageSrc": "colt-default.webp",
+        "imageSrc": "colt-default.png",
         "themes": []
       },
       {
@@ -462,67 +462,71 @@
       {
         "name": "Atl. Nacional Colt",
         "rarity": "Rare",
-        "imageSrc": "colt-atl.-nacional.webp",
+        "imageSrc": "colt-atl-nacional.png",
         "themes": ["Latin America Master League"]
       },
       {
         "name": "Bananas Colt",
         "rarity": "Epic",
-        "imageSrc": "colt-bananas.webp",
+        "imageSrc": "colt-bananas.png",
         "themes": ["Rumble Jungle Heroes"]
       },
       {
         "name": "Cerro Porteño Colt",
         "rarity": "Rare",
-        "imageSrc": "colt-cerro-porteño.webp",
+        "imageSrc": "colt-cerro-porteño.png",
         "themes": ["Latin America Master League"]
       },
       {
         "name": "Challenger Colt",
         "rarity": "Epic",
-        "imageSrc": "colt-challenger.webp",
+        "imageSrc": "colt-challenger.png",
         "themes": ["Brawl Stars Championship"]
       },
       {
         "name": "Club America Colt",
         "rarity": "Rare",
-        "imageSrc": "colt-club-america.webp",
+        "imageSrc": "colt-club-america.png",
         "themes": ["Latin America Master League"]
       },
       {
         "name": "Corsair Colt",
         "rarity": "Epic",
-        "imageSrc": "colt-corsair.webp",
+        "imageSrc": "colt-corsair.png",
         "themes": ["Tales of the Sea"]
       },
       {
         "name": "Dark Angel Colt",
         "rarity": "Epic",
-        "imageSrc": "colt-dark-angel.webp",
+        "imageSrc": "colt-dark-angel.png",
         "themes": ["Angels vs. Demons", "Supercell Make"]
       },
       {
         "name": "Guaurdian Colt",
         "rarity": "Hypercharge",
         "imageSrc": "colt-guardian.png",
+        "secondaryImageSrc": "colt-guardian-hypercharged.png",
+        "secondaryImageSize": 256,
         "themes": ["Pro Pass"]
       },
       {
         "name": "Gunslinger Colt",
         "rarity": "Super Rare",
-        "imageSrc": "colt-gunslinger.webp",
+        "imageSrc": "colt-gunslinger.png",
         "themes": ["Brawl Pass", "Outlaws"]
       },
       {
         "name": "Handsome Colt",
         "rarity": "Super Rare",
-        "imageSrc": "colt-handsome.webp",
+        "imageSrc": "colt-handsome.png",
         "themes": ["City Troubles"]
       },
       {
         "name": "Hyperion Colt",
         "rarity": "Hypercharge",
         "imageSrc": "colt-hyperion.png",
+        "secondaryImageSrc": "colt-hyperion-hypercharged.png",
+        "secondaryImageSize": 256,
         "themes": ["Pro Pass"]
       },
       {
@@ -534,72 +538,72 @@
       {
         "name": "Light Angel Colt",
         "rarity": "Epic",
-        "imageSrc": "colt-light-angel.webp",
+        "imageSrc": "colt-light-angel.png",
         "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Mecha Colt",
         "rarity": "Legendary",
-        "imageSrc": "colt-mecha.webp",
+        "imageSrc": "colt-mecha.png",
         "themes": ["Mecha Squad"]
       },
       {
         "name": "Outlaw Colt",
         "rarity": "Rare",
-        "imageSrc": "colt-outlaw.webp",
+        "imageSrc": "colt-outlaw.png",
         "themes": ["Outlaws"]
       },
       {
         "name": "Paragon Mecha Colt",
         "rarity": "Legendary",
-        "imageSrc": "colt-paragon-mecha.webp",
+        "imageSrc": "colt-paragon-mecha.png",
         "themes": ["Mecha Squad"]
       },
       {
         "name": "Renegade Mecha Colt",
         "rarity": "Legendary",
-        "imageSrc": "colt-renegade-mecha.webp",
+        "imageSrc": "colt-renegade-mecha.png",
         "themes": ["Mecha Squad"]
       },
       {
         "name": "River Plate Colt",
         "rarity": "Rare",
-        "imageSrc": "colt-river-plate.webp",
+        "imageSrc": "colt-river-plate.png",
         "themes": ["Latin America Master League"]
       },
       {
         "name": "Rockstar Colt",
         "rarity": "Rare",
-        "imageSrc": "colt-rockstar.webp",
+        "imageSrc": "colt-rockstar.png",
         "themes": ["Vibing"]
       },
       {
         "name": "Royal Agent Colt",
         "rarity": "Epic",
-        "imageSrc": "colt-royal-agent.webp",
+        "imageSrc": "colt-royal-agent.png",
         "themes": ["Lunar Brawl"]
       },
       {
         "name": "Sharktooth Colt",
         "rarity": "Super Rare",
-        "imageSrc": "colt-sharktooth.webp",
+        "imageSrc": "colt-sharktooth.png",
         "themes": ["Brawl Pass", "Deep Sea League"]
       },
       {
         "name": "True Gold Colt",
-        "imageSrc": "colt-true-gold.webp",
+        "imageSrc": "colt-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Colt",
-        "imageSrc": "colt-true-silver.webp",
+        "imageSrc": "colt-true-silver.png",
         "themes": ["True Silver"]
       },
       {
         "name": "Ultra Astral Colt",
         "rarity": "Hypercharge",
-        "imageSrc": "colt-astral-iv.png",
-        "secondaryImageSrc": "colt-ultra-astral.png",
+        "imageSrc": "colt-ultra-astral.png",
+        "secondaryImageSrc": "colt-ultra-astral-hypercharged.png",
         "secondaryImageSize": 256,
         "themes": ["Pro Pass"]
       },
@@ -1088,37 +1092,37 @@
     "skins": [
       {
         "name": "Carl",
-        "imageSrc": "carl-default.webp",
+        "imageSrc": "carl-default.png",
         "themes": []
       },
       {
         "name": "Biker Carl",
         "rarity": "Epic",
-        "imageSrc": "carl-biker.webp",
+        "imageSrc": "carl-biker.png",
         "themes": ["Brawl Pass", "Stunt Show"]
       },
       {
         "name": "Captain Carl",
         "rarity": "Epic",
-        "imageSrc": "carl-captain.webp",
+        "imageSrc": "carl-captain.png",
         "themes": ["Tales of the Sea"]
       },
       {
         "name": "Dark Tide Carl",
         "rarity": "Epic",
-        "imageSrc": "carl-dark-tide.webp",
+        "imageSrc": "carl-dark-tide.png",
         "themes": ["Tales of the Sea"]
       },
       {
         "name": "Goblin Carl",
         "rarity": "Rare",
-        "imageSrc": "carl-goblin.webp",
+        "imageSrc": "carl-goblin.png",
         "themes": ["Clash Stories"]
       },
       {
         "name": "Hog Rider Carl",
         "rarity": "Super Rare",
-        "imageSrc": "carl-hog-rider.webp",
+        "imageSrc": "carl-hog-rider.png",
         "themes": ["Clash Stories"]
       },
       {
@@ -1129,35 +1133,35 @@
       {
         "name": "Leonard Carl",
         "rarity": "Super Rare",
-        "imageSrc": "carl-leonard.webp",
+        "imageSrc": "carl-leonard.png",
         "themes": ["Brown & Friends"]
       },
       {
         "name": "Road Rage Carl",
         "rarity": "Super Rare",
-        "imageSrc": "carl-road-rage.webp",
+        "imageSrc": "carl-road-rage.png",
         "themes": ["Retropolis Nights"]
       },
       {
         "name": "Sultan Carl",
         "rarity": "Epic",
-        "imageSrc": "carl-sultan.webp",
+        "imageSrc": "carl-sultan.png",
         "themes": ["Sands of Time"]
       },
       {
         "name": "Surfer Carl",
         "rarity": "Epic",
-        "imageSrc": "carl-surfer.webp",
+        "imageSrc": "carl-surfer.png",
         "themes": ["Brawl Pass", "Summer of Brawl"]
       },
       {
         "name": "True Gold Carl",
-        "imageSrc": "carl-true-gold.webp",
+        "imageSrc": "carl-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Carl",
-        "imageSrc": "carl-true-silver.webp",
+        "imageSrc": "carl-true-silver.png",
         "themes": ["True Silver"]
       }
     ]
@@ -1918,7 +1922,7 @@
     "skins": [
       {
         "name": "Ash",
-        "imageSrc": "ash-default.webp",
+        "imageSrc": "ash-default.png",
         "secondaryImageSrc": "ash-default-little-helper.png",
         "secondaryImageSize": 128,
         "themes": []
@@ -1932,13 +1936,13 @@
       {
         "name": "Krampus Ash",
         "rarity": "Super Rare",
-        "imageSrc": "ash-krampus.webp",
+        "imageSrc": "ash-krampus.png",
         "themes": ["Dark Winter Tales"]
       },
       {
         "name": "Ninja Ash",
         "rarity": "Epic",
-        "imageSrc": "ash-ninja.webp",
+        "imageSrc": "ash-ninja.png",
         "themes": ["Brawl Pass", "The Ayakashi Clan"]
       },
       {
@@ -1949,23 +1953,23 @@
       {
         "name": "Piñata Ash",
         "rarity": "Epic",
-        "imageSrc": "ash-piñata.webp",
+        "imageSrc": "ash-piñata.png",
         "themes": ["Ranked", "Sugar Rush"]
       },
       {
         "name": "Pizza Oven Ash",
         "rarity": "Epic",
-        "imageSrc": "ash-pizza-oven.webp",
+        "imageSrc": "ash-pizza-oven.png",
         "themes": ["Starry Meal"]
       },
       {
         "name": "True Gold Ash",
-        "imageSrc": "ash-true-gold.webp",
+        "imageSrc": "ash-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Ash",
-        "imageSrc": "ash-true-silver.webp",
+        "imageSrc": "ash-true-silver.png",
         "themes": ["True Silver"]
       }
     ]
@@ -2041,7 +2045,7 @@
     "skins": [
       {
         "name": "Belle",
-        "imageSrc": "belle-default.webp",
+        "imageSrc": "belle-default.png",
         "themes": []
       },
       {
@@ -2053,13 +2057,13 @@
       {
         "name": "Belle Goldhand",
         "rarity": "Epic",
-        "imageSrc": "belle-belle-goldhand.webp",
+        "imageSrc": "belle-goldhand.png",
         "themes": ["Brawl Pass", "Outlaws"]
       },
       {
         "name": "Coral Belle",
         "rarity": "Epic",
-        "imageSrc": "belle-coral.webp",
+        "imageSrc": "belle-coral.png",
         "themes": ["Deep Sea League"]
       },
       {
@@ -2071,17 +2075,17 @@
       {
         "name": "Ivy Belle",
         "rarity": "Super Rare",
-        "imageSrc": "belle-ivy.webp",
+        "imageSrc": "belle-ivy.png",
         "themes": ["Biodome"]
       },
       {
         "name": "True Gold Belle",
-        "imageSrc": "belle-true-gold.webp",
+        "imageSrc": "belle-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Belle",
-        "imageSrc": "belle-true-silver.webp",
+        "imageSrc": "belle-true-silver.png",
         "themes": ["True Silver"]
       }
     ]
@@ -2854,25 +2858,25 @@
     "skins": [
       {
         "name": "Grom",
-        "imageSrc": "grom-default.webp",
+        "imageSrc": "grom-default.png",
         "themes": []
       },
       {
         "name": "Bunny Grom",
         "rarity": "Super Rare",
-        "imageSrc": "grom-bunny.webp",
+        "imageSrc": "grom-bunny.png",
         "themes": ["Bunny Brigade"]
       },
       {
         "name": "Dasis Grom",
         "rarity": "Mythic",
-        "imageSrc": "grom-dasis.webp",
+        "imageSrc": "grom-dasis.png",
         "themes": ["Warrior's Journey"]
       },
       {
         "name": "FrankenGrom",
         "rarity": "Epic",
-        "imageSrc": "grom-frankengrom.webp",
+        "imageSrc": "grom-frankengrom.png",
         "themes": ["Brawl-o-ween"]
       },
       {
@@ -2882,12 +2886,12 @@
       },
       {
         "name": "True Gold Grom",
-        "imageSrc": "grom-true-gold.webp",
+        "imageSrc": "grom-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Grom",
-        "imageSrc": "grom-true-silver.webp",
+        "imageSrc": "grom-true-silver.png",
         "themes": ["True Silver"]
       }
     ]
@@ -3150,7 +3154,7 @@
     "skins": [
       {
         "name": "Mandy",
-        "imageSrc": "mandy-default.webp",
+        "imageSrc": "mandy-default.png",
         "themes": []
       },
       {
@@ -3162,13 +3166,13 @@
       {
         "name": "Hanbok Mandy",
         "rarity": "Epic",
-        "imageSrc": "mandy-hanbok.webp",
+        "imageSrc": "mandy-hanbok.png",
         "themes": ["Bountiful Harvest"]
       },
       {
         "name": "Magma Mandy",
         "rarity": "Epic",
-        "imageSrc": "mandy-magma.webp",
+        "imageSrc": "mandy-magma.png",
         "themes": ["Brawl Pass", "Flaming"]
       },
       {
@@ -3180,17 +3184,17 @@
       {
         "name": "MC Mandy",
         "rarity": "Rare",
-        "imageSrc": "mandy-mc.webp",
+        "imageSrc": "mandy-mc.png",
         "themes": ["Vibing"]
       },
       {
         "name": "True Gold Mandy",
-        "imageSrc": "mandy-true-gold.webp",
+        "imageSrc": "mandy-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Mandy",
-        "imageSrc": "mandy-true-silver.webp",
+        "imageSrc": "mandy-true-silver.png",
         "themes": ["True Silver"]
       }
     ]
@@ -3205,7 +3209,7 @@
     "skins": [
       {
         "name": "Meeple",
-        "imageSrc": "meeple-default.webp",
+        "imageSrc": "meeple-default.png",
         "themes": []
       },
       {
@@ -3496,25 +3500,25 @@
     "skins": [
       {
         "name": "Sam",
-        "imageSrc": "sam-default.webp",
+        "imageSrc": "sam-default.png",
         "themes": []
       },
       {
         "name": "Caesar Sam",
         "rarity": "Epic",
-        "imageSrc": "sam-caesar.webp",
+        "imageSrc": "sam-caesar.png",
         "themes": ["Brawl Pass", "Legends of Olympus"]
       },
       {
         "name": "Dark Clown Sam",
         "rarity": "Super Rare",
-        "imageSrc": "sam-dark-clown.webp",
+        "imageSrc": "sam-dark-clown.png",
         "themes": ["Bizarre Circus"]
       },
       {
         "name": "Sam the Teddy",
         "rarity": "Rare",
-        "imageSrc": "sam-sam-the-teddy.webp",
+        "imageSrc": "sam-the-teddy.png",
         "themes": ["My Brawlentine"]
       },
       {
@@ -3524,18 +3528,18 @@
       },
       {
         "name": "True Gold Sam",
-        "imageSrc": "sam-true-gold.webp",
+        "imageSrc": "sam-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Sam",
-        "imageSrc": "sam-true-silver.webp",
+        "imageSrc": "sam-true-silver.png",
         "themes": ["True Silver"]
       },
       {
         "name": "Yeti Sam",
         "rarity": "Epic",
-        "imageSrc": "sam-yeti.webp",
+        "imageSrc": "sam-yeti.png",
         "themes": ["Dark Winter Tales"]
       }
     ]
@@ -4050,25 +4054,25 @@
     "skins": [
       {
         "name": "Fang",
-        "imageSrc": "fang-default.webp",
+        "imageSrc": "fang-default.png",
         "themes": []
       },
       {
         "name": "Blue Pitcher Fang",
         "rarity": "Epic",
-        "imageSrc": "fang-blue-pitcher.webp",
+        "imageSrc": "fang-blue-pitcher.png",
         "themes": ["Super Brawl"]
       },
       {
         "name": "Fanguard",
         "rarity": "Mythic",
-        "imageSrc": "fang-fanguard.webp",
+        "imageSrc": "fang-fanguard.png",
         "themes": ["CyberBrawl"]
       },
       {
         "name": "Ferocious Fang",
         "rarity": "Epic",
-        "imageSrc": "fang-ferocious.webp",
+        "imageSrc": "fang-ferocious.png",
         "themes": ["Lunar Brawl"]
       },
       {
@@ -4080,25 +4084,25 @@
       {
         "name": "Furious Fang",
         "rarity": "Epic",
-        "imageSrc": "fang-furious.webp",
+        "imageSrc": "fang-furious.png",
         "themes": ["Brawl Pass"]
       },
       {
         "name": "Kabocha Fang",
         "rarity": "Epic",
-        "imageSrc": "fang-kabocha.webp",
+        "imageSrc": "fang-kabocha.png",
         "themes": ["Brawl-o-ween", "Supercell Make"]
       },
       {
         "name": "Octo Fang",
         "rarity": "Super Rare",
-        "imageSrc": "fang-octo.webp",
+        "imageSrc": "fang-octo.png",
         "themes": ["Deep Sea League"]
       },
       {
         "name": "Red Pitcher Fang",
         "rarity": "Epic",
-        "imageSrc": "fang-red-pitcher.webp",
+        "imageSrc": "fang-red-pitcher.png",
         "themes": ["Super Brawl"]
       },
       {
@@ -4109,12 +4113,12 @@
       },
       {
         "name": "True Gold Fang",
-        "imageSrc": "fang-true-gold.webp",
+        "imageSrc": "fang-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Fang",
-        "imageSrc": "fang-true-silver.webp",
+        "imageSrc": "fang-true-silver.png",
         "themes": ["True Silver"]
       }
     ]
@@ -4326,7 +4330,7 @@
     "skins": [
       {
         "name": "Juju",
-        "imageSrc": "juju-default.webp",
+        "imageSrc": "juju-default.png",
         "themes": []
       },
       {
@@ -4348,7 +4352,7 @@
       {
         "name": "Unlucky Juju",
         "rarity": "Rare",
-        "imageSrc": "juju-unlucky.webp",
+        "imageSrc": "juju-unlucky.png",
         "themes": ["Misc"]
       }
     ]
@@ -5327,19 +5331,19 @@
     "skins": [
       {
         "name": "Amber",
-        "imageSrc": "amber-default.webp",
+        "imageSrc": "amber-default.png",
         "themes": []
       },
       {
         "name": "Amber De La Vega",
         "rarity": "Epic",
-        "imageSrc": "amber-amber-de-la-vega.webp",
+        "imageSrc": "amber-amber-de-la-vega.png",
         "themes": ["Outlaws"]
       },
       {
         "name": "Bubble Trouble Amber",
         "rarity": "Epic",
-        "imageSrc": "amber-bubble-trouble.webp",
+        "imageSrc": "amber-bubble-trouble.png",
         "themes": ["Summer of Brawl", "Supercell Make"]
       },
       {
@@ -5351,17 +5355,17 @@
       {
         "name": "Frost Queen Amber",
         "rarity": "Legendary",
-        "imageSrc": "amber-frost-queen.webp",
+        "imageSrc": "amber-frost-queen.png",
         "themes": ["Dark Winter Tales"]
       },
       {
         "name": "True Gold Amber",
-        "imageSrc": "amber-true-gold.webp",
+        "imageSrc": "amber-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Amber",
-        "imageSrc": "amber-true-silver.webp",
+        "imageSrc": "amber-true-silver.png",
         "themes": ["True Silver"]
       }
     ]
@@ -5391,19 +5395,19 @@
     "skins": [
       {
         "name": "Chester",
-        "imageSrc": "chester-default.webp",
+        "imageSrc": "chester-default.png",
         "themes": []
       },
       {
         "name": "Dark Chester",
         "rarity": "Rare",
-        "imageSrc": "chester-dark.webp",
+        "imageSrc": "chester-dark.png",
         "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Loki Chester",
         "rarity": "Epic",
-        "imageSrc": "chester-loki.webp",
+        "imageSrc": "chester-loki.png",
         "themes": ["Northern Saga", "Ranked"]
       },
       {
@@ -5414,12 +5418,12 @@
       },
       {
         "name": "True Gold Chester",
-        "imageSrc": "chester-true-gold.webp",
+        "imageSrc": "chester-true-gold.png",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Chester",
-        "imageSrc": "chester-true-silver.webp",
+        "imageSrc": "chester-true-silver.png",
         "themes": ["True Silver"]
       },
       {
@@ -5430,7 +5434,7 @@
       {
         "name": "Wood Spirit Chester",
         "rarity": "Super Rare",
-        "imageSrc": "chester-wood-spirit.webp",
+        "imageSrc": "chester-wood-spirit.png",
         "themes": ["Enchanted Woods"]
       }
     ]
