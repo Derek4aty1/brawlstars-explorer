@@ -4900,8 +4900,9 @@
       },
       {
         "name": "PharaOllie",
+        "rarity": "Epic",
         "imageSrc": "ollie-pharaollie.png",
-        "themes": []
+        "themes": ["Dark Sands"]
       },
       {
         "name": "True Gold Ollie",
