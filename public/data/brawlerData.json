@@ -3214,8 +3214,9 @@
       },
       {
         "name": "Mystic Meeple",
+        "rarity": "Epic",
         "imageSrc": "meeple-mystic.png",
-        "themes": []
+        "themes": ["Dark Sands"]
       },
       {
         "name": "Strike Meeple",
