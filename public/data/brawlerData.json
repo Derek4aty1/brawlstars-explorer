@@ -803,6 +803,8 @@
         "name": "Reinbear Nita",
         "rarity": "Epic",
         "imageSrc": "nita-reinbear.png",
+        "secondaryImageSrc": "nita-reinbear-bruce.png",
+        "secondaryImageSize": 256,
         "themes": ["Brawlidays"]
       },
       {
