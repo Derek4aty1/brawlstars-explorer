@@ -2054,7 +2054,7 @@
         "name": "Beach Belle",
         "rarity": "Rare",
         "imageSrc": "belle-beach.png",
-        "themes": []
+        "themes": ["Summer of Brawl"]
       },
       {
         "name": "Belle Goldhand",
@@ -4015,7 +4015,7 @@
         "name": "Cored Eve",
         "rarity": "Rare",
         "imageSrc": "eve-cored.png",
-        "themes": []
+        "themes": ["Starry Meal"]
       },
       {
         "name": "Extraterrestrial Eve",
@@ -4082,7 +4082,7 @@
         "name": "First Mate Fang",
         "rarity": "Rare",
         "imageSrc": "fang-first-mate.png",
-        "themes": []
+        "themes": ["Outlaws"]
       },
       {
         "name": "Furious Fang",
@@ -5200,8 +5200,9 @@
       },
       {
         "name": "Scarab Squeak",
+        "rarity": "Epic",
         "imageSrc": "squeak-scarab.png",
-        "themes": []
+        "themes": ["Dark Sands"]
       },
       {
         "name": "Squeaky Note",
@@ -5354,7 +5355,7 @@
         "name": "Fiendish Amber",
         "rarity": "Rare",
         "imageSrc": "amber-fiendish.png",
-        "themes": []
+        "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Frost Queen Amber",
