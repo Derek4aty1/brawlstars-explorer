@@ -1717,8 +1717,9 @@
       },
       {
         "name": "Egg Rico",
+        "rarity": "Mythic",
         "imageSrc": "rico-egg.png",
-        "themes": []
+        "themes": ["April Fool's"]
       },
       {
         "name": "Final Boss Rico",
@@ -3326,8 +3327,9 @@
       },
       {
         "name": "Egg Pam",
+        "rarity": "Mythic",
         "imageSrc": "pam-egg.png",
-        "themes": []
+        "themes": ["April Fool's"]
       },
       {
         "name": "Evil Queen Pam",
