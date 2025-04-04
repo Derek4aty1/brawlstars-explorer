@@ -3329,6 +3329,8 @@
         "name": "Egg Pam",
         "rarity": "Mythic",
         "imageSrc": "pam-egg.png",
+        "secondaryImageSrc": "pam-egg-healing-turret.png",
+        "secondaryImageSize": 128,
         "themes": ["April Fool's"]
       },
       {
