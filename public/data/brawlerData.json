@@ -2189,13 +2189,13 @@
         "name": "Injustice Smasher Bibi",
         "rarity": "Epic",
         "imageSrc": "bibi-injustice-smasher.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Brawl Unite"]
       },
       {
         "name": "Justice Smasher Bibi",
         "rarity": "Epic",
         "imageSrc": "bibi-justice-smasher.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Brawl Unite"]
       },
       {
         "name": "Thor Bibi",
@@ -2223,7 +2223,7 @@
         "name": "Virtue Smasher Bibi",
         "rarity": "Epic",
         "imageSrc": "bibi-virtue-smasher.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Brawl Unite"]
       },
       {
         "name": "ZomBibi",

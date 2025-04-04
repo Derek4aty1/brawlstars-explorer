@@ -12,6 +12,7 @@ const SKIN_THEMES = [
   'Bizarre Circus',
   'Bountiful Harvest',
   'Brawl Academy',
+  'Brawl Unite',
   'Brawl Pass',
   'Brawl Stars Championship',
   'Brawl-o-ween',

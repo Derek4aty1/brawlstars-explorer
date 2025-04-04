@@ -63,6 +63,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Bizarre Circus': '/images/ui/skins/themes/bizarre-circus.png',
   'Bountiful Harvest': '/images/ui/skins/themes/bountiful-harvest.png',
   'Brawl Academy': '/images/ui/skins/themes/brawl-academy.png',
+  'Brawl Unite': '/images/ui/skins/themes/brawl-unite.png',
   'Brawl Pass': '/images/ui/skins/themes/brawl-pass.png',
   'Brawl Stars Championship': '/images/ui/skins/themes/brawl-stars-championship.png',
   'Brawl-o-ween': '/images/ui/skins/themes/brawl-o-ween.png',
