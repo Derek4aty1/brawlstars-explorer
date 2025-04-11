@@ -2884,8 +2884,9 @@
       },
       {
         "name": "Protector Grom",
+        "rarity": "Epic",
         "imageSrc": "grom-protector.png",
-        "themes": []
+        "themes": ["Brawl Unite"]
       },
       {
         "name": "True Gold Grom",
@@ -3907,8 +3908,9 @@
       },
       {
         "name": "Electroid Chuck",
+        "rarity": "Epic",
         "imageSrc": "chuck-electroid.png",
-        "themes": []
+        "themes": ["Brawl Unite"]
       },
       {
         "name": "Inferno Chuck",
@@ -4282,8 +4284,9 @@
       },
       {
         "name": "Firewing Janet",
+        "rarity": "Epic",
         "imageSrc": "janet-firewing.png",
-        "themes": []
+        "themes": ["Brawl Unite"]
       },
       {
         "name": "G-Force Janet",
