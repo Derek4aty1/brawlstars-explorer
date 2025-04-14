@@ -3531,8 +3531,9 @@
       },
       {
         "name": "Spectaculor Sam",
+        "rarity": "Epic",
         "imageSrc": "sam-spectaculor.png",
-        "themes": []
+        "themes": ["Brawl Unite"]
       },
       {
         "name": "True Gold Sam",
@@ -5440,6 +5441,7 @@
       },
       {
         "name": "Uno Chester",
+        "rarity": "Epic",
         "imageSrc": "chester-uno.png",
         "themes": ["Uno"]
       },
