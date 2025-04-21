@@ -1129,8 +1129,9 @@
       },
       {
         "name": "Insector Carl",
+        "rarity": "Epic",
         "imageSrc": "carl-insector.png",
-        "themes": []
+        "themes": ["Brawl Unite"]
       },
       {
         "name": "Leonard Carl",
@@ -3672,8 +3673,9 @@
       },
       {
         "name": "Equilibrium Buster",
+        "rarity": "Epic",
         "imageSrc": "buster-equilibrium.png",
-        "themes": []
+        "themes": ["Brawl Unite"]
       },
       {
         "name": "True Gold Buster",
@@ -4477,7 +4479,7 @@
         "name": "Dark Knight Lumi",
         "rarity": "Rare",
         "imageSrc": "lumi-dark-knight.png",
-        "themes": ["Once Upon"]
+        "themes": ["Misc"]
       }
     ]
   },
