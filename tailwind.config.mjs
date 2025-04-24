@@ -11,6 +11,7 @@ export const theme = {
       'epic': '#b116ec',
       'mythic': '#ff0021',
       'legendary': '#fff11e',
+      'ultra-legendary': '#fff11e',
     },
     fontFamily: {
       'lilita-one': 'Lilita One',

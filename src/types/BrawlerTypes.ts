@@ -1,4 +1,4 @@
-export type BrawlerRarity = 'Common' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary';
+export type BrawlerRarity = 'Common' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Ultra Legendary';
 export type BrawlerClass = 'Artillery' | 'Assassin' | 'Controller' | 'Damage Dealer' | 'Marksman' | 'Support' | 'Tank';
 export type BrawlerSkinRarity = 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Hypercharge';
 
@@ -8,6 +8,7 @@ const SKIN_THEMES = [
   'Anniversary',
   "April Fool's",
   'Baby Shark',
+  'Battle For Katana Kingdom',
   'Biodome',
   'Bizarre Circus',
   'Bountiful Harvest',

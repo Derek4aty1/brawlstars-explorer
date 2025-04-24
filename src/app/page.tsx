@@ -29,6 +29,7 @@ export default async function AllBrawlersPage() {
   const epicPortraits = allBrawlerPortraits.filter((portrait) => portrait.rarity === 'Epic');
   const mythicPortraits = allBrawlerPortraits.filter((portrait) => portrait.rarity === 'Mythic');
   const legendaryPortraits = allBrawlerPortraits.filter((portrait) => portrait.rarity === 'Legendary');
+  const ultraLegendaryPortraits = allBrawlerPortraits.filter((portrait) => portrait.rarity === 'Ultra Legendary');
 
   return (
     <section className="flex flex-col justify-center p-8">
@@ -39,6 +40,7 @@ export default async function AllBrawlersPage() {
       <RaritySection title={`Epic (${epicPortraits.length})`} portraits={epicPortraits} />
       <RaritySection title={`Mythic (${mythicPortraits.length})`} portraits={mythicPortraits} />
       <RaritySection title={`Legendary (${legendaryPortraits.length})`} portraits={legendaryPortraits} />
+      <RaritySection title={`Ultra Legendary (${ultraLegendaryPortraits.length})`} portraits={ultraLegendaryPortraits} />
     </section>
   );
 }

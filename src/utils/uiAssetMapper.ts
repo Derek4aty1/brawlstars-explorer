@@ -7,6 +7,7 @@ const rarityTextColors: Record<BrawlerRarity, string> = {
   'Epic': 'text-epic',
   'Mythic': 'text-mythic',
   'Legendary': 'text-legendary',
+  'Ultra Legendary': 'text-ultra-legendary',
 };
 
 export function getRarityTextColor(rarity: BrawlerRarity): string {
@@ -20,6 +21,7 @@ const rarityBackgroundColors: Record<BrawlerRarity, string> = {
   'Epic': 'bg-epic',
   'Mythic': 'bg-mythic',
   'Legendary': 'bg-legendary',
+  'Ultra Legendary': 'bg-ultra-legendary',
 };
 
 export function getRarityBackgroundColor(rarity: BrawlerRarity): string {
@@ -59,6 +61,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Anniversary': '/images/ui/skins/themes/anniversary.png',
   "April Fool's": '/images/ui/skins/themes/april-fools.png',
   'Baby Shark': '/images/ui/skins/themes/baby-shark.png',
+  'Battle For Katana Kingdom': '/images/ui/skins/themes/battle-for-katana-kingdom.png',
   'Biodome': '/images/ui/skins/themes/biodome.png',
   'Bizarre Circus': '/images/ui/skins/themes/bizarre-circus.png',
   'Bountiful Harvest': '/images/ui/skins/themes/bountiful-harvest.png',

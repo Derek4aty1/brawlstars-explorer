@@ -383,6 +383,12 @@
         "themes": ["BT21"]
       },
       {
+        "name": "Kansai Dragon Bull",
+        "rarity": "Rare",
+        "imageSrc": "bull-kansai-dragon.png",
+        "themes": []
+      },
+      {
         "name": "Linebacker Bull",
         "rarity": "Super Rare",
         "imageSrc": "bull-linebacker.webp",
@@ -986,6 +992,12 @@
         "themes": ["Cartoon Studios", "Ranked"]
       },
       {
+        "name": "Sunflowerosa",
+        "rarity": "Rare",
+        "imageSrc": "rosa-sunflowerosa.png",
+        "themes": []
+      },
+      {
         "name": "True Gold Rosa",
         "imageSrc": "rosa-true-gold.webp",
         "themes": ["True Gold"]
@@ -1302,6 +1314,12 @@
         "rarity": "Epic",
         "imageSrc": "dynamike-dynasty.webp",
         "themes": ["Ranked", "Sands of Time"]
+      },
+      {
+        "name": "Firecracker Wizard Mike",
+        "rarity": "Rare",
+        "imageSrc": "dynamike-firecracker-wizard.png",
+        "themes": []
       },
       {
         "name": "Flamengo Mike",
@@ -1905,6 +1923,11 @@
         "themes": ["Enchanted Woods"]
       },
       {
+        "name": "Tengu Angelo",
+        "imageSrc": "angelo-tengu.png",
+        "themes": ["Battle For Katana Kingdom"]
+      },
+      {
         "name": "True Gold Angelo",
         "imageSrc": "angelo-true-gold.webp",
         "themes": ["True Gold"]
@@ -1965,6 +1988,17 @@
         "rarity": "Epic",
         "imageSrc": "ash-pizza-oven.png",
         "themes": ["Starry Meal"]
+      },
+      {
+        "name": "Sandcastle Ash",
+        "rarity": "Rare",
+        "imageSrc": "ash-sandcastle.png",
+        "themes": []
+      },
+      {
+        "name": "Shinobi Ash",
+        "imageSrc": "ash-shinobi.png",
+        "themes": ["Battle For Katana Kingdom"]
       },
       {
         "name": "True Gold Ash",
@@ -2464,6 +2498,11 @@
         "themes": ["Brawl Pass", "Cartoon Studios"]
       },
       {
+        "name": "Tokusatsu Colette",
+        "imageSrc": "colette-Tokusatsu.png",
+        "themes": []
+      },
+      {
         "name": "Trixie Colette",
         "rarity": "Epic",
         "imageSrc": "colette-trixie.webp",
@@ -2515,6 +2554,12 @@
         "themes": ["Biodome"]
       },
       {
+        "name": "Drift Edgar",
+        "rarity": "Epic",
+        "imageSrc": "edgar-drift.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Edgar Tata",
         "rarity": "Epic",
         "imageSrc": "edgar-edgar-tata.webp",
@@ -2527,6 +2572,12 @@
         "secondaryImageSrc": "edgar-lightbearer-hypercharged.png",
         "secondaryImageSize": 256,
         "themes": ["Angels vs. Demons"]
+      },
+      {
+        "name": "Masked Edgar",
+        "rarity": "Epic",
+        "imageSrc": "edgar-masked.png",
+        "themes": ["Brawl Pass"]
       },
       {
         "name": "Mecha Edgar",
@@ -2565,6 +2616,12 @@
         "rarity": "Super Rare",
         "imageSrc": "edgar-quickdraw.webp",
         "themes": ["Outlaws"]
+      },
+      {
+        "name": "Shin Edgar",
+        "rarity": "Epic",
+        "imageSrc": "edgar-shin.png",
+        "themes": ["Brawl Pass"]
       },
       {
         "name": "Thief Edgar",
@@ -2829,6 +2886,11 @@
         "themes": ["Gaming"]
       },
       {
+        "name": "Intergalactic Griff",
+        "imageSrc": "griff-intergalactic.png",
+        "themes": []
+      },
+      {
         "name": "Sleigher Griff",
         "rarity": "Epic",
         "imageSrc": "griff-sleigher.webp",
@@ -2882,6 +2944,12 @@
         "rarity": "Epic",
         "imageSrc": "grom-frankengrom.png",
         "themes": ["Brawl-o-ween"]
+      },
+      {
+        "name": "Grombin Hood",
+        "rarity": "Rare",
+        "imageSrc": "grom-grombin-hood.png",
+        "themes": []
       },
       {
         "name": "Protector Grom",
@@ -3201,6 +3269,11 @@
         "name": "True Silver Mandy",
         "imageSrc": "mandy-true-silver.png",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Witch Mandy",
+        "imageSrc": "mandy-witch.png",
+        "themes": ["Clash Stories"]
       }
     ]
   },
@@ -3470,6 +3543,12 @@
         "themes": ["Brawlnaval"]
       },
       {
+        "name": "Kasa-Obake Piper",
+        "rarity": "Epic",
+        "imageSrc": "piper-kasa-obake.png",
+        "themes": ["Battle For Katana Kingdom", "Brawl Pass"]
+      },
+      {
         "name": "Lunar Piper",
         "rarity": "Epic",
         "imageSrc": "piper-lunar.webp",
@@ -3496,6 +3575,18 @@
         "name": "True Silver Piper",
         "imageSrc": "piper-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Tsukumogami Piper",
+        "rarity": "Epic",
+        "imageSrc": "piper-tsukumogami.png",
+        "themes": ["Battle For Katana Kingdom", "Brawl Pass"]
+      },
+      {
+        "name": "Yokai Piper",
+        "rarity": "Epic",
+        "imageSrc": "piper-yokai.png",
+        "themes": ["Battle For Katana Kingdom", "Brawl Pass"]
       }
     ]
   },
@@ -3572,6 +3663,11 @@
         "rarity": "Rare",
         "imageSrc": "shade-cinema.png",
         "themes": ["City Troubles"]
+      },
+      {
+        "name": "Street Shade",
+        "imageSrc": "shade-street.png",
+        "themes": ["Brawl Stars Championship"]
       },
       {
         "name": "True Gold Shade",
@@ -3953,6 +4049,11 @@
         "themes": ["City Troubles"]
       },
       {
+        "name": "Kaiju Clancy",
+        "imageSrc": "clancy-kaiju.png",
+        "themes": []
+      },
+      {
         "name": "True Gold Clancy",
         "imageSrc": "clancy-true-gold.png",
         "themes": ["True Gold"]
@@ -4149,10 +4250,28 @@
         "themes": []
       },
       {
+        "name": "Crimson Tyfinx",
+        "rarity": "Legendary",
+        "imageSrc": "finx-crimson-tyfinx.png",
+        "themes": ["Mecha Squad"]
+      },
+      {
         "name": "Jurassic Finx",
         "rarity": "Rare",
         "imageSrc": "finx-jurassic.png",
         "themes": ["Misc"]
+      },
+      {
+        "name": "Mecha Chief Finx",
+        "rarity": "Legendary",
+        "imageSrc": "finx-mecha-chief.png",
+        "themes": ["Mecha Squad"]
+      },
+      {
+        "name": "Mecha Finx",
+        "rarity": "Legendary",
+        "imageSrc": "finx-mecha.png",
+        "themes": ["Mecha Squad"]
       }
     ]
   },
@@ -4263,6 +4382,32 @@
         "name": "True Silver Gray",
         "imageSrc": "gray-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Wanderer Gray",
+        "imageSrc": "gray-wanderer.png",
+        "themes": ["Battle For Katana Kingdom"]
+      }
+    ]
+  },
+  {
+    "name": "Jae-yong",
+    "rarity": "Mythic",
+    "class": "Support",
+    "description": "By day, Jae-yong is your average office worker. By night, he is a karaoke GOD... or so he thinks. The jury is still out on his singing skills.",
+    "masteryTitle": "Amor Fati",
+    "portraitImageSrc": "jae-yong.png",
+    "skins": [
+      {
+        "name": "Jae-yong",
+        "imageSrc": "jae-yong-default.png",
+        "themes": []
+      },
+      {
+        "name": "Jammin' Jae-yong",
+        "rarity": "Rare",
+        "imageSrc": "jae-yong-jammin.png",
+        "themes": []
       }
     ]
   },
@@ -4421,6 +4566,12 @@
         "themes": []
       },
       {
+        "name": "Bandito Lou",
+        "rarity": "Rare",
+        "imageSrc": "lou-bandito.png",
+        "themes": []
+      },
+      {
         "name": "Burger Lou",
         "rarity": "Super Rare",
         "imageSrc": "lou-burger.webp",
@@ -4479,7 +4630,7 @@
         "name": "Dark Knight Lumi",
         "rarity": "Rare",
         "imageSrc": "lumi-dark-knight.png",
-        "themes": ["Misc"]
+        "themes": ["Once Upon"]
       }
     ]
   },
@@ -4629,6 +4780,11 @@
         "rarity": "Rare",
         "imageSrc": "mico-macaron.webp",
         "themes": ["City Troubles"]
+      },
+      {
+        "name": "Monstro Mico",
+        "imageSrc": "mico-monstro.png",
+        "themes": []
       },
       {
         "name": "True Gold Mico",
@@ -4842,7 +4998,7 @@
         "imageSrc": "mr-p-agent.webp",
         "secondaryImageSrc": "mr-p-agent-porter.png",
         "secondaryImageSize": 128,
-        "themes": ["City Troubles"]
+        "themes": ["License to Brawl"]
       },
       {
         "name": "Count Pengula",
@@ -5148,6 +5304,11 @@
         "themes": ["Once Upon"]
       },
       {
+        "name": "Tanuki Sprout",
+        "imageSrc": "sprout-tanuki.png",
+        "themes": ["Battle For Katana Kingdom"]
+      },
+      {
         "name": "Tropical Sprout",
         "rarity": "Rare",
         "imageSrc": "sprout-tropical.webp",
@@ -5256,6 +5417,11 @@
         "rarity": "Epic",
         "imageSrc": "tara-ragequit.webp",
         "themes": ["Brawl Stars Championship"]
+      },
+      {
+        "name": "Shukuteki Tara",
+        "imageSrc": "tara-shukuteki.png",
+        "themes": ["Battle For Katana Kingdom"]
       },
       {
         "name": "Stara",
@@ -5664,6 +5830,12 @@
         "themes": ["Brawl Pass", "StarrForce Assemble"]
       },
       {
+        "name": "Cursed Kenji",
+        "rarity": "Legendary",
+        "imageSrc": "kenji-cursed.png",
+        "themes": ["Battle For Katana Kingdom"]
+      },
+      {
         "name": "True Gold Kenji",
         "imageSrc": "kenji-true-gold.webp",
         "themes": ["True Gold"]
@@ -5885,6 +6057,12 @@
         "secondaryImageSrc": "meg-true-silver-mecha.png",
         "secondaryImageSize": 256,
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Whisked Meg",
+        "rarity": "Rare",
+        "imageSrc": "meg-whisked.png",
+        "themes": []
       }
     ]
   },
@@ -6078,6 +6256,12 @@
         "themes": ["Max Force"]
       },
       {
+        "name": "Secret Surgevice",
+        "rarity": "Rare",
+        "imageSrc": "surge-secret-surgevice.png",
+        "themes": []
+      },
+      {
         "name": "Skeletal Surge",
         "rarity": "Epic",
         "imageSrc": "surge-skeletal.png",
@@ -6116,6 +6300,31 @@
         "rarity": "Epic",
         "imageSrc": "surge-villainous-skeletal.png",
         "themes": ["Brawl Pass", "Once Upon"]
+      }
+    ]
+  },
+  {
+    "name": "Kaze",
+    "rarity": "Ultra Legendary",
+    "class": "Assassin",
+    "description": "Kaze was raised to be a living weapon by her parents, but this was not the life she wanted. After escaping to Starr Park with Kenji, she can now live how she wants. However, she is still torn between the two aspects of her life, being a humble geisha and a deadly ninja.",
+    "masteryTitle": "Ninja",
+    "portraitImageSrc": "kaze.png",
+    "skins": [
+      {
+        "name": "Kaze",
+        "imageSrc": "kaze-default.png",
+        "secondaryImageSrc": "kaze-default-ninja.png",
+        "secondaryImageSize": 256,
+        "themes": []
+      },
+      {
+        "name": "Fruity Kaze",
+        "rarity": "Rare",
+        "imageSrc": "kaze-fruity.png",
+        "secondaryImageSrc": "kaze-fruity-ninja.png",
+        "secondaryImageSize": 256,
+        "themes": []
       }
     ]
   }
