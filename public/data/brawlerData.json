@@ -5836,6 +5836,12 @@
         "themes": ["Battle For Katana Kingdom"]
       },
       {
+        "name": "Oni Kenji",
+        "rarity": "Hypercharge",
+        "imageSrc": "kenji-oni.png",
+        "themes": ["Battle For Katana Kingdom"]
+      },
+      {
         "name": "True Gold Kenji",
         "imageSrc": "kenji-true-gold.webp",
         "themes": ["True Gold"]
