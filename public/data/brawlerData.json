@@ -6068,6 +6068,8 @@
         "name": "Whisked Meg",
         "rarity": "Rare",
         "imageSrc": "meg-whisked.png",
+        "secondaryImageSrc": "meg-whisked-mecha.png",
+        "secondaryImageSize": 256,
         "themes": []
       }
     ]
