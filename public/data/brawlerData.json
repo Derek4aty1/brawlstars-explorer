@@ -1143,7 +1143,7 @@
         "name": "Insector Carl",
         "rarity": "Epic",
         "imageSrc": "carl-insector.png",
-        "themes": ["Brawl Unite"]
+        "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
         "name": "Leonard Carl",
@@ -2955,7 +2955,7 @@
         "name": "Protector Grom",
         "rarity": "Epic",
         "imageSrc": "grom-protector.png",
-        "themes": ["Brawl Unite"]
+        "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
         "name": "True Gold Grom",
@@ -3625,7 +3625,7 @@
         "name": "Spectaculor Sam",
         "rarity": "Epic",
         "imageSrc": "sam-spectaculor.png",
-        "themes": ["Brawl Unite"]
+        "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
         "name": "True Gold Sam",
@@ -3771,7 +3771,7 @@
         "name": "Equilibrium Buster",
         "rarity": "Epic",
         "imageSrc": "buster-equilibrium.png",
-        "themes": ["Brawl Unite"]
+        "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
         "name": "True Gold Buster",
@@ -4009,7 +4009,7 @@
         "name": "Electroid Chuck",
         "rarity": "Epic",
         "imageSrc": "chuck-electroid.png",
-        "themes": ["Brawl Unite"]
+        "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
         "name": "Inferno Chuck",
@@ -4434,7 +4434,7 @@
         "name": "Firewing Janet",
         "rarity": "Epic",
         "imageSrc": "janet-firewing.png",
-        "themes": ["Brawl Unite"]
+        "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
         "name": "G-Force Janet",
