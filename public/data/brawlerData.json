@@ -1924,6 +1924,7 @@
       },
       {
         "name": "Tengu Angelo",
+        "rarity": "Epic",
         "imageSrc": "angelo-tengu.png",
         "themes": ["Battle For Katana Kingdom"]
       },
@@ -1997,8 +1998,9 @@
       },
       {
         "name": "Shinobi Ash",
+        "rarity": "Epic",
         "imageSrc": "ash-shinobi.png",
-        "themes": ["Battle For Katana Kingdom"]
+        "themes": ["The Ayakashi Clan"]
       },
       {
         "name": "True Gold Ash",
@@ -4385,6 +4387,7 @@
       },
       {
         "name": "Wanderer Gray",
+        "rarity": "Epic",
         "imageSrc": "gray-wanderer.png",
         "themes": ["Battle For Katana Kingdom"]
       }
@@ -5305,6 +5308,7 @@
       },
       {
         "name": "Tanuki Sprout",
+        "rarity": "Epic",
         "imageSrc": "sprout-tanuki.png",
         "themes": ["Battle For Katana Kingdom"]
       },
@@ -5420,6 +5424,7 @@
       },
       {
         "name": "Shukuteki Tara",
+        "rarity": "Epic",
         "imageSrc": "tara-shukuteki.png",
         "themes": ["Battle For Katana Kingdom"]
       },
