@@ -96,7 +96,14 @@ export type BrawlerData = {
   description: string;
   masteryTitle: string;
   portraitImageSrc: string;
+  gadgets: BrawlerGadget[];
   skins: BrawlerSkin[];
+};
+
+export type BrawlerGadget = {
+  name: string;
+  imageSrc: string;
+  description: string;
 };
 
 export type BrawlerSkin = {

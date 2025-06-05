@@ -6,6 +6,18 @@
     "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
     "masteryTitle": "No time to explain!",
     "portraitImageSrc": "shelly.png",
+    "gadgets": [
+      {
+        "name": "Fast Forward",
+        "imageSrc": "shelly-fast-forward.png",
+        "description": ""
+      },
+      {
+        "name": "Clay Pigeons",
+        "imageSrc": "shelly-clay-pigeons.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Shelly",
@@ -126,6 +138,18 @@
     "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
     "masteryTitle": "You got served!",
     "portraitImageSrc": "barley.png",
+    "gadgets": [
+      {
+        "name": "Sticky Syrup Mixer",
+        "imageSrc": "barley-sticky-syrup-mixer.png",
+        "description": ""
+      },
+      {
+        "name": "Herbal Tonic",
+        "imageSrc": "barley-herbal-tonic.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Barley",
@@ -198,6 +222,18 @@
     "description": "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!",
     "masteryTitle": "Boom!",
     "portraitImageSrc": "brock.png",
+    "gadgets": [
+      {
+        "name": "Rocket Laces",
+        "imageSrc": "brock-rocket-laces.png",
+        "description": ""
+      },
+      {
+        "name": "Rocket Fuel",
+        "imageSrc": "brock-rocket-fuel.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Brock",
@@ -352,6 +388,18 @@
     "description": "Bull isn't as carefree as he was in his youth, but just because his rowdy days are behind him doesn't mean he won't still crush someone who's asking for it.",
     "masteryTitle": "Bulldozer!",
     "portraitImageSrc": "bull.png",
+    "gadgets": [
+      {
+        "name": "T-Bone Injector",
+        "imageSrc": "bull-t-bone-injector.png",
+        "description": ""
+      },
+      {
+        "name": "Stomper",
+        "imageSrc": "bull-stomper.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Bull",
@@ -449,6 +497,18 @@
     "description": "Colt is the star attraction at Starr Park! His good looks, charisma and gun twirling tricks win over any audience, except maybe Shelly.",
     "masteryTitle": "The Pretty",
     "portraitImageSrc": "colt.png",
+    "gadgets": [
+      {
+        "name": "Speedloader",
+        "imageSrc": "colt-speedloader.png",
+        "description": ""
+      },
+      {
+        "name": "Silver Bullet",
+        "imageSrc": "colt-silver-bullet.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Colt",
@@ -628,6 +688,18 @@
     "description": "El Primo is always in the spotlight and that's right where he wants to be! There's no audience he can't win over, except maybe his fellow performers...",
     "masteryTitle": "El Luchador",
     "portraitImageSrc": "el-primo.png",
+    "gadgets": [
+      {
+        "name": "Suplex Supplement",
+        "imageSrc": "el-primo-suplex-supplement.png",
+        "description": ""
+      },
+      {
+        "name": "Asteroid Belt",
+        "imageSrc": "el-primo-asteroid-belt.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "El Primo",
@@ -749,6 +821,18 @@
     "description": "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.",
     "masteryTitle": "The Untamed",
     "portraitImageSrc": "nita.png",
+    "gadgets": [
+      {
+        "name": "Bear Paws",
+        "imageSrc": "nita-bear-paws.png",
+        "description": ""
+      },
+      {
+        "name": "Faux Fur",
+        "imageSrc": "nita-faux-fur.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Nita",
@@ -876,6 +960,18 @@
     "description": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
     "masteryTitle": "El Mariachi",
     "portraitImageSrc": "poco.png",
+    "gadgets": [
+      {
+        "name": "Tuning Fork",
+        "imageSrc": "poco-tuning-fork.png",
+        "description": ""
+      },
+      {
+        "name": "Protective Tunes",
+        "imageSrc": "poco-protective-tunes.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Poco",
@@ -949,6 +1045,18 @@
     "description": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
     "masteryTitle": "Touching Grass",
     "portraitImageSrc": "rosa.png",
+    "gadgets": [
+      {
+        "name": "Grow Light",
+        "imageSrc": "rosa-grow-light.png",
+        "description": ""
+      },
+      {
+        "name": "Unfriendly Bushes",
+        "imageSrc": "rosa-unfriendly-bushes.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Rosa",
@@ -1016,6 +1124,18 @@
     "description": "An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before.",
     "masteryTitle": "SYS 64738",
     "portraitImageSrc": "8-bit.png",
+    "gadgets": [
+      {
+        "name": "Cheat Cartridge",
+        "imageSrc": "8-bit-cheat-cartridge.png",
+        "description": ""
+      },
+      {
+        "name": "Extra Credits",
+        "imageSrc": "8-bit-extra-credits.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "8-Bit",
@@ -1103,6 +1223,18 @@
     "description": "Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!",
     "masteryTitle": "The Geologist",
     "portraitImageSrc": "carl.png",
+    "gadgets": [
+      {
+        "name": "Heat Ejector",
+        "imageSrc": "carl-heat-ejector.png",
+        "description": ""
+      },
+      {
+        "name": "Flying Hook",
+        "imageSrc": "carl-flying-hook.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Carl",
@@ -1188,6 +1320,18 @@
     "description": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
     "masteryTitle": "Pirrrate!",
     "portraitImageSrc": "darryl.png",
+    "gadgets": [
+      {
+        "name": "Recoiling Rotator",
+        "imageSrc": "darryl-recoiling-rotator.png",
+        "description": ""
+      },
+      {
+        "name": "Tar Barrel",
+        "imageSrc": "darryl-tar-barrel.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Darryl",
@@ -1267,6 +1411,18 @@
     "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
     "masteryTitle": "Birdie, birdie, birdie!",
     "portraitImageSrc": "dynamike.png",
+    "gadgets": [
+      {
+        "name": "Fidget Spinner",
+        "imageSrc": "dynamike-fidget-spinner.png",
+        "description": ""
+      },
+      {
+        "name": "Satchel Charge",
+        "imageSrc": "dynamike-satchel-charge.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Dynamike",
@@ -1400,6 +1556,18 @@
     "description": "Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared.",
     "masteryTitle": "The Lost",
     "portraitImageSrc": "gus.png",
+    "gadgets": [
+      {
+        "name": "Kooky Popper",
+        "imageSrc": "gus-kooky-popper.png",
+        "description": ""
+      },
+      {
+        "name": "Soul Switcher",
+        "imageSrc": "gus-soul-switcher.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Gus",
@@ -1449,6 +1617,18 @@
     "description": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer.",
     "masteryTitle": "#@%**",
     "portraitImageSrc": "jacky.png",
+    "gadgets": [
+      {
+        "name": "Pneumatic Booster",
+        "imageSrc": "jacky-pneumatic-booster.png",
+        "description": ""
+      },
+      {
+        "name": "Rebuild",
+        "imageSrc": "jacky-rebuild.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Jacky",
@@ -1516,6 +1696,18 @@
     "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
     "masteryTitle": "The Builder",
     "portraitImageSrc": "jessie.png",
+    "gadgets": [
+      {
+        "name": "Spark Plug",
+        "imageSrc": "jessie-spark-plug.png",
+        "description": ""
+      },
+      {
+        "name": "Recoil Spring",
+        "imageSrc": "jessie-recoil-spring.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Jessie",
@@ -1627,6 +1819,18 @@
     "description": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
     "masteryTitle": "The Salty",
     "portraitImageSrc": "penny.png",
+    "gadgets": [
+      {
+        "name": "Salty Barrel",
+        "imageSrc": "penny-salty-barrel.png",
+        "description": ""
+      },
+      {
+        "name": "Trusty Spyglass",
+        "imageSrc": "penny-trusty-spyglass.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Penny",
@@ -1722,6 +1926,18 @@
     "description": "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.",
     "masteryTitle": "The Lover",
     "portraitImageSrc": "rico.png",
+    "gadgets": [
+      {
+        "name": "Multiball Launcher",
+        "imageSrc": "rico-multiball-launcher.png",
+        "description": ""
+      },
+      {
+        "name": "Bouncy Castle",
+        "imageSrc": "rico-bouncy-castle.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Rico",
@@ -1831,6 +2047,18 @@
     "description": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
     "masteryTitle": "Where's my head?",
     "portraitImageSrc": "tick.png",
+    "gadgets": [
+      {
+        "name": "Mine Mania",
+        "imageSrc": "tick-mine-mania.png",
+        "description": ""
+      },
+      {
+        "name": "Last Hurrah",
+        "imageSrc": "tick-last-hurrah.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Tick",
@@ -1904,6 +2132,18 @@
     "description": "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.",
     "masteryTitle": "Bloodthirsty",
     "portraitImageSrc": "angelo.png",
+    "gadgets": [
+      {
+        "name": "Stinging Flight",
+        "imageSrc": "angelo-stinging-flight.png",
+        "description": ""
+      },
+      {
+        "name": "Master Fletcher",
+        "imageSrc": "angelo-master-fletcher.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Angelo",
@@ -1947,6 +2187,18 @@
     "description": "Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!",
     "masteryTitle": "Trash Tier",
     "portraitImageSrc": "ash.png",
+    "gadgets": [
+      {
+        "name": "Chill Pill",
+        "imageSrc": "ash-chill-pill.png",
+        "description": ""
+      },
+      {
+        "name": "Rotten Banana",
+        "imageSrc": "ash-rotten-banana.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Ash",
@@ -2021,6 +2273,18 @@
     "description": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them...or even what it's like to be one.",
     "masteryTitle": "Queen",
     "portraitImageSrc": "bea.png",
+    "gadgets": [
+      {
+        "name": "Honey Molasses",
+        "imageSrc": "bea-honey-molasses.png",
+        "description": ""
+      },
+      {
+        "name": "Rattled Hive",
+        "imageSrc": "bea-rattled-hive.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Bea",
@@ -2082,6 +2346,18 @@
     "description": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
     "masteryTitle": "Starr",
     "portraitImageSrc": "belle.png",
+    "gadgets": [
+      {
+        "name": "Nest Egg",
+        "imageSrc": "belle-nest-egg.png",
+        "description": ""
+      },
+      {
+        "name": "Reverse Polarity",
+        "imageSrc": "belle-reverse-polarity.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Belle",
@@ -2137,6 +2413,18 @@
     "description": "Working at Mandy's Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.",
     "masteryTitle": "Unicorn",
     "portraitImageSrc": "berry.png",
+    "gadgets": [
+      {
+        "name": "Friendship is Great",
+        "imageSrc": "berry-friendship-is-great.png",
+        "description": ""
+      },
+      {
+        "name": "Healthy Additives",
+        "imageSrc": "berry-healthy-additives.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Berry",
@@ -2174,6 +2462,18 @@
     "description": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
     "masteryTitle": "Cool Cat",
     "portraitImageSrc": "bibi.png",
+    "gadgets": [
+      {
+        "name": "Vitamin Booster",
+        "imageSrc": "bibi-vitamin-booster.png",
+        "description": ""
+      },
+      {
+        "name": "Extra Sticky",
+        "imageSrc": "bibi-extra-sticky.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Bibi",
@@ -2277,6 +2577,18 @@
     "description": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
     "masteryTitle": "One with Nature",
     "portraitImageSrc": "bo.png",
+    "gadgets": [
+      {
+        "name": "Super Totem",
+        "imageSrc": "bo-super-totem.png",
+        "description": ""
+      },
+      {
+        "name": "Tripwire",
+        "imageSrc": "bo-tripwire.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Bo",
@@ -2368,6 +2680,18 @@
     "description": "Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!",
     "masteryTitle": "The Reckless",
     "portraitImageSrc": "bonnie.png",
+    "gadgets": [
+      {
+        "name": "Sugar Rush",
+        "imageSrc": "bonnie-sugar-rush.png",
+        "description": ""
+      },
+      {
+        "name": "Crash Test",
+        "imageSrc": "bonnie-crash-test.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Bonnie",
@@ -2439,6 +2763,18 @@
     "description": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
     "masteryTitle": "The Collector",
     "portraitImageSrc": "colette.png",
+    "gadgets": [
+      {
+        "name": "Na-ah!",
+        "imageSrc": "colette-na-ah.png",
+        "description": ""
+      },
+      {
+        "name": "Gotcha!",
+        "imageSrc": "colette-gotcha.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Colette",
@@ -2529,6 +2865,18 @@
     "description": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
     "masteryTitle": "CEO of Brawl Stars",
     "portraitImageSrc": "edgar.png",
+    "gadgets": [
+      {
+        "name": "Let's Fly",
+        "imageSrc": "edgar-lets-fly.png",
+        "description": ""
+      },
+      {
+        "name": "Hardcore",
+        "imageSrc": "edgar-hardcore.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Edgar",
@@ -2650,6 +2998,18 @@
     "description": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
     "masteryTitle": "#haters",
     "portraitImageSrc": "emz.png",
+    "gadgets": [
+      {
+        "name": "Friendzoner",
+        "imageSrc": "emz-friendzoner.png",
+        "description": ""
+      },
+      {
+        "name": "Acid Spray",
+        "imageSrc": "emz-acid-spray.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Emz",
@@ -2723,6 +3083,18 @@
     "description": "Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows.",
     "masteryTitle": "The Tank",
     "portraitImageSrc": "frank.png",
+    "gadgets": [
+      {
+        "name": "Active Noise Canceling",
+        "imageSrc": "frank-active-noise-canceling.png",
+        "description": ""
+      },
+      {
+        "name": "Irresistible Attraction",
+        "imageSrc": "frank-irresistible-attraction.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Frank",
@@ -2820,6 +3192,18 @@
     "description": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
     "masteryTitle": "The Janitor",
     "portraitImageSrc": "gale.png",
+    "gadgets": [
+      {
+        "name": "Spring Ejector",
+        "imageSrc": "gale-spring-ejector.png",
+        "description": ""
+      },
+      {
+        "name": "Twister",
+        "imageSrc": "gale-twister.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Gale",
@@ -2875,6 +3259,18 @@
     "description": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
     "masteryTitle": "The Greedy",
     "portraitImageSrc": "griff.png",
+    "gadgets": [
+      {
+        "name": "Piggy Bank",
+        "imageSrc": "griff-piggy-bank.png",
+        "description": ""
+      },
+      {
+        "name": "Coin Shower",
+        "imageSrc": "griff-coin-shower.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Griff",
@@ -2923,6 +3319,18 @@
     "description": "Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids were merciless.",
     "masteryTitle": "With one left hand!",
     "portraitImageSrc": "grom.png",
+    "gadgets": [
+      {
+        "name": "Watchtower",
+        "imageSrc": "grom-watchtower.png",
+        "description": ""
+      },
+      {
+        "name": "Radio Check",
+        "imageSrc": "grom-radio-check.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Grom",
@@ -2978,6 +3386,18 @@
     "description": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
     "masteryTitle": "Prawn Ready!",
     "portraitImageSrc": "hank.png",
+    "gadgets": [
+      {
+        "name": "Water Balloons",
+        "imageSrc": "hank-water-balloons.png",
+        "description": ""
+      },
+      {
+        "name": "Barricade",
+        "imageSrc": "hank-barricade.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Hank",
@@ -3021,6 +3441,18 @@
     "description": "Larry sells tickets to Starr Park visitors under the watchful eye of his twin, Lawrie. Larry loves rules, they make life easier! Lawrie doesn't love rules so much as enforcing them. They make a good team.",
     "masteryTitle": "I am the law!",
     "portraitImageSrc": "larry-&-lawrie.png",
+    "gadgets": [
+      {
+        "name": "Order: Swap",
+        "imageSrc": "larry-&-lawrie-order-swap.png",
+        "description": ""
+      },
+      {
+        "name": "Order: Fall Back",
+        "imageSrc": "larry-&-lawrie-order-fall-back.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Larry & Lawrie",
@@ -3092,6 +3524,18 @@
     "description": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
     "masteryTitle": "Drama Queen",
     "portraitImageSrc": "lola.png",
+    "gadgets": [
+      {
+        "name": "Freeze Frame",
+        "imageSrc": "lola-freeze-frame.png",
+        "description": ""
+      },
+      {
+        "name": "Stunt Double",
+        "imageSrc": "lola-stunt-double.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Lola",
@@ -3165,6 +3609,18 @@
     "description": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
     "masteryTitle": "Master of Disaster",
     "portraitImageSrc": "maisie.png",
+    "gadgets": [
+      {
+        "name": "Disengage!",
+        "imageSrc": "maisie-disengage.png",
+        "description": ""
+      },
+      {
+        "name": "Finish Them!",
+        "imageSrc": "maisie-finish-them.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Maisie",
@@ -3226,6 +3682,18 @@
     "description": "Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist.",
     "masteryTitle": "Tough Cookie",
     "portraitImageSrc": "mandy.png",
+    "gadgets": [
+      {
+        "name": "Caramelize",
+        "imageSrc": "mandy-caramelize.png",
+        "description": ""
+      },
+      {
+        "name": "Cookie Crumbs",
+        "imageSrc": "mandy-cookie-crumbs.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Mandy",
@@ -3286,6 +3754,18 @@
     "description": "Meeple knows the rules to every board game in existence and if you break them... Well, let's just say you don't want to break them. They hate cheaters and those who don't follow the rules. There's one exception to the rules... Meeple themselves!",
     "masteryTitle": "Cheater",
     "portraitImageSrc": "meeple.png",
+    "gadgets": [
+      {
+        "name": "Mansions of Meeple",
+        "imageSrc": "meeple-mansions-of-meeple.png",
+        "description": ""
+      },
+      {
+        "name": "Ragequit",
+        "imageSrc": "meeple-ragequit.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Meeple",
@@ -3323,6 +3803,18 @@
     "description": "Originally a security camera, Nani was modified to keep an eye on Jessie. Unfortunately, she can hardly keep up with the precocious girl!",
     "masteryTitle": "Nanny",
     "portraitImageSrc": "nani.png",
+    "gadgets": [
+      {
+        "name": "Warpin' Time",
+        "imageSrc": "nani-warpin-time.png",
+        "description": ""
+      },
+      {
+        "name": "Return to Sender",
+        "imageSrc": "nani-return-to-sender.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Nani",
@@ -3394,6 +3886,18 @@
     "description": "Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, Jessie...",
     "masteryTitle": "Your mom",
     "portraitImageSrc": "pam.png",
+    "gadgets": [
+      {
+        "name": "Pulse Modulator",
+        "imageSrc": "pam-pulse-modulator.png",
+        "description": ""
+      },
+      {
+        "name": "Scrapsucker",
+        "imageSrc": "pam-scrapsucker.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Pam",
@@ -3465,6 +3969,18 @@
     "description": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
     "masteryTitle": "Let Me Cook!",
     "portraitImageSrc": "pearl.png",
+    "gadgets": [
+      {
+        "name": "Overcooked",
+        "imageSrc": "pearl-overcooked.png",
+        "description": ""
+      },
+      {
+        "name": "Made With Love",
+        "imageSrc": "pearl-made-with-love.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Pearl",
@@ -3508,6 +4024,18 @@
     "description": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
     "masteryTitle": "The Sniper",
     "portraitImageSrc": "piper.png",
+    "gadgets": [
+      {
+        "name": "Auto Aimer",
+        "imageSrc": "piper-auto-aimer.png",
+        "description": ""
+      },
+      {
+        "name": "Homemade Recipe",
+        "imageSrc": "piper-homemade-recipe.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Piper",
@@ -3599,6 +4127,18 @@
     "description": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
     "masteryTitle": "In your face!",
     "portraitImageSrc": "sam.png",
+    "gadgets": [
+      {
+        "name": "Magnetic Field",
+        "imageSrc": "sam-magnetic-field.png",
+        "description": ""
+      },
+      {
+        "name": "Pulse Repellent",
+        "imageSrc": "sam-pulse-repellent.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Sam",
@@ -3654,6 +4194,18 @@
     "description": "Not much is known about this mysterious pile of clothes, other than the fact it has some cool sunglasses. Discovered by Gus, Shade was given a name and now the two spooky Brawlers haunt the Ghost Station together.",
     "masteryTitle": "Ghosted",
     "portraitImageSrc": "shade.png",
+    "gadgets": [
+      {
+        "name": "Longarms",
+        "imageSrc": "shade-longarms.png",
+        "description": ""
+      },
+      {
+        "name": "Jump Scare",
+        "imageSrc": "shade-jump-scare.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Shade",
@@ -3691,6 +4243,18 @@
     "description": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
     "masteryTitle": "Wicked",
     "portraitImageSrc": "stu.png",
+    "gadgets": [
+      {
+        "name": "Speed Zone",
+        "imageSrc": "stu-speed-zone.png",
+        "description": ""
+      },
+      {
+        "name": "Breakthrough",
+        "imageSrc": "stu-breakthrough.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Stu",
@@ -3752,6 +4316,18 @@
     "description": "Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!",
     "masteryTitle": "Blockbuster",
     "portraitImageSrc": "buster.png",
+    "gadgets": [
+      {
+        "name": "Utility Belt",
+        "imageSrc": "buster-utility-belt.png",
+        "description": ""
+      },
+      {
+        "name": "Slo-Mo Replay",
+        "imageSrc": "buster-slo-mo-replay.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Buster",
@@ -3795,6 +4371,18 @@
     "description": "Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible.",
     "masteryTitle": "Born bad",
     "portraitImageSrc": "buzz.png",
+    "gadgets": [
+      {
+        "name": "Reserve Buoy",
+        "imageSrc": "buzz-reserve-buoy.png",
+        "description": ""
+      },
+      {
+        "name": "X-Ray-Shades",
+        "imageSrc": "buzz-x-ray-shades.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Buzz",
@@ -3898,6 +4486,18 @@
     "description": "Byron has invented many concoctions and tinctures that heal or harm in various ways...but most of them fall into the harming category.",
     "masteryTitle": "The Sensational",
     "portraitImageSrc": "byron.png",
+    "gadgets": [
+      {
+        "name": "Shot In The Arm",
+        "imageSrc": "byron-shot-in-the-arm.png",
+        "description": ""
+      },
+      {
+        "name": "Booster Shots",
+        "imageSrc": "byron-booster-shots.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Byron",
@@ -3953,6 +4553,18 @@
     "description": "Itsy bitsy Charlie\nPut on a crazy show\nShe let down her hair\nAnd made off with all your dough\nIn came the crowd\nIt filled up the circus tent\nSo Charlie weaved away while\nTaking every cent!",
     "masteryTitle": "The Amazing",
     "portraitImageSrc": "charlie.png",
+    "gadgets": [
+      {
+        "name": "Spiders",
+        "imageSrc": "charlie-spiders.png",
+        "description": ""
+      },
+      {
+        "name": "Personal Space",
+        "imageSrc": "charlie-personal-space.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Charlie",
@@ -3996,6 +4608,18 @@
     "description": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!",
     "masteryTitle": "The Maestro",
     "portraitImageSrc": "chuck.png",
+    "gadgets": [
+      {
+        "name": "Rerouting",
+        "imageSrc": "chuck-rerouting.png",
+        "description": ""
+      },
+      {
+        "name": "Ghost Train",
+        "imageSrc": "chuck-ghost-train.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Chuck",
@@ -4039,6 +4663,18 @@
     "description": "There's no turning back with Clancy (unless Hank orders him to). He's fully embraced his fake crustacean life and will do anything for his comrades.",
     "masteryTitle": "Shell Shocked",
     "portraitImageSrc": "clancy.png",
+    "gadgets": [
+      {
+        "name": "Snappy Shooting",
+        "imageSrc": "clancy-snappy-shooting.png",
+        "description": ""
+      },
+      {
+        "name": "Tactical Retreat",
+        "imageSrc": "clancy-tactical-retreat.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Clancy",
@@ -4075,6 +4711,18 @@
     "description": "Doug's hot dogs will extend your friends' shelf life.",
     "masteryTitle": "Wiener",
     "portraitImageSrc": "doug.png",
+    "gadgets": [
+      {
+        "name": "Double Sausage",
+        "imageSrc": "doug-double-sausage.png",
+        "description": ""
+      },
+      {
+        "name": "Extra Mustard",
+        "imageSrc": "doug-extra-mustard.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Doug",
@@ -4112,6 +4760,18 @@
     "description": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home...preferably in Ruffs' fur.",
     "masteryTitle": "Mother",
     "portraitImageSrc": "eve.png",
+    "gadgets": [
+      {
+        "name": "Gotta Go!",
+        "imageSrc": "eve-gotta-go.png",
+        "description": ""
+      },
+      {
+        "name": "Motherly Love",
+        "imageSrc": "eve-motherly-love.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Eve",
@@ -4167,6 +4827,18 @@
     "description": "Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!",
     "masteryTitle": "Sneaker Artist",
     "portraitImageSrc": "fang.png",
+    "gadgets": [
+      {
+        "name": "Corn-Fu",
+        "imageSrc": "fang-corn-fu.png",
+        "description": ""
+      },
+      {
+        "name": "Roundhouse Kick",
+        "imageSrc": "fang-roundhouse-kick.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Fang",
@@ -4246,6 +4918,18 @@
     "description": "The owner of Starr Park's escape room, Finx is meant to help visitors complete tasks. Instead, he uses his time controlling abilities to cause mischief! Also, he LOVES cats.",
     "masteryTitle": "Waste of time",
     "portraitImageSrc": "finx.png",
+    "gadgets": [
+      {
+        "name": "Back to the Finxture",
+        "imageSrc": "finx-back-to-the-finxture.png",
+        "description": ""
+      },
+      {
+        "name": "No Escape",
+        "imageSrc": "finx-no-escape.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Finx",
@@ -4285,6 +4969,18 @@
     "description": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
     "masteryTitle": "Talk to the Hand!",
     "portraitImageSrc": "gene.png",
+    "gadgets": [
+      {
+        "name": "Lamp Blowout",
+        "imageSrc": "gene-lamp-blowout.png",
+        "description": ""
+      },
+      {
+        "name": "Vengeful Spirits",
+        "imageSrc": "gene-vengeful-spirits.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Gene",
@@ -4346,6 +5042,18 @@
     "description": "Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets.",
     "masteryTitle": "The Shady",
     "portraitImageSrc": "gray.png",
+    "gadgets": [
+      {
+        "name": "Walking Cane",
+        "imageSrc": "gray-walking-cane.png",
+        "description": ""
+      },
+      {
+        "name": "Grand Piano",
+        "imageSrc": "gray-grand-piano.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Gray",
@@ -4401,6 +5109,18 @@
     "description": "By day, Jae-yong is your average office worker. By night, he is a karaoke GOD... or so he thinks. The jury is still out on his singing skills.",
     "masteryTitle": "Amor Fati",
     "portraitImageSrc": "jae-yong.png",
+    "gadgets": [
+      {
+        "name": "Weekend Warrior",
+        "imageSrc": "jae-yong-weekend-warrior.png",
+        "description": ""
+      },
+      {
+        "name": "Time for a Slow Song",
+        "imageSrc": "jae-yong-time-for-a-slow-song.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Jae-yong",
@@ -4422,6 +5142,18 @@
     "description": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
     "masteryTitle": "The Rocket",
     "portraitImageSrc": "janet.png",
+    "gadgets": [
+      {
+        "name": "Drop the Bass",
+        "imageSrc": "janet-drop-the-bass.png",
+        "description": ""
+      },
+      {
+        "name": "Backstage Pass",
+        "imageSrc": "janet-backstage-pass.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Janet",
@@ -4489,6 +5221,18 @@
     "description": "Juju owns the Oddities Shop and is followed everywhere by her \"pet\" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.",
     "masteryTitle": "Hexed",
     "portraitImageSrc": "juju.png",
+    "gadgets": [
+      {
+        "name": "Voodoo Chile",
+        "imageSrc": "juju-voodoo-chile.png",
+        "description": ""
+      },
+      {
+        "name": "Elementalist",
+        "imageSrc": "juju-elementalist.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Juju",
@@ -4526,6 +5270,18 @@
     "description": "A nerd at heart and a total witchcraft buff, Lily's thirst for knowledge once led her into the Enchanted Woods, where an incident involving a firefly and a carnivorous plant would change her life forever...",
     "masteryTitle": "Backstabber",
     "portraitImageSrc": "lily.png",
+    "gadgets": [
+      {
+        "name": "Vanish",
+        "imageSrc": "lily-vanish.png",
+        "description": ""
+      },
+      {
+        "name": "Repot",
+        "imageSrc": "lily-repot.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Lily",
@@ -4563,6 +5319,18 @@
     "description": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
     "masteryTitle": "is here for you!",
     "portraitImageSrc": "lou.png",
+    "gadgets": [
+      {
+        "name": "Ice Block",
+        "imageSrc": "lou-ice-block.png",
+        "description": ""
+      },
+      {
+        "name": "Cryo Syrup",
+        "imageSrc": "lou-cryo-syrup.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Lou",
@@ -4624,6 +5392,18 @@
     "description": "A passionate metalhead and a talented drummer, Lumi traded her drumsticks for morning stars when she got her job at Starr Park. She controls elements of ice and fire, which reflects her shy nature and her burning passion for music!",
     "masteryTitle": "Headbanger",
     "portraitImageSrc": "lumi.png",
+    "gadgets": [
+      {
+        "name": "Hit the Lights",
+        "imageSrc": "lumi-hit-the-lights.png",
+        "description": ""
+      },
+      {
+        "name": "Grim and Frostbitten",
+        "imageSrc": "lumi-grim-and-frostbitten.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Lumi",
@@ -4645,6 +5425,18 @@
     "description": "Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much...but she sure is fast!",
     "masteryTitle": "I AM SPEED!",
     "portraitImageSrc": "max.png",
+    "gadgets": [
+      {
+        "name": "Phase Shifter",
+        "imageSrc": "max-phase-shifter.png",
+        "description": ""
+      },
+      {
+        "name": "Sneaky Sneakers",
+        "imageSrc": "max-sneaky-sneakers.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Max",
@@ -4712,6 +5504,18 @@
     "description": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
     "masteryTitle": "Fearless",
     "portraitImageSrc": "melodie.png",
+    "gadgets": [
+      {
+        "name": "Perfect Pitch",
+        "imageSrc": "melodie-perfect-pitch.png",
+        "description": ""
+      },
+      {
+        "name": "Interlude",
+        "imageSrc": "meloide-interlude.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Melodie",
@@ -4767,6 +5571,18 @@
     "description": "Mico is the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
     "masteryTitle": "Am I a joke to you?",
     "portraitImageSrc": "mico.png",
+    "gadgets": [
+      {
+        "name": "Clipping Scream",
+        "imageSrc": "mico-clipping-scream.png",
+        "description": ""
+      },
+      {
+        "name": "Presto",
+        "imageSrc": "mico-presto.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Mico",
@@ -4815,6 +5631,18 @@
     "description": "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.",
     "masteryTitle": "Creature of the Night",
     "portraitImageSrc": "mortis.png",
+    "gadgets": [
+      {
+        "name": "Combo Spinner",
+        "imageSrc": "mortis-combo-spinner.png",
+        "description": ""
+      },
+      {
+        "name": "Survival Shovel",
+        "imageSrc": "mortis-survival-shovel.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Mortis",
@@ -4951,6 +5779,18 @@
     "description": "Moe is a blind rat, found living in the Starr Park sewers by Grom, who quickly adopted him! Now part of Starr Park's maintenance team, Moe uses his special digging machine, Driller, to traverse the sewer tunnels...and also cause a bit of destruction throughout the park, much to Ash's dismay.",
     "masteryTitle": "Cheesy",
     "portraitImageSrc": "moe.png",
+    "gadgets": [
+      {
+        "name": "Dodgy Digging",
+        "imageSrc": "moe-dodgy-digging.png",
+        "description": ""
+      },
+      {
+        "name": "Rat Race",
+        "imageSrc": "moe-rat-race.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Moe",
@@ -4988,6 +5828,18 @@
     "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
     "masteryTitle": "The Boss",
     "portraitImageSrc": "mr-p.png",
+    "gadgets": [
+      {
+        "name": "Service Bell",
+        "imageSrc": "mr-p-service-bell.png",
+        "description": ""
+      },
+      {
+        "name": "Porter Reinforcements",
+        "imageSrc": "mr-p-porter-reinforcements.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Mr. P",
@@ -5059,6 +5911,18 @@
     "description": "Ollie rides his customized hoverboard around Starr Park, grinding rails and causing trouble! A fan of old school hip hop, Ollie blasts his favorite tunes wherever he goes. His music is infectious... literally. Brawlers can't help but dance when they hear it.",
     "masteryTitle": "Based",
     "portraitImageSrc": "ollie.png",
+    "gadgets": [
+      {
+        "name": "Regulate",
+        "imageSrc": "ollie-regulate.png",
+        "description": ""
+      },
+      {
+        "name": "All Eyez on Me",
+        "imageSrc": "ollie-all-eyez-on-me.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Ollie",
@@ -5096,6 +5960,18 @@
     "description": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
     "masteryTitle": "The Artist",
     "portraitImageSrc": "otis.png",
+    "gadgets": [
+      {
+        "name": "Dormant Star",
+        "imageSrc": "otis-dormant-star.png",
+        "description": ""
+      },
+      {
+        "name": "Phat Splatter",
+        "imageSrc": "otis-phat-splatter.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Otis",
@@ -5167,6 +6043,18 @@
     "description": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
     "masteryTitle": "The Watcher",
     "portraitImageSrc": "r-t.png",
+    "gadgets": [
+      {
+        "name": "Out of Line",
+        "imageSrc": "r-t-out-of-line.png",
+        "description": ""
+      },
+      {
+        "name": "Hacks!",
+        "imageSrc": "r-t-hacks.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "R-T",
@@ -5210,6 +6098,18 @@
     "description": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
     "masteryTitle": "Colonel",
     "portraitImageSrc": "ruffs.png",
+    "gadgets": [
+      {
+        "name": "Take Cover",
+        "imageSrc": "ruffs-take-cover.png",
+        "description": ""
+      },
+      {
+        "name": "Air Support",
+        "imageSrc": "ruffs-air-support.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Ruffs",
@@ -5271,6 +6171,18 @@
     "description": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
     "masteryTitle": "Tree hugger",
     "portraitImageSrc": "sprout.png",
+    "gadgets": [
+      {
+        "name": "Garden Mulcher",
+        "imageSrc": "sprout-garden-mulcher.png",
+        "description": ""
+      },
+      {
+        "name": "Transplant",
+        "imageSrc": "sprout-transplant.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Sprout",
@@ -5338,6 +6250,18 @@
     "description": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber.",
     "masteryTitle": "is an accident",
     "portraitImageSrc": "squeak.png",
+    "gadgets": [
+      {
+        "name": "Windup",
+        "imageSrc": "squeak-windup.png",
+        "description": ""
+      },
+      {
+        "name": "Residue",
+        "imageSrc": "squeak-residue.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Squeak",
@@ -5405,6 +6329,18 @@
     "description": "Tara has seen in the cards that great difficulties lie ahead! But don't despair...she has a terrific selection of magical trinkets for sale to help with that.",
     "masteryTitle": "What's in the cards?",
     "portraitImageSrc": "tara.png",
+    "gadgets": [
+      {
+        "name": "Psychic Enhancer",
+        "imageSrc": "tara-psychic-enhancer.png",
+        "description": ""
+      },
+      {
+        "name": "Support from Beyond",
+        "imageSrc": "tara-support-from-beyond.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Tara",
@@ -5472,6 +6408,18 @@
     "description": "Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
     "masteryTitle": "Is in your head!",
     "portraitImageSrc": "willow.png",
+    "gadgets": [
+      {
+        "name": "Spellbound",
+        "imageSrc": "willow-spellbound.png",
+        "description": ""
+      },
+      {
+        "name": "Dive",
+        "imageSrc": "willow-dive.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Willow",
@@ -5515,6 +6463,18 @@
     "description": "Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last.",
     "masteryTitle": "Fire Starter",
     "portraitImageSrc": "amber.png",
+    "gadgets": [
+      {
+        "name": "Fire Starters",
+        "imageSrc": "amber-fire-starters.png",
+        "description": ""
+      },
+      {
+        "name": "Dancing Flames",
+        "imageSrc": "amber-dancing-flames.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Amber",
@@ -5564,6 +6524,13 @@
     "description": "Buzz Lightyear has arrived in Starr Park! Starting his journey with an accidental delivery to the Gift Shop, Buzz has since been impressing Brawlers with his three different Brawling modes!",
     "masteryTitle": "To infinity and beyond!",
     "portraitImageSrc": "buzz-lightyear.png",
+    "gadgets": [
+      {
+        "name": "Turbo Boosters",
+        "imageSrc": "buzz-lightyear-turbo-boosters.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Buzz Lightyear",
@@ -5579,6 +6546,18 @@
     "description": "Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better...especially if that hater is Mandy!",
     "masteryTitle": "Jack of all Trades",
     "portraitImageSrc": "chester.png",
+    "gadgets": [
+      {
+        "name": "Spicy Dice",
+        "imageSrc": "chester-spicy-dice.png",
+        "description": ""
+      },
+      {
+        "name": "Candy Beans",
+        "imageSrc": "chester-candy-beans.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Chester",
@@ -5634,6 +6613,18 @@
     "description": "Gardener and caretaker of Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
     "masteryTitle": "Toxic",
     "portraitImageSrc": "cordelius.png",
+    "gadgets": [
+      {
+        "name": "Replanting",
+        "imageSrc": "cordelius-replanting.png",
+        "description": ""
+      },
+      {
+        "name": "Posion Mushroom",
+        "imageSrc": "cordelius-poison-mushroom.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Cordelius",
@@ -5689,6 +6680,18 @@
     "description": "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi.",
     "masteryTitle": "Caw caw!",
     "portraitImageSrc": "crow.png",
+    "gadgets": [
+      {
+        "name": "Defense Booster",
+        "imageSrc": "crow-defense-booster.png",
+        "description": ""
+      },
+      {
+        "name": "Slowing Toxin",
+        "imageSrc": "crow-slowing-toxin.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Crow",
@@ -5768,6 +6771,18 @@
     "description": "Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd he turns the fantasy up to eleven!",
     "masteryTitle": "Dungeon Master",
     "portraitImageSrc": "draco.png",
+    "gadgets": [
+      {
+        "name": "Upper Cut",
+        "imageSrc": "draco-upper-cut.png",
+        "description": ""
+      },
+      {
+        "name": "Last Stand",
+        "imageSrc": "draco-last-stand.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Draco",
@@ -5805,6 +6820,18 @@
     "description": "This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something from his past...though his sushi tastes so good, nobody cares!",
     "masteryTitle": "Samurai",
     "portraitImageSrc": "kenji.png",
+    "gadgets": [
+      {
+        "name": "Dashi Dash",
+        "imageSrc": "kenji-dashi-dash.png",
+        "description": ""
+      },
+      {
+        "name": "Hosomaki Healing",
+        "imageSrc": "kenji-hosomaki-healing.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Kenji",
@@ -5866,6 +6893,18 @@
     "description": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
     "masteryTitle": "Meow",
     "portraitImageSrc": "kit.png",
+    "gadgets": [
+      {
+        "name": "Cardboard Box",
+        "imageSrc": "kit-cardboard-box.png",
+        "description": ""
+      },
+      {
+        "name": "Cheeseburger",
+        "imageSrc": "kit-cheeseburger.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Kit",
@@ -5927,6 +6966,18 @@
     "description": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
     "masteryTitle": "The Sneaky",
     "portraitImageSrc": "leon.png",
+    "gadgets": [
+      {
+        "name": "Clone Projector",
+        "imageSrc": "leon-clone-projector.png",
+        "description": ""
+      },
+      {
+        "name": "Lollipop Drop",
+        "imageSrc": "leon-lollipop-drop.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Leon",
@@ -6018,6 +7069,18 @@
     "description": "Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while Max and Surge are out entertaining the crowds.",
     "masteryTitle": "Tech Support 2.0",
     "portraitImageSrc": "meg.png",
+    "gadgets": [
+      {
+        "name": "Jolting Volts",
+        "imageSrc": "meg-jolting-volts.png",
+        "description": ""
+      },
+      {
+        "name": "Toolbox",
+        "imageSrc": "meg-toolbox.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Meg",
@@ -6087,6 +7150,18 @@
     "description": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
     "masteryTitle": "The Sleepy",
     "portraitImageSrc": "sandy.png",
+    "gadgets": [
+      {
+        "name": "Sleep Stimulator",
+        "imageSrc": "sandy-sleep-stimulator.png",
+        "description": ""
+      },
+      {
+        "name": "Sweet Dreams",
+        "imageSrc": "sandy-sweet-dreams.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Sandy",
@@ -6160,6 +7235,18 @@
     "description": "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma.",
     "masteryTitle": "One of a Kind",
     "portraitImageSrc": "spike.png",
+    "gadgets": [
+      {
+        "name": "Popping Pincushion",
+        "imageSrc": "spike-popping-pincushion.png",
+        "description": ""
+      },
+      {
+        "name": "Life Plant",
+        "imageSrc": "spike-life-plant.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Spike",
@@ -6233,6 +7320,18 @@
     "description": "Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks.",
     "masteryTitle": "Bro",
     "portraitImageSrc": "surge.png",
+    "gadgets": [
+      {
+        "name": "Power Surge",
+        "imageSrc": "surge-power-surge.png",
+        "description": ""
+      },
+      {
+        "name": "Power Shield",
+        "imageSrc": "surge-power-shield.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Surge",
@@ -6324,6 +7423,18 @@
     "description": "Kaze was raised to be a living weapon by her parents, but this was not the life she wanted. After escaping to Starr Park with Kenji, she can now live how she wants. However, she is still torn between the two aspects of her life, being a humble geisha and a deadly ninja.",
     "masteryTitle": "Ninja",
     "portraitImageSrc": "kaze.png",
+    "gadgets": [
+      {
+        "name": "Gracious Host",
+        "imageSrc": "kaze-gracious-host.png",
+        "description": ""
+      },
+      {
+        "name": "Hensojutsu",
+        "imageSrc": "kaze-hensojutsu.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Kaze",

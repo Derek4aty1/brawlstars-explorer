@@ -9,6 +9,9 @@ export const getCachedAllBrawlerData = cache(async (): Promise<BrawlerData[]> =>
   const allBrawlerData: BrawlerData[] = JSON.parse(fileContents);
   allBrawlerData.forEach((brawler) => {
     brawler.portraitImageSrc = `/images/portraits/${brawler.portraitImageSrc}`;
+    brawler.gadgets.forEach((gadget) => {
+      gadget.imageSrc = `/images/ui/gadgets/${gadget.imageSrc}`;
+    });
     brawler.skins.forEach((skin) => {
       skin.imageSrc = `/images/skins/${skin.imageSrc}`;
       skin.secondaryImageSrc &&= `/images/skins/${skin.secondaryImageSrc}`;
