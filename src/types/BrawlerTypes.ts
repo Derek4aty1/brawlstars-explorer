@@ -37,6 +37,7 @@ const SKIN_THEMES = [
   'Gift Shop',
   'Godzilla',
   'Golden Brawl Ball',
+  'Kaiju Invasion',
   'Latin America Master League',
   'Legends of Olympus',
   'License to Brawl',

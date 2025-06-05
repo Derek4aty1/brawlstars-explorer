@@ -2837,8 +2837,9 @@
       },
       {
         "name": "Tokusatsu Colette",
+        "rarity": "Epic",
         "imageSrc": "colette-Tokusatsu.png",
-        "themes": []
+        "themes": ["Kaiju Invasion"]
       },
       {
         "name": "Trixie Colette",
@@ -2907,7 +2908,7 @@
         "name": "Drift Edgar",
         "rarity": "Epic",
         "imageSrc": "edgar-drift.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Kaiju Invasion"]
       },
       {
         "name": "Edgar Tata",
@@ -2927,7 +2928,7 @@
         "name": "Masked Edgar",
         "rarity": "Epic",
         "imageSrc": "edgar-masked.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Kaiju Invasion"]
       },
       {
         "name": "Mecha Edgar",
@@ -2971,7 +2972,7 @@
         "name": "Shin Edgar",
         "rarity": "Epic",
         "imageSrc": "edgar-shin.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Kaiju Invasion"]
       },
       {
         "name": "Thief Edgar",
@@ -4940,7 +4941,7 @@
         "name": "Crimson Tyfinx",
         "rarity": "Legendary",
         "imageSrc": "finx-crimson-tyfinx.png",
-        "themes": ["Mecha Squad"]
+        "themes": ["Kaiju Invasion", "Mecha Squad"]
       },
       {
         "name": "Jurassic Finx",
@@ -4952,13 +4953,23 @@
         "name": "Mecha Chief Finx",
         "rarity": "Legendary",
         "imageSrc": "finx-mecha-chief.png",
-        "themes": ["Mecha Squad"]
+        "themes": ["Kaiju Invasion", "Mecha Squad"]
       },
       {
         "name": "Mecha Finx",
         "rarity": "Legendary",
         "imageSrc": "finx-mecha.png",
-        "themes": ["Mecha Squad"]
+        "themes": ["Kaiju Invasion", "Mecha Squad"]
+      },
+      {
+        "name": "True Gold Finx",
+        "imageSrc": "finx-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Finx",
+        "imageSrc": "finx-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -5131,7 +5142,7 @@
         "name": "Jammin' Jae-yong",
         "rarity": "Rare",
         "imageSrc": "jae-yong-jammin.png",
-        "themes": []
+        "themes": ["Vibing"]
       }
     ]
   },
@@ -5415,6 +5426,16 @@
         "rarity": "Rare",
         "imageSrc": "lumi-dark-knight.png",
         "themes": ["Once Upon"]
+      },
+      {
+        "name": "True Gold Lumi",
+        "imageSrc": "lumi-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Lumi",
+        "imageSrc": "lumi-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
