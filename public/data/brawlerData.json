@@ -7470,7 +7470,7 @@
         "imageSrc": "kaze-fruity.png",
         "secondaryImageSrc": "kaze-fruity-ninja.png",
         "secondaryImageSize": 256,
-        "themes": []
+        "themes": ["Starry Meal"]
       }
     ]
   }
