@@ -5,6 +5,7 @@ import { Metadata } from 'next';
 import { notFound, redirect } from 'next/navigation';
 import { getBrawlerClassIcon } from '@/utils/uiAssetMapper';
 import FadeInImage from '@/components/FadeInImage';
+import { BrawlerSkin } from '@/types/BrawlerTypes';
 
 type Params = Promise<{ brawlerName: string }>;
 
@@ -22,6 +23,16 @@ export async function generateStaticParams() {
   return brawlerNames.map((name) => ({
     brawlerName: name,
   }));
+}
+
+function SkinGrid({ skins }: { skins: BrawlerSkin[] }) {
+  return (
+    <div className="mt-6 grid w-fit grid-cols-1 items-start gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+      {skins.map((skin, index) => (
+        <SkinCard key={`${skin.name}-${index}`} skin={skin} />
+      ))}
+    </div>
+  );
 }
 
 export default async function BrawlerPage({ params }: { params: Params }) {
@@ -57,11 +68,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       </h2>
       <h2 className="mt-1 w-full text-xl">Mastery Title: {brawlerData.masteryTitle}</h2>
       <h3 className="mt-1 w-full whitespace-pre-line text-lg xl:max-w-[50%]">{brawlerData.description}</h3>
-      <div className="mt-6 grid w-fit grid-cols-1 items-start gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-        {brawlerData.skins.map((skin, index) => (
-          <SkinCard key={`${skin.name}-${index}`} skin={skin} />
-        ))}
-      </div>
+      <SkinGrid skins={brawlerData.skins} />
     </section>
   );
 }

@@ -1475,7 +1475,7 @@
         "name": "Firecracker Wizard Mike",
         "rarity": "Rare",
         "imageSrc": "dynamike-firecracker-wizard.png",
-        "themes": []
+        "themes": ["Once Upon"]
       },
       {
         "name": "Flamengo Mike",
@@ -2246,7 +2246,7 @@
         "name": "Sandcastle Ash",
         "rarity": "Rare",
         "imageSrc": "ash-sandcastle.png",
-        "themes": []
+        "themes": ["Summer of Brawl"]
       },
       {
         "name": "Shinobi Ash",
@@ -3360,7 +3360,7 @@
         "name": "Grombin Hood",
         "rarity": "Rare",
         "imageSrc": "grom-grombin-hood.png",
-        "themes": []
+        "themes": ["Once Upon"]
       },
       {
         "name": "Protector Grom",
@@ -4690,8 +4690,9 @@
       },
       {
         "name": "Kaiju Clancy",
+        "rarity": "Super Rare",
         "imageSrc": "clancy-kaiju.png",
-        "themes": []
+        "themes": ["Kaiju Invasion"]
       },
       {
         "name": "True Gold Clancy",
@@ -5624,8 +5625,9 @@
       },
       {
         "name": "Monstro Mico",
+        "rarity": "Epic",
         "imageSrc": "mico-monstro.png",
-        "themes": []
+        "themes": ["Kaiju Invasion"]
       },
       {
         "name": "True Gold Mico",
@@ -7393,7 +7395,7 @@
         "name": "Secret Surgevice",
         "rarity": "Rare",
         "imageSrc": "surge-secret-surgevice.png",
-        "themes": []
+        "themes": ["License to Brawl"]
       },
       {
         "name": "Skeletal Surge",
