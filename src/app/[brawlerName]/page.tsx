@@ -66,7 +66,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
         />
         {brawlerData.class}
       </h2>
-      <h2 className="mt-1 w-full text-xl">Mastery Title: {brawlerData.masteryTitle}</h2>
+      <h2 className="mt-1 w-full text-xl">Record Title: {brawlerData.recordTitle}</h2>
       <h3 className="mt-1 w-full whitespace-pre-line text-lg xl:max-w-[50%]">{brawlerData.description}</h3>
       <SkinGrid skins={brawlerData.skins} />
     </section>

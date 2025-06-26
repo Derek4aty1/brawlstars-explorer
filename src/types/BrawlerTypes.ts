@@ -95,7 +95,7 @@ export type BrawlerData = {
   rarity: BrawlerRarity;
   class: BrawlerClass;
   description: string;
-  masteryTitle: string;
+  recordTitle: string;
   portraitImageSrc: string;
   gadgets: BrawlerGadget[];
   skins: BrawlerSkin[];
