@@ -431,6 +431,11 @@
         "themes": ["BT21"]
       },
       {
+        "name": "Hellbull",
+        "imageSrc": "bull-hellbull.png",
+        "themes": ["Angels vs. Demons"]
+      },
+      {
         "name": "Kansai Dragon Bull",
         "rarity": "Rare",
         "imageSrc": "bull-kansai-dragon.png",
@@ -991,6 +996,12 @@
         "themes": ["Brawl Pass", "The Calamity Gang"]
       },
       {
+        "name": "Phantom Poco",
+        "rarity": "Rare",
+        "imageSrc": "poco-phantom.png",
+        "themes": []
+      },
+      {
         "name": "Pirate Poco",
         "rarity": "Super Rare",
         "imageSrc": "poco-pirate.webp",
@@ -1159,6 +1170,11 @@
         "secondaryImageSrc": "8-bit-antivirus-damage-booster.png",
         "secondaryImageSize": 128,
         "themes": ["CyberBrawl"]
+      },
+      {
+        "name": "Ascended 8-Bit",
+        "imageSrc": "8-bit-ascended.png",
+        "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Haunted House 8-Bit",
@@ -1393,6 +1409,11 @@
         "themes": ["Come Play With Us!"]
       },
       {
+        "name": "Sheepish Darryl",
+        "imageSrc": "darryl-sheepish.png",
+        "themes": []
+      },
+      {
         "name": "True Gold Darryl",
         "imageSrc": "darryl-true-gold.webp",
         "themes": ["True Gold"]
@@ -1484,6 +1505,23 @@
         "themes": ["Latin America Master League"]
       },
       {
+        "name": "Ghastly Dynamike",
+        "rarity": "Hypercharge",
+        "imageSrc": "dynamike-ghastly.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Ghoulish Dynamike",
+        "rarity": "Hypercharge",
+        "imageSrc": "dynamike-ghoulish.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Haunted Dynamike",
+        "imageSrc": "dynamike-haunted.png",
+        "themes": ["Pro Pass"]
+      },
+      {
         "name": "LDU Quito Mike",
         "rarity": "Rare",
         "imageSrc": "dynamike-ldu-quito.webp",
@@ -1494,6 +1532,17 @@
         "rarity": "Mythic",
         "imageSrc": "dynamike-moldy.webp",
         "themes": ["Wasteland"]
+      },
+      {
+        "name": "Occultist Dynamike",
+        "imageSrc": "dynamike-occultist.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Possessed Dynamike",
+        "rarity": "Hypercharge",
+        "imageSrc": "dynamike-possessed.png",
+        "themes": ["Pro Pass"]
       },
       {
         "name": "PSG Mike",
@@ -1587,6 +1636,11 @@
         "themes": ["Misc"]
       },
       {
+        "name": "Grim Gus",
+        "imageSrc": "gus-grim.png",
+        "themes": ["Angels vs. Demons"]
+      },
+      {
         "name": "Gruesome Gus",
         "rarity": "Super Rare",
         "imageSrc": "gus-gruesome.png",
@@ -1664,6 +1718,11 @@
         "rarity": "Epic",
         "imageSrc": "jacky-jet-ski.webp",
         "themes": ["Ranked", "Summer of Brawl"]
+      },
+      {
+        "name": "Knight Jacky",
+        "imageSrc": "jacky-knight.png",
+        "themes": []
       },
       {
         "name": "True Gold Jacky",
@@ -2072,6 +2131,12 @@
         "themes": ["Legends of Olympus"]
       },
       {
+        "name": "Eggplosion Tick",
+        "rarity": "Rare",
+        "imageSrc": "tick-eggplosion.png",
+        "themes": []
+      },
+      {
         "name": "King Crab Tick",
         "rarity": "Super Rare",
         "imageSrc": "tick-king-crab.webp",
@@ -2389,6 +2454,11 @@
         "themes": ["Ranked", "Supercell Make", "The Worst Bunch"]
       },
       {
+        "name": "Knight Belle",
+        "imageSrc": "belle-knight.png",
+        "themes": []
+      },
+      {
         "name": "Ivy Belle",
         "rarity": "Super Rare",
         "imageSrc": "belle-ivy.png",
@@ -2436,6 +2506,11 @@
         "rarity": "Rare",
         "imageSrc": "berry-dark-horse.png",
         "themes": ["Starrs of Brawlywood"]
+      },
+      {
+        "name": "Pegasus Berry",
+        "imageSrc": "berry-pegasus.png",
+        "themes": []
       },
       {
         "name": "StarrHorse Berry",
@@ -2626,6 +2701,24 @@
         "themes": ["Dark Sands", "Supercell Make"]
       },
       {
+        "name": "King Archer Bo",
+        "rarity": "Epic",
+        "imageSrc": "bo-king-archer.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
+        "name": "King Starrthur Bo",
+        "rarity": "Epic",
+        "imageSrc": "bo-king-starrthur.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
+        "name": "Knight Bo",
+        "rarity": "Epic",
+        "imageSrc": "bo-knight.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Light Mecha Bo",
         "rarity": "Legendary",
         "imageSrc": "bo-light-mecha.webp",
@@ -2715,6 +2808,11 @@
         "secondaryImageSrc": "bonnie-footbonnie-no-clyde.png",
         "secondaryImageSize": 256,
         "themes": ["Golden Brawl Ball"]
+      },
+      {
+        "name": "Icarus Bonnie",
+        "imageSrc": "bonnie-icarus.png",
+        "themes": []
       },
       {
         "name": "Reindeer Bonnie",
@@ -3289,6 +3387,12 @@
         "rarity": "Epic",
         "imageSrc": "griff-intergalactic.png",
         "themes": ["Kaiju Invasion"]
+      },
+      {
+        "name": "Jackpot Griff",
+        "rarity": "Rare",
+        "imageSrc": "griff-jackpot.png",
+        "themes": []
       },
       {
         "name": "Sleigher Griff",
@@ -4403,6 +4507,17 @@
         "themes": []
       },
       {
+        "name": "Biker Buster",
+        "rarity": "Rare",
+        "imageSrc": "buster-biker.png",
+        "themes": []
+      },
+      {
+        "name": "Blessed Buster",
+        "imageSrc": "buster-blessed.png",
+        "themes": ["Angels vs. Demons"]
+      },
+      {
         "name": "Chainsaw Buster",
         "rarity": "Epic",
         "imageSrc": "buster-chainsaw.webp",
@@ -4805,6 +4920,11 @@
         "themes": ["Once Upon"]
       },
       {
+        "name": "Knight Doug",
+        "imageSrc": "doug-knight.png",
+        "themes": []
+      },
+      {
         "name": "Man-o-war Doug",
         "rarity": "Epic",
         "imageSrc": "doug-man-o-war.webp",
@@ -4943,6 +5063,11 @@
         "rarity": "Epic",
         "imageSrc": "fang-furious.png",
         "themes": ["Brawl Pass"]
+      },
+      {
+        "name": "Infernal Fang",
+        "imageSrc": "fang-infernal.png",
+        "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Kabocha Fang",
@@ -5384,6 +5509,11 @@
         "themes": ["Angels vs. Demons", "Ranked"]
       },
       {
+        "name": "Knight Lily",
+        "imageSrc": "lily-knight.png",
+        "themes": []
+      },
+      {
         "name": "Strawberry Lily",
         "rarity": "Rare",
         "imageSrc": "lily-strawberry.webp",
@@ -5504,6 +5634,11 @@
         "rarity": "Rare",
         "imageSrc": "lumi-dark-knight.png",
         "themes": ["Once Upon"]
+      },
+      {
+        "name": "Persephone Lumi",
+        "imageSrc": "lumi-persephone.png",
+        "themes": []
       },
       {
         "name": "True Gold Lumi",
@@ -5790,6 +5925,12 @@
         "themes": ["License to Brawl"]
       },
       {
+        "name": "Hades Mortis",
+        "rarity": "Epic",
+        "imageSrc": "mortis-hades.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Hockey Mortis",
         "rarity": "Epic",
         "imageSrc": "mortis-hockey.webp",
@@ -5828,6 +5969,12 @@
         "themes": ["Brawl Pass", "SpongeBob"]
       },
       {
+        "name": "Pluto Mortis",
+        "rarity": "Epic",
+        "imageSrc": "mortis-pluto.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Rockabilly Mortis",
         "rarity": "Epic",
         "imageSrc": "mortis-rockabilly.webp",
@@ -5838,6 +5985,12 @@
         "rarity": "Epic",
         "imageSrc": "mortis-rogue.webp",
         "themes": ["Sands of Time"]
+      },
+      {
+        "name": "Serapis Mortis",
+        "rarity": "Epic",
+        "imageSrc": "mortis-serapis.png",
+        "themes": ["Brawl Pass"]
       },
       {
         "name": "Squidward Mortis",
@@ -6600,6 +6753,11 @@
         "themes": ["Angels vs. Demons"]
       },
       {
+        "name": "Knight Amber",
+        "imageSrc": "amber-knight.png",
+        "themes": []
+      },
+      {
         "name": "Frost Queen Amber",
         "rarity": "Legendary",
         "imageSrc": "amber-frost-queen.png",
@@ -7018,10 +7176,22 @@
         "themes": ["Outlaws"]
       },
       {
+        "name": "Calico Kit",
+        "rarity": "Rare",
+        "imageSrc": "kit-calico.png",
+        "themes": []
+      },
+      {
         "name": "Cuddly Kit",
         "rarity": "Super Rare",
         "imageSrc": "kit-cuddly.png",
         "themes": ["Come Play With Us!"]
+      },
+      {
+        "name": "Guismo Kit",
+        "rarity": "Rare",
+        "imageSrc": "kit-guismo.png",
+        "themes": []
       },
       {
         "name": "KitBoxer",
@@ -7048,6 +7218,24 @@
         "themes": ["Once Upon"]
       },
       {
+        "name": "Mariano Kit",
+        "rarity": "Rare",
+        "imageSrc": "kit-mariano.png",
+        "themes": []
+      },
+      {
+        "name": "Siamese Kit",
+        "rarity": "Rare",
+        "imageSrc": "kit-siamese.png",
+        "themes": []
+      },
+      {
+        "name": "Tabby Kit",
+        "rarity": "Rare",
+        "imageSrc": "kit-tabby.png",
+        "themes": []
+      },
+      {
         "name": "True Gold Kit",
         "imageSrc": "kit-true-gold.webp",
         "themes": ["True Gold"]
@@ -7056,6 +7244,12 @@
         "name": "True Silver Kit",
         "imageSrc": "kit-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Yuki Kit",
+        "rarity": "Rare",
+        "imageSrc": "kit-yuki.png",
+        "themes": []
       }
     ]
   },
@@ -7206,6 +7400,11 @@
         "themes": ["Ranked", "Rumble Jungle Heroes"]
       },
       {
+        "name": "Martyr Meg",
+        "imageSrc": "meg-martyr.png",
+        "themes": ["Angels vs. Demons"]
+      },
+      {
         "name": "Megalodon Meg",
         "rarity": "Mythic",
         "imageSrc": "meg-megalodon.webp",
@@ -7273,6 +7472,12 @@
         "rarity": "Epic",
         "imageSrc": "sandy-glowing-jellyfish.webp",
         "themes": ["Brawl Pass", "Deep Sea League"]
+      },
+      {
+        "name": "Hypnos Sandy",
+        "rarity": "Legendary",
+        "imageSrc": "sandy-hypnos.png",
+        "themes": []
       },
       {
         "name": "Jellyfish Sandy",
