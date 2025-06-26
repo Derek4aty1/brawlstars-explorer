@@ -5211,6 +5211,16 @@
         "rarity": "Rare",
         "imageSrc": "jae-yong-jammin.png",
         "themes": ["Vibing"]
+      },
+      {
+        "name": "True Gold Jae-yong",
+        "imageSrc": "jae-yong-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Jae-yong",
+        "imageSrc": "jae-yong-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -7540,6 +7550,20 @@
         "secondaryImageSrc": "kaze-fruity-ninja.png",
         "secondaryImageSize": 256,
         "themes": ["Starry Meal"]
+      },
+      {
+        "name": "True Gold Kaze",
+        "imageSrc": "kaze-true-gold.png",
+        "secondaryImageSrc": "kaze-true-gold-ninja.png",
+        "secondaryImageSize": 256,
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Kaze",
+        "imageSrc": "kaze-true-silver.png",
+        "secondaryImageSrc": "kaze-true-silver-ninja.png",
+        "secondaryImageSize": 256,
+        "themes": ["True Silver"]
       }
     ]
   }
