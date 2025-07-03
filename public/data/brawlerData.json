@@ -33,7 +33,7 @@
       {
         "name": "Bandita Shelly",
         "rarity": "Rare",
-        "imageSrc": "shelly-bandita.webp",
+        "imageSrc": "shelly-bandita.png",
         "themes": ["Outlaws"]
       },
       {
@@ -1410,8 +1410,9 @@
       },
       {
         "name": "Sheepish Darryl",
+        "rarity": "Epic",
         "imageSrc": "darryl-sheepish.png",
-        "themes": []
+        "themes": ["Legends of Olympus"]
       },
       {
         "name": "True Gold Darryl",
@@ -2128,7 +2129,7 @@
         "name": "Cerberus Tick",
         "rarity": "Mythic",
         "imageSrc": "tick-cerberus.webp",
-        "themes": ["Legends of Olympus"]
+        "themes": ["Legends of Hades"]
       },
       {
         "name": "Eggplosion Tick",
@@ -2509,8 +2510,9 @@
       },
       {
         "name": "Pegasus Berry",
+        "rarity": "Epic",
         "imageSrc": "berry-pegasus.png",
-        "themes": []
+        "themes": ["Legends of Hades"]
       },
       {
         "name": "StarrHorse Berry",
@@ -3143,19 +3145,19 @@
         "name": "Medusa Emz",
         "rarity": "Epic",
         "imageSrc": "emz-medusa.webp",
-        "themes": ["Brawl Pass", "Legends of Olympus"]
+        "themes": ["Brawl Pass", "Legends of Hades"]
       },
       {
         "name": "Ruby Medusa Emz",
         "rarity": "Epic",
         "imageSrc": "emz-ruby-medusa.webp",
-        "themes": ["Brawl Pass", "Legends of Olympus"]
+        "themes": ["Brawl Pass", "Legends of Hades"]
       },
       {
         "name": "Sapphire Medusa Emz",
         "rarity": "Epic",
         "imageSrc": "emz-sapphire-medusa.webp",
-        "themes": ["Brawl Pass", "Legends of Olympus"]
+        "themes": ["Brawl Pass", "Legends of Hades"]
       },
       {
         "name": "Super Fan Emz",
@@ -5637,8 +5639,9 @@
       },
       {
         "name": "Persephone Lumi",
+        "rarity": "Super Rare",
         "imageSrc": "lumi-persephone.png",
-        "themes": []
+        "themes": ["Legends of Hades"]
       },
       {
         "name": "True Gold Lumi",
@@ -5766,7 +5769,7 @@
         "name": "Harpy Melodie",
         "rarity": "Epic",
         "imageSrc": "melodie-harpy.webp",
-        "themes": ["Legends of Olympus", "Ranked"]
+        "themes": ["Legends of Hades", "Ranked"]
       },
       {
         "name": "Pop Melodie",
@@ -5928,7 +5931,7 @@
         "name": "Hades Mortis",
         "rarity": "Epic",
         "imageSrc": "mortis-hades.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Legends of Hades"]
       },
       {
         "name": "Hockey Mortis",
@@ -5972,7 +5975,7 @@
         "name": "Pluto Mortis",
         "rarity": "Epic",
         "imageSrc": "mortis-pluto.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Legends of Hades"]
       },
       {
         "name": "Rockabilly Mortis",
@@ -5990,7 +5993,7 @@
         "name": "Serapis Mortis",
         "rarity": "Epic",
         "imageSrc": "mortis-serapis.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Legends of Hades"]
       },
       {
         "name": "Squidward Mortis",
@@ -7477,7 +7480,7 @@
         "name": "Hypnos Sandy",
         "rarity": "Legendary",
         "imageSrc": "sandy-hypnos.png",
-        "themes": []
+        "themes": ["Legends of Hades"]
       },
       {
         "name": "Jellyfish Sandy",

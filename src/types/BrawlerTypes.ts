@@ -39,6 +39,7 @@ const SKIN_THEMES = [
   'Golden Brawl Ball',
   'Kaiju Invasion',
   'Latin America Master League',
+  'Legends of Hades',
   'Legends of Olympus',
   'License to Brawl',
   'Lunar Brawl',
