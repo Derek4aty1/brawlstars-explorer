@@ -415,7 +415,7 @@
       {
         "name": "B-800 Bull",
         "rarity": "Super Rare",
-        "imageSrc": "bull-b-800.webp",
+        "imageSrc": "bull-b-800.png",
         "themes": ["Brawl Pass", "Starrs of Brawlywood"]
       },
       {
@@ -1173,6 +1173,7 @@
       },
       {
         "name": "Ascended 8-Bit",
+        "rarity": "Epic",
         "imageSrc": "8-bit-ascended.png",
         "themes": ["Angels vs. Demons"]
       },
@@ -2293,6 +2294,7 @@
       },
       {
         "name": "P.E.K.K.A.S.H.",
+        "rarity": "Super Rare",
         "imageSrc": "ash-pekkash.png",
         "themes": ["Clash Stories"]
       },
@@ -2813,8 +2815,11 @@
       },
       {
         "name": "Icarus Bonnie",
+        "rarity": "Super Rare",
         "imageSrc": "bonnie-icarus.png",
-        "themes": []
+        "secondaryImageSrc": "bonnie-icarus-no-clyde.png",
+        "secondaryImageSize": 256,
+        "themes": ["Legends of Olympus"]
       },
       {
         "name": "Reindeer Bonnie",
@@ -3850,6 +3855,7 @@
       },
       {
         "name": "Witch Mandy",
+        "rarity": "Super Rare",
         "imageSrc": "mandy-witch.png",
         "themes": ["Clash Stories"]
       }
@@ -4516,6 +4522,7 @@
       },
       {
         "name": "Blessed Buster",
+        "rarity": "Epic",
         "imageSrc": "buster-blessed.png",
         "themes": ["Angels vs. Demons"]
       },
@@ -7404,6 +7411,7 @@
       },
       {
         "name": "Martyr Meg",
+        "rarity": "Epic",
         "imageSrc": "meg-martyr.png",
         "themes": ["Angels vs. Demons"]
       },
