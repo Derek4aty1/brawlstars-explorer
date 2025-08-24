@@ -38,6 +38,7 @@ const SKIN_THEMES = [
   'Godzilla',
   'Golden Brawl Ball',
   'Kaiju Invasion',
+  'Knights!',
   'Latin America Master League',
   'Legends of Hades',
   'Legends of Olympus',

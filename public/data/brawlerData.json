@@ -432,6 +432,7 @@
       },
       {
         "name": "Hellbull",
+        "rarity": "Mythic",
         "imageSrc": "bull-hellbull.png",
         "themes": ["Angels vs. Demons"]
       },
@@ -1175,6 +1176,8 @@
         "name": "Ascended 8-Bit",
         "rarity": "Epic",
         "imageSrc": "8-bit-ascended.png",
+        "secondaryImageSrc": "8-bit-ascended-damage-booster.png",
+        "secondaryImageSize": 128,
         "themes": ["Angels vs. Demons"]
       },
       {
@@ -1639,6 +1642,7 @@
       },
       {
         "name": "Grim Gus",
+        "rarity": "Epic",
         "imageSrc": "gus-grim.png",
         "themes": ["Angels vs. Demons"]
       },
@@ -1723,8 +1727,9 @@
       },
       {
         "name": "Knight Jacky",
+        "rarity": "Mythic",
         "imageSrc": "jacky-knight.png",
-        "themes": []
+        "themes": ["Knights!"]
       },
       {
         "name": "True Gold Jacky",
@@ -2458,8 +2463,9 @@
       },
       {
         "name": "Knight Belle",
+        "rarity": "Mythic",
         "imageSrc": "belle-knight.png",
-        "themes": []
+        "themes": ["Knights!"]
       },
       {
         "name": "Ivy Belle",
@@ -2708,19 +2714,19 @@
         "name": "King Archer Bo",
         "rarity": "Epic",
         "imageSrc": "bo-king-archer.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Knights!"]
       },
       {
         "name": "King Starrthur Bo",
         "rarity": "Epic",
         "imageSrc": "bo-king-starrthur.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Knights!"]
       },
       {
         "name": "Knight Bo",
         "rarity": "Epic",
         "imageSrc": "bo-knight.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Knights!"]
       },
       {
         "name": "Light Mecha Bo",
@@ -4930,8 +4936,9 @@
       },
       {
         "name": "Knight Doug",
+        "rarity": "Epic",
         "imageSrc": "doug-knight.png",
-        "themes": []
+        "themes": ["Knights!"]
       },
       {
         "name": "Man-o-war Doug",
@@ -5075,6 +5082,7 @@
       },
       {
         "name": "Infernal Fang",
+        "rarity": "Epic",
         "imageSrc": "fang-infernal.png",
         "themes": ["Angels vs. Demons"]
       },
@@ -5519,8 +5527,9 @@
       },
       {
         "name": "Knight Lily",
+        "rarity": "Mythic",
         "imageSrc": "lily-knight.png",
-        "themes": []
+        "themes": ["Knights!"]
       },
       {
         "name": "Strawberry Lily",
@@ -6764,8 +6773,9 @@
       },
       {
         "name": "Knight Amber",
+        "rarity": "Epic",
         "imageSrc": "amber-knight.png",
-        "themes": []
+        "themes": ["Knights!"]
       },
       {
         "name": "Frost Queen Amber",
@@ -7413,12 +7423,16 @@
         "name": "Martyr Meg",
         "rarity": "Epic",
         "imageSrc": "meg-martyr.png",
+        "secondaryImageSrc": "meg-martyr-mecha.png",
+        "secondaryImageSize": 256,
         "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Megalodon Meg",
         "rarity": "Mythic",
         "imageSrc": "meg-megalodon.webp",
+        "secondaryImageSrc": "meg-megalodon-mecha.png",
+        "secondaryImageSize": 256,
         "themes": ["Cursed Pirates"]
       },
       {

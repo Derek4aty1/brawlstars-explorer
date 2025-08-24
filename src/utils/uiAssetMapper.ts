@@ -91,6 +91,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Godzilla': '/images/ui/skins/themes/godzilla.png',
   'Golden Brawl Ball': '/images/ui/skins/themes/golden-brawl-ball.png',
   'Kaiju Invasion': '/images/ui/skins/themes/kaiju-invasion.png',
+  'Knights!': '/images/ui/skins/themes/knights.png',
   'Latin America Master League': '/images/ui/skins/themes/latin-america-master-league.png',
   'Legends of Hades': '/images/ui/skins/themes/legends-of-hades.png',
   'Legends of Olympus': '/images/ui/skins/themes/legends-of-olympus.png',
