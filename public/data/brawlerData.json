@@ -440,7 +440,7 @@
         "name": "Kansai Dragon Bull",
         "rarity": "Rare",
         "imageSrc": "bull-kansai-dragon.png",
-        "themes": []
+        "themes": ["Retropolis Nights"]
       },
       {
         "name": "Linebacker Bull",
@@ -3405,7 +3405,7 @@
         "name": "Jackpot Griff",
         "rarity": "Rare",
         "imageSrc": "griff-jackpot.png",
-        "themes": []
+        "themes": ["Summer of Brawl"]
       },
       {
         "name": "Sleigher Griff",
@@ -4458,7 +4458,7 @@
         "name": "Swimming Trunk",
         "rarity": "Rare",
         "imageSrc": "trunk-swimming.png",
-        "themes": []
+        "themes": ["Summer of Brawl"]
       }
     ]
   },
@@ -4491,7 +4491,7 @@
         "name": "Hunter Gatherer Alli",
         "rarity": "Rare",
         "imageSrc": "alli-hunter-gatherer.png",
-        "themes": []
+        "themes": ["Skull Cave Clan"]
       }
     ]
   },
@@ -7199,7 +7199,7 @@
         "name": "Calico Kit",
         "rarity": "Rare",
         "imageSrc": "kit-calico.png",
-        "themes": []
+        "themes": ["Misc"]
       },
       {
         "name": "Cuddly Kit",
@@ -7211,7 +7211,7 @@
         "name": "Guismo Kit",
         "rarity": "Rare",
         "imageSrc": "kit-guismo.png",
-        "themes": []
+        "themes": ["Misc"]
       },
       {
         "name": "KitBoxer",
@@ -7241,19 +7241,19 @@
         "name": "Mariano Kit",
         "rarity": "Rare",
         "imageSrc": "kit-mariano.png",
-        "themes": []
+        "themes": ["Misc"]
       },
       {
         "name": "Siamese Kit",
         "rarity": "Rare",
         "imageSrc": "kit-siamese.png",
-        "themes": []
+        "themes": ["Misc"]
       },
       {
         "name": "Tabby Kit",
         "rarity": "Rare",
         "imageSrc": "kit-tabby.png",
-        "themes": []
+        "themes": ["Misc"]
       },
       {
         "name": "True Gold Kit",
@@ -7269,7 +7269,7 @@
         "name": "Yuki Kit",
         "rarity": "Rare",
         "imageSrc": "kit-yuki.png",
-        "themes": []
+        "themes": ["Misc"]
       }
     ]
   },
@@ -7463,7 +7463,7 @@
         "imageSrc": "meg-whisked.png",
         "secondaryImageSrc": "meg-whisked-mecha.png",
         "secondaryImageSize": 256,
-        "themes": []
+        "themes": ["Starry Meal"]
       }
     ]
   },
