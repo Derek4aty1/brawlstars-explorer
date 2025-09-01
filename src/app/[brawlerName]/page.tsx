@@ -3,7 +3,7 @@ import SkinCard from '@/components/SkinCard';
 import { getBrawlerData, getAllBrawlerNames } from '@/utils/brawlerDataFetcher';
 import { Metadata } from 'next';
 import { notFound, redirect } from 'next/navigation';
-import { getBrawlerClassIcon } from '@/utils/uiAssetMapper';
+import { getBrawlerClassIcon, getRarityTextColor } from '@/utils/uiAssetMapper';
 import FadeInImage from '@/components/FadeInImage';
 import { BrawlerSkin } from '@/types/BrawlerTypes';
 
@@ -54,6 +54,9 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       <h1 className="w-full text-3xl uppercase">
         {brawlerData.name} ({brawlerData.skins.length})
       </h1>
+      <h2 className="mt-1 w-full text-xl">
+        Rarity: <span className={getRarityTextColor(brawlerData.rarity)}>{brawlerData.rarity}</span>
+      </h2>
       <h2 className="mt-1 flex w-full items-center justify-center text-xl uppercase">
         <FadeInImage
           src={getBrawlerClassIcon(brawlerData.class)}
