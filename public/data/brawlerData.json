@@ -5879,6 +5879,33 @@
     ]
   },
   {
+    "name": "Mina",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "description": "Mina is a b-girl who mixes capoeira into her breakdance battles like it's second nature. She hangs out at SK8 beats with Ollie and uses his mixtapes to practice new moves!",
+    "recordTitle": "The Hurricane",
+    "portraitImageSrc": "mina.png",
+    "gadgets": [
+      {
+        "name": "Windmill",
+        "imageSrc": "mina-windmill.png",
+        "description": ""
+      },
+      {
+        "name": "Capo-What?",
+        "imageSrc": "mina-capo-what.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Mina",
+        "imageSrc": "mina-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Mortis",
     "rarity": "Mythic",
     "class": "Assassin",
