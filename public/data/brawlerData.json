@@ -6756,6 +6756,33 @@
     ]
   },
   {
+    "name": "Ziggy",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "description": "Ziggy is an uber theatrical who excels at using electricity in his act. He's a bit full of himself, but hey, he can literally control lightning. Just remember... they're not tricks, they're illusions.",
+    "recordTitle": "The Great",
+    "portraitImageSrc": "ziggy.png",
+    "gadgets": [
+      {
+        "name": "Electric Shuffle",
+        "imageSrc": "ziggy-electric-shuffle.png",
+        "description": ""
+      },
+      {
+        "name": "Now You See Me...",
+        "imageSrc": "ziggy-now-you-see-me.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Ziggy",
+        "imageSrc": "ziggy-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Amber",
     "rarity": "Legendary",
     "class": "Controller",
