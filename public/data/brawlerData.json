@@ -2073,6 +2073,11 @@
         "themes": ["Biodome", "Brawl Pass"]
       },
       {
+        "name": "Ghost Diver Rico",
+        "imageSrc": "rico-ghost-diver.png",
+        "themes": []
+      },
+      {
         "name": "Guard Rico",
         "rarity": "Epic",
         "imageSrc": "rico-guard.webp",
@@ -2179,6 +2184,11 @@
         "name": "Eggplosion Tick",
         "rarity": "Rare",
         "imageSrc": "tick-eggplosion.png",
+        "themes": []
+      },
+      {
+        "name": "Headless Tickman",
+        "imageSrc": "tick-headless-tickman.png",
         "themes": []
       },
       {
@@ -6463,6 +6473,11 @@
         "themes": ["Brawl Pass", "Once Upon"]
       },
       {
+        "name": "Gargoyle R-T",
+        "imageSrc": "r-t-gargoyle.png",
+        "themes": []
+      },
+      {
         "name": "Patrol R-T",
         "rarity": "Rare",
         "imageSrc": "r-t-patrol.webp",
@@ -6546,6 +6561,11 @@
         "rarity": "Rare",
         "imageSrc": "ruffs-sous-chef.png",
         "themes": ["Starry Meal"]
+      },
+      {
+        "name": "Teen Ruffs",
+        "imageSrc": "ruffs-teen.png",
+        "themes": []
       },
       {
         "name": "True Gold Ruffs",
@@ -7144,6 +7164,12 @@
         "themes": ["The Calamity Gang"]
       },
       {
+        "name": "Death's Door Crow",
+        "rarity": "Epic",
+        "imageSrc": "crow-deaths-door.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Gold Mecha Crow",
         "rarity": "Legendary",
         "imageSrc": "crow-gold-mecha.webp",
@@ -7174,10 +7200,22 @@
         "themes": ["Mecha Squad"]
       },
       {
+        "name": "Old Hunter Crow",
+        "rarity": "Epic",
+        "imageSrc": "crow-old-hunter.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Phoenix Crow",
         "rarity": "Legendary",
         "imageSrc": "crow-phoenix.webp",
         "themes": ["Flaming"]
+      },
+      {
+        "name": "Plague Doctor Crow",
+        "rarity": "Epic",
+        "imageSrc": "crow-plague-doctor.png",
+        "themes": ["Brawl Pass"]
       },
       {
         "name": "True Gold Crow",
@@ -7278,6 +7316,12 @@
         "themes": ["Brawl Pass", "StarrForce Assemble"]
       },
       {
+        "name": "Cursed Kenji",
+        "rarity": "Legendary",
+        "imageSrc": "kenji-cursed.png",
+        "themes": ["Battle For Katana Kingdom"]
+      },
+      {
         "name": "Fruit Samurai Kenji",
         "rarity": "Rare",
         "imageSrc": "kenji-fruit-samurai.png",
@@ -7290,16 +7334,16 @@
         "themes": ["Brawl Pass", "StarrForce Assemble"]
       },
       {
+        "name": "Kizu Kenji",
+        "rarity": "Hypercharge",
+        "imageSrc": "kenji-kizu.png",
+        "themes": []
+      },
+      {
         "name": "Mamushi Kenji",
         "rarity": "Epic",
         "imageSrc": "kenji-mamushi.png",
         "themes": ["Brawl Pass", "StarrForce Assemble"]
-      },
-      {
-        "name": "Cursed Kenji",
-        "rarity": "Legendary",
-        "imageSrc": "kenji-cursed.png",
-        "themes": ["Battle For Katana Kingdom"]
       },
       {
         "name": "Oni Kenji",
