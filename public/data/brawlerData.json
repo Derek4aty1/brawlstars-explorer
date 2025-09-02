@@ -754,6 +754,11 @@
         "themes": ["Once Upon"]
       },
       {
+        "name": "El Grillo",
+        "imageSrc": "el-primo-el-grillo.png",
+        "themes": []
+      },
+      {
         "name": "El Mayordomo",
         "rarity": "Super Rare",
         "imageSrc": "el-primo-el-mayordomo.webp",
@@ -1295,6 +1300,11 @@
         "rarity": "Epic",
         "imageSrc": "carl-captain.png",
         "themes": ["Tales of the Sea"]
+      },
+      {
+        "name": "Crazy Clown Carl",
+        "imageSrc": "carl-crazy-clown.png",
+        "themes": []
       },
       {
         "name": "Dark Tide Carl",
@@ -7731,6 +7741,11 @@
       {
         "name": "Spike",
         "imageSrc": "spike-default.webp",
+        "themes": []
+      },
+      {
+        "name": "Carreta Spike",
+        "imageSrc": "spike-carreta.png",
         "themes": []
       },
       {
