@@ -990,6 +990,12 @@
         "themes": []
       },
       {
+        "name": "Beatmatcher Poco",
+        "rarity": "Hypercharge",
+        "imageSrc": "poco-beatmatcher.png",
+        "themes": []
+      },
+      {
         "name": "CCTV Poco",
         "rarity": "Epic",
         "imageSrc": "poco-cctv.webp",
@@ -1000,6 +1006,12 @@
         "rarity": "Epic",
         "imageSrc": "poco-desperado.webp",
         "themes": ["Brawl Pass", "The Calamity Gang"]
+      },
+      {
+        "name": "DJ Poco",
+        "rarity": "Hypercharge",
+        "imageSrc": "poco-dj.png",
+        "themes": []
       },
       {
         "name": "Phantom Poco",
@@ -1030,6 +1042,12 @@
         "rarity": "Epic",
         "imageSrc": "poco-quit-playing.png",
         "themes": ["Ranked", "The Good Randoms"]
+      },
+      {
+        "name": "Scratcher Poco",
+        "rarity": "Hypercharge",
+        "imageSrc": "poco-scratcher.png",
+        "themes": []
       },
       {
         "name": "Serenade Poco",
@@ -3157,6 +3175,12 @@
         "themes": ["The Golden Kawaii"]
       },
       {
+        "name": "Hypebeast Emz",
+        "rarity": "Epic",
+        "imageSrc": "emz-hypebeast.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Mean Girl Emz",
         "rarity": "Rare",
         "imageSrc": "emz-mean-girl.webp",
@@ -3181,10 +3205,22 @@
         "themes": ["Brawl Pass", "Legends of Hades"]
       },
       {
+        "name": "Streetwear Emz",
+        "rarity": "Epic",
+        "imageSrc": "emz-streetwear.png",
+        "themes": ["Brawl Pass"]
+      },
+      {
         "name": "Super Fan Emz",
         "rarity": "Epic",
         "imageSrc": "emz-super-fan.webp",
         "themes": ["Gift Shop"]
+      },
+      {
+        "name": "Techwear Emz",
+        "rarity": "Epic",
+        "imageSrc": "emz-techwear.png",
+        "themes": ["Brawl Pass"]
       },
       {
         "name": "True Gold Emz",
@@ -3531,6 +3567,11 @@
       {
         "name": "Hank",
         "imageSrc": "hank-default.webp",
+        "themes": []
+      },
+      {
+        "name": "Jam Master Hank",
+        "imageSrc": "hank-jam-master.png",
         "themes": []
       },
       {
