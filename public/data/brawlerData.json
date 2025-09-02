@@ -4535,6 +4535,16 @@
         "rarity": "Rare",
         "imageSrc": "trunk-swimming.png",
         "themes": ["Summer of Brawl"]
+      },
+      {
+        "name": "True Gold Trunk",
+        "imageSrc": "trunk-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Trunk",
+        "imageSrc": "trunk-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -4573,6 +4583,16 @@
         "rarity": "Rare",
         "imageSrc": "alli-hunter-gatherer.png",
         "themes": ["Skull Cave Clan"]
+      },
+      {
+        "name": "True Gold Alli",
+        "imageSrc": "alli-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Alli",
+        "imageSrc": "alli-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
