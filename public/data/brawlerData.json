@@ -169,6 +169,11 @@
         "themes": ["Tales of the Sea"]
       },
       {
+        "name": "Eldritch Professor Barley",
+        "imageSrc": "barley-eldritch-professor.png",
+        "themes": ["Brawl Academy"]
+      },
+      {
         "name": "Golden Barley",
         "rarity": "Rare",
         "imageSrc": "barley-golden.webp",
@@ -1968,6 +1973,11 @@
         "secondaryImageSrc": "penny-trash-panda-old-lobber.png",
         "secondaryImageSize": 128,
         "themes": ["Brawl Pass", "Brawl-o-ween"]
+      },
+      {
+        "name": "Truant Penny",
+        "imageSrc": "penny-truant.png",
+        "themes": ["Brawl Academy"]
       },
       {
         "name": "True Gold Penny",
@@ -6928,6 +6938,11 @@
         "rarity": "Epic",
         "imageSrc": "chester-moon-guardian.png",
         "themes": ["Lunar Stories"]
+      },
+      {
+        "name": "Prankster Chester",
+        "imageSrc": "chester-prankster.png",
+        "themes": ["Brawl Academy"]
       },
       {
         "name": "True Gold Chester",
