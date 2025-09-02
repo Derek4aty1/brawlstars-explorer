@@ -4656,6 +4656,11 @@
         "themes": ["Ranked", "Starrs of Brawlywood"]
       },
       {
+        "name": "Fisherman Buzz",
+        "imageSrc": "buzz-fisherman.png",
+        "themes": ["Clash Stories"]
+      },
+      {
         "name": "Godzilla Buzz",
         "rarity": "Hypercharge",
         "imageSrc": "buzz-godzilla.webp",
