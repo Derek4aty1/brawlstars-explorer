@@ -4382,6 +4382,11 @@
         "themes": []
       },
       {
+        "name": "Graffiti Stu",
+        "imageSrc": "stu-graffiti.png",
+        "themes": []
+      },
+      {
         "name": "Headless Rider Stu",
         "rarity": "Epic",
         "imageSrc": "stu-headless-rider.webp",
@@ -4485,6 +4490,11 @@
       {
         "name": "Alli",
         "imageSrc": "alli-default.png",
+        "themes": []
+      },
+      {
+        "name": "Graffiti Alli",
+        "imageSrc": "alli-graffiti.png",
         "themes": []
       },
       {
@@ -5901,6 +5911,11 @@
       {
         "name": "Mina",
         "imageSrc": "mina-default.png",
+        "themes": []
+      },
+      {
+        "name": "Graffiti Mina",
+        "imageSrc": "mina-graffiti.png",
         "themes": []
       }
     ]
@@ -7357,6 +7372,11 @@
         "rarity": "Super Rare",
         "imageSrc": "leon-dino.webp",
         "themes": ["Summer of Brawl"]
+      },
+      {
+        "name": "Graffiti Leon",
+        "imageSrc": "leon-graffiti.png",
+        "themes": []
       },
       {
         "name": "Leon the Stray",
