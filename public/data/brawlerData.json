@@ -4781,6 +4781,11 @@
         "themes": ["Once Upon", "Ranked"]
       },
       {
+        "name": "Frank Byron",
+        "imageSrc": "byron-frank.png",
+        "themes": []
+      },
+      {
         "name": "Overlord Byron",
         "rarity": "Epic",
         "imageSrc": "byron-overlord.webp",
@@ -5492,6 +5497,11 @@
         "rarity": "Super Rare",
         "imageSrc": "janet-popstar.webp",
         "themes": ["The Good Randoms"]
+      },
+      {
+        "name": "Tricky Janet",
+        "imageSrc": "janet-tricky.png",
+        "themes": []
       },
       {
         "name": "True Gold Janet",
@@ -6297,6 +6307,11 @@
       {
         "name": "Ollie",
         "imageSrc": "ollie-default.png",
+        "themes": []
+      },
+      {
+        "name": "Jake Ollie",
+        "imageSrc": "ollie-jake.png",
         "themes": []
       },
       {
