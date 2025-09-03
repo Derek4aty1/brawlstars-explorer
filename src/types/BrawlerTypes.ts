@@ -92,6 +92,26 @@ const SKIN_THEMES = [
 
 export type BrawlerSkinTheme = (typeof SKIN_THEMES)[number];
 
+export type BrawlerGadget = {
+  name: string;
+  imageSrc: string;
+  description: string;
+};
+
+export type AdditionalSkinImage = {
+  src: string;
+  label: string;
+  size?: 128 | 256;
+};
+
+export type BrawlerSkin = {
+  name: string;
+  rarity?: BrawlerSkinRarity;
+  imageSrc: string;
+  additionalImages?: AdditionalSkinImage[]; // Hypercharge/pets/turrets/etc.
+  themes: BrawlerSkinTheme[];
+};
+
 export type BrawlerData = {
   name: string;
   rarity: BrawlerRarity;
@@ -101,21 +121,6 @@ export type BrawlerData = {
   portraitImageSrc: string;
   gadgets: BrawlerGadget[];
   skins: BrawlerSkin[];
-};
-
-export type BrawlerGadget = {
-  name: string;
-  imageSrc: string;
-  description: string;
-};
-
-export type BrawlerSkin = {
-  name: string;
-  rarity?: BrawlerSkinRarity;
-  imageSrc: string;
-  secondaryImageSrc?: string; // Hypercharge/pets/turrets/etc.
-  secondaryImageSize?: 128 | 256;
-  themes: BrawlerSkinTheme[];
 };
 
 export type BrawlerPortrait = {

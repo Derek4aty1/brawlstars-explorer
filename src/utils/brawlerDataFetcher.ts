@@ -14,7 +14,11 @@ export const getCachedAllBrawlerData = cache(async (): Promise<BrawlerData[]> =>
     });
     brawler.skins.forEach((skin) => {
       skin.imageSrc = `/images/skins/${skin.imageSrc}`;
-      skin.secondaryImageSrc &&= `/images/skins/${skin.secondaryImageSrc}`;
+      if (skin.additionalImages) {
+        skin.additionalImages.forEach((additionalImage) => {
+          additionalImage.src = `/images/skins/${additionalImage.src}`;
+        });
+      }
     });
   });
   return allBrawlerData;

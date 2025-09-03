@@ -582,8 +582,13 @@
         "name": "Guaurdian Colt",
         "rarity": "Hypercharge",
         "imageSrc": "colt-guardian.png",
-        "secondaryImageSrc": "colt-guardian-hypercharged.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "colt-guardian-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Pro Pass"]
       },
       {
@@ -602,8 +607,13 @@
         "name": "Hyperion Colt",
         "rarity": "Hypercharge",
         "imageSrc": "colt-hyperion.png",
-        "secondaryImageSrc": "colt-hyperion-hypercharged.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "colt-hyperion-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Pro Pass"]
       },
       {
@@ -680,8 +690,13 @@
         "name": "Ultra Astral Colt",
         "rarity": "Hypercharge",
         "imageSrc": "colt-ultra-astral.png",
-        "secondaryImageSrc": "colt-ultra-astral-hypercharged.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "colt-ultra-astral-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Pro Pass"]
       },
       {
@@ -853,118 +868,193 @@
       {
         "name": "Nita",
         "imageSrc": "nita-default.webp",
-        "secondaryImageSrc": "nita-default-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-default-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Gummybear Nita",
         "rarity": "Super Rare",
         "imageSrc": "nita-gummybear.webp",
-        "secondaryImageSrc": "nita-gummybear-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-gummybear-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Brawl Pass", "Sugar Rush"]
       },
       {
         "name": "Koala Nita",
         "rarity": "Super Rare",
         "imageSrc": "nita-koala.webp",
-        "secondaryImageSrc": "nita-koala-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-koala-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Animal Kingdom"]
       },
       {
         "name": "Mechagodzilla Nita",
         "rarity": "Mythic",
         "imageSrc": "nita-mechagodzilla.webp",
-        "secondaryImageSrc": "nita-mechagodzilla-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-mechagodzilla-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Godzilla"]
       },
       {
         "name": "Nian Nita",
         "rarity": "Epic",
         "imageSrc": "nita-nian.webp",
-        "secondaryImageSrc": "nita-nian-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-nian-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Lunar Brawl", "Ranked"]
       },
       {
         "name": "Panda Nita",
         "rarity": "Rare",
         "imageSrc": "nita-panda.webp",
-        "secondaryImageSrc": "nita-panda-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-panda-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Animal Kingdom"]
       },
       {
         "name": "Red Nose Nita",
         "rarity": "Epic",
         "imageSrc": "nita-red-nose.webp",
-        "secondaryImageSrc": "nita-red-nose-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-red-nose-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Brawlidays"]
       },
       {
         "name": "Reinbear Nita",
         "rarity": "Epic",
         "imageSrc": "nita-reinbear.png",
-        "secondaryImageSrc": "nita-reinbear-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-reinbear-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Brawlidays"]
       },
       {
         "name": "Rui Shou Nita",
         "rarity": "Epic",
         "imageSrc": "nita-rui-shou.webp",
-        "secondaryImageSrc": "nita-rui-shou-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-rui-shou-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Lunar Brawl", "Ranked"]
       },
       {
         "name": "Runner Nita",
         "rarity": "Super Rare",
         "imageSrc": "nita-runner.png",
-        "secondaryImageSrc": "nita-runner-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-runner-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["StarrForce Assemble"]
       },
       {
         "name": "Shiba Nita",
         "rarity": "Epic",
         "imageSrc": "nita-shiba.webp",
-        "secondaryImageSrc": "nita-shiba-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-shiba-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["The Golden Kawaii"]
       },
       {
         "name": "True Gold Nita",
         "imageSrc": "nita-true-gold.webp",
-        "secondaryImageSrc": "nita-true-gold-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-true-gold-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Nita",
         "imageSrc": "nita-true-silver.webp",
-        "secondaryImageSrc": "nita-true-silver-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-true-silver-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["True Silver"]
       },
       {
         "name": "Tusked Nita",
         "rarity": "Legendary",
         "imageSrc": "nita-tusked.webp",
-        "secondaryImageSrc": "nita-tusked-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-tusked-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Bizarre Circus"]
       },
       {
         "name": "Whale Watch Nita",
         "rarity": "Super Rare",
         "imageSrc": "nita-whale-watch.webp",
-        "secondaryImageSrc": "nita-whale-watch-bruce.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "nita-whale-watch-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
         "themes": ["Summer of Brawl", "Supercell Make"]
       }
     ]
@@ -1180,86 +1270,141 @@
       {
         "name": "8-Bit",
         "imageSrc": "8-bit-default.webp",
-        "secondaryImageSrc": "8-bit-default-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-default-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": []
       },
       {
         "name": "8-Bit Classic",
         "rarity": "Rare",
         "imageSrc": "8-bit-classic.webp",
-        "secondaryImageSrc": "8-bit-classic-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-classic-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["Gaming"]
       },
       {
         "name": "Antivirus 8-Bit",
         "rarity": "Legendary",
         "imageSrc": "8-bit-antivirus.webp",
-        "secondaryImageSrc": "8-bit-antivirus-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-antivirus-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["CyberBrawl"]
       },
       {
         "name": "Ascended 8-Bit",
         "rarity": "Epic",
         "imageSrc": "8-bit-ascended.png",
-        "secondaryImageSrc": "8-bit-ascended-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-ascended-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Haunted House 8-Bit",
         "rarity": "Epic",
         "imageSrc": "8-bit-haunted-house.webp",
-        "secondaryImageSrc": "8-bit-haunted-house-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-haunted-house-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["Enchanted Woods"]
       },
       {
         "name": "Piano 8-Bit",
         "rarity": "Epic",
         "imageSrc": "8-bit-piano.webp",
-        "secondaryImageSrc": "8-bit-piano-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-piano-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["Outlaws", "Ranked"]
       },
       {
         "name": "Saloon 8-Bit",
         "rarity": "Epic",
         "imageSrc": "8-bit-saloon.webp",
-        "secondaryImageSrc": "8-bit-saloon-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-saloon-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["Outlaws", "Ranked"]
       },
       {
         "name": "True Gold 8-Bit",
         "imageSrc": "8-bit-true-gold.webp",
-        "secondaryImageSrc": "8-bit-true-gold-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-true-gold-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver 8-Bit",
         "imageSrc": "8-bit-true-silver.webp",
-        "secondaryImageSrc": "8-bit-true-silver-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-true-silver-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["True Silver"]
       },
       {
         "name": "V8-Bit",
         "rarity": "Super Rare",
         "imageSrc": "8-bit-v8-bit.webp",
-        "secondaryImageSrc": "8-bit-v8-bit-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-v8-bit-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["Retropolis Nights"]
       },
       {
         "name": "Virus 8-Bit",
         "rarity": "Legendary",
         "imageSrc": "8-bit-virus.png",
-        "secondaryImageSrc": "8-bit-virus-damage-booster.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "8-bit-virus-damage-booster.png",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["CyberBrawl"]
       }
     ]
@@ -1811,102 +1956,167 @@
       {
         "name": "Jessie",
         "imageSrc": "jessie-default.webp",
-        "secondaryImageSrc": "jessie-default-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-default-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Cat Burglar Jessie",
         "rarity": "Epic",
         "imageSrc": "jessie-cat-burglar.webp",
-        "secondaryImageSrc": "jessie-cat-burglar-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-cat-burglar-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["Brawl Stars Championship"]
       },
       {
         "name": "Doll Jessie",
         "rarity": "Rare",
         "imageSrc": "jessie-doll.webp",
-        "secondaryImageSrc": "jessie-doll-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-doll-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["My Brawlentine"]
       },
       {
         "name": "Dragon Knight Jessie",
         "rarity": "Epic",
         "imageSrc": "jessie-dragon-knight.webp",
-        "secondaryImageSrc": "jessie-dragon-knight-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-dragon-knight-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["Once Upon"]
       },
       {
         "name": "Jessie Jessie",
         "rarity": "Super Rare",
         "imageSrc": "jessie-jessie.png",
-        "secondaryImageSrc": "jessie-jessie-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-jessie-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["Toy Story"]
       },
       {
         "name": "Red Dragon Jessie",
         "rarity": "Super Rare",
         "imageSrc": "jessie-red-dragon.webp",
-        "secondaryImageSrc": "jessie-red-dragon-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-red-dragon-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["The Red"]
       },
       {
         "name": "Sandy Jessie",
         "rarity": "Super Rare",
         "imageSrc": "jessie-sandy.png",
-        "secondaryImageSrc": "jessie-sandy-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-sandy-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["SpongeBob"]
       },
       {
         "name": "Shadow Knight Jessie",
         "rarity": "Epic",
         "imageSrc": "jessie-shadow-knight.webp",
-        "secondaryImageSrc": "jessie-shadow-knight-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-shadow-knight-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["Once Upon"]
       },
       {
         "name": "Skadi Jessie",
         "rarity": "Mythic",
         "imageSrc": "jessie-skadi.webp",
-        "secondaryImageSrc": "jessie-skadi-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-skadi-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["Northern Saga"]
       },
       {
         "name": "Summer Jessie",
         "rarity": "Super Rare",
         "imageSrc": "jessie-summer.webp",
-        "secondaryImageSrc": "jessie-summer-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-summer-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["Summer of Brawl"]
       },
       {
         "name": "Tanuki Jessie",
         "rarity": "Epic",
         "imageSrc": "jessie-tanuki.webp",
-        "secondaryImageSrc": "jessie-tanuki-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-tanuki-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["The Golden Kawaii"]
       },
       {
         "name": "True Gold Jessie",
         "imageSrc": "jessie-true-gold.png",
-        "secondaryImageSrc": "jessie-true-gold-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-true-gold-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Jessie",
         "imageSrc": "jessie-true-silver.png",
-        "secondaryImageSrc": "jessie-true-silver-scrappy.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "jessie-true-silver-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
         "themes": ["True Silver"]
       }
     ]
@@ -1934,72 +2144,117 @@
       {
         "name": "Penny",
         "imageSrc": "penny-default.webp",
-        "secondaryImageSrc": "penny-default-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-default-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Bunny Penny",
         "rarity": "Super Rare",
         "imageSrc": "penny-bunny.webp",
-        "secondaryImageSrc": "penny-bunny-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-bunny-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Bunny Brigade"]
       },
       {
         "name": "Dark Bunny Penny",
         "rarity": "Super Rare",
         "imageSrc": "penny-dark-bunny.webp",
-        "secondaryImageSrc": "penny-dark-bunny-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-dark-bunny-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Bunny Brigade"]
       },
       {
         "name": "Lil Helper Penny",
         "rarity": "Super Rare",
         "imageSrc": "penny-lil-helper.webp",
-        "secondaryImageSrc": "penny-lil-helper-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-lil-helper-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Brawlidays"]
       },
       {
         "name": "Moon-Curser Penny",
         "rarity": "Epic",
         "imageSrc": "penny-moon-curser.webp",
-        "secondaryImageSrc": "penny-moon-curser-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-moon-curser-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Ranked", "The Worst Bunch"]
       },
       {
         "name": "Pop Penny",
         "rarity": "Mythic",
         "imageSrc": "penny-pop.png",
-        "secondaryImageSrc": "penny-pop-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-pop-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Come Play With Us!"]
       },
       {
         "name": "Robo Penny",
         "rarity": "Rare",
         "imageSrc": "penny-robo.png",
-        "secondaryImageSrc": "penny-robo-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-robo-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["CyberBrawl"]
       },
       {
         "name": "Smuggler Penny",
         "rarity": "Epic",
         "imageSrc": "penny-smuggler.webp",
-        "secondaryImageSrc": "penny-smuggler-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-smuggler-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Ranked", "The Worst Bunch"]
       },
       {
         "name": "Trash Panda Penny",
         "rarity": "Epic",
         "imageSrc": "penny-trash-panda.webp",
-        "secondaryImageSrc": "penny-trash-panda-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-trash-panda-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Brawl Pass", "Brawl-o-ween"]
       },
       {
@@ -2010,15 +2265,25 @@
       {
         "name": "True Gold Penny",
         "imageSrc": "penny-true-gold.webp",
-        "secondaryImageSrc": "penny-true-gold-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-true-gold-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Penny",
         "imageSrc": "penny-true-silver.webp",
-        "secondaryImageSrc": "penny-true-silver-old-lobber.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "penny-true-silver-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["True Silver"]
       }
     ]
@@ -2117,24 +2382,39 @@
         "name": "Sovereign Bling Rico",
         "rarity": "Hypercharge",
         "imageSrc": "rico-sovereign-bling.png",
-        "secondaryImageSrc": "rico-sovereign-bling-hypercharged.webp",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "rico-sovereign-bling-hypercharged.webp",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Royals"]
       },
       {
         "name": "Sovereign Gem Rico",
         "rarity": "Hypercharge",
         "imageSrc": "rico-sovereign-gem.png",
-        "secondaryImageSrc": "rico-sovereign-gem-hypercharged.webp",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "rico-sovereign-gem-hypercharged.webp",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Royals"]
       },
       {
         "name": "Sovereign Rico",
         "rarity": "Hypercharge",
         "imageSrc": "rico-sovereign.png",
-        "secondaryImageSrc": "rico-sovereign-hypercharged.webp",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "rico-sovereign-hypercharged.webp",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Royals"]
       },
       {
@@ -2323,8 +2603,13 @@
       {
         "name": "Ash",
         "imageSrc": "ash-default.png",
-        "secondaryImageSrc": "ash-default-little-helper.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "ash-default-little-helper.png",
+            "size": 128,
+            "label": "Little Helper"
+          }
+        ],
         "themes": []
       },
       {
@@ -2847,70 +3132,115 @@
       {
         "name": "Bonnie",
         "imageSrc": "bonnie-default.webp",
-        "secondaryImageSrc": "bonnie-default-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-default-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Empress Bonnie",
         "rarity": "Epic",
         "imageSrc": "bonnie-empress.webp",
-        "secondaryImageSrc": "bonnie-empress-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-empress-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["The Worst Bunch"]
       },
       {
         "name": "FootBonnie",
         "rarity": "Rare",
         "imageSrc": "bonnie-footbonnie.webp",
-        "secondaryImageSrc": "bonnie-footbonnie-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-footbonnie-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Golden Brawl Ball"]
       },
       {
         "name": "Icarus Bonnie",
         "rarity": "Super Rare",
         "imageSrc": "bonnie-icarus.png",
-        "secondaryImageSrc": "bonnie-icarus-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-icarus-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Legends of Olympus"]
       },
       {
         "name": "Reindeer Bonnie",
         "rarity": "Epic",
         "imageSrc": "bonnie-reindeer.png",
-        "secondaryImageSrc": "bonnie-reindeer-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-reindeer-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Brawlidays"]
       },
       {
         "name": "Tentacle Bonnie",
         "rarity": "Super Rare",
         "imageSrc": "bonnie-tentacle.webp",
-        "secondaryImageSrc": "bonnie-tentacle-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-tentacle-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Deep Sea League"]
       },
       {
         "name": "True Gold Bonnie",
         "imageSrc": "bonnie-true-gold.webp",
-        "secondaryImageSrc": "bonnie-true-gold-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-true-gold-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Bonnie",
         "imageSrc": "bonnie-true-silver.webp",
-        "secondaryImageSrc": "bonnie-true-silver-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-true-silver-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["True Silver"]
       },
       {
         "name": "Unicorn Bonnie",
         "rarity": "Rare",
         "imageSrc": "bonnie-unicorn.webp",
-        "secondaryImageSrc": "bonnie-unicorn-no-clyde.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "bonnie-unicorn-no-clyde.png",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Sugar Rush"]
       }
     ]
@@ -3053,8 +3383,13 @@
         "name": "Dark Angel Edgar",
         "rarity": "Hypercharge",
         "imageSrc": "edgar-dark-angel.webp",
-        "secondaryImageSrc": "edgar-dark-angel-hypercharged.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "edgar-dark-angel-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
@@ -3079,8 +3414,13 @@
         "name": "Lightbearer Edgar",
         "rarity": "Hypercharge",
         "imageSrc": "edgar-lightbearer.webp",
-        "secondaryImageSrc": "edgar-lightbearer-hypercharged.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "edgar-lightbearer-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
@@ -3111,8 +3451,13 @@
         "name": "Nightbringer Edgar",
         "rarity": "Hypercharge",
         "imageSrc": "edgar-nightbringer.webp",
-        "secondaryImageSrc": "edgar-nightbringer-hypercharged.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "edgar-nightbringer-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
@@ -3647,62 +3992,102 @@
       {
         "name": "Larry & Lawrie",
         "imageSrc": "larry-&-lawrie-default.webp",
-        "secondaryImageSrc": "larry-&-lawrie-default-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-default-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Angel Larry & Lawrie",
         "rarity": "Epic",
         "imageSrc": "larry-&-lawrie-angel.webp",
-        "secondaryImageSrc": "larry-&-lawrie-angel-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-angel-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["Angels vs. Demons", "Brawl Pass"]
       },
       {
         "name": "Dark Angel Larry & Lawrie",
         "rarity": "Epic",
         "imageSrc": "larry-&-lawrie-dark-angel.webp",
-        "secondaryImageSrc": "larry-&-lawrie-dark-angel-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-dark-angel-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["Angels vs. Demons", "Brawl Pass"]
       },
       {
         "name": "Larry & Lawrie Controllers",
         "rarity": "Rare",
         "imageSrc": "larry-&-lawrie-controllers.webp",
-        "secondaryImageSrc": "larry-&-lawrie-controllers-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-controllers-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["Gaming"]
       },
       {
         "name": "Glitch Larry & Lawrie",
         "rarity": "Epic",
         "imageSrc": "larry-&-lawrie-glitch.webp",
-        "secondaryImageSrc": "larry-&-lawrie-glitch-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-glitch-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["CyberBrawl", "Ranked"]
       },
       {
         "name": "Radiant Larry & Lawrie",
         "rarity": "Epic",
         "imageSrc": "larry-&-lawrie-radiant.webp",
-        "secondaryImageSrc": "larry-&-lawrie-radiant-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-radiant-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["Angels vs. Demons", "Brawl Pass"]
       },
       {
         "name": "True Gold Larry & Lawrie",
         "imageSrc": "larry-&-lawrie-true-gold.webp",
-        "secondaryImageSrc": "larry-&-lawrie-true-gold-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-true-gold-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Larry & Lawrie",
         "imageSrc": "larry-&-lawrie-true-silver.webp",
-        "secondaryImageSrc": "larry-&-lawrie-true-silver-lawrie.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-true-silver-lawrie.png",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["True Silver"]
       }
     ]
@@ -4010,62 +4395,102 @@
       {
         "name": "Nani",
         "imageSrc": "nani-default.webp",
-        "secondaryImageSrc": "nani-default-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-default-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Ares Nani",
         "rarity": "Mythic",
         "imageSrc": "nani-ares.webp",
-        "secondaryImageSrc": "nani-ares-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-ares-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": ["Legends of Olympus"]
       },
       {
         "name": "Bell Nani",
         "rarity": "Super Rare",
         "imageSrc": "nani-bell.webp",
-        "secondaryImageSrc": "nani-bell-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-bell-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": ["Bunny Brigade"]
       },
       {
         "name": "Knightmare Nani",
         "rarity": "Epic",
         "imageSrc": "nani-knightmare.png",
-        "secondaryImageSrc": "nani-knightmare-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-knightmare-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": ["Once Upon"]
       },
       {
         "name": "Retro Nani",
         "rarity": "Rare",
         "imageSrc": "nani-retro.webp",
-        "secondaryImageSrc": "nani-retro-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-retro-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": ["Gaming"]
       },
       {
         "name": "Sally Nani",
         "rarity": "Epic",
         "imageSrc": "nani-sally.webp",
-        "secondaryImageSrc": "nani-sally-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-sally-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": ["Brown & Friends"]
       },
       {
         "name": "True Gold Nani",
         "imageSrc": "nani-true-gold.webp",
-        "secondaryImageSrc": "nani-true-gold-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-true-gold-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Nani",
         "imageSrc": "nani-true-silver.webp",
-        "secondaryImageSrc": "nani-true-silver-peep.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "nani-true-silver-peep.png",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
         "themes": ["True Silver"]
       }
     ]
@@ -4093,62 +4518,102 @@
       {
         "name": "Pam",
         "imageSrc": "pam-default.webp",
-        "secondaryImageSrc": "pam-default-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-default-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Egg Pam",
         "rarity": "Mythic",
         "imageSrc": "pam-egg.png",
-        "secondaryImageSrc": "pam-egg-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-egg-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": ["April Fool's"]
       },
       {
         "name": "Evil Queen Pam",
         "rarity": "Legendary",
         "imageSrc": "pam-evil-queen.webp",
-        "secondaryImageSrc": "pam-evil-queen-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-evil-queen-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": ["Once Upon"]
       },
       {
         "name": "Holiday Pam",
         "rarity": "Super Rare",
         "imageSrc": "pam-holiday.webp",
-        "secondaryImageSrc": "pam-holiday-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-holiday-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": ["Summer of Brawl"]
       },
       {
         "name": "Putrid Pam",
         "rarity": "Epic",
         "imageSrc": "pam-putrid.png",
-        "secondaryImageSrc": "pam-putrid-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-putrid-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Stonks Pam",
         "rarity": "Super Rare",
         "imageSrc": "pam-stonks.webp",
-        "secondaryImageSrc": "pam-stonks-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-stonks-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": ["City Troubles"]
       },
       {
         "name": "True Gold Pam",
         "imageSrc": "pam-true-gold.webp",
-        "secondaryImageSrc": "pam-true-gold-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-true-gold-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Pam",
         "imageSrc": "pam-true-silver.webp",
-        "secondaryImageSrc": "pam-true-silver-healing-turret.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "pam-true-silver-healing-turret.png",
+            "size": 128,
+            "label": "Healing Turret"
+          }
+        ],
         "themes": ["True Silver"]
       }
     ]
@@ -6073,16 +6538,26 @@
         "name": "Demon Mortis",
         "rarity": "Hypercharge",
         "imageSrc": "mortis-demon.png",
-        "secondaryImageSrc": "mortis-demon-hypercharged.webp",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "mortis-demon-hypercharged.webp",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Devilish Mortis",
         "rarity": "Hypercharge",
         "imageSrc": "mortis-devilish.png",
-        "secondaryImageSrc": "mortis-devilish-hypercharged.webp",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "mortis-devilish-hypercharged.webp",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
@@ -6107,8 +6582,13 @@
         "name": "Lambent Mortis",
         "rarity": "Hypercharge",
         "imageSrc": "mortis-lambent.png",
-        "secondaryImageSrc": "mortis-lambent-hypercharged.webp",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "mortis-lambent-hypercharged.webp",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
@@ -6264,62 +6744,102 @@
       {
         "name": "Mr. P",
         "imageSrc": "mr-p-default.webp",
-        "secondaryImageSrc": "mr-p-default-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-default-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Agent P",
         "rarity": "Rare",
         "imageSrc": "mr-p-agent.webp",
-        "secondaryImageSrc": "mr-p-agent-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-agent-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": ["License to Brawl"]
       },
       {
         "name": "Count Pengula",
         "rarity": "Super Rare",
         "imageSrc": "mr-p-count-pengula.webp",
-        "secondaryImageSrc": "mr-p-count-pengula-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-count-pengula-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Daruma Mr. P",
         "rarity": "Super Rare",
         "imageSrc": "mr-p-daruma.webp",
-        "secondaryImageSrc": "mr-p-daruma-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-daruma-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": ["The Golden Kawaii"]
       },
       {
         "name": "Mr. Fly",
         "rarity": "Super Rare",
         "imageSrc": "mr-p-mr-fly.webp",
-        "secondaryImageSrc": "mr-p-mr-fly-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-mr-fly-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": ["Biodome"]
       },
       {
         "name": "Mr. Dragonfruit",
         "rarity": "Epic",
         "imageSrc": "mr-p-mr-dragonfruit.webp",
-        "secondaryImageSrc": "mr-p-mr-dragonfruit-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-mr-dragonfruit-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": ["Biodome", "Supercell Make"]
       },
       {
         "name": "True Gold Mr. P",
         "imageSrc": "mr-p-true-gold.webp",
-        "secondaryImageSrc": "mr-p-true-gold-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-true-gold-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Mr. P",
         "imageSrc": "mr-p-true-silver.webp",
-        "secondaryImageSrc": "mr-p-true-silver-porter.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "mr-p-true-silver-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
         "themes": ["True Silver"]
       }
     ]
@@ -6401,62 +6921,102 @@
       {
         "name": "Otis",
         "imageSrc": "otis-default.webp",
-        "secondaryImageSrc": "otis-default-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-default-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Demon Otis",
         "rarity": "Epic",
         "imageSrc": "otis-demon.webp",
-        "secondaryImageSrc": "otis-demon-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-demon-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Oni Otis",
         "rarity": "Epic",
         "imageSrc": "otis-oni.webp",
-        "secondaryImageSrc": "otis-oni-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-oni-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["The Ayakashi Clan"]
       },
       {
         "name": "Pharaotis",
         "rarity": "Epic",
         "imageSrc": "otis-pharaotis.webp",
-        "secondaryImageSrc": "otis-pharaotis-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-pharaotis-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["Brawl Pass", "Dark Sands"]
       },
       {
         "name": "Rusty Otis",
         "rarity": "Rare",
         "imageSrc": "otis-rusty.png",
-        "secondaryImageSrc": "otis-rusty-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-rusty-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["Wasteland"]
       },
       {
         "name": "True Gold Otis",
         "imageSrc": "otis-true-gold.webp",
-        "secondaryImageSrc": "otis-true-gold-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-true-gold-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Otis",
         "imageSrc": "otis-true-silver.webp",
-        "secondaryImageSrc": "otis-true-silver-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-true-silver-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["True Silver"]
       },
       {
         "name": "W Otis",
         "rarity": "Epic",
         "imageSrc": "otis-w.webp",
-        "secondaryImageSrc": "otis-w-cil.png",
-        "secondaryImageSize": 128,
+        "additionalImages": [
+          {
+            "src": "otis-w-cil.png",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["Brawl Stars Championship"]
       }
     ]
@@ -7623,70 +8183,115 @@
       {
         "name": "Meg",
         "imageSrc": "meg-default.webp",
-        "secondaryImageSrc": "meg-default-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-default-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Beetle Meg",
         "rarity": "Super Rare",
         "imageSrc": "meg-beetle.webp",
-        "secondaryImageSrc": "meg-beetle-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-beetle-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["Biodome"]
       },
       {
         "name": "Jaguar Spirit Meg",
         "rarity": "Epic",
         "imageSrc": "meg-jaguar-spirit.webp",
-        "secondaryImageSrc": "meg-jaguar-spirit-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-jaguar-spirit-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["Ranked", "Rumble Jungle Heroes"]
       },
       {
         "name": "Martyr Meg",
         "rarity": "Epic",
         "imageSrc": "meg-martyr.png",
-        "secondaryImageSrc": "meg-martyr-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-martyr-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["Angels vs. Demons"]
       },
       {
         "name": "Megalodon Meg",
         "rarity": "Mythic",
         "imageSrc": "meg-megalodon.webp",
-        "secondaryImageSrc": "meg-megalodon-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-megalodon-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["Cursed Pirates"]
       },
       {
         "name": "Monster Truck Meg",
         "rarity": "Epic",
         "imageSrc": "meg-monster-truck.webp",
-        "secondaryImageSrc": "meg-monster-truck-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-monster-truck-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["Stunt Show"]
       },
       {
         "name": "True Gold Meg",
         "imageSrc": "meg-true-gold.webp",
-        "secondaryImageSrc": "meg-true-gold-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-true-gold-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Meg",
         "imageSrc": "meg-true-silver.webp",
-        "secondaryImageSrc": "meg-true-silver-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-true-silver-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["True Silver"]
       },
       {
         "name": "Whisked Meg",
         "rarity": "Rare",
         "imageSrc": "meg-whisked.png",
-        "secondaryImageSrc": "meg-whisked-mecha.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "meg-whisked-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
         "themes": ["Starry Meal"]
       }
     ]
@@ -7998,30 +8603,50 @@
       {
         "name": "Kaze",
         "imageSrc": "kaze-default.png",
-        "secondaryImageSrc": "kaze-default-ninja.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "kaze-default-ninja.png",
+            "size": 256,
+            "label": "Ninja Form"
+          }
+        ],
         "themes": []
       },
       {
         "name": "Fruity Kaze",
         "rarity": "Rare",
         "imageSrc": "kaze-fruity.png",
-        "secondaryImageSrc": "kaze-fruity-ninja.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "kaze-fruity-ninja.png",
+            "size": 256,
+            "label": "Ninja Form"
+          }
+        ],
         "themes": ["Starry Meal"]
       },
       {
         "name": "True Gold Kaze",
         "imageSrc": "kaze-true-gold.png",
-        "secondaryImageSrc": "kaze-true-gold-ninja.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "kaze-true-gold-ninja.png",
+            "size": 256,
+            "label": "Ninja Form"
+          }
+        ],
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Kaze",
         "imageSrc": "kaze-true-silver.png",
-        "secondaryImageSrc": "kaze-true-silver-ninja.png",
-        "secondaryImageSize": 256,
+        "additionalImages": [
+          {
+            "src": "kaze-true-silver-ninja.png",
+            "size": 256,
+            "label": "Ninja Form"
+          }
+        ],
         "themes": ["True Silver"]
       }
     ]
