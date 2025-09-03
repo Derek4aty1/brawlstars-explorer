@@ -2895,7 +2895,7 @@
     "skins": [
       {
         "name": "Bibi",
-        "imageSrc": "bibi-default.webp",
+        "imageSrc": "bibi-default.png",
         "themes": []
       },
       {
@@ -8074,7 +8074,7 @@
     "skins": [
       {
         "name": "Leon",
-        "imageSrc": "leon-default.webp",
+        "imageSrc": "leon-default.png",
         "themes": []
       },
       {
