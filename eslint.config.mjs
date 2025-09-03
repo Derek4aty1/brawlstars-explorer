@@ -6,12 +6,16 @@ const compat = new FlatCompat({
 });
 
 const eslintConfig = [
-  ...compat.config({
-    extends: ['next', 'prettier'],
+  ...compat.extends('next/core-web-vitals'),
+  {
+    ignores: ['node_modules/**', '.next/**', 'out/**', 'build/**', 'next-env.d.ts'],
+  },
+  {
+    files: ['**/*.{js,jsx,ts,tsx}'],
     rules: {
       'no-console': 'warn',
     },
-  }),
+  },
 ];
 
 export default eslintConfig;
