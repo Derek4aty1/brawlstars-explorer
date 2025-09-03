@@ -1088,6 +1088,13 @@
         "name": "Beatmatcher Poco",
         "rarity": "Hypercharge",
         "imageSrc": "poco-beatmatcher.png",
+        "additionalImages": [
+          {
+            "src": "poco-beatmatcher-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": []
       },
       {
@@ -1106,6 +1113,13 @@
         "name": "DJ Poco",
         "rarity": "Hypercharge",
         "imageSrc": "poco-dj.png",
+        "additionalImages": [
+          {
+            "src": "poco-dj-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": []
       },
       {
@@ -1142,6 +1156,13 @@
         "name": "Scratcher Poco",
         "rarity": "Hypercharge",
         "imageSrc": "poco-scratcher.png",
+        "additionalImages": [
+          {
+            "src": "poco-scratcher-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": []
       },
       {
