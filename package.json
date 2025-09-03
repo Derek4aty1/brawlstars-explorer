@@ -10,7 +10,6 @@
     "format": "eslint --fix . && prettier --write .",
     "prepare": "husky"
   },
-  
   "dependencies": {
     "@vercel/analytics": "^1.3.2",
     "next": "^15.5.2",
