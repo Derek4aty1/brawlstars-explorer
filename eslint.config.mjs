@@ -14,6 +14,16 @@ const eslintConfig = [
     files: ['**/*.{js,jsx,ts,tsx}'],
     rules: {
       'no-console': 'warn',
+      'jsx-a11y/alt-text': [
+        'warn',
+        {
+          'elements': ['img', 'object', 'area', 'input[type="image"]'],
+          'img': ['Image', 'FadeInImage'],
+          'object': ['Object'],
+          'area': ['Area'],
+          'input[type="image"]': ['InputImage'],
+        },
+      ],
     },
   },
 ];

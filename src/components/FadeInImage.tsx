@@ -16,6 +16,7 @@ export default function FadeInImage({ wrapperClassName = '', triggerOnce = true,
     <div ref={ref} className={`relative ${wrapperClassName}`}>
       <Image
         {...props}
+        alt={props.alt}
         onLoad={() => setIsLoaded(true)}
         className={`transition-opacity ease-linear ${isLoaded && inView ? 'opacity-100' : 'opacity-0'} ${props.className || ''}`}
       />
