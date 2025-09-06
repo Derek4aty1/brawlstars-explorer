@@ -771,7 +771,7 @@
       {
         "name": "El Grillo",
         "imageSrc": "el-primo-el-grillo.png",
-        "themes": []
+        "themes": ["Carreta"]
       },
       {
         "name": "El Mayordomo",
@@ -1095,7 +1095,7 @@
             "label": "Hypercharge Form"
           }
         ],
-        "themes": []
+        "themes": ["Streetwear"]
       },
       {
         "name": "CCTV Poco",
@@ -1120,13 +1120,13 @@
             "label": "Hypercharge Form"
           }
         ],
-        "themes": []
+        "themes": ["Streetwear"]
       },
       {
         "name": "Phantom Poco",
         "rarity": "Rare",
         "imageSrc": "poco-phantom.png",
-        "themes": []
+        "themes": ["Misc"]
       },
       {
         "name": "Pirate Poco",
@@ -1163,7 +1163,7 @@
             "label": "Hypercharge Form"
           }
         ],
-        "themes": []
+        "themes": ["Streetwear"]
       },
       {
         "name": "Serenade Poco",
@@ -1470,7 +1470,7 @@
       {
         "name": "Crazy Clown Carl",
         "imageSrc": "carl-crazy-clown.png",
-        "themes": []
+        "themes": ["Carreta"]
       },
       {
         "name": "Dark Tide Carl",
@@ -2485,7 +2485,7 @@
         "name": "Eggplosion Tick",
         "rarity": "Rare",
         "imageSrc": "tick-eggplosion.png",
-        "themes": []
+        "themes": ["Starry Meal"]
       },
       {
         "name": "Headless Tickman",
@@ -2819,7 +2819,7 @@
         "name": "Knight Belle",
         "rarity": "Mythic",
         "imageSrc": "belle-knight.png",
-        "themes": ["Knights!"]
+        "themes": ["Knights!", "Supercell Make"]
       },
       {
         "name": "Ivy Belle",
@@ -3564,7 +3564,7 @@
         "name": "Hypebeast Emz",
         "rarity": "Epic",
         "imageSrc": "emz-hypebeast.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Streetwear"]
       },
       {
         "name": "Mean Girl Emz",
@@ -3594,7 +3594,7 @@
         "name": "Streetwear Emz",
         "rarity": "Epic",
         "imageSrc": "emz-streetwear.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Streetwear"]
       },
       {
         "name": "Super Fan Emz",
@@ -3606,7 +3606,7 @@
         "name": "Techwear Emz",
         "rarity": "Epic",
         "imageSrc": "emz-techwear.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Streetwear"]
       },
       {
         "name": "True Gold Emz",
@@ -3957,8 +3957,9 @@
       },
       {
         "name": "Jam Master Hank",
+        "rarity": "Mythic",
         "imageSrc": "hank-jam-master.png",
-        "themes": []
+        "themes": ["Streetwear"]
       },
       {
         "name": "Moon Guardian Hank",
@@ -4940,8 +4941,9 @@
       },
       {
         "name": "Graffiti Stu",
+        "rarity": "Rare",
         "imageSrc": "stu-graffiti.png",
-        "themes": []
+        "themes": ["Streetwear"]
       },
       {
         "name": "Headless Rider Stu",
@@ -5061,8 +5063,9 @@
       },
       {
         "name": "Graffiti Alli",
+        "rarity": "Rare",
         "imageSrc": "alli-graffiti.png",
-        "themes": []
+        "themes": ["Streetwear"]
       },
       {
         "name": "Hunter Gatherer Alli",
@@ -5111,7 +5114,7 @@
         "name": "Biker Buster",
         "rarity": "Rare",
         "imageSrc": "buster-biker.png",
-        "themes": []
+        "themes": ["City Troubles"]
       },
       {
         "name": "Blessed Buster",
@@ -5308,8 +5311,9 @@
       },
       {
         "name": "Frank Byron",
+        "rarity": "Epic",
         "imageSrc": "byron-frank.png",
-        "themes": []
+        "themes": ["Subway Surfers"]
       },
       {
         "name": "Overlord Byron",
@@ -6026,8 +6030,9 @@
       },
       {
         "name": "Tricky Janet",
+        "rarity": "Epic",
         "imageSrc": "janet-tricky.png",
-        "themes": []
+        "themes": ["Subway Surfers"]
       },
       {
         "name": "True Gold Janet",
@@ -6892,8 +6897,9 @@
       },
       {
         "name": "Jake Ollie",
+        "rarity": "Epic",
         "imageSrc": "ollie-jake.png",
-        "themes": []
+        "themes": ["Subway Surfers"]
       },
       {
         "name": "Ollie G",
@@ -8106,8 +8112,9 @@
       },
       {
         "name": "Graffiti Leon",
+        "rarity": "Rare",
         "imageSrc": "leon-graffiti.png",
-        "themes": []
+        "themes": ["Streetwear"]
       },
       {
         "name": "Leon the Stray",
@@ -8436,7 +8443,7 @@
       {
         "name": "Carreta Spike",
         "imageSrc": "spike-carreta.png",
-        "themes": []
+        "themes": ["Carreta"]
       },
       {
         "name": "Dark Lord Spike",
