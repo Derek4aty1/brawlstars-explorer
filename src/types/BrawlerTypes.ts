@@ -104,7 +104,7 @@ export type BrawlerGadget = {
 export type AdditionalSkinImage = {
   src: string;
   label: string;
-  size?: 128 | 256;
+  size: 128 | 256;
 };
 
 export type BrawlerSkin = {

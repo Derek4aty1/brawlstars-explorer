@@ -2039,6 +2039,18 @@
         "themes": ["Toy Story"]
       },
       {
+        "name": "Musketeer Jessie",
+        "imageSrc": "jessie-musketeer.png",
+        "additionalImages": [
+          {
+            "src": "jessie-musketeer-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
+        "themes": ["Clash Stories"]
+      },
+      {
         "name": "Red Dragon Jessie",
         "rarity": "Super Rare",
         "imageSrc": "jessie-red-dragon.webp",
@@ -2281,6 +2293,13 @@
       {
         "name": "Truant Penny",
         "imageSrc": "penny-truant.png",
+        "additionalImages": [
+          {
+            "src": "penny-truant-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
         "themes": ["Brawl Academy"]
       },
       {
@@ -2716,6 +2735,11 @@
       {
         "name": "Bea",
         "imageSrc": "bea-default.webp",
+        "themes": []
+      },
+      {
+        "name": "Aeb",
+        "imageSrc": "bea-aeb.png",
         "themes": []
       },
       {

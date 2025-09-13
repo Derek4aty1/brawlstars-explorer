@@ -16,11 +16,12 @@ export default function SkinImageCarousel({ mainImageSrc, mainImageAlt, addition
 
   // Main image + additional images
   const allImages = [
-    { src: mainImageSrc, alt: mainImageAlt, label: 'Base' },
+    { src: mainImageSrc, alt: mainImageAlt, label: 'Base', size: 256 },
     ...additionalImages.map((img) => ({
       src: img.src,
       alt: `${skinName} ${img.label}`,
       label: img.label,
+      size: img.size,
     })),
   ];
 
@@ -59,9 +60,7 @@ export default function SkinImageCarousel({ mainImageSrc, mainImageAlt, addition
         {allImages.map((image, index) => (
           <div
             key={`${image.src}-${index}`}
-            className={`absolute inset-0 transition-opacity duration-300 ease-in-out ${
-              index === currentImageIndex ? 'opacity-100' : 'opacity-0'
-            }`}
+            className={`absolute inset-0 transition-opacity duration-300 ease-in-out ${index === currentImageIndex ? 'opacity-100' : 'opacity-0'}`}
           >
             <FadeInImage
               src={image.src}
