@@ -770,7 +770,7 @@
       },
       {
         "name": "El Grilo",
-        "imageSrc": "el-primo-el-grillo.png",
+        "imageSrc": "el-primo-el-grilo.png",
         "themes": ["Carreta"]
       },
       {
@@ -4702,6 +4702,11 @@
         "themes": ["Brawl Pass", "Deep Sea League"]
       },
       {
+        "name": "Porcelain Pearl",
+        "imageSrc": "pearl-porcelain.png",
+        "themes": ["Lunar Stories"]
+      },
+      {
         "name": "True Gold Pearl",
         "imageSrc": "pearl-true-gold.webp",
         "themes": ["True Gold"]
@@ -8611,6 +8616,11 @@
         "rarity": "Epic",
         "imageSrc": "surge-mecha-paladin.webp",
         "themes": ["Brawl Pass", "Max Force"]
+      },
+      {
+        "name": "Porcelain Surge",
+        "imageSrc": "surge-porcelain.png",
+        "themes": ["Lunar Stories"]
       },
       {
         "name": "Scarlet Paladin Surge",
