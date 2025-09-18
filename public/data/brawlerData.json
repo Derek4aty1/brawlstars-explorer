@@ -6535,8 +6535,27 @@
         "themes": []
       },
       {
+        "name": "Beatchaser Mina",
+        "rarity": "Mythic",
+        "imageSrc": "mina-beatchaser.png",
+        "themes": []
+      },
+      {
+        "name": "Dance Dance Mina",
+        "rarity": "Mythic",
+        "imageSrc": "mina-dance-dance.png",
+        "themes": []
+      },
+      {
         "name": "Graffiti Mina",
+        "rarity": "Rare",
         "imageSrc": "mina-graffiti.png",
+        "themes": ["Streetwear"]
+      },
+      {
+        "name": "High Scorer Mina",
+        "rarity": "Mythic",
+        "imageSrc": "mina-high-scorer.png",
         "themes": []
       }
     ]
