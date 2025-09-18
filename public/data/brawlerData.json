@@ -769,7 +769,7 @@
         "themes": ["Once Upon"]
       },
       {
-        "name": "El Grillo",
+        "name": "El Grilo",
         "imageSrc": "el-primo-el-grillo.png",
         "themes": ["Carreta"]
       },
@@ -2380,7 +2380,7 @@
       {
         "name": "Ghost Diver Rico",
         "imageSrc": "rico-ghost-diver.png",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Guard Rico",
@@ -2509,7 +2509,7 @@
       {
         "name": "Headless Tickman",
         "imageSrc": "tick-headless-tickman.png",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "King Crab Tick",
@@ -2740,7 +2740,7 @@
       {
         "name": "Aeb",
         "imageSrc": "bea-aeb.png",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Archvillain Bea",
@@ -7125,7 +7125,7 @@
       {
         "name": "Gargoyle R-T",
         "imageSrc": "r-t-gargoyle.png",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Patrol R-T",
@@ -7215,7 +7215,7 @@
       {
         "name": "Teen Ruffs",
         "imageSrc": "ruffs-teen.png",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "True Gold Ruffs",
@@ -7544,6 +7544,21 @@
       {
         "name": "Ziggy",
         "imageSrc": "ziggy-default.png",
+        "themes": []
+      },
+      {
+        "name": "Dark Wizard Ziggy",
+        "imageSrc": "ziggy-dark-wizard.png",
+        "themes": []
+      },
+      {
+        "name": "Warlock Ziggy",
+        "imageSrc": "ziggy-warlock.png",
+        "themes": []
+      },
+      {
+        "name": "Zap It Up Ziggy",
+        "imageSrc": "ziggy-zap-it-up.png",
         "themes": []
       }
     ]
@@ -7987,7 +8002,7 @@
         "name": "Kizu Kenji",
         "rarity": "Hypercharge",
         "imageSrc": "kenji-kizu.png",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Mamushi Kenji",
