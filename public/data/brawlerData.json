@@ -6569,6 +6569,16 @@
         "rarity": "Mythic",
         "imageSrc": "mina-high-scorer.png",
         "themes": ["Vibing"]
+      },
+            {
+        "name": "True Gold Mina",
+        "imageSrc": "mina-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Mina",
+        "imageSrc": "mina-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -7562,16 +7572,29 @@
       },
       {
         "name": "Dark Wizard Ziggy",
+        "rarity": "Mythic",
         "imageSrc": "ziggy-dark-wizard.png",
         "themes": []
       },
       {
+        "name": "True Gold Ziggy",
+        "imageSrc": "ziggy-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Ziggy",
+        "imageSrc": "ziggy-true-silver.png",
+        "themes": ["True Silver"]
+      },
+      {
         "name": "Warlock Ziggy",
+        "rarity": "Mythic",
         "imageSrc": "ziggy-warlock.png",
         "themes": []
       },
       {
         "name": "Zap It Up Ziggy",
+        "rarity": "Mythic",
         "imageSrc": "ziggy-zap-it-up.png",
         "themes": []
       }
