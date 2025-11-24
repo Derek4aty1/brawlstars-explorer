@@ -1990,6 +1990,19 @@
         "themes": []
       },
       {
+        "name": "Bubblegum Mecha Jessie",
+        "rarity": "Legendary",
+        "imageSrc": "jessie-bubblegum-mecha.png",
+        "additionalImages": [
+          {
+            "src": "jessie-bubblegum-mecha-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
+        "themes": ["Mecha Squad"]
+      },
+      {
         "name": "Cat Burglar Jessie",
         "rarity": "Epic",
         "imageSrc": "jessie-cat-burglar.webp",
@@ -2042,6 +2055,19 @@
         "themes": ["Toy Story"]
       },
       {
+        "name": "Mecha Jessie",
+        "rarity": "Legendary",
+        "imageSrc": "jessie-mecha.png",
+        "additionalImages": [
+          {
+            "src": "jessie-mecha-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
+        "themes": ["Mecha Squad"]
+      },
+      {
         "name": "Musketeer Jessie",
         "imageSrc": "jessie-musketeer.png",
         "additionalImages": [
@@ -2091,6 +2117,19 @@
           }
         ],
         "themes": ["Once Upon"]
+      },
+      {
+        "name": "Shining Mecha Jessie",
+        "rarity": "Legendary",
+        "imageSrc": "jessie-shining-mecha.png",
+        "additionalImages": [
+          {
+            "src": "jessie-shining-mecha-scrappy.png",
+            "size": 128,
+            "label": "Scrappy"
+          }
+        ],
+        "themes": ["Mecha Squad"]
       },
       {
         "name": "Skadi Jessie",
@@ -4359,6 +4398,18 @@
         "themes": ["Vibing"]
       },
       {
+        "name": "Mecha Mandy",
+        "rarity": "Epic",
+        "imageSrc": "mandy-mecha.png",
+        "themes": ["Brawl Pass", "Mecha Squad"]
+      },
+      {
+        "name": "Shade Mecha Mandy",
+        "rarity": "Epic",
+        "imageSrc": "mandy-shade-mecha.png",
+        "themes": ["Brawl Pass", "Mecha Squad"]
+      },
+      {
         "name": "True Gold Mandy",
         "imageSrc": "mandy-true-gold.png",
         "themes": ["True Gold"]
@@ -4367,6 +4418,12 @@
         "name": "True Silver Mandy",
         "imageSrc": "mandy-true-silver.png",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Wasp Mecha Mandy",
+        "rarity": "Epic",
+        "imageSrc": "mandy-wasp-mecha.png",
+        "themes": ["Brawl Pass", "Mecha Squad"]
       },
       {
         "name": "Witch Mandy",
@@ -4793,6 +4850,12 @@
         "themes": ["Battle For Katana Kingdom", "Brawl Pass"]
       },
       {
+        "name": "Lotus Mecha Piper",
+        "rarity": "Hypercharge",
+        "imageSrc": "piper-lotus-mecha.png",
+        "themes": ["Mecha Squad"]
+      },
+      {
         "name": "Lunar Piper",
         "rarity": "Epic",
         "imageSrc": "piper-lunar.webp",
@@ -4809,6 +4872,18 @@
         "rarity": "Rare",
         "imageSrc": "piper-pink.webp",
         "themes": ["Misc"]
+      },
+      {
+        "name": "Petal Mecha Piper",
+        "rarity": "Hypercharge",
+        "imageSrc": "piper-petal-mecha.png",
+        "themes": ["Mecha Squad"]
+      },
+      {
+        "name": "Rose Mecha Piper",
+        "rarity": "Hypercharge",
+        "imageSrc": "piper-rose-mecha.png",
+        "themes": ["Mecha Squad"]
       },
       {
         "name": "True Gold Piper",
