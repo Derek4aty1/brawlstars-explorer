@@ -5894,6 +5894,40 @@
     ]
   },
   {
+    "name": "Gigi",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "description": "A cursed puppet who brings an unsettling vibe, Gigi and her bonded magician's glove are never found apart. You can find her in the Oddities Shop, dancing between the bookshelves.",
+    "recordTitle": "Strung Up",
+    "portraitImageSrc": "gigi.png",
+    "gadgets": [],
+    "skins": [
+      {
+        "name": "Gigi",
+        "imageSrc": "gigi-default.png",
+        "themes": []
+      },
+      {
+        "name": "Autumn Scarecrow Gigi",
+        "rarity": "Mythic",
+        "imageSrc": "gigi-autumn-scarecrow.webp",
+        "themes": []
+      },
+      {
+        "name": "Scarecrow Gigi",
+        "rarity": "Mythic",
+        "imageSrc": "gigi-scarecrow.webp",
+        "themes": []
+      },
+      {
+        "name": "Winter Scarecrow Gigi",
+        "rarity": "Mythic",
+        "imageSrc": "gigi-winter-scarecrow.webp",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Gray",
     "rarity": "Mythic",
     "class": "Support",
@@ -6570,7 +6604,7 @@
         "imageSrc": "mina-high-scorer.png",
         "themes": ["Vibing"]
       },
-            {
+      {
         "name": "True Gold Mina",
         "imageSrc": "mina-true-gold.png",
         "themes": ["True Gold"]
