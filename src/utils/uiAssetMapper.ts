@@ -122,6 +122,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'StarrForce Assemble': '/images/ui/skins/themes/starrforce-assemble.png',
   'Starrs of Brawlywood': '/images/ui/skins/themes/starrs-of-brawlywood.png',
   'Starry Meal': '/images/ui/skins/themes/starry-meal.png',
+  'Stranger Things': '/images/ui/skins/themes/stranger-things.png',
   'Streetwear': '/images/ui/skins/themes/streetwear.png',
   'Stunt Show': '/images/ui/skins/themes/stunt-show.png',
   'Subway Surfers': '/images/ui/skins/themes/subway-surfers.png',

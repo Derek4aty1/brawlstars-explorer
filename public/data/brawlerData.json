@@ -443,6 +443,12 @@
         "themes": ["Angels vs. Demons"]
       },
       {
+        "name": "Hopper Bull",
+        "rarity": "Epic",
+        "imageSrc": "bull-hopper.png",
+        "themes": ["Stranger Things"]
+      },
+      {
         "name": "Kansai Dragon Bull",
         "rarity": "Rare",
         "imageSrc": "bull-kansai-dragon.png",
@@ -878,6 +884,60 @@
           }
         ],
         "themes": []
+      },
+      {
+        "name": "80's Dustin Nita",
+        "rarity": "Hypercharge",
+        "imageSrc": "nita-80s-dustin.png",
+        "additionalImages": [
+          {
+            "src": "nita-dustin-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          },
+          {
+            "src": "nita-dustin-hypercharged-bruce.png",
+            "size": 256,
+            "label": "Hypercharge Form Bruce"
+          }
+        ],
+        "themes": ["Stranger Things"]
+      },
+      {
+        "name": "Dustin Nita",
+        "rarity": "Hypercharge",
+        "imageSrc": "nita-dustin.png",
+        "additionalImages": [
+          {
+            "src": "nita-dustin-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          },
+          {
+            "src": "nita-dustin-hypercharged-bruce.png",
+            "size": 256,
+            "label": "Hypercharge Form Bruce"
+          }
+        ],
+        "themes": ["Stranger Things"]
+      },
+      {
+        "name": "Future Dustin Nita",
+        "rarity": "Hypercharge",
+        "imageSrc": "nita-future-dustin.png",
+        "additionalImages": [
+          {
+            "src": "nita-dustin-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          },
+          {
+            "src": "nita-dustin-hypercharged-bruce.png",
+            "size": 256,
+            "label": "Hypercharge Form Bruce"
+          }
+        ],
+        "themes": ["Stranger Things"]
       },
       {
         "name": "Gummybear Nita",
@@ -1863,6 +1923,12 @@
         "name": "True Silver Gus",
         "imageSrc": "gus-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Will Gus",
+        "rarity": "Epic",
+        "imageSrc": "gus-will.png",
+        "themes": ["Stranger Things"]
       },
       {
         "name": "World Champion Gus",
@@ -2957,6 +3023,12 @@
         "rarity": "Epic",
         "imageSrc": "berry-pegasus.png",
         "themes": ["Legends of Hades"]
+      },
+      {
+        "name": "Scoops Ahoy Berry",
+        "rarity": "Epic",
+        "imageSrc": "berry-scoops-ahoy.png",
+        "themes": ["Stranger Things"]
       },
       {
         "name": "StarrHorse Berry",
@@ -6435,10 +6507,28 @@
         "themes": ["Once Upon"]
       },
       {
+        "name": "Eleven Lumi",
+        "rarity": "Epic",
+        "imageSrc": "lumi-eleven.png",
+        "themes": ["Brawl Pass", "Stranger Things"]
+      },
+      {
         "name": "Persephone Lumi",
         "rarity": "Super Rare",
         "imageSrc": "lumi-persephone.png",
         "themes": ["Legends of Hades"]
+      },
+      {
+        "name": "Retro Eleven Lumi",
+        "rarity": "Epic",
+        "imageSrc": "lumi-retro-eleven.png",
+        "themes": ["Brawl Pass", "Stranger Things"]
+      },
+      {
+        "name": "Thrilled Eleven Lumi",
+        "rarity": "Epic",
+        "imageSrc": "lumi-thrilled-eleven.png",
+        "themes": ["Brawl Pass", "Stranger Things"]
       },
       {
         "name": "True Gold Lumi",
@@ -8131,6 +8221,12 @@
         "rarity": "Legendary",
         "imageSrc": "draco-dread-knight.png",
         "themes": ["Once Upon"]
+      },
+      {
+        "name": "Eddie Draco",
+        "rarity": "Mythic",
+        "imageSrc": "draco-eddie.png",
+        "themes": ["Stranger Things"]
       },
       {
         "name": "True Gold Draco",
