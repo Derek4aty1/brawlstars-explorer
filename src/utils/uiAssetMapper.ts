@@ -87,6 +87,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Deep Sea League': '/images/ui/skins/themes/deep-sea-league.png',
   'Enchanted Woods': '/images/ui/skins/themes/enchanted-woods.png',
   'Flaming': '/images/ui/skins/themes/flaming.png',
+  'Freedom!': '/images/ui/skins/themes/freedom.webp',
   'Gaming': '/images/ui/skins/themes/gaming.png',
   'Gift Shop': '/images/ui/skins/themes/gift-shop.png',
   'Godzilla': '/images/ui/skins/themes/godzilla.png',

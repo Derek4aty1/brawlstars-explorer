@@ -170,6 +170,7 @@
       },
       {
         "name": "Eldritch Professor Barley",
+        "rarity": "Epic",
         "imageSrc": "barley-eldritch-professor.png",
         "themes": ["Brawl Academy"]
       },
@@ -770,6 +771,7 @@
       },
       {
         "name": "El Grilo",
+        "rarity": "Epic",
         "imageSrc": "el-primo-el-grilo.png",
         "themes": ["Carreta"]
       },
@@ -1126,7 +1128,7 @@
         "name": "Phantom Poco",
         "rarity": "Rare",
         "imageSrc": "poco-phantom.png",
-        "themes": ["Misc"]
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Pirate Poco",
@@ -1469,6 +1471,7 @@
       },
       {
         "name": "Crazy Clown Carl",
+        "rarity": "Epic",
         "imageSrc": "carl-crazy-clown.png",
         "themes": ["Carreta"]
       },
@@ -2292,6 +2295,7 @@
       },
       {
         "name": "Truant Penny",
+        "rarity": "Epic",
         "imageSrc": "penny-truant.png",
         "additionalImages": [
           {
@@ -2379,6 +2383,7 @@
       },
       {
         "name": "Ghost Diver Rico",
+        "rarity": "Mythic",
         "imageSrc": "rico-ghost-diver.png",
         "themes": ["Brawl-o-ween"]
       },
@@ -2508,6 +2513,7 @@
       },
       {
         "name": "Headless Tickman",
+        "rarity": "Mythic",
         "imageSrc": "tick-headless-tickman.png",
         "themes": ["Brawl-o-ween"]
       },
@@ -2739,6 +2745,7 @@
       },
       {
         "name": "Aeb",
+        "rarity": "Epic",
         "imageSrc": "bea-aeb.png",
         "themes": ["Brawl-o-ween"]
       },
@@ -6543,13 +6550,13 @@
         "name": "Beatchaser Mina",
         "rarity": "Mythic",
         "imageSrc": "mina-beatchaser.png",
-        "themes": []
+        "themes": ["Vibing"]
       },
       {
         "name": "Dance Dance Mina",
         "rarity": "Mythic",
         "imageSrc": "mina-dance-dance.png",
-        "themes": []
+        "themes": ["Vibing"]
       },
       {
         "name": "Graffiti Mina",
@@ -6561,7 +6568,7 @@
         "name": "High Scorer Mina",
         "rarity": "Mythic",
         "imageSrc": "mina-high-scorer.png",
-        "themes": []
+        "themes": ["Vibing"]
       }
     ]
   },
@@ -7129,6 +7136,7 @@
       },
       {
         "name": "Gargoyle R-T",
+        "rarity": "Mythic",
         "imageSrc": "r-t-gargoyle.png",
         "themes": ["Brawl-o-ween"]
       },
@@ -7219,6 +7227,7 @@
       },
       {
         "name": "Teen Ruffs",
+        "rarity": "Epic",
         "imageSrc": "ruffs-teen.png",
         "themes": ["Brawl-o-ween"]
       },
@@ -7702,6 +7711,7 @@
       },
       {
         "name": "Prankster Chester",
+        "rarity": "Epic",
         "imageSrc": "chester-prankster.png",
         "themes": ["Brawl Academy"]
       },
@@ -7837,7 +7847,7 @@
         "name": "Death's Door Crow",
         "rarity": "Epic",
         "imageSrc": "crow-deaths-door.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
       },
       {
         "name": "Gold Mecha Crow",
@@ -7849,7 +7859,7 @@
         "name": "Maverick Crow",
         "rarity": "Rare",
         "imageSrc": "crow-maverick.png",
-        "themes": ["Misc"]
+        "themes": ["Freedom!"]
       },
       {
         "name": "Mecha Crow",
@@ -7873,7 +7883,7 @@
         "name": "Old Hunter Crow",
         "rarity": "Epic",
         "imageSrc": "crow-old-hunter.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
       },
       {
         "name": "Phoenix Crow",
@@ -7885,7 +7895,7 @@
         "name": "Plague Doctor Crow",
         "rarity": "Epic",
         "imageSrc": "crow-plague-doctor.png",
-        "themes": ["Brawl Pass"]
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
       },
       {
         "name": "True Gold Crow",
@@ -8014,6 +8024,12 @@
         "rarity": "Epic",
         "imageSrc": "kenji-mamushi.png",
         "themes": ["Brawl Pass", "StarrForce Assemble"]
+      },
+      {
+        "name": "Manga Kenji",
+        "rarity": "Hypercharge",
+        "imageSrc": "kenji-manga.png",
+        "themes": ["Battle For Katana Kingdom"]
       },
       {
         "name": "Oni Kenji",
@@ -8505,6 +8521,7 @@
       },
       {
         "name": "Carreta Spike",
+        "rarity": "Epic",
         "imageSrc": "spike-carreta.png",
         "themes": ["Carreta"]
       },

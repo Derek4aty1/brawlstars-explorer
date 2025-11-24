@@ -34,6 +34,7 @@ const SKIN_THEMES = [
   'Deep Sea League',
   'Enchanted Woods',
   'Flaming',
+  'Freedom!',
   'Gaming',
   'Gift Shop',
   'Godzilla',
