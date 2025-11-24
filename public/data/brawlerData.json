@@ -1809,6 +1809,13 @@
         "name": "Possessed Dynamike",
         "rarity": "Hypercharge",
         "imageSrc": "dynamike-possessed.png",
+        "additionalImages": [
+          {
+            "src": "dynamike-possessed-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Pro Pass"]
       },
       {
@@ -8502,10 +8509,32 @@
         "themes": ["Mecha Squad"]
       },
       {
+        "name": "Shadow Tiger Leon",
+        "rarity": "Hypercharge",
+        "imageSrc": "leon-shadow-tiger.png",
+        "themes": ["Pro Pass"]
+      },
+      {
         "name": "Shark Leon",
         "rarity": "Super Rare",
         "imageSrc": "leon-shark.webp",
         "themes": ["Summer of Brawl"]
+      },
+      {
+        "name": "Stalking Tiger Leon",
+        "rarity": "Hypercharge",
+        "imageSrc": "leon-stalking-tiger.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Tiger Leon",
+        "imageSrc": "leon-tiger.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Tiger Leon IV",
+        "imageSrc": "leon-tiger-iv.png",
+        "themes": ["Pro Pass"]
       },
       {
         "name": "Trick or Treat Leon",
@@ -8528,6 +8557,12 @@
         "rarity": "Epic",
         "imageSrc": "leon-werewolf.webp",
         "themes": ["Brawl-o-ween"]
+      },
+      {
+        "name": "White Tiger Leon",
+        "rarity": "Hypercharge",
+        "imageSrc": "leon-white-tiger.png",
+        "themes": ["Pro Pass"]
       },
       {
         "name": "White Wolf Leon",
