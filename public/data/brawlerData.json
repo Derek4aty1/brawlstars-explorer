@@ -2229,6 +2229,18 @@
         "themes": []
       },
       {
+        "name": "Archer Queen Penny",
+        "imageSrc": "penny-archer-queen.png",
+        "additionalImages": [
+          {
+            "src": "penny-archer-queen-old-lobber.png",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
+        "themes": ["Clash Stories"]
+      },
+      {
         "name": "Bunny Penny",
         "rarity": "Super Rare",
         "imageSrc": "penny-bunny.webp",
@@ -5981,7 +5993,18 @@
     "description": "A cursed puppet who brings an unsettling vibe, Gigi and her bonded magician's glove are never found apart. You can find her in the Oddities Shop, dancing between the bookshelves.",
     "recordTitle": "Strung Up",
     "portraitImageSrc": "gigi.png",
-    "gadgets": [],
+    "gadgets": [
+      {
+        "name": "Longer Strings",
+        "imageSrc": "gigi-longer-strings.png",
+        "description": ""
+      },
+      {
+        "name": "Disappearing Act",
+        "imageSrc": "gigi-disappearing-act.png",
+        "description": ""
+      }
+    ],
     "skins": [
       {
         "name": "Gigi",
