@@ -92,6 +92,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Gift Shop': '/images/ui/skins/themes/gift-shop.png',
   'Godzilla': '/images/ui/skins/themes/godzilla.png',
   'Golden Brawl Ball': '/images/ui/skins/themes/golden-brawl-ball.png',
+  'Gym Rats': '/images/ui/skins/themes/gym-rats.png',
   'Kaiju Invasion': '/images/ui/skins/themes/kaiju-invasion.png',
   'Knights!': '/images/ui/skins/themes/knights.png',
   'Latin America Master League': '/images/ui/skins/themes/latin-america-master-league.png',

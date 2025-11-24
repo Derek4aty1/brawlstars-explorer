@@ -5508,6 +5508,12 @@
         "rarity": "Legendary",
         "imageSrc": "charlie-virus.webp",
         "themes": ["CyberBrawl"]
+      },
+      {
+        "name": "Workout Charlie",
+        "rarity": "Epic",
+        "imageSrc": "charlie-workout.png",
+        "themes": ["Gym Rats"]
       }
     ]
   },
@@ -6546,6 +6552,12 @@
         "themes": ["Brawl Pass", "The Good Randoms"]
       },
       {
+        "name": "Pump It Melodie",
+        "rarity": "Epic",
+        "imageSrc": "melodie-pump-it.png",
+        "themes": ["Gym Rats"]
+      },
+      {
         "name": "Redwhite Melodie",
         "rarity": "Epic",
         "imageSrc": "melodie-redwhite.png",
@@ -6991,6 +7003,19 @@
           }
         ],
         "themes": ["The Golden Kawaii"]
+      },
+      {
+        "name": "Gym Rat Mr. P",
+        "rarity": "Super Rare",
+        "imageSrc": "mr-p-gym-rat.png",
+        "additionalImages": [
+          {
+            "src": "mr-p-gym-rat-porter.png",
+            "size": 128,
+            "label": "Porter"
+          }
+        ],
+        "themes": ["Gym Rats"]
       },
       {
         "name": "Mr. Fly",
