@@ -2508,7 +2508,7 @@
       {
         "name": "Ghost Diver Rico",
         "rarity": "Mythic",
-        "imageSrc": "rico-ghost-diver.png",
+        "imageSrc": "rico-ghost-diver.webp",
         "themes": ["Brawl-o-ween"]
       },
       {
@@ -4943,7 +4943,14 @@
       {
         "name": "Lotus Mecha Piper",
         "rarity": "Hypercharge",
-        "imageSrc": "piper-lotus-mecha.png",
+        "imageSrc": "piper-lotus-mecha.webp",
+        "additionalImages": [
+          {
+            "src": "piper-lotus-mecha-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Mecha Squad"]
       },
       {
@@ -4967,13 +4974,27 @@
       {
         "name": "Petal Mecha Piper",
         "rarity": "Hypercharge",
-        "imageSrc": "piper-petal-mecha.png",
+        "imageSrc": "piper-petal-mecha.webp",
+        "additionalImages": [
+          {
+            "src": "piper-petal-mecha-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Mecha Squad"]
       },
       {
         "name": "Rose Mecha Piper",
         "rarity": "Hypercharge",
-        "imageSrc": "piper-rose-mecha.png",
+        "imageSrc": "piper-rose-mecha.webp",
+        "additionalImages": [
+          {
+            "src": "piper-rose-mecha-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Mecha Squad"]
       },
       {
