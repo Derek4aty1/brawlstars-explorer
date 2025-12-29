@@ -4696,6 +4696,19 @@
         "themes": ["Brown & Friends"]
       },
       {
+        "name": "Snow Globe Nani",
+        "rarity": "Epic",
+        "imageSrc": "nani-snow-globe.png",
+        "additionalImages": [
+          {
+            "src": "nani-snow-globe-peep.webp",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
+        "themes": ["Brawlidays"]
+      },
+      {
         "name": "True Gold Nani",
         "imageSrc": "nani-true-gold.webp",
         "additionalImages": [
@@ -6732,6 +6745,12 @@
         "name": "True Silver Max",
         "imageSrc": "max-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "World Champion Max",
+        "rarity": "Epic",
+        "imageSrc": "max-world-champion.png",
+        "themes": ["Brawl Stars Championship"]
       }
     ]
   },
@@ -7887,6 +7906,11 @@
         "rarity": "Epic",
         "imageSrc": "willow-demon.webp",
         "themes": ["Angels vs. Demons"]
+      },
+      {
+        "name": "Lunar Lotus Willow",
+        "imageSrc": "willow-lunar-lotus.png",
+        "themes": ["Lunar Stories"]
       },
       {
         "name": "Scorpion Willow",
