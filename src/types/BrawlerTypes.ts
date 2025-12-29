@@ -69,6 +69,7 @@ const SKIN_THEMES = [
   'StarrForce Assemble',
   'Starrs of Brawlywood',
   'Starry Meal',
+  'Steampunk',
   'Stranger Things',
   'Streetwear',
   'Stunt Show',

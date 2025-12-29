@@ -264,6 +264,11 @@
         "themes": ["Vibing"]
       },
       {
+        "name": "Boss Brock",
+        "imageSrc": "brock-boss.png",
+        "themes": ["Steampunk"]
+      },
+      {
         "name": "Deputy Brock",
         "rarity": "Super Rare",
         "imageSrc": "brock-deputy.webp",
@@ -3918,6 +3923,18 @@
         "themes": []
       },
       {
+        "name": "Dapper Gale",
+        "rarity": "Epic",
+        "imageSrc": "gale-dapper.png",
+        "themes": ["Brawl Pass", "Steampunk"]
+      },
+      {
+        "name": "Fancy Man Gale",
+        "rarity": "Epic",
+        "imageSrc": "gale-fancy-man.png",
+        "themes": ["Brawl Pass", "Steampunk"]
+      },
+      {
         "name": "Galactic Gale",
         "rarity": "Rare",
         "imageSrc": "gale-galactic.png",
@@ -3946,6 +3963,12 @@
         "rarity": "Epic",
         "imageSrc": "gale-squeakbuster.webp",
         "themes": ["Starrs of Brawlywood"]
+      },
+      {
+        "name": "Steampunk Gale",
+        "rarity": "Epic",
+        "imageSrc": "gale-steampunk.png",
+        "themes": ["Brawl Pass", "Steampunk"]
       },
       {
         "name": "True Gold Gale",
@@ -5061,6 +5084,11 @@
         "themes": ["Bizarre Circus"]
       },
       {
+        "name": "Peaky Sam",
+        "imageSrc": "sam-peaky.png",
+        "themes": ["Steampunk"]
+      },
+      {
         "name": "Sam the Teddy",
         "rarity": "Rare",
         "imageSrc": "sam-the-teddy.png",
@@ -5165,6 +5193,12 @@
         "themes": []
       },
       {
+        "name": "Crime Lord Stu",
+        "rarity": "Epic",
+        "imageSrc": "stu-crime-lord.png",
+        "themes": ["Brawl Pass", "Steampunk"]
+      },
+      {
         "name": "Graffiti Stu",
         "rarity": "Rare",
         "imageSrc": "stu-graffiti.png",
@@ -5177,6 +5211,12 @@
         "themes": ["Brawl-o-ween"]
       },
       {
+        "name": "Iced Out Stu",
+        "rarity": "Epic",
+        "imageSrc": "stu-iced-out.png",
+        "themes": ["Brawl Pass", "Steampunk"]
+      },
+      {
         "name": "Jock Stu",
         "rarity": "Legendary",
         "imageSrc": "stu-jock.webp",
@@ -5187,6 +5227,12 @@
         "rarity": "Epic",
         "imageSrc": "stu-santa.webp",
         "themes": ["Brawlidays"]
+      },
+      {
+        "name": "Steampunk Stu",
+        "rarity": "Epic",
+        "imageSrc": "stu-steampunk.png",
+        "themes": ["Brawl Pass", "Steampunk"]
       },
       {
         "name": "Superstar Stu",
@@ -9141,6 +9187,18 @@
           }
         ],
         "themes": []
+      },
+      {
+        "name": "Clockwork Kaze",
+        "imageSrc": "kaze-clockwork.png",
+        "additionalImages": [
+          {
+            "src": "kaze-clockwork-ninja.png",
+            "size": 256,
+            "label": "Ninja Form"
+          }
+        ],
+        "themes": ["Steampunk"]
       },
       {
         "name": "Fruity Kaze",
