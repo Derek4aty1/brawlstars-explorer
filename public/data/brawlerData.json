@@ -2489,6 +2489,12 @@
         "themes": []
       },
       {
+        "name": "Break-Up Rico",
+        "rarity": "Epic",
+        "imageSrc": "rico-break-up.png",
+        "themes": ["Brawl Pass", "My Brawlentine"]
+      },
+      {
         "name": "Chicken Rico",
         "rarity": "Epic",
         "imageSrc": "rico-chicken.webp",
@@ -2525,6 +2531,12 @@
         "themes": ["Sands of Time"]
       },
       {
+        "name": "Heartbroken Rico",
+        "rarity": "Epic",
+        "imageSrc": "rico-heartbroken.png",
+        "themes": ["Brawl Pass", "My Brawlentine"]
+      },
+      {
         "name": "Loaded Rico",
         "rarity": "Epic",
         "imageSrc": "rico-loaded.webp",
@@ -2547,6 +2559,12 @@
         "rarity": "Super Rare",
         "imageSrc": "rico-reloaded-ricochet.png",
         "themes": ["Outlaws"]
+      },
+      {
+        "name": "Revenge Rico",
+        "rarity": "Epic",
+        "imageSrc": "rico-revenge.png",
+        "themes": ["Brawl Pass", "My Brawlentine"]
       },
       {
         "name": "Ricochet",
@@ -2728,6 +2746,18 @@
         "themes": []
       },
       {
+        "name": "Adonis Angelo",
+        "rarity": "Epic",
+        "imageSrc": "angelo-adonis.png",
+        "themes": ["Brawl Pass", "My Brawlentine"]
+      },
+      {
+        "name": "Brawlentine's Angelo",
+        "rarity": "Epic",
+        "imageSrc": "angelo-brawlentines.png",
+        "themes": ["Brawl Pass", "My Brawlentine"]
+      },
+      {
         "name": "Dionysus Angelo",
         "rarity": "Super Rare",
         "imageSrc": "angelo-dionysus.webp",
@@ -2738,6 +2768,12 @@
         "rarity": "Rare",
         "imageSrc": "angelo-elf.webp",
         "themes": ["Enchanted Woods"]
+      },
+      {
+        "name": "Snatched Angelo",
+        "rarity": "Epic",
+        "imageSrc": "angelo-snatched.png",
+        "themes": ["Brawl Pass", "My Brawlentine"]
       },
       {
         "name": "Tengu Angelo",
@@ -5157,6 +5193,11 @@
         "themes": []
       },
       {
+        "name": "Brawlentine's Bear Shade",
+        "imageSrc": "shade-brawlentines-bear.png",
+        "themes": ["My Brawlentine"]
+      },
+      {
         "name": "Cinema Shade",
         "rarity": "Rare",
         "imageSrc": "shade-cinema.png",
@@ -5344,6 +5385,11 @@
         "name": "Alli",
         "imageSrc": "alli-default.png",
         "themes": []
+      },
+      {
+        "name": "Baddie Alli",
+        "imageSrc": "alli-baddie.png",
+        "themes": ["My Brawlentine"]
       },
       {
         "name": "Graffiti Alli",
@@ -7748,6 +7794,11 @@
         "rarity": "Super Rare",
         "imageSrc": "squeak-ghost.webp",
         "themes": ["Brawl-o-ween"]
+      },
+      {
+        "name": "Love Potion Squeak",
+        "imageSrc": "squeak-love-potion.png",
+        "themes": ["My Brawlentine"]
       },
       {
         "name": "Moon Bunny Squeak",
