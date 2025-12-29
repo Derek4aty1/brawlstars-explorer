@@ -6145,6 +6145,33 @@
     ]
   },
   {
+    "name": "Glowbert",
+    "rarity": "Mythic",
+    "class": "Support",
+    "description": "A marine biologist working at the Starr Park aquarium, Glowbert is obsessed with sea life, wanting to introduce it to as many visitors as he can.\nAlthough he might seem a bit creepy, he's actually a nice guy! Maybe.",
+    "recordTitle": "Sleeping with fishes",
+    "portraitImageSrc": "glowbert.png",
+    "gadgets": [
+      {
+        "name": "Slippery Savior",
+        "imageSrc": "glowbert-slippery-savior.png",
+        "description": ""
+      },
+      {
+        "name": "More Lumens!",
+        "imageSrc": "glowbert-more-lumens.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Glowbert",
+        "imageSrc": "glowbert-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Gray",
     "rarity": "Mythic",
     "class": "Support",
