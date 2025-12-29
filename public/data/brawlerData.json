@@ -2142,6 +2142,7 @@
       },
       {
         "name": "Musketeer Jessie",
+        "rarity": "Epic",
         "imageSrc": "jessie-musketeer.png",
         "additionalImages": [
           {
@@ -2303,6 +2304,7 @@
       },
       {
         "name": "Archer Queen Penny",
+        "rarity": "Epic",
         "imageSrc": "penny-archer-queen.png",
         "additionalImages": [
           {
@@ -5450,6 +5452,7 @@
       },
       {
         "name": "Fisherman Buzz",
+        "rarity": "Epic",
         "imageSrc": "buzz-fisherman.png",
         "themes": ["Clash Stories"]
       },
@@ -6115,13 +6118,13 @@
         "name": "Autumn Scarecrow Gigi",
         "rarity": "Mythic",
         "imageSrc": "gigi-autumn-scarecrow.webp",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "Scarecrow Gigi",
         "rarity": "Mythic",
         "imageSrc": "gigi-scarecrow.webp",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "True Gold Gigi",
@@ -6137,7 +6140,7 @@
         "name": "Winter Scarecrow Gigi",
         "rarity": "Mythic",
         "imageSrc": "gigi-winter-scarecrow.webp",
-        "themes": []
+        "themes": ["Brawl-o-ween"]
       }
     ]
   },
