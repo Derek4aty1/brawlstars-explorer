@@ -8736,6 +8736,51 @@
     ]
   },
   {
+    "name": "Pierce",
+    "rarity": "Legendary",
+    "class": "Marksman",
+    "description": "You know pool lifeguards? Pierce is one of those. Except he shoots people instead of saving them. OK maybe he isn't like a lifeguard at all.\nWhen Buzz decides there has been too much pee in the pool, he calls in Pierce to 'clean up'.",
+    "recordTitle": "Peed in the Pool",
+    "portraitImageSrc": "pierce.png",
+    "gadgets": [
+      {
+        "name": "Bottomless Mags",
+        "imageSrc": "pierce-bottomless-mags.png",
+        "description": ""
+      },
+      {
+        "name": "Piercing Strike",
+        "imageSrc": "pierce-you-only-brawl-twice.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Pierce",
+        "imageSrc": "pierce-default.png",
+        "themes": []
+      },
+      {
+        "name": "Edgy Pierce",
+        "rarity": "Mythic",
+        "imageSrc": "pierce-edgy.png",
+        "themes": ["Misc"]
+      },
+      {
+        "name": "High Stakes Pierce",
+        "rarity": "Mythic",
+        "imageSrc": "pierce-high-stakes.png",
+        "themes": ["Misc"]
+      },
+      {
+        "name": "Pierce: Vampire Hunter",
+        "rarity": "Mythic",
+        "imageSrc": "pierce-vampire-hunter.png",
+        "themes": ["Misc"]
+      }
+    ]
+  },
+  {
     "name": "Sandy",
     "rarity": "Legendary",
     "class": "Controller",
