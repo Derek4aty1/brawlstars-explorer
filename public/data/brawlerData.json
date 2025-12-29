@@ -6124,6 +6124,16 @@
         "themes": []
       },
       {
+        "name": "True Gold Gigi",
+        "imageSrc": "gigi-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Gigi",
+        "imageSrc": "gigi-true-silver.png",
+        "themes": ["True Silver"]
+      },
+      {
         "name": "Winter Scarecrow Gigi",
         "rarity": "Mythic",
         "imageSrc": "gigi-winter-scarecrow.webp",
