@@ -1,6 +1,7 @@
 export type BrawlerRarity = 'Common' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Ultra Legendary';
 export type BrawlerClass = 'Artillery' | 'Assassin' | 'Controller' | 'Damage Dealer' | 'Marksman' | 'Support' | 'Tank';
 export type BrawlerSkinRarity = 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Hypercharge';
+export type BrawlerBuffieType = 'Gadget' | 'Star' | 'Hyper' | 'Bling';
 
 const SKIN_THEMES = [
   'Angels vs. Demons',
@@ -111,6 +112,12 @@ export type AdditionalSkinImage = {
   size: 128 | 256;
 };
 
+export type BrawlerBuffie = {
+  name: string;
+  imageSrc: string;
+  type: BrawlerBuffieType;
+};
+
 export type BrawlerSkin = {
   name: string;
   rarity?: BrawlerSkinRarity;
@@ -127,6 +134,7 @@ export type BrawlerData = {
   recordTitle: string;
   portraitImageSrc: string;
   gadgets: BrawlerGadget[];
+  buffies?: BrawlerBuffie[];
   skins: BrawlerSkin[];
 };
 

@@ -1,11 +1,11 @@
-import Image from 'next/image';
 import SkinCard from '@/components/SkinCard';
 import { getBrawlerData, getAllBrawlerNames } from '@/utils/brawlerDataFetcher';
 import { Metadata } from 'next';
 import { notFound, redirect } from 'next/navigation';
 import { getBrawlerClassIcon, getRarityTextColor } from '@/utils/uiAssetMapper';
 import FadeInImage from '@/components/FadeInImage';
-import { BrawlerSkin } from '@/types/BrawlerTypes';
+import { BrawlerBuffie, BrawlerSkin } from '@/types/BrawlerTypes';
+import BuffieCard from '@/components/BuffieCard';
 
 type Params = Promise<{ brawlerName: string }>;
 
@@ -35,6 +35,16 @@ function SkinGrid({ skins }: { skins: BrawlerSkin[] }) {
   );
 }
 
+function BuffieGrid({ buffies }: { buffies: BrawlerBuffie[] }) {
+  return (
+    <div className="my-6 grid w-fit grid-cols-1 items-start gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      {buffies.map((buffie, index) => (
+        <BuffieCard key={`${buffie.name}-${index}`} buffie={buffie} />
+      ))}
+    </div>
+  );
+}
+
 export default async function BrawlerPage({ params }: { params: Params }) {
   const { brawlerName } = await params;
   const decodedBrawlerName = decodeURIComponent(brawlerName);
@@ -51,9 +61,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
 
   return (
     <section className="flex flex-col items-center justify-center p-8">
-      <h1 className="w-full text-3xl uppercase">
-        {brawlerData.name} ({brawlerData.skins.length})
-      </h1>
+      <h1 className="w-full text-3xl uppercase">{brawlerData.name}</h1>
       <h2 className="mt-1 w-full text-xl">
         Rarity: <span className={getRarityTextColor(brawlerData.rarity)}>{brawlerData.rarity}</span>
       </h2>
@@ -71,6 +79,13 @@ export default async function BrawlerPage({ params }: { params: Params }) {
       </h2>
       <h2 className="mt-1 w-full text-xl">Record Title: {brawlerData.recordTitle}</h2>
       <h3 className="mt-1 w-full whitespace-pre-line text-lg xl:max-w-[50%]">{brawlerData.description}</h3>
+      {(brawlerData.buffies?.length ?? 0) > 0 && (
+        <>
+          <h2 className="mt-1 w-full text-xl">Buffies</h2>
+          <BuffieGrid buffies={brawlerData.buffies!} />
+        </>
+      )}
+      <h2 className="mt-1 w-full text-xl">Skins ({brawlerData.skins.length})</h2>
       <SkinGrid skins={brawlerData.skins} />
     </section>
   );

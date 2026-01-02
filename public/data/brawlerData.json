@@ -18,6 +18,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Shelly's Gadget Buffie",
+        "imageSrc": "shelly-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Shelly's Star Buffie",
+        "imageSrc": "shelly-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Shelly's Hyper Buffie",
+        "imageSrc": "shelly-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Shelly's Bling Buffie",
+        "imageSrc": "shelly-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Shelly",
@@ -530,6 +552,28 @@
         "name": "Silver Bullet",
         "imageSrc": "colt-silver-bullet.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Colt's Gadget Buffie",
+        "imageSrc": "colt-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Colt's Star Buffie",
+        "imageSrc": "colt-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Colt's Hyper Buffie",
+        "imageSrc": "colt-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Colt's Bling Buffie",
+        "imageSrc": "colt-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
@@ -3740,6 +3784,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Emz's Gadget Buffie",
+        "imageSrc": "emz-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Emz's Star Buffie",
+        "imageSrc": "emz-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Emz's Hyper Buffie",
+        "imageSrc": "emz-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Emz's Bling Buffie",
+        "imageSrc": "emz-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Emz",
@@ -3841,6 +3907,28 @@
         "name": "Irresistible Attraction",
         "imageSrc": "frank-irresistible-attraction.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Frank's Gadget Buffie",
+        "imageSrc": "frank-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Frank's Star Buffie",
+        "imageSrc": "frank-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Frank's Hyper Buffie",
+        "imageSrc": "frank-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Frank's Bling Buffie",
+        "imageSrc": "frank-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
@@ -7014,6 +7102,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Mortis's Gadget Buffie",
+        "imageSrc": "mortis-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Mortis's Star Buffie",
+        "imageSrc": "mortis-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Mortis's Hyper Buffie",
+        "imageSrc": "mortis-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Mortis's Bling Buffie",
+        "imageSrc": "mortis-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Mortis",
@@ -9049,6 +9159,28 @@
         "name": "Life Plant",
         "imageSrc": "spike-life-plant.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Spike's Gadget Buffie",
+        "imageSrc": "spike-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Spike's Star Buffie",
+        "imageSrc": "spike-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Spike's Hyper Buffie",
+        "imageSrc": "spike-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Spike's Bling Buffie",
+        "imageSrc": "spike-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
