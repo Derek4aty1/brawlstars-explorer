@@ -287,6 +287,7 @@
       },
       {
         "name": "Boss Brock",
+        "rarity": "Mythic",
         "imageSrc": "brock-boss.png",
         "themes": ["Steampunk"]
       },
@@ -5222,6 +5223,7 @@
       },
       {
         "name": "Peaky Sam",
+        "rarity": "Epic",
         "imageSrc": "sam-peaky.png",
         "themes": ["Steampunk"]
       },
@@ -9397,6 +9399,7 @@
       },
       {
         "name": "Clockwork Kaze",
+        "rarity": "Legendary",
         "imageSrc": "kaze-clockwork.png",
         "additionalImages": [
           {
