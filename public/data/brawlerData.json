@@ -6453,6 +6453,16 @@
         "name": "Glowbert",
         "imageSrc": "glowbert-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Glowbert",
+        "imageSrc": "glowbert-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Glowbert",
+        "imageSrc": "glowbert-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -9213,6 +9223,16 @@
         "rarity": "Mythic",
         "imageSrc": "pierce-vampire-hunter.png",
         "themes": ["Misc"]
+      },
+      {
+        "name": "True Gold Pierce",
+        "imageSrc": "pierce-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Pierce",
+        "imageSrc": "pierce-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
