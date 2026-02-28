@@ -5284,6 +5284,7 @@
       },
       {
         "name": "Brawlentine's Bear Shade",
+        "rarity": "Legendary",
         "imageSrc": "shade-brawlentines-bear.png",
         "themes": ["My Brawlentine"]
       },
@@ -5478,6 +5479,7 @@
       },
       {
         "name": "Baddie Alli",
+        "rarity": "Epic",
         "imageSrc": "alli-baddie.png",
         "themes": ["My Brawlentine"]
       },
@@ -7909,6 +7911,7 @@
       },
       {
         "name": "Love Potion Squeak",
+        "rarity": "Mythic",
         "imageSrc": "squeak-love-potion.png",
         "themes": ["My Brawlentine"]
       },
@@ -8072,6 +8075,7 @@
       },
       {
         "name": "Lunar Lotus Willow",
+        "rarity": "Epic",
         "imageSrc": "willow-lunar-lotus.png",
         "themes": ["Lunar Stories"]
       },
