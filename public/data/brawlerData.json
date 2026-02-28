@@ -9584,5 +9584,32 @@
         "themes": ["True Silver"]
       }
     ]
+  },
+  {
+    "name": "Sirius",
+    "rarity": "Ultra Legendary",
+    "class": "Controller",
+    "description": "His identity is as mysterious as his powers. He had the very first attraction at Starr Park, but rumor has it he was kicked out unfairly, and banned from ever returning. Now... he's back for REVENGE.",
+    "recordTitle": "The Banished",
+    "portraitImageSrc": "sirius.png",
+    "gadgets": [
+      {
+        "name": "A Starr is Born",
+        "imageSrc": "sirius-a-starr-is-born.png",
+        "description": ""
+      },
+      {
+        "name": "Master of Shadows",
+        "imageSrc": "sirius-master-of-shadows.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Sirius",
+        "imageSrc": "sirius-default.png",
+        "themes": []
+      }
+    ]
   }
 ]
