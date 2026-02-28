@@ -434,6 +434,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Bull's Gadget Buffie",
+        "imageSrc": "bull-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Bull's Star Buffie",
+        "imageSrc": "bull-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Bull's Hyper Buffie",
+        "imageSrc": "bull-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Bull's Bling Buffie",
+        "imageSrc": "bull-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Bull",
@@ -920,6 +942,28 @@
         "name": "Faux Fur",
         "imageSrc": "nita-faux-fur.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Nita's Gadget Buffie",
+        "imageSrc": "nita-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Nita's Star Buffie",
+        "imageSrc": "nita-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Nita's Hyper Buffie",
+        "imageSrc": "nita-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Nita's Bling Buffie",
+        "imageSrc": "nita-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
@@ -3162,6 +3206,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Bibi's Gadget Buffie",
+        "imageSrc": "bibi-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Bibi's Star Buffie",
+        "imageSrc": "bibi-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Bibi's Hyper Buffie",
+        "imageSrc": "bibi-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Bibi's Bling Buffie",
+        "imageSrc": "bibi-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Bibi",
@@ -3275,6 +3341,28 @@
         "name": "Tripwire",
         "imageSrc": "bo-tripwire.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Bo's Gadget Buffie",
+        "imageSrc": "bo-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Bo's Star Buffie",
+        "imageSrc": "bo-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Bo's Hyper Buffie",
+        "imageSrc": "bo-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Bo's Bling Buffie",
+        "imageSrc": "bo-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
@@ -8400,6 +8488,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Crow's Gadget Buffie",
+        "imageSrc": "crow-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Crow's Star Buffie",
+        "imageSrc": "crow-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Crow's Hyper Buffie",
+        "imageSrc": "crow-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Crow's Bling Buffie",
+        "imageSrc": "crow-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Crow",
@@ -8756,6 +8866,28 @@
         "name": "Lollipop Drop",
         "imageSrc": "leon-lollipop-drop.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Leon's Gadget Buffie",
+        "imageSrc": "leon-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Leon's Star Buffie",
+        "imageSrc": "leon-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Leon's Hyper Buffie",
+        "imageSrc": "leon-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Leon's Bling Buffie",
+        "imageSrc": "leon-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
