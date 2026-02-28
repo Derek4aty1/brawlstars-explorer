@@ -234,7 +234,7 @@
         "name": "Unicorn Knight Barley",
         "rarity": "Super Rare",
         "imageSrc": "barley-unicorn-knight.webp",
-        "themes": ["Once Upon"]
+        "themes": ["Knights!"]
       },
       {
         "name": "Wizard Barley",
@@ -2206,7 +2206,7 @@
             "label": "Scrappy"
           }
         ],
-        "themes": ["Once Upon"]
+        "themes": ["Knights!"]
       },
       {
         "name": "Jessie Jessie",
@@ -2284,7 +2284,7 @@
             "label": "Scrappy"
           }
         ],
-        "themes": ["Once Upon"]
+        "themes": ["Knights!"]
       },
       {
         "name": "Shining Mecha Jessie",
@@ -4090,7 +4090,7 @@
         "name": "Spirit Knight Frank",
         "rarity": "Epic",
         "imageSrc": "frank-spirit-knight.webp",
-        "themes": ["Once Upon", "Supercell Make"]
+        "themes": ["Knights!", "Supercell Make"]
       },
       {
         "name": "True Gold Frank",
@@ -4880,7 +4880,7 @@
             "label": "Peep"
           }
         ],
-        "themes": ["Once Upon"]
+        "themes": ["Knights!"]
       },
       {
         "name": "Retro Nani",
@@ -6867,7 +6867,7 @@
         "name": "Dark Knight Lumi",
         "rarity": "Rare",
         "imageSrc": "lumi-dark-knight.png",
-        "themes": ["Once Upon"]
+        "themes": ["Knights!"]
       },
       {
         "name": "Eleven Lumi",
@@ -8666,13 +8666,13 @@
         "name": "Dark Knight Draco",
         "rarity": "Rare",
         "imageSrc": "draco-dark-knight.webp",
-        "themes": ["Once Upon"]
+        "themes": ["Knights!"]
       },
       {
         "name": "Dread Knight Draco",
         "rarity": "Legendary",
         "imageSrc": "draco-dread-knight.png",
-        "themes": ["Once Upon"]
+        "themes": ["Knights!"]
       },
       {
         "name": "Eddie Draco",
