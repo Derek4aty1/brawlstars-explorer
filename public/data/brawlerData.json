@@ -3512,6 +3512,18 @@
         "themes": []
       },
       {
+        "name": "Bright Faerie Bonnie",
+        "rarity": "Epic",
+        "imageSrc": "bonnie-bright-faerie.png",
+        "themes": ["Brawl Pass", "Once Upon"]
+      },
+      {
+        "name": "Dark Faerie Bonnie",
+        "rarity": "Epic",
+        "imageSrc": "bonnie-dark-faerie.png",
+        "themes": ["Brawl Pass", "Once Upon"]
+      },
+      {
         "name": "Empress Bonnie",
         "rarity": "Epic",
         "imageSrc": "bonnie-empress.webp",
@@ -3523,6 +3535,12 @@
           }
         ],
         "themes": ["The Worst Bunch"]
+      },
+      {
+        "name": "Faerie Bonnie",
+        "rarity": "Epic",
+        "imageSrc": "bonnie-faerie.png",
+        "themes": ["Brawl Pass", "Once Upon"]
       },
       {
         "name": "FootBonnie",
@@ -4063,6 +4081,12 @@
         "themes": ["Vibing"]
       },
       {
+        "name": "Faerie Frank",
+        "rarity": "Mythic",
+        "imageSrc": "frank-faerie.png",
+        "themes": ["Once Upon"]
+      },
+      {
         "name": "Holiday Party Frank",
         "rarity": "Epic",
         "imageSrc": "frank-holiday-party.webp",
@@ -4233,10 +4257,28 @@
         "themes": []
       },
       {
+        "name": "Dragon Griff",
+        "rarity": "Epic",
+        "imageSrc": "griff-dragon.png",
+        "themes": ["Brawl Pass", "Once Upon"]
+      },
+      {
+        "name": "Greedy Griff",
+        "rarity": "Epic",
+        "imageSrc": "griff-greedy.png",
+        "themes": ["Brawl Pass", "Once Upon"]
+      },
+      {
         "name": "High Score Griff",
         "rarity": "Super Rare",
         "imageSrc": "griff-high-score.webp",
         "themes": ["Gaming"]
+      },
+      {
+        "name": "Hoarder Griff",
+        "rarity": "Epic",
+        "imageSrc": "griff-hoarder.png",
+        "themes": ["Brawl Pass", "Once Upon"]
       },
       {
         "name": "Intergalactic Griff",
@@ -4310,6 +4352,12 @@
         "rarity": "Mythic",
         "imageSrc": "grom-dasis.png",
         "themes": ["Warrior's Journey"]
+      },
+      {
+        "name": "Dragon Grom",
+        "rarity": "Legendary",
+        "imageSrc": "grom-dragon.png",
+        "themes": ["Once Upon"]
       },
       {
         "name": "FrankenGrom",
@@ -4646,6 +4694,12 @@
         "rarity": "Epic",
         "imageSrc": "maisie-amazing.png",
         "themes": ["Brawl Pass", "Cartoon Studios"]
+      },
+      {
+        "name": "Dragon Maisie",
+        "rarity": "Mythic",
+        "imageSrc": "maisie-dragon.png",
+        "themes": ["Once Upon"]
       },
       {
         "name": "Fuchsia Maisie",
@@ -7204,6 +7258,12 @@
         "themes": ["Vibing"]
       },
       {
+        "name": "Faerie Mina",
+        "rarity": "Epic",
+        "imageSrc": "mina-faerie.png",
+        "themes": ["Once Upon"]
+      },
+      {
         "name": "Graffiti Mina",
         "rarity": "Rare",
         "imageSrc": "mina-graffiti.png",
@@ -8630,6 +8690,29 @@
         "rarity": "Epic",
         "imageSrc": "crow-deaths-door.png",
         "themes": ["Brawl Pass", "Brawl-o-ween"]
+      },
+      {
+        "name": "Dragon Crow",
+        "imageSrc": "crow-dragon.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Dragonforged Crow",
+        "rarity": "Hypercharge",
+        "imageSrc": "crow-dragonforged.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Dragonkin Crow",
+        "rarity": "Hypercharge",
+        "imageSrc": "crow-dragonkin.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Ghost Dragon Crow",
+        "rarity": "Hypercharge",
+        "imageSrc": "crow-ghost-dragon.png",
+        "themes": ["Pro Pass"]
       },
       {
         "name": "Gold Mecha Crow",
