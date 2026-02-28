@@ -998,6 +998,18 @@
         "themes": ["Stranger Things"]
       },
       {
+        "name": "Bruce Nita",
+        "imageSrc": "nita-bruce.png",
+        "additionalImages": [
+          {
+            "src": "nita-bruce-bruce.png",
+            "size": 256,
+            "label": "Bruce"
+          }
+        ],
+        "themes": []
+      },
+      {
         "name": "Dustin Nita",
         "rarity": "Hypercharge",
         "imageSrc": "nita-dustin.png",
@@ -5595,6 +5607,11 @@
         "themes": []
       },
       {
+        "name": "Royale Trunk",
+        "imageSrc": "trunk-royale.png",
+        "themes": ["Clash Stories"]
+      },
+      {
         "name": "Swimming Trunk",
         "rarity": "Rare",
         "imageSrc": "trunk-swimming.png",
@@ -6533,6 +6550,11 @@
         "themes": []
       },
       {
+        "name": "Bertglow",
+        "imageSrc": "glowbert-bertglow.png",
+        "themes": []
+      },
+      {
         "name": "True Gold Glowbert",
         "imageSrc": "glowbert-true-gold.png",
         "themes": ["True Gold"]
@@ -7122,6 +7144,11 @@
         "rarity": "Epic",
         "imageSrc": "melodie-harpy.webp",
         "themes": ["Legends of Hades", "Ranked"]
+      },
+      {
+        "name": "Inflatable Melodie",
+        "imageSrc": "melodie-inflatable.png",
+        "themes": ["April Fool's"]
       },
       {
         "name": "Pop Melodie",
