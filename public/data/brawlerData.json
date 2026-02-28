@@ -3518,7 +3518,7 @@
         "imageSrc": "bonnie-footbonnie.webp",
         "additionalImages": [
           {
-            "src": "bonnie-footbonnie-no-clyde.png",
+            "src": "bonnie-footbonnie-no-clyde.webp",
             "size": 256,
             "label": "No Clyde"
           }
@@ -3531,7 +3531,7 @@
         "imageSrc": "bonnie-icarus.png",
         "additionalImages": [
           {
-            "src": "bonnie-icarus-no-clyde.png",
+            "src": "bonnie-icarus-no-clyde.webp",
             "size": 256,
             "label": "No Clyde"
           }
@@ -3557,7 +3557,7 @@
         "imageSrc": "bonnie-tentacle.webp",
         "additionalImages": [
           {
-            "src": "bonnie-tentacle-no-clyde.png",
+            "src": "bonnie-tentacle-no-clyde.webp",
             "size": 256,
             "label": "No Clyde"
           }
@@ -3594,7 +3594,7 @@
         "imageSrc": "bonnie-unicorn.webp",
         "additionalImages": [
           {
-            "src": "bonnie-unicorn-no-clyde.png",
+            "src": "bonnie-unicorn-no-clyde.webp",
             "size": 256,
             "label": "No Clyde"
           }
