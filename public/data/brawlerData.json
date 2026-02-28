@@ -1496,6 +1496,12 @@
         "themes": ["Angels vs. Demons"]
       },
       {
+        "name": "Canopic Jar 8-Bit",
+        "rarity": "Mythic",
+        "imageSrc": "8-bit-canopic-jar.png",
+        "themes": ["Dark Sands"]
+      },
+      {
         "name": "Haunted House 8-Bit",
         "rarity": "Epic",
         "imageSrc": "8-bit-haunted-house.webp",
@@ -3253,6 +3259,12 @@
         "themes": ["Toy Story"]
       },
       {
+        "name": "Body Guard Bibi",
+        "rarity": "Epic",
+        "imageSrc": "bibi-body-guard.png",
+        "themes": ["Dark Sands"]
+      },
+      {
         "name": "Bubblegum Bibi",
         "rarity": "Rare",
         "imageSrc": "bibi-bubblegum.webp",
@@ -4473,6 +4485,12 @@
           }
         ],
         "themes": ["CyberBrawl", "Ranked"]
+      },
+      {
+        "name": "Magic Lamp Larry & Lawrie",
+        "rarity": "Legendary",
+        "imageSrc": "larry-&-lawrie-magic-lamp.png",
+        "themes": ["Dark Sands"]
       },
       {
         "name": "Radiant Larry & Lawrie",
@@ -6053,6 +6071,12 @@
         "themes": ["Once Upon"]
       },
       {
+        "name": "Dynasty Doug",
+        "rarity": "Mythic",
+        "imageSrc": "doug-dynasty.png",
+        "themes": ["Dark Sands"]
+      },
+      {
         "name": "Knight Doug",
         "rarity": "Epic",
         "imageSrc": "doug-knight.png",
@@ -6746,6 +6770,24 @@
         "rarity": "Mythic",
         "imageSrc": "lily-knight.png",
         "themes": ["Knights!"]
+      },
+      {
+        "name": "Night Sands Lily",
+        "rarity": "Epic",
+        "imageSrc": "lily-night-sands.png",
+        "themes": ["Brawl Pass", "Dark Sands"]
+      },
+      {
+        "name": "Sandstalker Lily",
+        "rarity": "Epic",
+        "imageSrc": "lily-sandstalker.png",
+        "themes": ["Brawl Pass", "Dark Sands"]
+      },
+      {
+        "name": "Sandwalker Lily",
+        "rarity": "Epic",
+        "imageSrc": "lily-sandwalker.png",
+        "themes": ["Brawl Pass", "Dark Sands"]
       },
       {
         "name": "Strawberry Lily",
@@ -8465,6 +8507,18 @@
         "themes": []
       },
       {
+        "name": "Cooled Sultan Cordelius",
+        "rarity": "Epic",
+        "imageSrc": "cordelius-cooled-sultan.png",
+        "themes": ["Brawl Pass", "Dark Sands"]
+      },
+      {
+        "name": "Heated Sultan Cordelius",
+        "rarity": "Epic",
+        "imageSrc": "cordelius-heated-sultan.png",
+        "themes": ["Brawl Pass", "Dark Sands"]
+      },
+      {
         "name": "Odin Cordelius",
         "rarity": "Epic",
         "imageSrc": "cordelius-odin.webp",
@@ -8493,6 +8547,12 @@
         "rarity": "Epic",
         "imageSrc": "cordelius-sporemind.webp",
         "themes": ["Brawl Pass", "The Worst Bunch"]
+      },
+      {
+        "name": "Sultan Cordelius",
+        "rarity": "Epic",
+        "imageSrc": "cordelius-sultan.png",
+        "themes": ["Brawl Pass", "Dark Sands"]
       },
       {
         "name": "True Gold Cordelius",
