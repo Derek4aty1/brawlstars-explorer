@@ -7564,6 +7564,33 @@
     ]
   },
   {
+    "name": "Najia",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "description": "Hired by Finx to make Pyramid Quest's puzzles harder, her good nature actually lead her to help those trapped by his time-warping mischief instead.",
+    "recordTitle": "Snake Charmer",
+    "portraitImageSrc": "najia.png",
+    "gadgets": [
+      {
+        "name": "Poison Puddles",
+        "imageSrc": "najia-poison-puddles.png",
+        "description": ""
+      },
+      {
+        "name": "Najia Jar",
+        "imageSrc": "najia-najia-jar.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Najia",
+        "imageSrc": "najia-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Ollie",
     "rarity": "Mythic",
     "class": "Tank",
