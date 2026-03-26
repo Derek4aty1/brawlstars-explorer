@@ -1511,6 +1511,13 @@
         "name": "Canopic Jar 8-Bit",
         "rarity": "Mythic",
         "imageSrc": "8-bit-canopic-jar.png",
+        "additionalImages": [
+          {
+            "src": "8-bit-canopic-jar-damage-booster.webp",
+            "size": 128,
+            "label": "Damage Booster"
+          }
+        ],
         "themes": ["Dark Sands"]
       },
       {
@@ -8724,6 +8731,11 @@
         "themes": ["Pro Pass"]
       },
       {
+        "name": "Dragon Crow IV",
+        "imageSrc": "crow-dragon-iv.png",
+        "themes": ["Pro Pass"]
+      },
+      {
         "name": "Dragonforged Crow",
         "rarity": "Hypercharge",
         "imageSrc": "crow-dragonforged.png",
@@ -8733,6 +8745,13 @@
         "name": "Dragonkin Crow",
         "rarity": "Hypercharge",
         "imageSrc": "crow-dragonkin.png",
+        "additionalImages": [
+          {
+            "src": "crow-dragonkin-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
         "themes": ["Pro Pass"]
       },
       {
