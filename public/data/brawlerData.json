@@ -6118,6 +6118,22 @@
     ]
   },
   {
+    "name": "Damian",
+    "rarity": "Mythic",
+    "class": "Tank",
+    "description": "Damian LOVES to make noise. He fronts a band with his brother, Draco, but music puts him into an uncontrollable rage, where he destroys anything in sight! His shows usually end with him smashing everything near the stage... including other Brawlers.",
+    "recordTitle": "The beat says YEAH!",
+    "portraitImageSrc": "damian.png",
+    "gadgets": [],
+    "skins": [
+      {
+        "name": "Damian",
+        "imageSrc": "damian-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Doug",
     "rarity": "Mythic",
     "class": "Support",

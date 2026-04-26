@@ -12,7 +12,7 @@ export default function Header() {
             width={50}
             height={50}
             draggable={false}
-            className="h-[auto] w-[50px] select-none object-contain"
+            className="select-none object-contain"
           />
         </Link>
         <a
@@ -21,7 +21,14 @@ export default function Header() {
           draggable={false}
           className="m-3 ml-auto flex items-center transition-transform hover:scale-110 active:scale-100"
         >
-          <Image src="/images/github-logo-white.svg" alt="Github logo" width={30} height={30} draggable={false} className="select-none" />
+          <Image
+            src="/images/github-logo-white.svg"
+            alt="Github logo"
+            width={30}
+            height={30}
+            draggable={false}
+            className="select-none object-contain"
+          />
         </a>
       </nav>
     </header>
