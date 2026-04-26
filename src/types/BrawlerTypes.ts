@@ -132,6 +132,7 @@ export type BrawlerData = {
   class: BrawlerClass;
   description: string;
   recordTitle: string;
+  prestigeTitle?: string;
   portraitImageSrc: string;
   gadgets: BrawlerGadget[];
   buffies?: BrawlerBuffie[];

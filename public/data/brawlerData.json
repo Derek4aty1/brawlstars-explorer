@@ -6123,6 +6123,7 @@
     "class": "Tank",
     "description": "Damian LOVES to make noise. He fronts a band with his brother, Draco, but music puts him into an uncontrollable rage, where he destroys anything in sight! His shows usually end with him smashing everything near the stage... including other Brawlers.",
     "recordTitle": "The beat says YEAH!",
+    "prestigeTitle": "Gladiator",
     "portraitImageSrc": "damian.png",
     "gadgets": [],
     "skins": [
@@ -8231,6 +8232,34 @@
         "name": "True Silver Squeak",
         "imageSrc": "squeak-true-silver.webp",
         "themes": ["True Silver"]
+      }
+    ]
+  },
+  {
+    "name": "Starr Nova",
+    "rarity": "Mythic",
+    "class": "Assassin",
+    "description": "A cosplayer who believes they are the anime character Starr Nova! This can get a bit awkward, as she believes problems in the real world can *also* be solved by hitting them with a massive sword.",
+    "recordTitle": "Magical",
+    "prestigeTitle": "Anime Fan",
+    "portraitImageSrc": "starr-nova.png",
+    "gadgets": [
+      {
+        "name": "Floaty Time",
+        "imageSrc": "starr-nova-floaty-time.png",
+        "description": ""
+      },
+      {
+        "name": "Shining Starr of Friendship and Justice",
+        "imageSrc": "starr-nova-shining-starr-of-friendship-and-justice.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Starr Nova",
+        "imageSrc": "starr-nova-default.png",
+        "themes": []
       }
     ]
   },
