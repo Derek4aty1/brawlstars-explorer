@@ -3499,6 +3499,34 @@
     ]
   },
   {
+    "name": "Bolt",
+    "rarity": "Epic",
+    "class": "Tank",
+    "description": "Bolt is a toy from the Battle Bumperz line, designed to deal damage by rolling into things. He was built to battle, but always wanted to be a race car, so he reaches dangerous speeds to live out his dreams. Don't get in his way!",
+    "recordTitle": "Baller",
+    "prestigeTitle": "Battle Bumper",
+    "portraitImageSrc": "bolt.png",
+    "gadgets": [
+      {
+        "name": "Oil Change",
+        "imageSrc": "bolt-oil-change.png",
+        "description": ""
+      },
+      {
+        "name": "Bouncy Ball",
+        "imageSrc": "bolt-bouncy-ball.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Bolt",
+        "imageSrc": "bolt-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Bonnie",
     "rarity": "Epic",
     "class": "Marksman",

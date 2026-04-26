@@ -28,7 +28,7 @@ export function getRarityBackgroundColor(rarity: BrawlerRarity): string {
   return rarityBackgroundColors[rarity] || '';
 }
 
-const classesFolderPath = '/images/ui/classes';
+const classesFolderPath = '/images/classes';
 const brawlerClassImagePaths: Record<BrawlerClass, string> = {
   'Artillery': `${classesFolderPath}/artillery.png`,
   'Assassin': `${classesFolderPath}/assassin.png`,
@@ -43,7 +43,7 @@ export function getBrawlerClassIcon(brawlerClass: BrawlerClass): string {
   return brawlerClassImagePaths[brawlerClass] || '';
 }
 
-const skinRaritiesFolderPath = '/images/ui/skins/rarities';
+const skinRaritiesFolderPath = '/images/skin-rarities';
 const skinRarityIconPaths: Record<BrawlerSkinRarity, string> = {
   'Rare': `${skinRaritiesFolderPath}/rare.png`,
   'Super Rare': `${skinRaritiesFolderPath}/super-rare.png`,
@@ -57,7 +57,7 @@ export function getSkinRarityIcon(rarity: BrawlerSkinRarity): string {
   return skinRarityIconPaths[rarity] || '';
 }
 
-const skinThemesFolderPath = '/images/ui/skins/themes';
+const skinThemesFolderPath = '/images/skin-themes';
 const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Angels vs. Demons': `${skinThemesFolderPath}/angels-vs-demons.png`,
   'Animal Kingdom': `${skinThemesFolderPath}/animal-kingdom.png`,
