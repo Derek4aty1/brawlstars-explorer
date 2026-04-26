@@ -7778,6 +7778,16 @@
         "name": "Najia",
         "imageSrc": "najia-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Najia",
+        "imageSrc": "najia-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Najia",
+        "imageSrc": "najia-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
