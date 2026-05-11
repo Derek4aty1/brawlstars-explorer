@@ -999,15 +999,16 @@
       },
       {
         "name": "Bruce Nita",
+        "rarity": "Mythic",
         "imageSrc": "nita-bruce.png",
         "additionalImages": [
           {
             "src": "nita-bruce-bruce.png",
             "size": 256,
-            "label": "Bruce"
+            "label": "\"Bruce\""
           }
         ],
-        "themes": []
+        "themes": ["April Fool's"]
       },
       {
         "name": "Dustin Nita",
