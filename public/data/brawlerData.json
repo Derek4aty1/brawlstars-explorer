@@ -3745,6 +3745,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Colette's Gadget Buffie",
+        "imageSrc": "colette-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Colette's Star Buffie",
+        "imageSrc": "colette-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Colette's Hyper Buffie",
+        "imageSrc": "colette-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Colette's Bling Buffie",
+        "imageSrc": "colette-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Colette",
@@ -3864,6 +3886,28 @@
         "name": "Hardcore",
         "imageSrc": "edgar-hardcore.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Edgar's Gadget Buffie",
+        "imageSrc": "edgar-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Edgar's Star Buffie",
+        "imageSrc": "edgar-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Edgar's Hyper Buffie",
+        "imageSrc": "edgar-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Edgar's Bling Buffie",
+        "imageSrc": "edgar-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
@@ -4365,6 +4409,28 @@
         "name": "Coin Shower",
         "imageSrc": "griff-coin-shower.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Griff's Gadget Buffie",
+        "imageSrc": "griff-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Griff's Star Buffie",
+        "imageSrc": "griff-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Griff's Hyper Buffie",
+        "imageSrc": "griff-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Griff's Bling Buffie",
+        "imageSrc": "griff-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
