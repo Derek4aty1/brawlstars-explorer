@@ -812,6 +812,12 @@
         "themes": []
       },
       {
+        "name": "All Might: El Primo",
+        "rarity": "Legendary",
+        "imageSrc": "el-primo-all-might.png",
+        "themes": ["My Hero Academia"]
+      },
+      {
         "name": "El Atómico",
         "rarity": "Super Rare",
         "imageSrc": "el-primo-el-atómico.webp",
@@ -2040,6 +2046,12 @@
         "rarity": "Super Rare",
         "imageSrc": "gus-gruesome.png",
         "themes": ["Brawl-o-ween"]
+      },
+      {
+        "name": "Tomura Shigaraki: Gus",
+        "rarity": "Mythic",
+        "imageSrc": "gus-tomura-shigaraki.png",
+        "themes": ["My Hero Academia"]
       },
       {
         "name": "True Gold Gus",
@@ -3829,6 +3841,12 @@
         "name": "Edgar",
         "imageSrc": "edgar-default.webp",
         "themes": []
+      },
+      {
+        "name": "Bakugo: Edgar",
+        "rarity": "Mythic",
+        "imageSrc": "edgar-bakugo.png",
+        "themes": ["My Hero Academia"]
       },
       {
         "name": "Blackbird Edgar",
@@ -6352,6 +6370,12 @@
         "themes": ["Super Brawl"]
       },
       {
+        "name": "Deku: Fang",
+        "rarity": "Epic",
+        "imageSrc": "fang-deku.png",
+        "themes": ["My Hero Academia"]
+      },
+      {
         "name": "Fanguard",
         "rarity": "Mythic",
         "imageSrc": "fang-fanguard.png",
@@ -6835,6 +6859,12 @@
         "name": "True Silver Janet",
         "imageSrc": "janet-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Uravity: Janet",
+        "rarity": "Epic",
+        "imageSrc": "janet-uravity.png",
+        "themes": ["My Hero Academia"]
       },
       {
         "name": "Valkyrie Janet",

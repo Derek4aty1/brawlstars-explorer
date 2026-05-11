@@ -53,6 +53,7 @@ const SKIN_THEMES = [
   'Mecha Squad',
   'Misc',
   'My Brawlentine',
+  'My Hero Academia',
   'Northern Saga',
   'Once Upon',
   'Outlaws',

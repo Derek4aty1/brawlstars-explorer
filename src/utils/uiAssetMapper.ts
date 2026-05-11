@@ -108,6 +108,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Mecha Squad': `${skinThemesFolderPath}/mecha-squad.png`,
   'Misc': `${skinThemesFolderPath}/misc.png`,
   'My Brawlentine': `${skinThemesFolderPath}/my-brawlentine.png`,
+  'My Hero Academia': `${skinThemesFolderPath}/my-hero-academia.png`,
   'Northern Saga': `${skinThemesFolderPath}/northern-saga.png`,
   'Once Upon': `${skinThemesFolderPath}/once-upon.png`,
   'Outlaws': `${skinThemesFolderPath}/outlaws.png`,
