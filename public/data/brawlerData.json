@@ -2115,6 +2115,12 @@
         "themes": ["Deep Sea League"]
       },
       {
+        "name": "Esports Jacky",
+        "rarity": "Epic",
+        "imageSrc": "jacky-esports.png",
+        "themes": ["Brawl Stars Championship"]
+      },
+      {
         "name": "Gift Express Jacky",
         "rarity": "Super Rare",
         "imageSrc": "jacky-gift-express.webp",
