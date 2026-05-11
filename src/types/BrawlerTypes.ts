@@ -68,6 +68,7 @@ const SKIN_THEMES = [
   'SpongeBob',
   'Squad Busters',
   'Starr Park Origins',
+  'Starr Patrol',
   'StarrForce Assemble',
   'Starrs of Brawlywood',
   'Starry Meal',

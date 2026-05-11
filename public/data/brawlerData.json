@@ -3080,6 +3080,12 @@
         "themes": ["The Golden Kawaii"]
       },
       {
+        "name": "Starr Patrol Bea",
+        "rarity": "Epic",
+        "imageSrc": "bea-starr-patrol.png",
+        "themes": ["Starr Patrol"]
+      },
+      {
         "name": "True Gold Bea",
         "imageSrc": "bea-true-gold.webp",
         "themes": ["True Gold"]
@@ -3740,6 +3746,12 @@
         "themes": []
       },
       {
+        "name": "Black Hole Colette",
+        "rarity": "Epic",
+        "imageSrc": "colette-black-hole.png",
+        "themes": ["Brawl Pass", "Starr Patrol"]
+      },
+      {
         "name": "Cuckoo Colette",
         "rarity": "Rare",
         "imageSrc": "colette-cuckoo.png",
@@ -3814,6 +3826,18 @@
         "name": "True Silver Colette",
         "imageSrc": "colette-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Void Colette",
+        "rarity": "Epic",
+        "imageSrc": "colette-void.png",
+        "themes": ["Brawl Pass", "Starr Patrol"]
+      },
+      {
+        "name": "White Dwarf Colette",
+        "rarity": "Epic",
+        "imageSrc": "colette-white-dwarf.png",
+        "themes": ["Brawl Pass", "Starr Patrol"]
       }
     ]
   },
@@ -6499,6 +6523,12 @@
         "name": "True Silver Finx",
         "imageSrc": "finx-true-silver.png",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Void Master Finx",
+        "rarity": "Mythic",
+        "imageSrc": "finx-void-master.png",
+        "themes": ["Starr Patrol"]
       }
     ]
   },
@@ -6904,6 +6934,12 @@
         "rarity": "Super Rare",
         "imageSrc": "juju-queen.png",
         "themes": ["Dark Sands"]
+      },
+      {
+        "name": "Starr Patrol Juju",
+        "rarity": "Mythic",
+        "imageSrc": "juju-starr-patrol.png",
+        "themes": ["Starr Patrol"]
       },
       {
         "name": "True Gold Juju",
@@ -8614,6 +8650,12 @@
         "themes": ["Dark Winter Tales"]
       },
       {
+        "name": "Starr Patrol Amber",
+        "rarity": "Legendary",
+        "imageSrc": "amber-starr-patrol.png",
+        "themes": ["Starr Patrol"]
+      },
+      {
         "name": "True Gold Amber",
         "imageSrc": "amber-true-gold.png",
         "themes": ["True Gold"]
@@ -8622,6 +8664,12 @@
         "name": "True Silver Amber",
         "imageSrc": "amber-true-silver.png",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Void Amber",
+        "rarity": "Legendary",
+        "imageSrc": "amber-void.png",
+        "themes": ["Starr Patrol"]
       }
     ]
   },
@@ -9755,6 +9803,24 @@
         "rarity": "Super Rare",
         "imageSrc": "spike-sakura.webp",
         "themes": ["The Golden Kawaii"]
+      },
+      {
+        "name": "Starr Guardian Spike",
+        "rarity": "Epic",
+        "imageSrc": "spike-starr-guardian.png",
+        "themes": ["Brawl Pass", "Starr Patrol"]
+      },
+      {
+        "name": "Starr Patrol Spike",
+        "rarity": "Epic",
+        "imageSrc": "spike-starr-patrol.png",
+        "themes": ["Brawl Pass", "Starr Patrol"]
+      },
+      {
+        "name": "Starr Scout Spike",
+        "rarity": "Epic",
+        "imageSrc": "spike-starr-scout.png",
+        "themes": ["Brawl Pass", "Starr Patrol"]
       },
       {
         "name": "Toon Spike",

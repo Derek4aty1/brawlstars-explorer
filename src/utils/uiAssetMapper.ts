@@ -123,6 +123,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'SpongeBob': `${skinThemesFolderPath}/spongebob.png`,
   'Squad Busters': `${skinThemesFolderPath}/squad-busters.png`,
   'Starr Park Origins': `${skinThemesFolderPath}/starr-park-origins.png`,
+  'Starr Patrol': `${skinThemesFolderPath}/starr-patrol.png`,
   'StarrForce Assemble': `${skinThemesFolderPath}/starrforce-assemble.png`,
   'Starrs of Brawlywood': `${skinThemesFolderPath}/starrs-of-brawlywood.png`,
   'Starry Meal': `${skinThemesFolderPath}/starry-meal.png`,
