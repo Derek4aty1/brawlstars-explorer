@@ -3562,12 +3562,26 @@
         "name": "Bright Faerie Bonnie",
         "rarity": "Epic",
         "imageSrc": "bonnie-bright-faerie.png",
+        "additionalImages": [
+          {
+            "src": "bonnie-bright-faerie-no-clyde.webp",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Brawl Pass", "Once Upon"]
       },
       {
         "name": "Dark Faerie Bonnie",
         "rarity": "Epic",
         "imageSrc": "bonnie-dark-faerie.png",
+        "additionalImages": [
+          {
+            "src": "bonnie-dark-faerie-no-clyde.webp",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Brawl Pass", "Once Upon"]
       },
       {
@@ -3587,6 +3601,13 @@
         "name": "Faerie Bonnie",
         "rarity": "Epic",
         "imageSrc": "bonnie-faerie.png",
+        "additionalImages": [
+          {
+            "src": "bonnie-faerie-no-clyde.webp",
+            "size": 256,
+            "label": "No Clyde"
+          }
+        ],
         "themes": ["Brawl Pass", "Once Upon"]
       },
       {
@@ -4585,6 +4606,13 @@
         "name": "Magic Lamp Larry & Lawrie",
         "rarity": "Legendary",
         "imageSrc": "larry-&-lawrie-magic-lamp.png",
+        "additionalImages": [
+          {
+            "src": "larry-&-lawrie-magic-lamp-lawrie.webp",
+            "size": 256,
+            "label": "Lawrie"
+          }
+        ],
         "themes": ["Dark Sands"]
       },
       {
@@ -5643,8 +5671,9 @@
       },
       {
         "name": "Royale Trunk",
+        "rarity": "Epic",
         "imageSrc": "trunk-royale.png",
-        "themes": ["Clash Stories"]
+        "themes": ["Supercell Make"]
       },
       {
         "name": "Swimming Trunk",
@@ -5654,12 +5683,12 @@
       },
       {
         "name": "True Gold Trunk",
-        "imageSrc": "trunk-true-gold.png",
+        "imageSrc": "trunk-true-gold.webp",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Trunk",
-        "imageSrc": "trunk-true-silver.png",
+        "imageSrc": "trunk-true-silver.webp",
         "themes": ["True Silver"]
       }
     ]
@@ -6603,8 +6632,9 @@
       },
       {
         "name": "Bertglow",
+        "rarity": "Mythic",
         "imageSrc": "glowbert-bertglow.png",
-        "themes": []
+        "themes": ["April Fool's"]
       },
       {
         "name": "True Gold Glowbert",
@@ -7199,6 +7229,7 @@
       },
       {
         "name": "Inflatable Melodie",
+        "rarity": "Epic",
         "imageSrc": "melodie-inflatable.png",
         "themes": ["April Fool's"]
       },
