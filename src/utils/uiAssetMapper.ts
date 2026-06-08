@@ -59,6 +59,7 @@ export function getSkinRarityIcon(rarity: BrawlerSkinRarity): string {
 
 const skinThemesFolderPath = '/images/skin-themes';
 const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
+  'Adidas': `${skinThemesFolderPath}/adidas.webp`,
   'Angels vs. Demons': `${skinThemesFolderPath}/angels-vs-demons.png`,
   'Animal Kingdom': `${skinThemesFolderPath}/animal-kingdom.png`,
   'Anniversary': `${skinThemesFolderPath}/anniversary.png`,
@@ -71,6 +72,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Brawl Academy': `${skinThemesFolderPath}/brawl-academy.png`,
   'Brawl Unite': `${skinThemesFolderPath}/brawl-unite.png`,
   'Brawl Pass': `${skinThemesFolderPath}/brawl-pass.png`,
+  'Brawl Strikers': `${skinThemesFolderPath}/brawl-strikers.webp`,
   'Brawl Stars Championship': `${skinThemesFolderPath}/brawl-stars-championship.png`,
   'Brawl-o-ween': `${skinThemesFolderPath}/brawl-o-ween.png`,
   'Brawlidays': `${skinThemesFolderPath}/brawlidays.png`,

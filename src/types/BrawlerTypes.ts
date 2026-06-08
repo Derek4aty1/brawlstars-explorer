@@ -4,6 +4,7 @@ export type BrawlerSkinRarity = 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Leg
 export type BrawlerBuffieType = 'Gadget' | 'Star' | 'Hyper' | 'Bling';
 
 const SKIN_THEMES = [
+  'Adidas',
   'Angels vs. Demons',
   'Animal Kingdom',
   'Anniversary',
@@ -17,6 +18,7 @@ const SKIN_THEMES = [
   'Brawl Unite',
   'Brawl Pass',
   'Brawl Stars Championship',
+  'Brawl Strikers',
   'Brawl-o-ween',
   'Brawlidays',
   'Brawlnaval',

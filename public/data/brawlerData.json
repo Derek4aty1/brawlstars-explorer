@@ -1686,6 +1686,12 @@
         "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
+        "name": "Kicker Carl",
+        "rarity": "Epic",
+        "imageSrc": "carl-kicker.png",
+        "themes": ["Brawl Pass", "Brawl Strikers"]
+      },
+      {
         "name": "Leonard Carl",
         "rarity": "Super Rare",
         "imageSrc": "carl-leonard.png",
@@ -1698,10 +1704,22 @@
         "themes": ["Retropolis Nights"]
       },
       {
+        "name": "Striker Carl",
+        "rarity": "Epic",
+        "imageSrc": "carl-striker.png",
+        "themes": ["Brawl Pass", "Brawl Strikers"]
+      },
+      {
         "name": "Sultan Carl",
         "rarity": "Epic",
         "imageSrc": "carl-sultan.png",
         "themes": ["Sands of Time"]
+      },
+      {
+        "name": "Super Ball Carl",
+        "rarity": "Epic",
+        "imageSrc": "carl-super-ball.png",
+        "themes": ["Brawl Pass", "Brawl Strikers"]
       },
       {
         "name": "Surfer Carl",
@@ -5050,6 +5068,12 @@
         "themes": []
       },
       {
+        "name": "Refereeple",
+        "rarity": "Mythic",
+        "imageSrc": "meeple-refereeple.png",
+        "themes": ["Adidas"]
+      },
+      {
         "name": "Mystic Meeple",
         "rarity": "Epic",
         "imageSrc": "meeple-mystic.png",
@@ -6588,18 +6612,18 @@
       },
       {
         "name": "True Gold Finx",
-        "imageSrc": "finx-true-gold.png",
+        "imageSrc": "finx-true-gold.webp",
         "themes": ["True Gold"]
       },
       {
         "name": "True Silver Finx",
-        "imageSrc": "finx-true-silver.png",
+        "imageSrc": "finx-true-silver.webp",
         "themes": ["True Silver"]
       },
       {
         "name": "Void Master Finx",
         "rarity": "Mythic",
-        "imageSrc": "finx-void-master.png",
+        "imageSrc": "finx-void-master.webp",
         "themes": ["Starr Patrol"]
       }
     ]
@@ -6654,10 +6678,28 @@
         "themes": ["Sands of Time"]
       },
       {
+        "name": "Keeper Gene",
+        "rarity": "Epic",
+        "imageSrc": "gene-keeper.png",
+        "themes": ["Brawl Pass", "Brawl Strikers"]
+      },
+      {
         "name": "Pirate Gene",
         "rarity": "Super Rare",
         "imageSrc": "gene-pirate.webp",
         "themes": ["Tales of the Sea"]
+      },
+      {
+        "name": "Score Stopper Gene",
+        "rarity": "Epic",
+        "imageSrc": "gene-score-stopper.png",
+        "themes": ["Brawl Pass", "Brawl Strikers"]
+      },
+      {
+        "name": "Super Ball Gene",
+        "rarity": "Epic",
+        "imageSrc": "gene-super-ball.png",
+        "themes": ["Brawl Pass", "Brawl Strikers"]
       },
       {
         "name": "Swamp Gene",
@@ -7164,6 +7206,12 @@
         "rarity": "Epic",
         "imageSrc": "lou-stone-troll.webp",
         "themes": ["Enchanted Woods", "Ranked"]
+      },
+      {
+        "name": "Super Striker Lou",
+        "rarity": "Legendary",
+        "imageSrc": "lou-super-striker.png",
+        "themes": ["Adidas"]
       },
       {
         "name": "True Gold Lou",
@@ -8060,6 +8108,12 @@
           }
         ],
         "themes": ["Angels vs. Demons"]
+      },
+      {
+        "name": "Gridiron Otis",
+        "rarity": "Mythic",
+        "imageSrc": "otis-gridiron.png",
+        "themes": ["Adidas"]
       },
       {
         "name": "Oni Otis",
@@ -9971,6 +10025,12 @@
         "rarity": "Epic",
         "imageSrc": "surge-scarlet-paladin.webp",
         "themes": ["Max Force"]
+      },
+      {
+        "name": "Scorekeeper Surge",
+        "rarity": "Mythic",
+        "imageSrc": "surge-scorekeeper.png",
+        "themes": ["Adidas"]
       },
       {
         "name": "Secret Surgevice",
