@@ -8361,7 +8361,7 @@
     "skins": [
       {
         "name": "Sprout",
-        "imageSrc": "sprout-default.webp",
+        "imageSrc": "sprout-default.png",
         "themes": []
       },
       {
@@ -8373,7 +8373,7 @@
       {
         "name": "Corrupted Sprout",
         "rarity": "Super Rare",
-        "imageSrc": "sprout-corrupted.webp",
+        "imageSrc": "sprout-corrupted.png",
         "themes": ["Biodome"]
       },
       {

@@ -5,7 +5,7 @@ import FadeInImage from '@/components/FadeInImage';
 
 export default function PortraitCard({ portrait }: { portrait: BrawlerPortrait }) {
   // Some portraits are narrower than the others...not sure if this will get fixed in the future
-  const objectFit = ['Finx', 'Pearl', 'Damian'].includes(portrait.name) ? 'cover' : 'contain';
+  const objectFit = ['Pearl', 'Damian'].includes(portrait.name) ? 'cover' : 'contain';
 
   const isUltraLegendary = portrait.rarity === 'Ultra Legendary';
 
