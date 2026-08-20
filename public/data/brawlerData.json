@@ -2977,6 +2977,12 @@
         "themes": []
       },
       {
+        "name": "Adidas Ash",
+        "rarity": "Epic",
+        "imageSrc": "ash-adidas.png",
+        "themes": ["Adidas"]
+      },
+      {
         "name": "Ash Boy",
         "rarity": "Super Rare",
         "imageSrc": "ash-boy.png",
