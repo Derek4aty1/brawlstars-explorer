@@ -156,6 +156,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Vibing': `${skinThemesFolderPath}/vibing.png`,
   "Warrior's Journey": `${skinThemesFolderPath}/warriors-journey.png`,
   'Wasteland': `${skinThemesFolderPath}/wasteland.png`,
+  'Windstock': `${skinThemesFolderPath}/windstock.png`,
 };
 
 export function getSkinThemeIcon(theme: BrawlerSkinTheme): string {

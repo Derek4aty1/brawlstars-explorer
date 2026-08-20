@@ -101,6 +101,7 @@ const SKIN_THEMES = [
   'Vibing',
   "Warrior's Journey",
   'Wasteland',
+  'Windstock',
 ] as const;
 
 export type BrawlerSkinTheme = (typeof SKIN_THEMES)[number];

@@ -1448,6 +1448,24 @@
         "themes": ["Biodome"]
       },
       {
+        "name": "Renewables Rosa",
+        "rarity": "Epic",
+        "imageSrc": "rosa-renewables.png",
+        "themes": ["Brawl Pass", "Windstock"]
+      },
+      {
+        "name": "Retrofuture Rosa",
+        "rarity": "Epic",
+        "imageSrc": "rosa-retrofuture.png",
+        "themes": ["Brawl Pass", "Windstock"]
+      },
+      {
+        "name": "Sci-Fi Rosa",
+        "rarity": "Epic",
+        "imageSrc": "rosa-sci-fi.png",
+        "themes": ["Brawl Pass", "Windstock"]
+      },
+      {
         "name": "Sugarplum Rosa",
         "rarity": "Epic",
         "imageSrc": "rosa-sugarplum.png",
@@ -6208,6 +6226,12 @@
         "themes": ["Summer of Brawl"]
       },
       {
+        "name": "Biotech Byron",
+        "rarity": "Epic",
+        "imageSrc": "byron-biotech.png",
+        "themes": ["Brawl Pass", "Windstock"]
+      },
+      {
         "name": "Byron the White",
         "rarity": "Epic",
         "imageSrc": "byron-byron-the-white.webp",
@@ -6218,6 +6242,12 @@
         "rarity": "Epic",
         "imageSrc": "byron-frank.png",
         "themes": ["Subway Surfers"]
+      },
+      {
+        "name": "Leaf Master Byron",
+        "rarity": "Epic",
+        "imageSrc": "byron-leaf-master.png",
+        "themes": ["Brawl Pass", "Windstock"]
       },
       {
         "name": "Overlord Byron",
@@ -6240,6 +6270,12 @@
         "name": "True Silver Byron",
         "imageSrc": "byron-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Unearthed Byron",
+        "rarity": "Epic",
+        "imageSrc": "byron-unearthed.png",
+        "themes": ["Brawl Pass", "Windstock"]
       },
       {
         "name": "Wizard Byron",
@@ -6992,6 +7028,12 @@
         "rarity": "Epic",
         "imageSrc": "gray-wanderer.png",
         "themes": ["Battle For Katana Kingdom"]
+      },
+      {
+        "name": "Windstock Gray",
+        "rarity": "Legendary",
+        "imageSrc": "gray-windstock.png",
+        "themes": ["Windstock"]
       }
     ]
   },
@@ -7994,6 +8036,19 @@
         "themes": ["Ranked", "StarrForce Assemble"]
       },
       {
+        "name": "Turbine Moe",
+        "rarity": "Mythic",
+        "imageSrc": "moe-turbine.png",
+        "additionalImages": [
+          {
+            "src": "moe-turbine-driller.png",
+            "size": 256,
+            "label": "Driller"
+          }
+        ],
+        "themes": ["Windstock"]
+      },
+      {
         "name": "True Gold Moe",
         "imageSrc": "moe-true-gold.webp",
         "themes": ["True Gold"]
@@ -8544,6 +8599,12 @@
         "rarity": "Super Rare",
         "imageSrc": "sprout-emerald-prince.webp",
         "themes": ["Once Upon"]
+      },
+      {
+        "name": "Energized Sprout",
+        "rarity": "Mythic",
+        "imageSrc": "sprout-energized.png",
+        "themes": ["Windstock"]
       },
       {
         "name": "Lunar Sprout",
@@ -9456,6 +9517,12 @@
         "themes": ["Starry Meal"]
       },
       {
+        "name": "Grizzled Kenji",
+        "rarity": "Mythic",
+        "imageSrc": "kenji-grizzled.png",
+        "themes": ["Windstock"]
+      },
+      {
         "name": "Hebi Kenji",
         "rarity": "Epic",
         "imageSrc": "kenji-hebi.png",
@@ -9857,6 +9924,45 @@
           }
         ],
         "themes": ["Angels vs. Demons"]
+      },
+      {
+        "name": "Mega Corporate Mecha Meg",
+        "rarity": "Hypercharge",
+        "imageSrc": "meg-mega-corporate-mecha.png",
+        "additionalImages": [
+          {
+            "src": "meg-mega-corporate-mecha-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
+        "themes": ["Windstock"]
+      },
+      {
+        "name": "Mega Earth Mecha Meg",
+        "rarity": "Hypercharge",
+        "imageSrc": "meg-mega-earth-mecha.png",
+        "additionalImages": [
+          {
+            "src": "meg-mega-earth-mecha-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
+        "themes": ["Windstock"]
+      },
+      {
+        "name": "Mega Mecha Meg",
+        "rarity": "Hypercharge",
+        "imageSrc": "meg-mega-mecha.png",
+        "additionalImages": [
+          {
+            "src": "meg-mega-mecha-mecha.png",
+            "size": 256,
+            "label": "Mecha"
+          }
+        ],
+        "themes": ["Windstock"]
       },
       {
         "name": "Megalodon Meg",
