@@ -8790,6 +8790,33 @@
     ]
   },
   {
+    "name": "Wendy",
+    "rarity": "Mythic",
+    "class": "Support",
+    "description": "A smart scientist with a nostalgic soul. After years working in shady corporate laboratories, she left to build Windstock and help the planet, not harm it!",
+    "title": "Blows you away",
+    "portraitImageSrc": "wendy.png",
+    "gadgets": [
+      {
+        "name": "Wind-Powered",
+        "imageSrc": "wendy-wind-powered.png",
+        "description": ""
+      },
+      {
+        "name": "Green Grenade",
+        "imageSrc": "wendy-green-grenade.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Wendy",
+        "imageSrc": "wendy-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Willow",
     "rarity": "Mythic",
     "class": "Controller",

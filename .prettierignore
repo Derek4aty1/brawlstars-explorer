@@ -3,6 +3,9 @@ pnpm-lock.yaml
 package-lock.json
 yarn.lock
 
+# Ignore Next.js build
 .next
+
+# Ignore assets except for JSON data
 public/*
 !public/data
