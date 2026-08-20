@@ -320,6 +320,41 @@
         "themes": ["Steampunk"]
       },
       {
+        "name": "Corrupted Brock",
+        "rarity": "Hypercharge",
+        "imageSrc": "brock-corrupted.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Cyber Brock",
+        "imageSrc": "brock-cyber.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Cyber IV Brock",
+        "imageSrc": "brock-cyber-iv.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Cyberchaos Brock",
+        "rarity": "Hypercharge",
+        "imageSrc": "brock-cyberchaos.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Cyberpunk Brock",
+        "rarity": "Hypercharge",
+        "imageSrc": "brock-cyberpunk.png",
+        "additionalImages": [
+          {
+            "src": "brock-cyberpunk-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
+        "themes": ["Pro Pass"]
+      },
+      {
         "name": "Deputy Brock",
         "rarity": "Super Rare",
         "imageSrc": "brock-deputy.webp",
