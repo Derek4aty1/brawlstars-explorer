@@ -4,7 +4,7 @@
     "rarity": "Common",
     "class": "Damage Dealer",
     "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
-    "recordTitle": "No time to explain!",
+    "title": "No time to explain!",
     "portraitImageSrc": "shelly.png",
     "gadgets": [
       {
@@ -158,7 +158,7 @@
     "rarity": "Rare",
     "class": "Artillery",
     "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
-    "recordTitle": "You got served!",
+    "title": "You got served!",
     "portraitImageSrc": "barley.png",
     "gadgets": [
       {
@@ -248,7 +248,7 @@
     "rarity": "Rare",
     "class": "Marksman",
     "description": "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!",
-    "recordTitle": "Boom!",
+    "title": "Boom!",
     "portraitImageSrc": "brock.png",
     "gadgets": [
       {
@@ -420,7 +420,7 @@
     "rarity": "Rare",
     "class": "Tank",
     "description": "Bull isn't as carefree as he was in his youth, but just because his rowdy days are behind him doesn't mean he won't still crush someone who's asking for it.",
-    "recordTitle": "Bulldozer!",
+    "title": "Bulldozer!",
     "portraitImageSrc": "bull.png",
     "gadgets": [
       {
@@ -563,7 +563,7 @@
     "rarity": "Rare",
     "class": "Damage Dealer",
     "description": "Colt is the star attraction at Starr Park! His good looks, charisma and gun twirling tricks win over any audience, except maybe Shelly.",
-    "recordTitle": "The Pretty",
+    "title": "The Pretty",
     "portraitImageSrc": "colt.png",
     "gadgets": [
       {
@@ -791,7 +791,7 @@
     "rarity": "Rare",
     "class": "Tank",
     "description": "El Primo is always in the spotlight and that's right where he wants to be! There's no audience he can't win over, except maybe his fellow performers...",
-    "recordTitle": "El Luchador",
+    "title": "El Luchador",
     "portraitImageSrc": "el-primo.png",
     "gadgets": [
       {
@@ -936,7 +936,7 @@
     "rarity": "Rare",
     "class": "Damage Dealer",
     "description": "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.",
-    "recordTitle": "The Untamed",
+    "title": "The Untamed",
     "portraitImageSrc": "nita.png",
     "gadgets": [
       {
@@ -1239,7 +1239,7 @@
     "rarity": "Rare",
     "class": "Support",
     "description": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
-    "recordTitle": "El Mariachi",
+    "title": "El Mariachi",
     "portraitImageSrc": "poco.png",
     "gadgets": [
       {
@@ -1369,7 +1369,7 @@
     "rarity": "Rare",
     "class": "Tank",
     "description": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
-    "recordTitle": "Touching Grass",
+    "title": "Touching Grass",
     "portraitImageSrc": "rosa.png",
     "gadgets": [
       {
@@ -1448,7 +1448,7 @@
     "rarity": "Super Rare",
     "class": "Damage Dealer",
     "description": "An arcade game famous for its brutal difficulty, 8-Bit always hated its players. Now that it's missing one of its guns, it's angrier than ever before.",
-    "recordTitle": "SYS 64738",
+    "title": "SYS 64738",
     "portraitImageSrc": "8-bit.png",
     "gadgets": [
       {
@@ -1623,7 +1623,7 @@
     "rarity": "Super Rare",
     "class": "Damage Dealer",
     "description": "Carl is a mining robot who's fascinated by rocks and stones of all kinds. Don't let him get started on his latest obsession: the effects of Gems!",
-    "recordTitle": "The Geologist",
+    "title": "The Geologist",
     "portraitImageSrc": "carl.png",
     "gadgets": [
       {
@@ -1744,7 +1744,7 @@
     "rarity": "Super Rare",
     "class": "Tank",
     "description": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
-    "recordTitle": "Pirrrate!",
+    "title": "Pirrrate!",
     "portraitImageSrc": "darryl.png",
     "gadgets": [
       {
@@ -1841,7 +1841,7 @@
     "rarity": "Super Rare",
     "class": "Artillery",
     "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
-    "recordTitle": "Birdie, birdie, birdie!",
+    "title": "Birdie, birdie, birdie!",
     "portraitImageSrc": "dynamike.png",
     "gadgets": [
       {
@@ -2021,7 +2021,7 @@
     "rarity": "Super Rare",
     "class": "Support",
     "description": "Gus looks so much like a ghost child that he's often mistaken for one. Perhaps fittingly, he's an enthusiast of all things Supernatural, since he's too innocent to be scared.",
-    "recordTitle": "The Lost",
+    "title": "The Lost",
     "portraitImageSrc": "gus.png",
     "gadgets": [
       {
@@ -2100,7 +2100,7 @@
     "rarity": "Super Rare",
     "class": "Tank",
     "description": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer.",
-    "recordTitle": "#@%**",
+    "title": "#@%**",
     "portraitImageSrc": "jacky.png",
     "gadgets": [
       {
@@ -2191,7 +2191,7 @@
     "rarity": "Super Rare",
     "class": "Controller",
     "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
-    "recordTitle": "The Builder",
+    "title": "The Builder",
     "portraitImageSrc": "jessie.png",
     "gadgets": [
       {
@@ -2431,7 +2431,7 @@
     "rarity": "Super Rare",
     "class": "Artillery",
     "description": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
-    "recordTitle": "The Salty",
+    "title": "The Salty",
     "portraitImageSrc": "penny.png",
     "gadgets": [
       {
@@ -2619,7 +2619,7 @@
     "rarity": "Super Rare",
     "class": "Damage Dealer",
     "description": "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.",
-    "recordTitle": "The Lover",
+    "title": "The Lover",
     "portraitImageSrc": "rico.png",
     "gadgets": [
       {
@@ -2779,7 +2779,7 @@
     "rarity": "Super Rare",
     "class": "Artillery",
     "description": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
-    "recordTitle": "Where's my head?",
+    "title": "Where's my head?",
     "portraitImageSrc": "tick.png",
     "gadgets": [
       {
@@ -2876,7 +2876,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.",
-    "recordTitle": "Bloodthirsty",
+    "title": "Bloodthirsty",
     "portraitImageSrc": "angelo.png",
     "gadgets": [
       {
@@ -2949,7 +2949,7 @@
     "rarity": "Epic",
     "class": "Tank",
     "description": "Ash has the thankless job of keeping the park clean. He's climbed into a trash can to protect himself from broken glass and rat bites. It makes him grumpy!",
-    "recordTitle": "Trash Tier",
+    "title": "Trash Tier",
     "portraitImageSrc": "ash.png",
     "gadgets": [
       {
@@ -3047,7 +3047,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them...or even what it's like to be one.",
-    "recordTitle": "Queen",
+    "title": "Queen",
     "portraitImageSrc": "bea.png",
     "gadgets": [
       {
@@ -3132,7 +3132,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
-    "recordTitle": "Starr",
+    "title": "Starr",
     "portraitImageSrc": "belle.png",
     "gadgets": [
       {
@@ -3205,7 +3205,7 @@
     "rarity": "Epic",
     "class": "Support",
     "description": "Working at Mandy's Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.",
-    "recordTitle": "Unicorn",
+    "title": "Unicorn",
     "portraitImageSrc": "berry.png",
     "gadgets": [
       {
@@ -3266,7 +3266,7 @@
     "rarity": "Epic",
     "class": "Tank",
     "description": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
-    "recordTitle": "Cool Cat",
+    "title": "Cool Cat",
     "portraitImageSrc": "bibi.png",
     "gadgets": [
       {
@@ -3409,7 +3409,7 @@
     "rarity": "Epic",
     "class": "Controller",
     "description": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
-    "recordTitle": "One with Nature",
+    "title": "One with Nature",
     "portraitImageSrc": "bo.png",
     "gadgets": [
       {
@@ -3552,7 +3552,7 @@
     "rarity": "Epic",
     "class": "Tank",
     "description": "Bolt is a toy from the Battle Bumperz line, designed to deal damage by rolling into things. He was built to battle, but always wanted to be a race car, so he reaches dangerous speeds to live out his dreams. Don't get in his way!",
-    "recordTitle": "Baller",
+    "title": "Baller",
     "prestigeTitle": "Battle Bumper",
     "portraitImageSrc": "bolt.png",
     "gadgets": [
@@ -3580,7 +3580,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "Bonnie is a bundle of uncontrollable and totally destructive energy. Her dream is to be fired from her cannon, all the way to the moon!",
-    "recordTitle": "The Reckless",
+    "title": "The Reckless",
     "portraitImageSrc": "bonnie.png",
     "gadgets": [
       {
@@ -3755,7 +3755,7 @@
     "rarity": "Epic",
     "class": "Damage Dealer",
     "description": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
-    "recordTitle": "The Collector",
+    "title": "The Collector",
     "portraitImageSrc": "colette.png",
     "gadgets": [
       {
@@ -3898,7 +3898,7 @@
     "rarity": "Epic",
     "class": "Assassin",
     "description": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
-    "recordTitle": "CEO of Brawl Stars",
+    "title": "CEO of Brawl Stars",
     "portraitImageSrc": "edgar.png",
     "gadgets": [
       {
@@ -4074,7 +4074,7 @@
     "rarity": "Epic",
     "class": "Controller",
     "description": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
-    "recordTitle": "#haters",
+    "title": "#haters",
     "portraitImageSrc": "emz.png",
     "gadgets": [
       {
@@ -4199,7 +4199,7 @@
     "rarity": "Epic",
     "class": "Tank",
     "description": "Frank is a good-natured giant who helps out at the mortuary by day and spins tunes at the Club by night. He doesn't get a lot of sleep, and it shows.",
-    "recordTitle": "The Tank",
+    "title": "The Tank",
     "portraitImageSrc": "frank.png",
     "gadgets": [
       {
@@ -4336,7 +4336,7 @@
     "rarity": "Epic",
     "class": "Controller",
     "description": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
-    "recordTitle": "The Janitor",
+    "title": "The Janitor",
     "portraitImageSrc": "gale.png",
     "gadgets": [
       {
@@ -4421,7 +4421,7 @@
     "rarity": "Epic",
     "class": "Controller",
     "description": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
-    "recordTitle": "The Greedy",
+    "title": "The Greedy",
     "portraitImageSrc": "griff.png",
     "gadgets": [
       {
@@ -4528,7 +4528,7 @@
     "rarity": "Epic",
     "class": "Artillery",
     "description": "Grom is a brawny security guard with one weak point: the flashback he gets from his time working at a kindergarten. Those kids were merciless.",
-    "recordTitle": "With one left hand!",
+    "title": "With one left hand!",
     "portraitImageSrc": "grom.png",
     "gadgets": [
       {
@@ -4601,7 +4601,7 @@
     "rarity": "Epic",
     "class": "Tank",
     "description": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
-    "recordTitle": "Prawn Ready!",
+    "title": "Prawn Ready!",
     "portraitImageSrc": "hank.png",
     "gadgets": [
       {
@@ -4662,7 +4662,7 @@
     "rarity": "Epic",
     "class": "Artillery",
     "description": "Larry sells tickets to Starr Park visitors under the watchful eye of his twin, Lawrie. Larry loves rules, they make life easier! Lawrie doesn't love rules so much as enforcing them. They make a good team.",
-    "recordTitle": "I am the law!",
+    "title": "I am the law!",
     "portraitImageSrc": "larry-&-lawrie.png",
     "gadgets": [
       {
@@ -4798,7 +4798,7 @@
     "rarity": "Epic",
     "class": "Damage Dealer",
     "description": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
-    "recordTitle": "Drama Queen",
+    "title": "Drama Queen",
     "portraitImageSrc": "lola.png",
     "gadgets": [
       {
@@ -4883,7 +4883,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
-    "recordTitle": "Master of Disaster",
+    "title": "Master of Disaster",
     "portraitImageSrc": "maisie.png",
     "gadgets": [
       {
@@ -4962,7 +4962,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "Mandy runs a candy store where she dresses in costume and doles out sweet treats. She's a little too into the act and rules her candy kingdom with an iron fist.",
-    "recordTitle": "Tough Cookie",
+    "title": "Tough Cookie",
     "portraitImageSrc": "mandy.png",
     "gadgets": [
       {
@@ -5053,7 +5053,7 @@
     "rarity": "Epic",
     "class": "Controller",
     "description": "Meeple knows the rules to every board game in existence and if you break them... Well, let's just say you don't want to break them. They hate cheaters and those who don't follow the rules. There's one exception to the rules... Meeple themselves!",
-    "recordTitle": "Cheater",
+    "title": "Cheater",
     "portraitImageSrc": "meeple.png",
     "gadgets": [
       {
@@ -5108,7 +5108,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "Originally a security camera, Nani was modified to keep an eye on Jessie. Unfortunately, she can hardly keep up with the precocious girl!",
-    "recordTitle": "Nanny",
+    "title": "Nanny",
     "portraitImageSrc": "nani.png",
     "gadgets": [
       {
@@ -5244,7 +5244,7 @@
     "rarity": "Epic",
     "class": "Support",
     "description": "Pam handles an enormous workload at the junkyard and always gets it done! It's just a shame it keeps her away from her daughter, Jessie...",
-    "recordTitle": "Your mom",
+    "title": "Your mom",
     "portraitImageSrc": "pam.png",
     "gadgets": [
       {
@@ -5367,7 +5367,7 @@
     "rarity": "Epic",
     "class": "Damage Dealer",
     "description": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
-    "recordTitle": "Let Me Cook!",
+    "title": "Let Me Cook!",
     "portraitImageSrc": "pearl.png",
     "gadgets": [
       {
@@ -5427,7 +5427,7 @@
     "rarity": "Epic",
     "class": "Marksman",
     "description": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
-    "recordTitle": "The Sniper",
+    "title": "The Sniper",
     "portraitImageSrc": "piper.png",
     "gadgets": [
       {
@@ -5569,7 +5569,7 @@
     "rarity": "Epic",
     "class": "Assassin",
     "description": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
-    "recordTitle": "In your face!",
+    "title": "In your face!",
     "portraitImageSrc": "sam.png",
     "gadgets": [
       {
@@ -5642,7 +5642,7 @@
     "rarity": "Epic",
     "class": "Assassin",
     "description": "Not much is known about this mysterious pile of clothes, other than the fact it has some cool sunglasses. Discovered by Gus, Shade was given a name and now the two spooky Brawlers haunt the Ghost Station together.",
-    "recordTitle": "Ghosted",
+    "title": "Ghosted",
     "portraitImageSrc": "shade.png",
     "gadgets": [
       {
@@ -5697,7 +5697,7 @@
     "rarity": "Epic",
     "class": "Assassin",
     "description": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
-    "recordTitle": "Wicked",
+    "title": "Wicked",
     "portraitImageSrc": "stu.png",
     "gadgets": [
       {
@@ -5794,7 +5794,7 @@
     "rarity": "Epic",
     "class": "Tank",
     "description": "Trunk is a suspiciously uncanny looking tree. It couldn't be because Trunk is actually a colony of hyper-intelligent ants controlling a fake mechanical tree? No, that would be ridiculous.",
-    "recordTitle": "Controlled by Ants",
+    "title": "Controlled by Ants",
     "portraitImageSrc": "trunk.png",
     "gadgets": [
       {
@@ -5843,7 +5843,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "Alli is the shy mechanic of the Love Swamp. She loves to get her hands dirty, by either fixing broken machines or... mercilessly stalking other Brawlers. If you're walking home late at night and hear an odd noise, it's probably Alli trying to say hello.",
-    "recordTitle": "See You Later",
+    "title": "See You Later",
     "portraitImageSrc": "alli.png",
     "gadgets": [
       {
@@ -5898,7 +5898,7 @@
     "rarity": "Mythic",
     "class": "Tank",
     "description": "Buster took a film projector from the movie theater where he works so he can play around with it like a prop. It's dangerous and highly unprofessional!",
-    "recordTitle": "Blockbuster",
+    "title": "Blockbuster",
     "portraitImageSrc": "buster.png",
     "gadgets": [
       {
@@ -5965,7 +5965,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "Buzz is a lifeguard at the Velocirapids water park and a real stickler for the rules. He clearly enjoys wielding the tiny bit of authority he has to the greatest degree possible.",
-    "recordTitle": "Born bad",
+    "title": "Born bad",
     "portraitImageSrc": "buzz.png",
     "gadgets": [
       {
@@ -6086,7 +6086,7 @@
     "rarity": "Mythic",
     "class": "Support",
     "description": "Byron has invented many concoctions and tinctures that heal or harm in various ways...but most of them fall into the harming category.",
-    "recordTitle": "The Sensational",
+    "title": "The Sensational",
     "portraitImageSrc": "byron.png",
     "gadgets": [
       {
@@ -6159,7 +6159,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Itsy bitsy Charlie\nPut on a crazy show\nShe let down her hair\nAnd made off with all your dough\nIn came the crowd\nIt filled up the circus tent\nSo Charlie weaved away while\nTaking every cent!",
-    "recordTitle": "The Amazing",
+    "title": "The Amazing",
     "portraitImageSrc": "charlie.png",
     "gadgets": [
       {
@@ -6220,7 +6220,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!",
-    "recordTitle": "The Maestro",
+    "title": "The Maestro",
     "portraitImageSrc": "chuck.png",
     "gadgets": [
       {
@@ -6275,7 +6275,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "There's no turning back with Clancy (unless Hank orders him to). He's fully embraced his fake crustacean life and will do anything for his comrades.",
-    "recordTitle": "Shell Shocked",
+    "title": "Shell Shocked",
     "portraitImageSrc": "clancy.png",
     "gadgets": [
       {
@@ -6324,7 +6324,7 @@
     "rarity": "Mythic",
     "class": "Tank",
     "description": "Damian LOVES to make noise. He fronts a band with his brother, Draco, but music puts him into an uncontrollable rage, where he destroys anything in sight! His shows usually end with him smashing everything near the stage... including other Brawlers.",
-    "recordTitle": "The beat says YEAH!",
+    "title": "The beat says YEAH!",
     "prestigeTitle": "Gladiator",
     "portraitImageSrc": "damian.png",
     "gadgets": [],
@@ -6341,7 +6341,7 @@
     "rarity": "Mythic",
     "class": "Support",
     "description": "Doug's hot dogs will extend your friends' shelf life.",
-    "recordTitle": "Wiener",
+    "title": "Wiener",
     "portraitImageSrc": "doug.png",
     "gadgets": [
       {
@@ -6402,7 +6402,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home...preferably in Ruffs' fur.",
-    "recordTitle": "Mother",
+    "title": "Mother",
     "portraitImageSrc": "eve.png",
     "gadgets": [
       {
@@ -6469,7 +6469,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "Fang has absorbed so many kung-fu movies he practically lives in one. He's confident, charming, and never uses his hands if he can kick instead!",
-    "recordTitle": "Sneaker Artist",
+    "title": "Sneaker Artist",
     "portraitImageSrc": "fang.png",
     "gadgets": [
       {
@@ -6572,7 +6572,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "The owner of Starr Park's escape room, Finx is meant to help visitors complete tasks. Instead, he uses his time controlling abilities to cause mischief! Also, he LOVES cats.",
-    "recordTitle": "Waste of time",
+    "title": "Waste of time",
     "portraitImageSrc": "finx.png",
     "gadgets": [
       {
@@ -6639,7 +6639,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
-    "recordTitle": "Talk to the Hand!",
+    "title": "Talk to the Hand!",
     "portraitImageSrc": "gene.png",
     "gadgets": [
       {
@@ -6730,7 +6730,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "A cursed puppet who brings an unsettling vibe, Gigi and her bonded magician's glove are never found apart. You can find her in the Oddities Shop, dancing between the bookshelves.",
-    "recordTitle": "Strung Up",
+    "title": "Strung Up",
     "portraitImageSrc": "gigi.png",
     "gadgets": [
       {
@@ -6785,7 +6785,7 @@
     "rarity": "Mythic",
     "class": "Support",
     "description": "A marine biologist working at the Starr Park aquarium, Glowbert is obsessed with sea life, wanting to introduce it to as many visitors as he can.\nAlthough he might seem a bit creepy, he's actually a nice guy! Maybe.",
-    "recordTitle": "Sleeping with fishes",
+    "title": "Sleeping with fishes",
     "portraitImageSrc": "glowbert.png",
     "gadgets": [
       {
@@ -6828,7 +6828,7 @@
     "rarity": "Mythic",
     "class": "Support",
     "description": "Gray styles himself as a character in an old silent film. He takes the act seriously but sometimes forgets to keep his mouth shut when doing finger bullets.",
-    "recordTitle": "The Shady",
+    "title": "The Shady",
     "portraitImageSrc": "gray.png",
     "gadgets": [
       {
@@ -6895,7 +6895,7 @@
     "rarity": "Mythic",
     "class": "Support",
     "description": "By day, Jae-yong is your average office worker. By night, he is a karaoke GOD... or so he thinks. The jury is still out on his singing skills.",
-    "recordTitle": "Amor Fati",
+    "title": "Amor Fati",
     "portraitImageSrc": "jae-yong.png",
     "gadgets": [
       {
@@ -6938,7 +6938,7 @@
     "rarity": "Mythic",
     "class": "Marksman",
     "description": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
-    "recordTitle": "The Rocket",
+    "title": "The Rocket",
     "portraitImageSrc": "janet.png",
     "gadgets": [
       {
@@ -7029,7 +7029,7 @@
     "rarity": "Mythic",
     "class": "Artillery",
     "description": "Juju owns the Oddities Shop and is followed everywhere by her \"pet\" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.",
-    "recordTitle": "Hexed",
+    "title": "Hexed",
     "portraitImageSrc": "juju.png",
     "gadgets": [
       {
@@ -7084,7 +7084,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "A nerd at heart and a total witchcraft buff, Lily's thirst for knowledge once led her into the Enchanted Woods, where an incident involving a firefly and a carnivorous plant would change her life forever...",
-    "recordTitle": "Backstabber",
+    "title": "Backstabber",
     "portraitImageSrc": "lily.png",
     "gadgets": [
       {
@@ -7157,7 +7157,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
-    "recordTitle": "is here for you!",
+    "title": "is here for you!",
     "portraitImageSrc": "lou.png",
     "gadgets": [
       {
@@ -7236,7 +7236,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "A passionate metalhead and a talented drummer, Lumi traded her drumsticks for morning stars when she got her job at Starr Park. She controls elements of ice and fire, which reflects her shy nature and her burning passion for music!",
-    "recordTitle": "Headbanger",
+    "title": "Headbanger",
     "portraitImageSrc": "lumi.png",
     "gadgets": [
       {
@@ -7303,7 +7303,7 @@
     "rarity": "Mythic",
     "class": "Support",
     "description": "Fuelled by energy drinks, Max speeds to the scene whenever someone needs help. She never sticks around long enough to do much...but she sure is fast!",
-    "recordTitle": "I AM SPEED!",
+    "title": "I AM SPEED!",
     "portraitImageSrc": "max.png",
     "gadgets": [
       {
@@ -7388,7 +7388,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
-    "recordTitle": "Fearless",
+    "title": "Fearless",
     "portraitImageSrc": "melodie.png",
     "gadgets": [
       {
@@ -7467,7 +7467,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "Mico is the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
-    "recordTitle": "Am I a joke to you?",
+    "title": "Am I a joke to you?",
     "portraitImageSrc": "mico.png",
     "gadgets": [
       {
@@ -7528,7 +7528,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "Mina is a b-girl who mixes capoeira into her breakdance battles like it's second nature. She hangs out at SK8 beats with Ollie and uses his mixtapes to practice new moves!",
-    "recordTitle": "The Hurricane",
+    "title": "The Hurricane",
     "portraitImageSrc": "mina.png",
     "gadgets": [
       {
@@ -7595,7 +7595,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.",
-    "recordTitle": "Creature of the Night",
+    "title": "Creature of the Night",
     "portraitImageSrc": "mortis.png",
     "gadgets": [
       {
@@ -7798,7 +7798,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "Moe is a blind rat, found living in the Starr Park sewers by Grom, who quickly adopted him! Now part of Starr Park's maintenance team, Moe uses his special digging machine, Driller, to traverse the sewer tunnels...and also cause a bit of destruction throughout the park, much to Ash's dismay.",
-    "recordTitle": "Cheesy",
+    "title": "Cheesy",
     "portraitImageSrc": "moe.png",
     "gadgets": [
       {
@@ -7847,7 +7847,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
-    "recordTitle": "The Boss",
+    "title": "The Boss",
     "portraitImageSrc": "mr-p.png",
     "gadgets": [
       {
@@ -7983,7 +7983,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "Hired by Finx to make Pyramid Quest's puzzles harder, her good nature actually lead her to help those trapped by his time-warping mischief instead.",
-    "recordTitle": "Snake Charmer",
+    "title": "Snake Charmer",
     "portraitImageSrc": "najia.png",
     "gadgets": [
       {
@@ -8020,7 +8020,7 @@
     "rarity": "Mythic",
     "class": "Tank",
     "description": "Ollie rides his customized hoverboard around Starr Park, grinding rails and causing trouble! A fan of old school hip hop, Ollie blasts his favorite tunes wherever he goes. His music is infectious... literally. Brawlers can't help but dance when they hear it.",
-    "recordTitle": "Based",
+    "title": "Based",
     "portraitImageSrc": "ollie.png",
     "gadgets": [
       {
@@ -8075,7 +8075,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
-    "recordTitle": "The Artist",
+    "title": "The Artist",
     "portraitImageSrc": "otis.png",
     "gadgets": [
       {
@@ -8204,7 +8204,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
-    "recordTitle": "The Watcher",
+    "title": "The Watcher",
     "portraitImageSrc": "r-t.png",
     "gadgets": [
       {
@@ -8265,7 +8265,7 @@
     "rarity": "Mythic",
     "class": "Support",
     "description": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
-    "recordTitle": "Colonel",
+    "title": "Colonel",
     "portraitImageSrc": "ruffs.png",
     "gadgets": [
       {
@@ -8344,7 +8344,7 @@
     "rarity": "Mythic",
     "class": "Artillery",
     "description": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
-    "recordTitle": "Tree hugger",
+    "title": "Tree hugger",
     "portraitImageSrc": "sprout.png",
     "gadgets": [
       {
@@ -8423,7 +8423,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber.",
-    "recordTitle": "is an accident",
+    "title": "is an accident",
     "portraitImageSrc": "squeak.png",
     "gadgets": [
       {
@@ -8508,7 +8508,7 @@
     "rarity": "Mythic",
     "class": "Assassin",
     "description": "A cosplayer who believes they are the anime character Starr Nova! This can get a bit awkward, as she believes problems in the real world can *also* be solved by hitting them with a massive sword.",
-    "recordTitle": "Magical",
+    "title": "Magical",
     "prestigeTitle": "Anime Fan",
     "portraitImageSrc": "starr-nova.png",
     "gadgets": [
@@ -8536,7 +8536,7 @@
     "rarity": "Mythic",
     "class": "Damage Dealer",
     "description": "Tara has seen in the cards that great difficulties lie ahead! But don't despair...she has a terrific selection of magical trinkets for sale to help with that.",
-    "recordTitle": "What's in the cards?",
+    "title": "What's in the cards?",
     "portraitImageSrc": "tara.png",
     "gadgets": [
       {
@@ -8615,7 +8615,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Willow works as gondoliera in the Love Swamp. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
-    "recordTitle": "Is in your head!",
+    "title": "Is in your head!",
     "portraitImageSrc": "willow.png",
     "gadgets": [
       {
@@ -8676,7 +8676,7 @@
     "rarity": "Mythic",
     "class": "Controller",
     "description": "Ziggy is an uber theatrical who excels at using electricity in his act. He's a bit full of himself, but hey, he can literally control lightning. Just remember... they're not tricks, they're illusions.",
-    "recordTitle": "The Great",
+    "title": "The Great",
     "portraitImageSrc": "ziggy.png",
     "gadgets": [
       {
@@ -8731,7 +8731,7 @@
     "rarity": "Legendary",
     "class": "Controller",
     "description": "Amber brings the heat, literally! She's overconfident about her fire abilities despite being a bit of a klutz. With her, it's spectacle first, and safety last.",
-    "recordTitle": "Fire Starter",
+    "title": "Fire Starter",
     "portraitImageSrc": "amber.png",
     "gadgets": [
       {
@@ -8810,7 +8810,7 @@
     "rarity": "Legendary",
     "class": "Damage Dealer",
     "description": "Buzz Lightyear has arrived in Starr Park! Starting his journey with an accidental delivery to the Gift Shop, Buzz has since been impressing Brawlers with his three different Brawling modes!",
-    "recordTitle": "To infinity and beyond!",
+    "title": "To infinity and beyond!",
     "portraitImageSrc": "buzz-lightyear.png",
     "gadgets": [
       {
@@ -8832,7 +8832,7 @@
     "rarity": "Legendary",
     "class": "Damage Dealer",
     "description": "Chester makes vicious fun of anyone in sight, trying to get under their skin. The more hate he gets, the better...especially if that hater is Mandy!",
-    "recordTitle": "Jack of all Trades",
+    "title": "Jack of all Trades",
     "portraitImageSrc": "chester.png",
     "gadgets": [
       {
@@ -8905,7 +8905,7 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "description": "Gardener and caretaker of Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
-    "recordTitle": "Toxic",
+    "title": "Toxic",
     "portraitImageSrc": "cordelius.png",
     "gadgets": [
       {
@@ -8990,7 +8990,7 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "description": "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi.",
-    "recordTitle": "Caw caw!",
+    "title": "Caw caw!",
     "portraitImageSrc": "crow.png",
     "gadgets": [
       {
@@ -9156,7 +9156,7 @@
     "rarity": "Legendary",
     "class": "Tank",
     "description": "Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd he turns the fantasy up to eleven!",
-    "recordTitle": "Dungeon Master",
+    "title": "Dungeon Master",
     "portraitImageSrc": "draco.png",
     "gadgets": [
       {
@@ -9211,7 +9211,7 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "description": "This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something from his past...though his sushi tastes so good, nobody cares!",
-    "recordTitle": "Samurai",
+    "title": "Samurai",
     "portraitImageSrc": "kenji.png",
     "gadgets": [
       {
@@ -9296,7 +9296,7 @@
     "rarity": "Legendary",
     "class": "Support",
     "description": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
-    "recordTitle": "Meow",
+    "title": "Meow",
     "portraitImageSrc": "kit.png",
     "gadgets": [
       {
@@ -9405,7 +9405,7 @@
     "rarity": "Legendary",
     "class": "Assassin",
     "description": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
-    "recordTitle": "The Sneaky",
+    "title": "The Sneaky",
     "portraitImageSrc": "leon.png",
     "gadgets": [
       {
@@ -9564,7 +9564,7 @@
     "rarity": "Legendary",
     "class": "Tank",
     "description": "Content to work behind the scenes with her trusty mecha suit, Meg takes care of real problems, while Max and Surge are out entertaining the crowds.",
-    "recordTitle": "Tech Support 2.0",
+    "title": "Tech Support 2.0",
     "portraitImageSrc": "meg.png",
     "gadgets": [
       {
@@ -9696,11 +9696,44 @@
     ]
   },
   {
+    "name": "Nori",
+    "rarity": "Legendary",
+    "class": "Assassin",
+    "description": "As the child of Kenji and Kaze, Nori was always destined for great things. Being the first Brawler ever born in Starr Park has also given him extraordinary powers! He's not too bad at cooking either.",
+    "title": "Katana Kid",
+    "portraitImageSrc": "nori.png",
+    "gadgets": [
+      {
+        "name": "Sushi Snack",
+        "imageSrc": "nori-sushi-snack.png",
+        "description": ""
+      },
+      {
+        "name": "Gonna Need a Bigger Net",
+        "imageSrc": "nori-gonna-need-a-bigger-net.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Nori",
+        "imageSrc": "nori-default.png",
+        "themes": []
+      },
+      {
+        "name": "Nano Nori",
+        "rarity": "Rare",
+        "imageSrc": "nori-nano.png",
+        "themes": ["Nanonoodles"]
+      }
+    ]
+  },
+  {
     "name": "Pierce",
     "rarity": "Legendary",
     "class": "Marksman",
     "description": "You know pool lifeguards? Pierce is one of those. Except he shoots people instead of saving them. OK maybe he isn't like a lifeguard at all.\nWhen Buzz decides there has been too much pee in the pool, he calls in Pierce to 'clean up'.",
-    "recordTitle": "Peed in the Pool",
+    "title": "Peed in the Pool",
     "portraitImageSrc": "pierce.png",
     "gadgets": [
       {
@@ -9755,7 +9788,7 @@
     "rarity": "Legendary",
     "class": "Controller",
     "description": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
-    "recordTitle": "The Sleepy",
+    "title": "The Sleepy",
     "portraitImageSrc": "sandy.png",
     "gadgets": [
       {
@@ -9846,7 +9879,7 @@
     "rarity": "Legendary",
     "class": "Damage Dealer",
     "description": "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma.",
-    "recordTitle": "One of a Kind",
+    "title": "One of a Kind",
     "portraitImageSrc": "spike.png",
     "gadgets": [
       {
@@ -9977,7 +10010,7 @@
     "rarity": "Legendary",
     "class": "Damage Dealer",
     "description": "Surge is a souped-up soda fountain, always ready to get the party started! He's got the beats, the moves, and an endless supply of energy drinks.",
-    "recordTitle": "Bro",
+    "title": "Bro",
     "portraitImageSrc": "surge.png",
     "gadgets": [
       {
@@ -10091,7 +10124,7 @@
     "rarity": "Ultra Legendary",
     "class": "Assassin",
     "description": "Kaze was raised to be a living weapon by her parents, but this was not the life she wanted. After escaping to Starr Park with Kenji, she can now live how she wants. However, she is still torn between the two aspects of her life, being a humble geisha and a deadly ninja.",
-    "recordTitle": "Ninja",
+    "title": "Ninja",
     "portraitImageSrc": "kaze.png",
     "gadgets": [
       {
@@ -10175,7 +10208,7 @@
     "rarity": "Ultra Legendary",
     "class": "Controller",
     "description": "His identity is as mysterious as his powers. He had the very first attraction at Starr Park, but rumor has it he was kicked out unfairly, and banned from ever returning. Now... he's back for REVENGE.",
-    "recordTitle": "The Banished",
+    "title": "The Banished",
     "portraitImageSrc": "sirius.png",
     "gadgets": [
       {

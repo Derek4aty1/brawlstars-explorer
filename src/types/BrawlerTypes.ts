@@ -56,6 +56,7 @@ const SKIN_THEMES = [
   'Misc',
   'My Brawlentine',
   'My Hero Academia',
+  'Nanonoodles',
   'Northern Saga',
   'Once Upon',
   'Outlaws',
@@ -135,7 +136,7 @@ export type BrawlerData = {
   rarity: BrawlerRarity;
   class: BrawlerClass;
   description: string;
-  recordTitle: string;
+  title: string;
   prestigeTitle?: string;
   portraitImageSrc: string;
   gadgets: BrawlerGadget[];
