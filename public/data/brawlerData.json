@@ -71,6 +71,12 @@
         "themes": ["Anniversary"]
       },
       {
+        "name": "Cyber Shelly",
+        "rarity": "Legendary",
+        "imageSrc": "shelly-cyber.png",
+        "themes": ["Nanonoodles"]
+      },
+      {
         "name": "Hoot Hoot Shelly",
         "rarity": "Mythic",
         "imageSrc": "shelly-hoot-hoot.webp",
@@ -2926,6 +2932,12 @@
         "themes": ["BT21"]
       },
       {
+        "name": "Tickoyaki",
+        "rarity": "Mythic",
+        "imageSrc": "tick-tickoyaki.png",
+        "themes": ["Nanonoodles"]
+      },
+      {
         "name": "True Gold Tick",
         "imageSrc": "tick-true-gold.webp",
         "themes": ["True Gold"]
@@ -3296,6 +3308,12 @@
         "rarity": "Rare",
         "imageSrc": "berry-dark-horse.png",
         "themes": ["Starrs of Brawlywood"]
+      },
+      {
+        "name": "Fighter Berry",
+        "rarity": "Mythic",
+        "imageSrc": "berry-fighter.png",
+        "themes": ["Nanonoodles"]
       },
       {
         "name": "Pegasus Berry",
@@ -6992,10 +7010,28 @@
         "themes": []
       },
       {
+        "name": "Choom Jae-yong",
+        "rarity": "Epic",
+        "imageSrc": "jae-yong-choom.png",
+        "themes": ["Brawl Pass", "Nanonoodles"]
+      },
+      {
+        "name": "Cyberpunk Jae-yong",
+        "rarity": "Epic",
+        "imageSrc": "jae-yong-cyberpunk.png",
+        "themes": ["Brawl Pass", "Nanonoodles"]
+      },
+      {
         "name": "Jammin' Jae-yong",
         "rarity": "Rare",
         "imageSrc": "jae-yong-jammin.png",
         "themes": ["Vibing"]
+      },
+      {
+        "name": "Nano Jae-yong",
+        "rarity": "Epic",
+        "imageSrc": "jae-yong-nano.png",
+        "themes": ["Brawl Pass", "Nanonoodles"]
       },
       {
         "name": "True Gold Jae-yong",
@@ -7586,6 +7622,18 @@
         "themes": []
       },
       {
+        "name": "Earth Master Mico",
+        "rarity": "Epic",
+        "imageSrc": "mico-earth-master.png",
+        "themes": ["Brawl Pass", "Nanonoodles"]
+      },
+      {
+        "name": "Fire Master Mico",
+        "rarity": "Epic",
+        "imageSrc": "mico-fire-master.png",
+        "themes": ["Brawl Pass", "Nanonoodles"]
+      },
+      {
         "name": "Grouch Mico",
         "rarity": "Epic",
         "imageSrc": "mico-grouch.webp",
@@ -7596,6 +7644,12 @@
         "rarity": "Rare",
         "imageSrc": "mico-macaron.webp",
         "themes": ["City Troubles"]
+      },
+      {
+        "name": "Master Mico",
+        "rarity": "Epic",
+        "imageSrc": "mico-master.png",
+        "themes": ["Brawl Pass", "Nanonoodles"]
       },
       {
         "name": "Monstro Mico",
@@ -8693,6 +8747,12 @@
         "rarity": "Super Rare",
         "imageSrc": "tara-street-ninja.webp",
         "themes": ["Lunar Brawl"]
+      },
+      {
+        "name": "Tech Tara",
+        "rarity": "Mythic",
+        "imageSrc": "tara-tech.png",
+        "themes": ["Nanonoodles"]
       },
       {
         "name": "Tempest Tara",
