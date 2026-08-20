@@ -262,6 +262,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Brock's Gadget Buffie",
+        "imageSrc": "brock-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Brock's Star Buffie",
+        "imageSrc": "brock-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Brock's Hyper Buffie",
+        "imageSrc": "brock-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Brock's Bling Buffie",
+        "imageSrc": "brock-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Brock",
@@ -1462,6 +1484,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "8-Bit's Gadget Buffie",
+        "imageSrc": "8-bit-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "8-Bit's Star Buffie",
+        "imageSrc": "8-bit-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "8-Bit's Hyper Buffie",
+        "imageSrc": "8-bit-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "8-Bit's Bling Buffie",
+        "imageSrc": "8-bit-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "8-Bit",
@@ -2631,6 +2675,28 @@
         "name": "Bouncy Castle",
         "imageSrc": "rico-bouncy-castle.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Rico's Gadget Buffie",
+        "imageSrc": "rico-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Rico's Star Buffie",
+        "imageSrc": "rico-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Rico's Hyper Buffie",
+        "imageSrc": "rico-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Rico's Bling Buffie",
+        "imageSrc": "rico-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
@@ -7327,6 +7393,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Max's Gadget Buffie",
+        "imageSrc": "max-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Max's Star Buffie",
+        "imageSrc": "max-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Max's Hyper Buffie",
+        "imageSrc": "max-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Max's Bling Buffie",
+        "imageSrc": "max-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Max",
@@ -9598,6 +9686,28 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Meg's Gadget Buffie",
+        "imageSrc": "meg-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Meg's Star Buffie",
+        "imageSrc": "meg-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Meg's Hyper Buffie",
+        "imageSrc": "meg-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Meg's Bling Buffie",
+        "imageSrc": "meg-bling-buffie.png",
+        "type": "Bling"
+      }
+    ],
     "skins": [
       {
         "name": "Meg",
@@ -10042,6 +10152,28 @@
         "name": "Power Shield",
         "imageSrc": "surge-power-shield.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Surge's Gadget Buffie",
+        "imageSrc": "surge-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Surge's Star Buffie",
+        "imageSrc": "surge-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Surge's Hyper Buffie",
+        "imageSrc": "surge-hyper-buffie.png",
+        "type": "Hyper"
+      },
+      {
+        "name": "Surge's Bling Buffie",
+        "imageSrc": "surge-bling-buffie.png",
+        "type": "Bling"
       }
     ],
     "skins": [
