@@ -3572,6 +3572,16 @@
         "name": "Bolt",
         "imageSrc": "bolt-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Bolt",
+        "imageSrc": "bolt-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Bolt",
+        "imageSrc": "bolt-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -8528,6 +8538,16 @@
         "name": "Starr Nova",
         "imageSrc": "starr-nova-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Starr Nova",
+        "imageSrc": "starr-nova-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Starr Nova",
+        "imageSrc": "starr-nova-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
