@@ -5495,6 +5495,7 @@
       },
       {
         "name": "Porcelain Pearl",
+        "rarity": "Mythic",
         "imageSrc": "pearl-porcelain.png",
         "themes": ["Lunar Stories"]
       },
@@ -6427,6 +6428,16 @@
         "name": "Damian",
         "imageSrc": "damian-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Damian",
+        "imageSrc": "damian-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Damian",
+        "imageSrc": "damian-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -10268,6 +10279,7 @@
       },
       {
         "name": "Porcelain Surge",
+        "rarity": "Legendary",
         "imageSrc": "surge-porcelain.png",
         "themes": ["Lunar Stories"]
       },
