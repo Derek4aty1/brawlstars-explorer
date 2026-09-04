@@ -8909,6 +8909,16 @@
         "name": "Wendy",
         "imageSrc": "wendy-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Wendy",
+        "imageSrc": "wendy-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Wendy",
+        "imageSrc": "wendy-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -10094,6 +10104,16 @@
         "rarity": "Rare",
         "imageSrc": "nori-nano.png",
         "themes": ["Nanonoodles"]
+      },
+      {
+        "name": "True Gold Nori",
+        "imageSrc": "nori-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Nori",
+        "imageSrc": "nori-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
