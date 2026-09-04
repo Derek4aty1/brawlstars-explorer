@@ -4,6 +4,7 @@ import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import Scroll from '@/components/layout/Scroll';
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata: Metadata = {
   title: 'Brawlstars Explorer',
@@ -24,6 +25,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <main className="flex flex-1 items-start justify-center">
           {children}
           <Analytics />
+          <SpeedInsights />
         </main>
         <Footer />
       </body>

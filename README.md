@@ -5,8 +5,8 @@
   <a href="https://github.com/Derek4aty1/brawlstars-explorer">
     <img src="public/images/brawlstars-logo-wings.png" alt="Logo" width="128" height="128">
   </a>
-  
-<h3 align="center">Brawlstars Explorer</h3>
+
+  <h3 align="center">Brawlstars Explorer</h3>
 
   <p align="center">
     A project showcasing assets from Brawlstars.
