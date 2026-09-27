@@ -1928,6 +1928,12 @@
         "themes": ["Legends of Olympus"]
       },
       {
+        "name": "Trash Goblin Darryl",
+        "rarity": "Mythic",
+        "imageSrc": "darryl-trash-goblin.png",
+        "themes": ["Brawl Academy"]
+      },
+      {
         "name": "True Gold Darryl",
         "imageSrc": "darryl-true-gold.webp",
         "themes": ["True Gold"]
@@ -4769,6 +4775,12 @@
         "themes": []
       },
       {
+        "name": "Head Coach Hank",
+        "rarity": "Epic",
+        "imageSrc": "hank-head-coach.png",
+        "themes": ["Brawl Academy", "Brawl Pass"]
+      },
+      {
         "name": "Jam Master Hank",
         "rarity": "Mythic",
         "imageSrc": "hank-jam-master.png",
@@ -4791,6 +4803,18 @@
         "rarity": "Rare",
         "imageSrc": "hank-shark-tank.webp",
         "themes": ["Deep Sea League"]
+      },
+      {
+        "name": "Team Captain Hank",
+        "rarity": "Epic",
+        "imageSrc": "hank-team-captain.png",
+        "themes": ["Brawl Academy", "Brawl Pass"]
+      },
+      {
+        "name": "Trainer Hank",
+        "rarity": "Epic",
+        "imageSrc": "hank-trainer.png",
+        "themes": ["Brawl Academy", "Brawl Pass"]
       },
       {
         "name": "True Gold Hank",
@@ -5130,6 +5154,12 @@
         "themes": []
       },
       {
+        "name": "Academy Mandy",
+        "rarity": "Legendary",
+        "imageSrc": "mandy-academy.png",
+        "themes": ["Brawl Academy"]
+      },
+      {
         "name": "Carnaval Mandy",
         "rarity": "Mythic",
         "imageSrc": "mandy-carnaval.png",
@@ -5309,6 +5339,19 @@
         "themes": ["Bunny Brigade"]
       },
       {
+        "name": "Head Teacher Nani",
+        "rarity": "Epic",
+        "imageSrc": "nani-head-teacher.png",
+        "additionalImages": [
+          {
+            "src": "nani-head-teacher-peep.webp",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
+        "themes": ["Brawl Academy", "Brawl Pass"]
+      },
+      {
         "name": "Knightmare Nani",
         "rarity": "Epic",
         "imageSrc": "nani-knightmare.png",
@@ -5320,6 +5363,32 @@
           }
         ],
         "themes": ["Knights!"]
+      },
+      {
+        "name": "Principal Nani",
+        "rarity": "Epic",
+        "imageSrc": "nani-principal.png",
+        "additionalImages": [
+          {
+            "src": "nani-principal-peep.webp",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
+        "themes": ["Brawl Academy", "Brawl Pass"]
+      },
+      {
+        "name": "Queen Nani",
+        "rarity": "Epic",
+        "imageSrc": "nani-queen.png",
+        "additionalImages": [
+          {
+            "src": "nani-queen-peep.webp",
+            "size": 128,
+            "label": "Peep"
+          }
+        ],
+        "themes": ["Brawl Academy", "Brawl Pass"]
       },
       {
         "name": "Retro Nani",
@@ -8285,6 +8354,12 @@
         "themes": []
       },
       {
+        "name": "Drum Major Najia",
+        "rarity": "Mythic",
+        "imageSrc": "najia-drum-major.png",
+        "themes": ["Brawl Academy"]
+      },
+      {
         "name": "True Gold Najia",
         "imageSrc": "najia-true-gold.png",
         "themes": ["True Gold"]
@@ -8320,6 +8395,12 @@
         "name": "Ollie",
         "imageSrc": "ollie-default.png",
         "themes": []
+      },
+      {
+        "name": "Academy Ollie",
+        "rarity": "Mythic",
+        "imageSrc": "ollie-academy.png",
+        "themes": ["Brawl Academy"]
       },
       {
         "name": "Jake Ollie",
