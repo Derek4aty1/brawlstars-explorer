@@ -1316,6 +1316,23 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Poco's Gadget Buffie",
+        "imageSrc": "poco-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Poco's Star Buffie",
+        "imageSrc": "poco-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Poco's Hyper Buffie",
+        "imageSrc": "poco-hyper-buffie.png",
+        "type": "Hyper"
+      }
+    ],
     "skins": [
       {
         "name": "Poco",
@@ -2142,6 +2159,23 @@
         "name": "Soul Switcher",
         "imageSrc": "gus-soul-switcher.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Gus's Gadget Buffie",
+        "imageSrc": "gus-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Gus's Star Buffie",
+        "imageSrc": "gus-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Gus's Hyper Buffie",
+        "imageSrc": "gus-hyper-buffie.png",
+        "type": "Hyper"
       }
     ],
     "skins": [
@@ -5873,6 +5907,23 @@
         "description": ""
       }
     ],
+    "buffies": [
+      {
+        "name": "Shade's Gadget Buffie",
+        "imageSrc": "shade-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Shade's Star Buffie",
+        "imageSrc": "shade-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Shade's Hyper Buffie",
+        "imageSrc": "shade-hyper-buffie.png",
+        "type": "Hyper"
+      }
+    ],
     "skins": [
       {
         "name": "Shade",
@@ -6467,6 +6518,23 @@
         "name": "Ghost Train",
         "imageSrc": "chuck-ghost-train.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Chuck's Gadget Buffie",
+        "imageSrc": "chuck-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Chuck's Star Buffie",
+        "imageSrc": "chuck-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Chuck's Hyper Buffie",
+        "imageSrc": "chuck-hyper-buffie.png",
+        "type": "Hyper"
       }
     ],
     "skins": [
@@ -9164,6 +9232,23 @@
         "name": "Dancing Flames",
         "imageSrc": "amber-dancing-flames.png",
         "description": ""
+      }
+    ],
+    "buffies": [
+      {
+        "name": "Amber's Gadget Buffie",
+        "imageSrc": "amber-gadget-buffie.png",
+        "type": "Gadget"
+      },
+      {
+        "name": "Amber's Star Buffie",
+        "imageSrc": "amber-star-buffie.png",
+        "type": "Star"
+      },
+      {
+        "name": "Amber's Hyper Buffie",
+        "imageSrc": "amber-hyper-buffie.png",
+        "type": "Hyper"
       }
     ],
     "skins": [
