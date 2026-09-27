@@ -3342,6 +3342,12 @@
         "themes": ["Deep Sea League"]
       },
       {
+        "name": "Dr. Bellenstein",
+        "rarity": "Mythic",
+        "imageSrc": "belle-dr-bellenstein.png",
+        "themes": ["Brawl-o-ween"]
+      },
+      {
         "name": "Dragoon Belle",
         "rarity": "Epic",
         "imageSrc": "belle-dragoon.png",
@@ -5717,6 +5723,12 @@
         "themes": ["Legends of Olympus"]
       },
       {
+        "name": "Bellenstein's Monster",
+        "rarity": "Mythic",
+        "imageSrc": "piper-bellensteins-monster.png",
+        "themes": ["Brawl-o-ween"]
+      },
+      {
         "name": "Calavera Piper",
         "rarity": "Super Rare",
         "imageSrc": "piper-calavera.webp",
@@ -5953,6 +5965,24 @@
         "rarity": "Rare",
         "imageSrc": "shade-cinema.png",
         "themes": ["City Troubles"]
+      },
+      {
+        "name": "Creepy Shade",
+        "rarity": "Epic",
+        "imageSrc": "shade-creepy.png",
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
+      },
+      {
+        "name": "Cursed Shade",
+        "rarity": "Epic",
+        "imageSrc": "shade-cursed.png",
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
+      },
+      {
+        "name": "Jolly Ghost Shade",
+        "rarity": "Epic",
+        "imageSrc": "shade-jolly-ghost.png",
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
       },
       {
         "name": "Street Shade",
@@ -6574,6 +6604,12 @@
         "themes": ["Brawl Unite", "Supercell Make"]
       },
       {
+        "name": "Flame Rider Chuck",
+        "rarity": "Mythic",
+        "imageSrc": "chuck-flame-rider.png",
+        "themes": ["Brawl-o-ween"]
+      },
+      {
         "name": "Inferno Chuck",
         "rarity": "Rare",
         "imageSrc": "chuck-inferno.webp",
@@ -6682,6 +6718,12 @@
         "name": "Damian",
         "imageSrc": "damian-default.png",
         "themes": []
+      },
+      {
+        "name": "Terronaut Damian",
+        "rarity": "Legendary",
+        "imageSrc": "damian-terronaut.png",
+        "themes": ["Brawl-o-ween"]
       },
       {
         "name": "True Gold Damian",
@@ -8374,6 +8416,12 @@
         "themes": ["The Golden Kawaii"]
       },
       {
+        "name": "Fortune Teller P",
+        "rarity": "Epic",
+        "imageSrc": "mr-p-fortune-teller.png",
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
+      },
+      {
         "name": "Gym Rat Mr. P",
         "rarity": "Super Rare",
         "imageSrc": "mr-p-gym-rat.png",
@@ -8411,6 +8459,18 @@
           }
         ],
         "themes": ["Biodome", "Supercell Make"]
+      },
+      {
+        "name": "Mr. Psychic",
+        "rarity": "Epic",
+        "imageSrc": "mr-p-psychic.png",
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
+      },
+      {
+        "name": "Mystic P",
+        "rarity": "Epic",
+        "imageSrc": "mr-p-mystic.png",
+        "themes": ["Brawl Pass", "Brawl-o-ween"]
       },
       {
         "name": "True Gold Mr. P",
