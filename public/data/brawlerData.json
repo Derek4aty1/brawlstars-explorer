@@ -7791,6 +7791,12 @@
         "rarity": "Epic",
         "imageSrc": "max-world-champion.png",
         "themes": ["Brawl Stars Championship"]
+      },
+      {
+        "name": "Xenomech Max",
+        "rarity": "Epic",
+        "imageSrc": "max-xenomech.png",
+        "themes": ["Misc"]
       }
     ]
   },
