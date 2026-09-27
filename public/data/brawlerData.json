@@ -2771,8 +2771,8 @@
         "description": ""
       },
       {
-        "name": "Bouncy Castle",
-        "imageSrc": "rico-bouncy-castle.png",
+        "name": "Multiball",
+        "imageSrc": "rico-multiball.png",
         "description": ""
       }
     ],
@@ -10200,8 +10200,8 @@
         "description": ""
       },
       {
-        "name": "Toolbox",
-        "imageSrc": "meg-toolbox.png",
+        "name": "Repurpose",
+        "imageSrc": "meg-repurpose.png",
         "description": ""
       }
     ],
