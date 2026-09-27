@@ -5072,6 +5072,12 @@
         "themes": ["Come Play With Us!"]
       },
       {
+        "name": "Moonlight Lola",
+        "rarity": "Epic",
+        "imageSrc": "lola-moonlight.png",
+        "themes": ["Lunar Stories"]
+      },
+      {
         "name": "Rebel Lola",
         "rarity": "Epic",
         "imageSrc": "lola-rebel.webp",
@@ -6798,6 +6804,12 @@
         "rarity": "Epic",
         "imageSrc": "eve-extraterrestrial.png",
         "themes": ["StarrForce Assemble"]
+      },
+      {
+        "name": "Moonlight Eve",
+        "rarity": "Mythic",
+        "imageSrc": "eve-moonlight.png",
+        "themes": ["Lunar Stories"]
       },
       {
         "name": "Mothra Eve",
