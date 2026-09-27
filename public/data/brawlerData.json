@@ -4657,6 +4657,12 @@
         "themes": ["Brawl Pass", "Once Upon"]
       },
       {
+        "name": "Gravestone Griff",
+        "rarity": "Epic",
+        "imageSrc": "griff-gravestone.png",
+        "themes": ["Brawl-o-ween", "Supercell Make"]
+      },
+      {
         "name": "Greedy Griff",
         "rarity": "Epic",
         "imageSrc": "griff-greedy.png",
@@ -6138,6 +6144,12 @@
         "themes": ["My Brawlentine"]
       },
       {
+        "name": "Bone Collector Alli",
+        "rarity": "Mythic",
+        "imageSrc": "alli-bone-collector.png",
+        "themes": ["Skull Cave Clan", "Supercell Make"]
+      },
+      {
         "name": "Graffiti Alli",
         "rarity": "Rare",
         "imageSrc": "alli-graffiti.png",
@@ -6719,6 +6731,12 @@
         "rarity": "Epic",
         "imageSrc": "doug-knight.png",
         "themes": ["Knights!"]
+      },
+      {
+        "name": "Jörmungandr Doug",
+        "rarity": "Epic",
+        "imageSrc": "doug-jormungandr.png",
+        "themes": ["Northern Saga", "Supercell Make"]
       },
       {
         "name": "Man-o-war Doug",
@@ -7514,6 +7532,12 @@
         "name": "True Silver Lily",
         "imageSrc": "lily-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Twilight Queen Lily",
+        "rarity": "Mythic",
+        "imageSrc": "lily-twilight-queen.png",
+        "themes": ["Biodome", "Supercell Make"]
       }
     ]
   },
@@ -9888,6 +9912,12 @@
         "rarity": "Rare",
         "imageSrc": "kit-mariano.png",
         "themes": ["Misc"]
+      },
+      {
+        "name": "Retro Kit",
+        "rarity": "Legendary",
+        "imageSrc": "kit-retro.png",
+        "themes": ["Supercell Make"]
       },
       {
         "name": "Siamese Kit",
