@@ -8549,6 +8549,13 @@
         "name": "Gridiron Otis",
         "rarity": "Mythic",
         "imageSrc": "otis-gridiron.png",
+        "additionalImages": [
+          {
+            "src": "otis-gridiron-cil.webp",
+            "size": 128,
+            "label": "Cil"
+          }
+        ],
         "themes": ["Adidas"]
       },
       {
