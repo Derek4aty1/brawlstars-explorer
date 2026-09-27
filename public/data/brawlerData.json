@@ -6486,6 +6486,34 @@
     ]
   },
   {
+    "name": "Cosmo",
+    "rarity": "Mythic",
+    "class": "Controller",
+    "description": "Cosmo is the lead astronomer at Starr Park's Observatory. Besides teaching visitors about the universe, he is constantly gazing at the stars searching for something...",
+    "title": "Out of this World",
+    "prestigeTitle": "Stargazer",
+    "portraitImageSrc": "cosmo.png",
+    "gadgets": [
+      {
+        "name": "Planetary Pushback",
+        "imageSrc": "cosmo-planetary-pushback.png",
+        "description": ""
+      },
+      {
+        "name": "Telescope Trap",
+        "imageSrc": "cosmo-telescope-trap.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Cosmo",
+        "imageSrc": "cosmo-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Damian",
     "rarity": "Mythic",
     "class": "Tank",
