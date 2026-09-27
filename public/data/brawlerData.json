@@ -9172,6 +9172,34 @@
     ]
   },
   {
+    "name": "Vince",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "description": "Vince tends to both the espresso machine and his many-legged friends, much to his customers' dismay. He walks slowly around his Creepy Café, careful not to step on any of his beloved bugs. His companions, Mocha and Doppio, follow him everywhere.",
+    "title": "Creepy",
+    "prestigeTitle": "Buggin' Out",
+    "portraitImageSrc": "vince.png",
+    "gadgets": [
+      {
+        "name": "Hot Coffee",
+        "imageSrc": "vince-hot-coffee.png",
+        "description": ""
+      },
+      {
+        "name": "Metamothosis",
+        "imageSrc": "vince-metamothosis.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Vince",
+        "imageSrc": "vince-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Wendy",
     "rarity": "Mythic",
     "class": "Support",

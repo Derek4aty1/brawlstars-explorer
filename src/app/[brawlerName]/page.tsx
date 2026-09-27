@@ -78,6 +78,7 @@ export default async function BrawlerPage({ params }: { params: Params }) {
         {brawlerData.class}
       </h2>
       <h2 className="mt-1 w-full text-xl">Title: {brawlerData.title}</h2>
+      {brawlerData.prestigeTitle && <h2 className="mt-1 w-full text-xl">Prestige Title: {brawlerData.prestigeTitle}</h2>}
       <h3 className="mt-1 w-full whitespace-pre-line text-lg xl:max-w-[50%]">{brawlerData.description}</h3>
       {(brawlerData.buffies?.length ?? 0) > 0 && (
         <>
