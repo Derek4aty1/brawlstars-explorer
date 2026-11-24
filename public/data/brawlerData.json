@@ -2430,6 +2430,12 @@
         "themes": ["Brawl Stars Championship"]
       },
       {
+        "name": "Delivery Elf Jessie",
+        "rarity": "Mythic",
+        "imageSrc": "jessie-delivery-elf.png",
+        "themes": ["Brawlidays"]
+      },
+      {
         "name": "Doll Jessie",
         "rarity": "Rare",
         "imageSrc": "jessie-doll.webp",
@@ -3797,6 +3803,12 @@
         "name": "Bolt",
         "imageSrc": "bolt-default.png",
         "themes": []
+      },
+      {
+        "name": "Snowball Bolt",
+        "rarity": "Mythic",
+        "imageSrc": "bolt-snowball.png",
+        "themes": ["Brawlidays"]
       },
       {
         "name": "True Gold Bolt",
@@ -5592,6 +5604,12 @@
           }
         ],
         "themes": []
+      },
+      {
+        "name": "Brawlidays Pam",
+        "rarity": "Mythic",
+        "imageSrc": "pam-brawlidays.png",
+        "themes": ["Brawlidays"]
       },
       {
         "name": "Egg Pam",
@@ -7908,7 +7926,7 @@
       },
       {
         "name": "Xenomech Max",
-        "rarity": "Epic",
+        "rarity": "Mythic",
         "imageSrc": "max-xenomech.png",
         "themes": ["Misc"]
       }
@@ -9105,10 +9123,22 @@
         "themes": []
       },
       {
+        "name": "Elf Squeak",
+        "rarity": "Epic",
+        "imageSrc": "squeak-elf.png",
+        "themes": ["Brawl Pass", "Brawlidays"]
+      },
+      {
         "name": "First Blob Squeak",
         "rarity": "Super Rare",
         "imageSrc": "squeak-first-blob.webp",
         "themes": ["Max Force"]
+      },
+      {
+        "name": "Frosty Squeak",
+        "rarity": "Epic",
+        "imageSrc": "squeak-frosty.png",
+        "themes": ["Brawl Pass", "Brawlidays"]
       },
       {
         "name": "Ghost Squeak",
@@ -9139,6 +9169,12 @@
         "rarity": "Super Rare",
         "imageSrc": "squeak-potato.webp",
         "themes": ["Come Play With Us!"]
+      },
+      {
+        "name": "Santa Squeak",
+        "rarity": "Epic",
+        "imageSrc": "squeak-santa.png",
+        "themes": ["Brawl Pass", "Brawlidays"]
       },
       {
         "name": "Scarab Squeak",
@@ -9189,6 +9225,12 @@
         "name": "Starr Nova",
         "imageSrc": "starr-nova-default.png",
         "themes": []
+      },
+      {
+        "name": "Gingerbread Starr Nova",
+        "rarity": "Legendary",
+        "imageSrc": "starr-nova-gingerbread.png",
+        "themes": ["Brawlidays"]
       },
       {
         "name": "True Gold Starr Nova",
@@ -9936,6 +9978,12 @@
         "themes": []
       },
       {
+        "name": "Candy Nutcracker Draco",
+        "rarity": "Epic",
+        "imageSrc": "draco-candy-nutcracker.png",
+        "themes": ["Brawl Pass", "Brawlidays"]
+      },
+      {
         "name": "Dark Knight Draco",
         "rarity": "Rare",
         "imageSrc": "draco-dark-knight.webp",
@@ -9952,6 +10000,18 @@
         "rarity": "Mythic",
         "imageSrc": "draco-eddie.png",
         "themes": ["Stranger Things"]
+      },
+      {
+        "name": "Nutcracker Draco",
+        "rarity": "Epic",
+        "imageSrc": "draco-nutcracker.png",
+        "themes": ["Brawl Pass", "Brawlidays"]
+      },
+      {
+        "name": "Royal Nutcracker Draco",
+        "rarity": "Epic",
+        "imageSrc": "draco-royal-nutcracker.png",
+        "themes": ["Brawl Pass", "Brawlidays"]
       },
       {
         "name": "True Gold Draco",
