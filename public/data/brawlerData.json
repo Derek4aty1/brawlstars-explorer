@@ -8800,6 +8800,62 @@
     ]
   },
   {
+    "name": "Rey",
+    "rarity": "Mythic",
+    "class": "Marksman",
+    "description": "Rey dominates brawls with his queen, Ruby, at his side. He makes every shot count and never misses an opportunity to exploit a gap in his opponent's defenses (or to impress his wife).",
+    "title": "Checkmate",
+    "prestigeTitle": "Grandmaster",
+    "portraitImageSrc": "rey.png",
+    "gadgets": [
+      {
+        "name": "Queen's Gambit",
+        "imageSrc": "rey-queens-gambit.png",
+        "description": ""
+      },
+      {
+        "name": "Rey Lopez",
+        "imageSrc": "rey-rey-lopez.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Rey",
+        "imageSrc": "rey-default.png",
+        "themes": []
+      }
+    ]
+  },
+    {
+    "name": "Ruby",
+    "rarity": "Mythic",
+    "class": "Damage Dealer",
+    "description": "Ruby is Queen of Toyland, presiding over how every game is played and every rule is honored. She is well respected by other Brawlers, and her husband Rey, the king, is utterly smitten with her.",
+    "title": "The House Always Wins",
+    "prestigeTitle": "Poker Face",
+    "portraitImageSrc": "ruby.png",
+    "gadgets": [
+      {
+        "name": "Shuffle and Cut",
+        "imageSrc": "ruby-shuffle-and-cut.png",
+        "description": ""
+      },
+      {
+        "name": "Stack the Deck",
+        "imageSrc": "ruby-stack-the-deck.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Ruby",
+        "imageSrc": "ruby-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Ruffs",
     "rarity": "Mythic",
     "class": "Support",
