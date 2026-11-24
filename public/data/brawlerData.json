@@ -2754,6 +2754,19 @@
         "themes": ["Ranked", "The Worst Bunch"]
       },
       {
+        "name": "Steamboat Penny",
+        "rarity": "Mythic",
+        "imageSrc": "penny-steamboat.png",
+        "additionalImages": [
+          {
+            "src": "penny-steamboat-old-lobber.webp",
+            "size": 128,
+            "label": "Old Lobber"
+          }
+        ],
+        "themes": ["Cartoon Studios"]
+      },
+      {
         "name": "Trash Panda Penny",
         "rarity": "Epic",
         "imageSrc": "penny-trash-panda.webp",
@@ -3552,6 +3565,12 @@
         "themes": ["Max Force"]
       },
       {
+        "name": "Black Hole Bibi",
+        "rarity": "Hypercharge",
+        "imageSrc": "bibi-black-hole.png",
+        "themes": ["Pro Pass"]
+      },
+      {
         "name": "Bo Peep Bibi",
         "rarity": "Epic",
         "imageSrc": "bibi-bo-peep.png",
@@ -3598,6 +3617,35 @@
         "rarity": "Epic",
         "imageSrc": "bibi-justice-smasher.png",
         "themes": ["Brawl Pass", "Brawl Unite"]
+      },
+      {
+        "name": "Luminous Bibi",
+        "rarity": "Hypercharge",
+        "imageSrc": "bibi-luminous.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Nova Bibi",
+        "rarity": "Hypercharge",
+        "imageSrc": "bibi-nova.png",
+        "additionalImages": [
+          {
+            "src": "bibi-nova-hypercharged.png",
+            "size": 256,
+            "label": "Hypercharge Form"
+          }
+        ],
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Schoolgirl Bibi",
+        "imageSrc": "bibi-schoolgirl.png",
+        "themes": ["Pro Pass"]
+      },
+      {
+        "name": "Starr Patrol Bibi",
+        "imageSrc": "bibi-starr-patrol.png",
+        "themes": ["Pro Pass"]
       },
       {
         "name": "Thor Bibi",
@@ -6751,6 +6799,12 @@
         "name": "True Silver Clancy",
         "imageSrc": "clancy-true-silver.png",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "World Finals Clancy",
+        "rarity": "Epic",
+        "imageSrc": "clancy-world-finals.png",
+        "themes": ["Brawl Stars Championship"]
       }
     ]
   },
@@ -7879,6 +7933,12 @@
         "themes": ["Brown & Friends"]
       },
       {
+        "name": "Crazy Raccoon Max",
+        "rarity": "Epic",
+        "imageSrc": "max-crazy-raccoon.png",
+        "themes": ["Brawl Stars Championship"]
+      },
+      {
         "name": "GT Max",
         "rarity": "Rare",
         "imageSrc": "max-gt.webp",
@@ -8332,6 +8392,12 @@
         "rarity": "Epic",
         "imageSrc": "mortis-squidward.png",
         "themes": ["Brawl Pass", "SpongeBob"]
+      },
+      {
+        "name": "Toon Mortis",
+        "rarity": "Legendary",
+        "imageSrc": "mortis-toon.png",
+        "themes": ["Cartoon Studios"]
       },
       {
         "name": "Top Hat Mortis",
@@ -10289,6 +10355,12 @@
         "rarity": "Rare",
         "imageSrc": "leon-graffiti.png",
         "themes": ["Streetwear"]
+      },
+      {
+        "name": "HMBLE Leon",
+        "rarity": "Epic",
+        "imageSrc": "leon-hmble.png",
+        "themes": ["Brawl Stars Championship"]
       },
       {
         "name": "Leon the Stray",
