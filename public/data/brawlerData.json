@@ -6833,6 +6833,16 @@
         "name": "Cosmo",
         "imageSrc": "cosmo-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Cosmo",
+        "imageSrc": "cosmo-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Cosmo",
+        "imageSrc": "cosmo-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
@@ -9420,6 +9430,16 @@
         "name": "Vince",
         "imageSrc": "vince-default.png",
         "themes": []
+      },
+      {
+        "name": "True Gold Vince",
+        "imageSrc": "vince-true-gold.png",
+        "themes": ["True Gold"]
+      },
+      {
+        "name": "True Silver Vince",
+        "imageSrc": "vince-true-silver.png",
+        "themes": ["True Silver"]
       }
     ]
   },
