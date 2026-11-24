@@ -7,7 +7,7 @@ export default function PortraitCard({ portrait }: { portrait: BrawlerPortrait }
   // Some portraits are narrower than the others...not sure if this will get fixed in the future
   const objectFit = ['Pearl', 'Damian', 'Wendy'].includes(portrait.name) ? 'cover' : 'contain';
 
-  const isUltraLegendary = portrait.rarity === 'Ultra Legendary';
+  const isUltraRarity = portrait.rarity === 'Ultra';
 
   return (
     <Link
@@ -16,11 +16,11 @@ export default function PortraitCard({ portrait }: { portrait: BrawlerPortrait }
       className="rounded-md border-[3px] border-transparent transition-transform hover:scale-105 hover:border-white hover:bg-white active:scale-100"
     >
       <figure
-        className={`relative rounded border-[3px] border-black shadow-2xl ${isUltraLegendary ? '' : getRarityBackgroundColor(portrait.rarity)}`}
+        className={`relative rounded border-[3px] border-black shadow-2xl ${isUltraRarity ? '' : getRarityBackgroundColor(portrait.rarity)}`}
       >
-        {isUltraLegendary && (
+        {isUltraRarity && (
           <video autoPlay loop muted playsInline className="absolute inset-0 h-full w-full object-cover">
-            <source src="/videos/ultra-legendary.mp4" type="video/mp4" />
+            <source src="/videos/ultra-rarity-background.mp4" type="video/mp4" />
           </video>
         )}
         <FadeInImage

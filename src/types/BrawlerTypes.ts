@@ -1,4 +1,4 @@
-export type BrawlerRarity = 'Common' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Ultra Legendary';
+export type BrawlerRarity = 'Common' | 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Ultra';
 export type BrawlerClass = 'Artillery' | 'Assassin' | 'Controller' | 'Damage Dealer' | 'Marksman' | 'Support' | 'Tank';
 export type BrawlerSkinRarity = 'Rare' | 'Super Rare' | 'Epic' | 'Mythic' | 'Legendary' | 'Hypercharge';
 export type BrawlerBuffieType = 'Gadget' | 'Star' | 'Hyper' | 'Bling';

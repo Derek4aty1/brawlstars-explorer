@@ -41,10 +41,7 @@ export default async function AllBrawlersPage() {
       <RaritySection title={`Epic (${portraitsByRarity['Epic'].length})`} portraits={portraitsByRarity['Epic']} />
       <RaritySection title={`Mythic (${portraitsByRarity['Mythic'].length})`} portraits={portraitsByRarity['Mythic']} />
       <RaritySection title={`Legendary (${portraitsByRarity['Legendary'].length})`} portraits={portraitsByRarity['Legendary']} />
-      <RaritySection
-        title={`Ultra Legendary (${portraitsByRarity['Ultra Legendary'].length})`}
-        portraits={portraitsByRarity['Ultra Legendary']}
-      />
+      <RaritySection title={`Ultra (${portraitsByRarity['Ultra'].length})`} portraits={portraitsByRarity['Ultra']} />
     </section>
   );
 }

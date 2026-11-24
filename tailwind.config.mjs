@@ -12,7 +12,7 @@ const config = {
         'epic': '#b116ec',
         'mythic': '#ff0021',
         'legendary': '#fff11e',
-        'ultra-legendary': '#e7f751',
+        'ultra': '#e7f751',
       },
       fontFamily: {
         'lilita-one': 'Lilita One',

@@ -7,7 +7,7 @@ const rarityTextColors: Record<BrawlerRarity, string> = {
   'Epic': 'text-epic',
   'Mythic': 'text-mythic',
   'Legendary': 'text-legendary',
-  'Ultra Legendary': 'text-ultra-legendary',
+  'Ultra': 'text-ultra',
 };
 
 export function getRarityTextColor(rarity: BrawlerRarity): string {
@@ -21,7 +21,7 @@ const rarityBackgroundColors: Record<BrawlerRarity, string> = {
   'Epic': 'bg-epic',
   'Mythic': 'bg-mythic',
   'Legendary': 'bg-legendary',
-  'Ultra Legendary': 'bg-ultra-legendary',
+  'Ultra': 'bg-ultra',
 };
 
 export function getRarityBackgroundColor(rarity: BrawlerRarity): string {
