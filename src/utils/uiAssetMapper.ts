@@ -74,6 +74,7 @@ const skinThemeIconPaths: Record<BrawlerSkinTheme, string> = {
   'Brawl Pass': `${skinThemesFolderPath}/brawl-pass.png`,
   'Brawl Strikers': `${skinThemesFolderPath}/brawl-strikers.webp`,
   'Brawl Stars Championship': `${skinThemesFolderPath}/brawl-stars-championship.png`,
+  'Brawl Vice': `${skinThemesFolderPath}/brawl-vice.webp`,
   'Brawl-o-ween': `${skinThemesFolderPath}/brawl-o-ween.png`,
   'Brawlidays': `${skinThemesFolderPath}/brawlidays.png`,
   'Brawlnaval': `${skinThemesFolderPath}/brawlnaval.png`,

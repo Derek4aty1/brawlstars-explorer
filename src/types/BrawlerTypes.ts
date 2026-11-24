@@ -19,6 +19,7 @@ const SKIN_THEMES = [
   'Brawl Pass',
   'Brawl Stars Championship',
   'Brawl Strikers',
+  'Brawl Vice',
   'Brawl-o-ween',
   'Brawlidays',
   'Brawlnaval',

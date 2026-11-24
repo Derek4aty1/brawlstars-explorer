@@ -191,6 +191,12 @@
         "themes": ["Retropolis Nights"]
       },
       {
+        "name": "Black Market Barley",
+        "rarity": "Mythic",
+        "imageSrc": "barley-black-market.webp",
+        "themes": ["Brawl Vice"]
+      },
+      {
         "name": "Buccaneer Barley",
         "rarity": "Epic",
         "imageSrc": "barley-buccaneer.webp",
@@ -544,10 +550,28 @@
         "themes": ["Clash Stories"]
       },
       {
+        "name": "Brawl Vibes Bull",
+        "rarity": "Epic",
+        "imageSrc": "bull-brawl-vibes.png",
+        "themes": ["Brawl Pass", "Brawl Vice"]
+      },
+      {
+        "name": "Brawl Vice Bull",
+        "rarity": "Epic",
+        "imageSrc": "bull-brawl-vice.png",
+        "themes": ["Brawl Pass", "Brawl Vice"]
+      },
+      {
         "name": "Bull Mang",
         "rarity": "Epic",
         "imageSrc": "bull-bull-mang.webp",
         "themes": ["BT21"]
+      },
+      {
+        "name": "City Streets Bull",
+        "rarity": "Epic",
+        "imageSrc": "bull-city-streets.png",
+        "themes": ["Brawl Pass", "Brawl Vice"]
       },
       {
         "name": "Hellbull",
@@ -1359,6 +1383,12 @@
         "themes": ["Starr Park Origins"]
       },
       {
+        "name": "Crime Pays Poco",
+        "rarity": "Epic",
+        "imageSrc": "poco-crime-pays.png",
+        "themes": ["Brawl Pass", "Brawl Vice"]
+      },
+      {
         "name": "Desperado Poco",
         "rarity": "Epic",
         "imageSrc": "poco-desperado.webp",
@@ -1378,6 +1408,12 @@
         "themes": ["Streetwear"]
       },
       {
+        "name": "Game Hating Poco",
+        "rarity": "Epic",
+        "imageSrc": "poco-game-hating.png",
+        "themes": ["Brawl Pass", "Brawl Vice"]
+      },
+      {
         "name": "Phantom Poco",
         "rarity": "Rare",
         "imageSrc": "poco-phantom.png",
@@ -1388,6 +1424,12 @@
         "rarity": "Super Rare",
         "imageSrc": "poco-pirate.webp",
         "themes": ["Tales of the Sea"]
+      },
+      {
+        "name": "Player Hating Poco",
+        "rarity": "Epic",
+        "imageSrc": "poco-player-hating.png",
+        "themes": ["Brawl Pass", "Brawl Vice"]
       },
       {
         "name": "Poco Starr",
@@ -4310,6 +4352,18 @@
         "themes": []
       },
       {
+        "name": "City Days Emz",
+        "rarity": "Mythic",
+        "imageSrc": "emz-city-days.png",
+        "themes": ["Brawl Vice"]
+      },
+      {
+        "name": "City Nights Emz",
+        "rarity": "Mythic",
+        "imageSrc": "emz-city-nights.png",
+        "themes": ["Brawl Vice"]
+      },
+      {
         "name": "Demon Emz",
         "rarity": "Epic",
         "imageSrc": "emz-demon.webp",
@@ -6394,6 +6448,12 @@
         "name": "True Silver Buzz",
         "imageSrc": "buzz-true-silver.webp",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Undercover Buzz",
+        "rarity": "Mythic",
+        "imageSrc": "buzz-undercover.png",
+        "themes": ["Brawl Vice"]
       }
     ]
   },
@@ -8827,7 +8887,7 @@
       }
     ]
   },
-    {
+  {
     "name": "Ruby",
     "rarity": "Mythic",
     "class": "Damage Dealer",
@@ -10562,6 +10622,12 @@
         "name": "True Silver Pierce",
         "imageSrc": "pierce-true-silver.png",
         "themes": ["True Silver"]
+      },
+      {
+        "name": "Undercover Pierce",
+        "rarity": "Legendary",
+        "imageSrc": "pierce-undercover.png",
+        "themes": ["Brawl Vice"]
       }
     ]
   },
