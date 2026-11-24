@@ -10869,6 +10869,34 @@
     ]
   },
   {
+    "name": "Thunder Frogs",
+    "rarity": "Legendary",
+    "class": "Artillery",
+    "description": "Zap, Zee and Volt are the Thunder Frogs! Gifted a magical hat by Ziggy, they can now safely perform their electrifying routine. While all frogs are natural conductors, Thunder Frogs' onstage tricks REALLY shock the audience.",
+    "title": "Triple Threat",
+    "prestigeTitle": "Toadally Awesome",
+    "portraitImageSrc": "thunder-frogs.png",
+    "gadgets": [
+      {
+        "name": "Double Jumpers",
+        "imageSrc": "thunder-frogs-double-jumpers.png",
+        "description": ""
+      },
+      {
+        "name": "Soothing Shock",
+        "imageSrc": "thunder-frogs-soothing-shock.png",
+        "description": ""
+      }
+    ],
+    "skins": [
+      {
+        "name": "Thunder Frogs",
+        "imageSrc": "thunder-frogs-default.png",
+        "themes": []
+      }
+    ]
+  },
+  {
     "name": "Kaze",
     "rarity": "Ultra",
     "class": "Assassin",
